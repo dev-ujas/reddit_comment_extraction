@@ -1,5 +1,8 @@
+import time
+
 import praw
 import os, shutil, pathlib
+import json
 
 reddit = praw.Reddit(
     client_id="s9OQw96pTwsDMmr2_MUUqg",
@@ -7,7 +10,36 @@ reddit = praw.Reddit(
     user_agent="app by u/UPatel8829",
 )
 
+# [
+#     "AskReddit", "funny", "gaming", "Aww", "todayilearned",
+#     "mildlyinteresting", "Showerthoughts", "memes", "pics", "IAmA",
+#     "explainlikeimfive", "science", "worldnews", "movies", "videos",
+#     "Music", "DIY", "LifeProTips", "food", "books",
+#     "GetMotivated", "Art", "history", "gadgets", "travel",
+#     "EarthPorn", "space", "dataisbeautiful", "Futurology", "Documentaries",
+#     "sports", "UpliftingNews", "nosleep", "WritingPrompts", "tifu",
+#     "personalfinance", "learnprogramming", "TwoXChromosomes", "nottheonion",
+#     "photoshopbattles", "pokemon", "NintendoSwitch", "CozyPlaces", "rarepuppers",
+#     "wholesomememes", "OldSchoolCool", "HumansBeingBros", "MadeMeSmile",
+#     "AnimalsBeingDerps", "Unexpected"
+# ]
+
 subreddits_name = [
+    "datascience",
+    "PersonalFinanceCanada",
+    "personalfinance",
+    "WritingPrompts",
+    "lifehacks",
+    "travel",
+    "politics",
+    "programming",
+    "YouShouldKnow",
+    "ChatGPT",
+    "entertainment",
+    "dating_advice",
+    "Entrepreneur",
+    "careerguidance", "careeradvice", "technology", "writing", "Poem", "realestateinvesting", "RealEstate"
+                                                                                              "news",
     "interviewpreparations",
     "jobsearchhacks",
     "Resume",
@@ -15,33 +47,58 @@ subreddits_name = [
     "skills"
 ]
 
+jsons = os.listdir("./data")
+print(jsons)
+
+
 
 def get_comments(subreddit):
-    subreddit = reddit.subreddit(subreddit)
-    tops = subreddit.top(limit=2)
+    comment_fetched = 0
+    sub_reddit = reddit.subreddit(subreddit)
+    tops = sub_reddit.top()
 
     for submission in tops:
-        if not submission.stickied:
-            score = submission.score
-            title = submission.title
-            id = submission.id
-            id = submission.createdat
-            print(f"Title\n{title}\nScore: {score}")
+        if not submission.stickied and f"{submission.id}.json" not in jsons and submission.num_comments > 50:
+            json_submission = {
+                'title': submission.title,
+                'id': submission.id,
+                'create_at': submission.created_utc,
+                'score': submission.score,
+            }
 
-            submission.comments.replace_more(limit=0)
+            comments = []
+            submission.comments.replace_more(limit=None)
             for comment in submission.comments.list():
-                print(40*"=*")
                 if comment.body:
-                    print("Parent: ",comment.parent())
-                    print("Child: ",comment.id)
-                    print(comment.body)
-                    print(comment.author)
-                    print(comment.score)
-            #
-            # comments = submission.comments.list()
-            # for comment in comments:
-            #     print(50*"=")
-            #     print(comment.body)
+                    comment_obj = {
+                        'id': comment.id,
+                        'parent': comment.parent_id,
+                        'ans': comment.body,
+                        'score': comment.score,
+                    }
+                    if not comment.is_root:
+                        parent_text = get_parent_body(comment.parent_id)
+                        print(comment.parent_id)
+                        print("|---", comment.id)
+                        comment_obj["que"] = parent_text
+                        comment_fetched += 1
+                        comments.append(comment_obj)
+                        print(f"No. comments: {comment_fetched} ({len(os.listdir('./data'))})")
+
+            json_submission['comments'] = comments
+            with open(f"data/{submission.id}.json", "w") as outfile:
+                json.dump(json_submission, outfile, indent=4)
 
 
-get_comments(subreddits_name[0])
+def get_parent_body(id):
+    time.sleep(1)
+    comment = reddit.comment(id)
+    return comment.body
+
+completed = []
+
+for subreddit in subreddits_name:
+    get_comments(subreddit)
+    print("Ongoing: ====================>>>>>",subreddit)
+    completed.append(subreddit)
+    time.sleep(10)
