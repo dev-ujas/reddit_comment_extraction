@@ -1,3 +1,4 @@
+import random
 import time
 
 import praw
@@ -51,7 +52,6 @@ jsons = os.listdir("./data")
 print(jsons)
 
 
-
 def get_comments(subreddit):
     comment_fetched = 0
     sub_reddit = reddit.subreddit(subreddit)
@@ -91,14 +91,25 @@ def get_comments(subreddit):
 
 
 def get_parent_body(id):
-    time.sleep(1)
+    time.sleep(random.randint(1, 3))
     comment = reddit.comment(id)
     return comment.body
 
+
 completed = []
 
-for subreddit in subreddits_name:
-    get_comments(subreddit)
-    print("Ongoing: ====================>>>>>",subreddit)
-    completed.append(subreddit)
-    time.sleep(10)
+
+def start_extraction():
+    for subreddit in subreddits_name:
+        get_comments(subreddit)
+        print("Ongoing: ====================>>>>>", subreddit)
+        completed.append(subreddit)
+        time.sleep(10)
+
+
+try:
+    start_extraction()
+except Exception as e:
+    print(e)
+    time.sleep(100)
+    start_extraction()
