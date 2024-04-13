@@ -1,0 +1,603 @@
+{
+    "title": "Expectation vs reality",
+    "id": "cqffii",
+    "create_at": 1565814706.0,
+    "score": 1783,
+    "comments": [
+        {
+            "id": "eww5qp0",
+            "parent": "t1_eww4eoa",
+            "ans": "Major truth.",
+            "score": 30,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewx0e3o",
+            "parent": "t1_eww4eoa",
+            "ans": "Wow really? PhD in CS here and I got questions about whether my stats skills were up to snuff. Maybe it was just the positions I applied to. Maybe I'll list my degree as ML.",
+            "score": 16,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewxyldy",
+            "parent": "t1_eww4eoa",
+            "ans": "[deleted]",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewx3jqg",
+            "parent": "t1_eww4eoa",
+            "ans": "ML is overrated",
+            "score": -4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewx1las",
+            "parent": "t1_eww4eoa",
+            "ans": "/r/2meirl4meirl",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewvy0jg",
+            "parent": "t1_ewvwk93",
+            "ans": "Because statistics has been around for a long time and machine learning/AI/Black magic wizardry sounds like a new concept so people are more willing to engage in what is seen as forward thinking and fresh",
+            "score": 124,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewvywtg",
+            "parent": "t1_ewvwk93",
+            "ans": "Primarily the name exists because a 'stats' approach to prediction philosophically tends to be very top down with more of a focus on explanation.  A 'ML' approach tends to be bottom up with more of a focus on 'results'.\n\nNaturally I'm oversimplifying.\n\nThis will probably help you understand things from a historical perspective:  [http://www2.math.uu.se/\\~thulin/mm/breiman.pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf)\n\nEdit - To give a real world example I had 4 years ago...  I had a coworker who was giving a lot of thought on how to encode an ordinal scale variable because 'the distance between the values isn't consistent'.  I asked if she was doing prediction or inference, to which she replied 'just prediction'.  I told her she can start with simply converting the field from 'character' to 'numeric' (this was R) and she flat out refused.  Why?  Because her background told her that it's inappropriate to code a feature in a way that doesn't accurately represent it.  My background told me that if you're interested in simply getting better predictions then it doesn't matter if the variable isn't actually interval.\n\nThe above meme is mainly a knee jerk reaction to snotty neophytes who 'work in ML' and deride stats.",
+            "score": 54,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "eww0wa3",
+            "parent": "t1_ewvwk93",
+            "ans": "Here is a helpful table that will clear up the distinction:\n\nStatistics | Machine Learning\n----------|----------------\nestimation | learning\nclassification | supervised learning\nclustering | unsupervised learning\ndata | training sample\ncovariates | features\nconfidence interval | ???\n\nHope that helps.\n\nFull disclosure: I stole this table from Larry Wasserman.",
+            "score": 65,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewvzskn",
+            "parent": "t1_ewvwk93",
+            "ans": "The youtube channel mathematicalmonk has a great playlist if you're interested in the more technical/theoretical details of machine learning. \n\nhttps://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA\n\nAndrew Ng's playlist is better if you're looking for a conceptual understanding of how ML works, but are less interested in the theoretical details.\n\nhttps://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN",
+            "score": 8,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewwcbxa",
+            "parent": "t1_ewvwk93",
+            "ans": "Essentially its automated, advanced statistics",
+            "score": 6,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewvxzn9",
+            "parent": "t1_ewvwk93",
+            "ans": "machine learning is guessing and checking at scale. Even statistics is a fancier word than necessary. \n\nIn fact the only reason we do it now is because our compute abilities have improved so much to consider such an inefficient process as a reasonable approach, instead of the more traditional and direct statistical models.",
+            "score": 32,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewwfwki",
+            "parent": "t1_ewvwk93",
+            "ans": "Neural nets are pretty complex when visualized, and have a pretty good connection to how actual neurons learn, but all it is, is nested logistic regression. Obviously there are loads of different types of neural nets but they all do basically the same thing.",
+            "score": 5,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewxl7jr",
+            "parent": "t1_ewvwk93",
+            "ans": "Machine learning uses stats but it also incorporates a lot of concepts from computer science and other disciplines. An ML engineer is going to spend a lot of time worrying about how to collect and clean data, how to make the most efficient algorithms possible, and how to scale the algorithms he/she develops. So I think it\u2019s a bit reductive to call ML \u201cjust stats\u201d.",
+            "score": 5,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewzci0k",
+            "parent": "t1_ewvwk93",
+            "ans": "ML isn't just statistics. It's worth calling it something else I think.\n\nThe philosophy is different than traditional statistics. For example, most ML scientists are fine sacrificing interpretability as long as the model they create performs empirically. Traditional statisticians are much more concerned with interpretability.\n\nIn addition you're mixing computer science, numerical methods and statistics to do ML so it's a sort of fusion. Almost every discipline is a fusion anymore. Statisticians need linear algebra, physicists need to use statistics, etc.\n\nThat being said, a PhD mathematician, statistician, physicist, computer scientist, etc. can all learn how to do ML. You don't need a degree in it, you just need to know your math and have some practical computing experience for your domain. ML is using existing math that is used all over the place in a creative way, that is all.\n\nEvery scientist should learn how to code anymore. It's necessary for work and otherwise is simply a good idea. Computers are incredibly useful laboratories.\n\nAs far as finding work as a statistician vs. a ML scientist, the real problem is that the people making strategic and hiring decisions don't know what the hell they're doing. It's a societal problem that seems to be a common human failing--those with capital and executive/management roles are disconnected from what it takes to make things happen, yet they have higher status and larger egos so they don't know it.",
+            "score": 5,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewvydyk",
+            "parent": "t1_ewvwk93",
+            "ans": "im no expert but i think the terminology is confusing because artificial neural nets are very loosely modeled on the biology of neurons. this doesnt make them an emulation of the neural network within a biological brain. simultaenously there are some out there who would argue this general framework could potentially lead to a true machine \"intelligence\" similar to that which we hold - how much of this is science and how much of it is hype is above my pay grade. re learning, i mean, it depends what you mean, i guess? most of the time it means a computer solving a problem without explicit instruction. it still takes a lot of explicit instruction to set up an environment in which this is possible though.",
+            "score": 4,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewwddfo",
+            "parent": "t1_ewvwk93",
+            "ans": "There\u2019s a great quote by Neil Lawrence on an episode of Talking Machines (unfortunately I forget which one) where he said something like, \u201cmachine learning is just statistics born out of computer science departments.\u201d You can also check out a great textbook called \u201cMachine Learning: A Probabilistic Approach\u201d that presents many machine learning algorithms with a heavy emphasis on their probabilistic interpretations.",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewy6xts",
+            "parent": "t1_ewvwk93",
+            "ans": "what book, if you don\u2019t mind sharing?",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewy7l8b",
+            "parent": "t1_ewvwk93",
+            "ans": "I used to be in the same boat till I started to learn, try out Reinforcement learning, Imitation learning. Plus I recently started to try that on Unity (a game engine. They've got something called ML Agents). Now, I can actually see the agent effing things up while learning. It's actually really fun. Plus I was trying to build a skill for pepper the humanoid robot by using Imitation learning. That made me feel good about the whole thing lmao.",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewyfufo",
+            "parent": "t1_ewvwk93",
+            "ans": "Machines \"learn\" to produce the output we want from the data we give them, by giving them huge data sets to \"learn\" from. Yes it's just dumb function approximation but on such a massive scale that it's infeasible for humans to do it by hand or even understand the solution.",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ex3fuou",
+            "parent": "t1_ewvwk93",
+            "ans": "Its a subfield of statistics. Developing into its own thing.\nAlso lazy welder is wrong. Regression is statistics.",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewxpd6w",
+            "parent": "t1_ewvwk93",
+            "ans": "Machine learning is when you learn the parameters of the model from the data.\n\nIt's all math. But what pieces of math are considered statistics and what pieces of math are considered computer science?\n\nWhat makes you think linear regression is statistics? It's a linear model and whether you use optimization to get the weights and bias doesn't really matter because it ends up being straight up math anyway. I would argue it's machine learning that statisticians use, and so do engineers, mathematicians and plenty of others.\n\nThere is plenty of machine learning that statisticians don't use and for example physicists and engineers do. Especially on the signal processing side of things. \n\nThen you go into more pure things that nobody really uses. Neural networks come from psychology & AI side of computer science and aren't really used in statistics. Similarly there are plenty of algorithmic methods that are uninterpretable that statisticians don't use but engineers and economists happily use in the industry because they mostly care that it works, not why it works.\n\nIf you think about it, everything about computers is just some switches going on and off. Everything about everything is just some  particles bouncing around.\n\nComplicated things are built out of simple things.\n\nYou won't find complicated things in \"introduction to X\" kind of book. If you want more complicated machine learning take a look at [deep learning](https://www.deeplearningbook.org/), [reinforcement learning](http://incompleteideas.net/book/bookdraft2017nov5.pdf) or [pattern recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).\n\nTrying to claim that machine learning is just statistics just means that the person making the claim is uneducated.\n\nMachine learning is about creating models and some of statistics happen to rely on models. It also happens that some ML methods happen to rely on statistics to make these models. But it doesn't mean that one equals to the other or one is a subset of the other.",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewzt2c3",
+            "parent": "t1_ewvwk93",
+            "ans": "machine learning is just a buzzword. its statistics",
+            "score": 1,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "eww07ze",
+            "parent": "t1_ewvwk93",
+            "ans": "[deleted]",
+            "score": -3,
+            "que": "Ok for real tho, as someone new to the field is this what machine learning is? I always heard and thought it was some fancy AI electrical neuroscience shit, and now that I'm actually learning about it it's just... statistics? Which I'm actually cool with I'm loving it, but why the name? I'm almost at the end of an intro to machine learning book and none of it is much more advanced than what I learnt in the maths courses of my chemical engineering degree. We'd write some equations, do some optimizations, build models, do a linear regression or whatever and write some code in R or Matlab, and we just called it stats or optimisation. So far I've seen no evidence that machines are learning anything?"
+        },
+        {
+            "id": "ewx3xjp",
+            "parent": "t1_eww02zl",
+            "ans": "And I'm highlighting numbers if they're above/below goals and typing out things that anyone could find in dashboards if they looked at them...",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewwb46h",
+            "parent": "t1_eww7d0f",
+            "ans": "[deleted]",
+            "score": -5,
+            "que": "This was actually my favorite part of getting into machine learning, coming from a statistics background. I was like, \"Oh, OLS regression is a form of machine learning? Wow, this really isn't magic.\""
+        },
+        {
+            "id": "ewy84mi",
+            "parent": "t1_eww8ic0",
+            "ans": "So next time you're telling him that it's based on ML?",
+            "score": 6,
+            "que": "Reminds me of my ignorant manager when I tell him that the analytics project I'm working on is based on statistics and not ML :("
+        },
+        {
+            "id": "ex2dbbl",
+            "parent": "t1_ewx2urq",
+            "ans": "Maths is useful in most science and engineering fields but the focus is different from CS.",
+            "score": 3,
+            "que": "This is so truth that I think I'm wasting my time doing a Master's in CS and should change to Applied Maths instead."
+        },
+        {
+            "id": "ez5yr17",
+            "parent": "t1_ewx2urq",
+            "ans": "Applied Math can mean a lot of things. I know some Applied Math programs are pretty much just Computational Math and CFD/Numerical Analysis.",
+            "score": 1,
+            "que": "This is so truth that I think I'm wasting my time doing a Master's in CS and should change to Applied Maths instead."
+        },
+        {
+            "id": "ewxckz3",
+            "parent": "t1_ewwstib",
+            "ans": "But isn\u2019t that argument also true of things like linear regression? Before computers, that was often too laborious to do manually and people drew lines literally by eye. As others have pointed out, neural nets are essentially \u201cjust\u201d nested logistic regression. That\u2019s not to say I disagree that machine learning is stats + comp sci, but I think you can argue the two have gone hand in hand for far longer than that.",
+            "score": 2,
+            "que": "Maybe think of machine learning as stats + computer science. \nImagine your problem is building a self driving car and you're trying to do collision detection. The dataset you have is rgb 1080p video at 60fps for 3 seconds. For simplicity's sake let's assume you have 1 million of these examples (833 hours or so?) because the problem is complex and you'd like to get a really accurate result, learning from the data set. So your dataset is 1 million x (3 x 1920 x 1080 x 60 x 3)  - about 1 million samples of 1 billion features/independent variables. Assume a lower bound of each feature taking 1 Byte to store you have about 1 Petabyte of data. How do you solve the various problems arising from time and spacial complexity? Statistical concepts are definitely important, but stats alone won't solve this problem. The recent rise of neural nets is due to dramatic technology advances since the middle of the last century, making learning possible in a reasonable amount of time.\n\nEdit: formatting, arithmetic."
+        },
+        {
+            "id": "ewy81ey",
+            "parent": "t1_ewvzyhu",
+            "ans": "How do you check the convergent and discriminant validity a dataset using an SQL query?",
+            "score": 1,
+            "que": "~~Statistics~~ Complicated SQL query"
+        },
+        {
+            "id": "ewzrsxi",
+            "parent": "t1_ewynvpk",
+            "ans": ">The thing is that ML is a superset of stats and you can't really understand ML if you're not already well versed in stats. \n\nML is not a superset of stats. It's a new hybrid field where  algorithms that learn from data, computer programming and statistical models overlap.",
+            "score": 5,
+            "que": "The thing is that ML is a superset of stats and you can't really understand ML if you're not already well versed in stats. \n\nYou can learn how to use tools that other people created to train and deploy models and call yourself a \"ML engineer\" but you will never understand in depth what the science of ML is about and how it differs to classical stats. \n\nThat said, the vast majority of self-proclaimed ML \"experts\" out there are phoneys."
+        },
+        {
+            "id": "ewxx2k0",
+            "parent": "t1_ewxhczu",
+            "ans": "Math isn\u2019t just counting. Calculating, quantifying, maybe, but definitely not counting.",
+            "score": 6,
+            "que": " To continue down this path... Statistics is just math. And math is just counting. It\u2019s a pointless exercise.."
+        },
+        {
+            "id": "ex060oo",
+            "parent": "t1_ewxhczu",
+            "ans": "Man I loved my Advanced Counting 401 class when I did my BA in Stats.",
+            "score": 1,
+            "que": " To continue down this path... Statistics is just math. And math is just counting. It\u2019s a pointless exercise.."
+        },
+        {
+            "id": "ewx3yz9",
+            "parent": "t1_ewx0e3o",
+            "ans": "The two aren't mutually exclusive, management and recruiters will throw themselves at you if you tick off buzzwords. You're still going to get the full scrutiny by whatever technical people they already have doing the hiring...",
+            "score": 27,
+            "que": "Wow really? PhD in CS here and I got questions about whether my stats skills were up to snuff. Maybe it was just the positions I applied to. Maybe I'll list my degree as ML."
+        },
+        {
+            "id": "ewz5luw",
+            "parent": "t1_ewx3jqg",
+            "ans": "Maybe overtrained in some cases",
+            "score": 4,
+            "que": "ML is overrated"
+        },
+        {
+            "id": "ewx99vz",
+            "parent": "t1_ewx3jqg",
+            "ans": "It's certainly not! It's going to be driving our innovation for decades. And we are still learning.",
+            "score": 18,
+            "que": "ML is overrated"
+        },
+        {
+            "id": "eww7mb7",
+            "parent": "t1_ewvy0jg",
+            "ans": "[deleted]",
+            "score": 25,
+            "que": "Because statistics has been around for a long time and machine learning/AI/Black magic wizardry sounds like a new concept so people are more willing to engage in what is seen as forward thinking and fresh"
+        },
+        {
+            "id": "ewxo16n",
+            "parent": "t1_ewvy0jg",
+            "ans": "As Rob tibshirani ( co-author of elements of statistical learning wrote),\nNo difference but a large grant in ML is 1 million dollars, in stats it's 50,000!!\n\nhttps://www.r-bloggers.com/whats-the-difference-between-machine-learning-statistics-and-data-mining/",
+            "score": 12,
+            "que": "Because statistics has been around for a long time and machine learning/AI/Black magic wizardry sounds like a new concept so people are more willing to engage in what is seen as forward thinking and fresh"
+        },
+        {
+            "id": "exlsqi0",
+            "parent": "t1_ewvy0jg",
+            "ans": "Software of the quality of say Keras or XGboost is new, forward thinking, and fresh.",
+            "score": 2,
+            "que": "Because statistics has been around for a long time and machine learning/AI/Black magic wizardry sounds like a new concept so people are more willing to engage in what is seen as forward thinking and fresh"
+        },
+        {
+            "id": "eww3su0",
+            "parent": "t1_ewvywtg",
+            "ans": "I had this happen at work recently. I was trained in statistics, and my coworker built a model where the categorical feature was encoded just like that. We debated for a bit and I insisted that encoding it correctly would produce better results.\n\nLo behold I train the model the \u201ccorrect\u201d way and the results were nearly the same. Was definitely a wake up call that when doing pure prediction you can do strange things like that.",
+            "score": 22,
+            "que": "Primarily the name exists because a 'stats' approach to prediction philosophically tends to be very top down with more of a focus on explanation.  A 'ML' approach tends to be bottom up with more of a focus on 'results'.\n\nNaturally I'm oversimplifying.\n\nThis will probably help you understand things from a historical perspective:  [http://www2.math.uu.se/\\~thulin/mm/breiman.pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf)\n\nEdit - To give a real world example I had 4 years ago...  I had a coworker who was giving a lot of thought on how to encode an ordinal scale variable because 'the distance between the values isn't consistent'.  I asked if she was doing prediction or inference, to which she replied 'just prediction'.  I told her she can start with simply converting the field from 'character' to 'numeric' (this was R) and she flat out refused.  Why?  Because her background told her that it's inappropriate to code a feature in a way that doesn't accurately represent it.  My background told me that if you're interested in simply getting better predictions then it doesn't matter if the variable isn't actually interval.\n\nThe above meme is mainly a knee jerk reaction to snotty neophytes who 'work in ML' and deride stats."
+        },
+        {
+            "id": "ewxua28",
+            "parent": "t1_ewvywtg",
+            "ans": "Well, you just have to think about whether it's a good assumption (that the ordinal variable distances between each value is approximately equivalent). It's silly to say \"this is bad\" in any setting. I see a lot of people thinking in black and white like this and having their own very specific rules, this is not a good thing.\n\nYou always have to make assumptions to make things simpler. If you overthink things, you will struggle hard when you have an outcome that if in [-1,1] for example which is not Beta or Uniform distributed. When I was new in the field, I spent way too much time thinking about these things, but now I generally just run a linear regression instead. You can obsess over these kind of details, it's not worth the minimal differences and generally lack of predictive advantage.",
+            "score": 4,
+            "que": "Primarily the name exists because a 'stats' approach to prediction philosophically tends to be very top down with more of a focus on explanation.  A 'ML' approach tends to be bottom up with more of a focus on 'results'.\n\nNaturally I'm oversimplifying.\n\nThis will probably help you understand things from a historical perspective:  [http://www2.math.uu.se/\\~thulin/mm/breiman.pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf)\n\nEdit - To give a real world example I had 4 years ago...  I had a coworker who was giving a lot of thought on how to encode an ordinal scale variable because 'the distance between the values isn't consistent'.  I asked if she was doing prediction or inference, to which she replied 'just prediction'.  I told her she can start with simply converting the field from 'character' to 'numeric' (this was R) and she flat out refused.  Why?  Because her background told her that it's inappropriate to code a feature in a way that doesn't accurately represent it.  My background told me that if you're interested in simply getting better predictions then it doesn't matter if the variable isn't actually interval.\n\nThe above meme is mainly a knee jerk reaction to snotty neophytes who 'work in ML' and deride stats."
+        },
+        {
+            "id": "exji3af",
+            "parent": "t1_ewvywtg",
+            "ans": "Top down from mathematical principles vs bottom up from results is an excellent analogy, going to steal this for later.",
+            "score": 1,
+            "que": "Primarily the name exists because a 'stats' approach to prediction philosophically tends to be very top down with more of a focus on explanation.  A 'ML' approach tends to be bottom up with more of a focus on 'results'.\n\nNaturally I'm oversimplifying.\n\nThis will probably help you understand things from a historical perspective:  [http://www2.math.uu.se/\\~thulin/mm/breiman.pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf)\n\nEdit - To give a real world example I had 4 years ago...  I had a coworker who was giving a lot of thought on how to encode an ordinal scale variable because 'the distance between the values isn't consistent'.  I asked if she was doing prediction or inference, to which she replied 'just prediction'.  I told her she can start with simply converting the field from 'character' to 'numeric' (this was R) and she flat out refused.  Why?  Because her background told her that it's inappropriate to code a feature in a way that doesn't accurately represent it.  My background told me that if you're interested in simply getting better predictions then it doesn't matter if the variable isn't actually interval.\n\nThe above meme is mainly a knee jerk reaction to snotty neophytes who 'work in ML' and deride stats."
+        },
+        {
+            "id": "eww5urj",
+            "parent": "t1_eww0wa3",
+            "ans": "confidence intervel is prediction interval! /s\n\n&#x200B;\n\nno, not really",
+            "score": 11,
+            "que": "Here is a helpful table that will clear up the distinction:\n\nStatistics | Machine Learning\n----------|----------------\nestimation | learning\nclassification | supervised learning\nclustering | unsupervised learning\ndata | training sample\ncovariates | features\nconfidence interval | ???\n\nHope that helps.\n\nFull disclosure: I stole this table from Larry Wasserman."
+        },
+        {
+            "id": "ewvz729",
+            "parent": "t1_ewvxzn9",
+            "ans": "> machine learning is guessing and checking at scale\n\nThis is a great explanation. I'm stealing this.\n\nI was messing with machine learning before I'd ever taken a stats class - in fact it was part of what motivated me to start learning in stats.",
+            "score": 26,
+            "que": "machine learning is guessing and checking at scale. Even statistics is a fancier word than necessary. \n\nIn fact the only reason we do it now is because our compute abilities have improved so much to consider such an inefficient process as a reasonable approach, instead of the more traditional and direct statistical models."
+        },
+        {
+            "id": "eww3o4s",
+            "parent": "t1_ewvxzn9",
+            "ans": "> machine learning is guessing and checking at scale.\n\nYa, that's it.\n\nYou write two programs. The first program, the \"student\", works by using some input data set and some best guesses for what decisions to make, does some operation in a fuzzy way and stops when it thinks it's done or is forced to stop. The second program, the \"teacher\", grades the performance of the first program, and aggregates the results into guesses that are slightly better. (This is just for explanation. This may be one actual program, or it may be two or three or more small programs.)\n\nNow, you run student program 1,000 times, and then feed the results into the teacher, which returns a set of better guesses. Now you take those better guesses, and run the student 1,000 times again, which the teacher grades into *even better* guesses. The whole idea is to construct a virtuous cycle of improvement. As long as your input data set is consistent and your evaluation of the performance is correct, then your guesses will steadily improve over time.\n\nIt's basically the computer program version of the [dropped stick method to estimate pi](https://www.sciencefriday.com/articles/estimate-pi-by-dropping-sticks/). The thing is, if you can make dropping sticks easier and faster to do than [a continuous fraction](https://en.wikipedia.org/wiki/Pi#Continued_fractions), then suddenly dropping sticks is a great idea! For certain very complex problems, it's difficult to understand all the factors at work to derive an accurate heuristic. If it's easier to write a program to *guess* at how to do something as well as write another program that grades and aggregates that performance into better guesses. In the end, it won't matter that you don't know what the actual formula is for determining the outcome; you'll be able to accurately predict it anyways.",
+            "score": 11,
+            "que": "machine learning is guessing and checking at scale. Even statistics is a fancier word than necessary. \n\nIn fact the only reason we do it now is because our compute abilities have improved so much to consider such an inefficient process as a reasonable approach, instead of the more traditional and direct statistical models."
+        },
+        {
+            "id": "eww0gkp",
+            "parent": "t1_ewvxzn9",
+            "ans": "It's not just guessing and checking, it's guessing and checking and \\*fixing mistakes in a highly-efficient manner\\*. Just guessing and checking would be computational intractable even for the most powerful computers.",
+            "score": 17,
+            "que": "machine learning is guessing and checking at scale. Even statistics is a fancier word than necessary. \n\nIn fact the only reason we do it now is because our compute abilities have improved so much to consider such an inefficient process as a reasonable approach, instead of the more traditional and direct statistical models."
+        },
+        {
+            "id": "exarf1y",
+            "parent": "t1_ewvxzn9",
+            "ans": "Everything in computer-aided statistics is guessing and checking at scale.",
+            "score": 1,
+            "que": "machine learning is guessing and checking at scale. Even statistics is a fancier word than necessary. \n\nIn fact the only reason we do it now is because our compute abilities have improved so much to consider such an inefficient process as a reasonable approach, instead of the more traditional and direct statistical models."
+        },
+        {
+            "id": "ewxowa3",
+            "parent": "t1_ewxl7jr",
+            "ans": "You don't think statisticians collect and  clean data?\n\nAgreed that there is a computer science component, which applies to anything implemented on a computer, eg a word processor, numerical linear algebra etc.",
+            "score": 5,
+            "que": "Machine learning uses stats but it also incorporates a lot of concepts from computer science and other disciplines. An ML engineer is going to spend a lot of time worrying about how to collect and clean data, how to make the most efficient algorithms possible, and how to scale the algorithms he/she develops. So I think it\u2019s a bit reductive to call ML \u201cjust stats\u201d."
+        },
+        {
+            "id": "ewyinpo",
+            "parent": "t1_ewxl7jr",
+            "ans": "I believe the post is about the science of ML vs the science of statistics so imho \"ML engineers\" have no place in this conversation.",
+            "score": -1,
+            "que": "Machine learning uses stats but it also incorporates a lot of concepts from computer science and other disciplines. An ML engineer is going to spend a lot of time worrying about how to collect and clean data, how to make the most efficient algorithms possible, and how to scale the algorithms he/she develops. So I think it\u2019s a bit reductive to call ML \u201cjust stats\u201d."
+        },
+        {
+            "id": "ewwy5up",
+            "parent": "t1_ewvydyk",
+            "ans": "I'm pretty sure neural networks came about when someone decided to combine a bunch of logistic regression models.",
+            "score": 6,
+            "que": "im no expert but i think the terminology is confusing because artificial neural nets are very loosely modeled on the biology of neurons. this doesnt make them an emulation of the neural network within a biological brain. simultaenously there are some out there who would argue this general framework could potentially lead to a true machine \"intelligence\" similar to that which we hold - how much of this is science and how much of it is hype is above my pay grade. re learning, i mean, it depends what you mean, i guess? most of the time it means a computer solving a problem without explicit instruction. it still takes a lot of explicit instruction to set up an environment in which this is possible though."
+        },
+        {
+            "id": "eww1khn",
+            "parent": "t1_ewvydyk",
+            "ans": "modeled in what way?  the way they are mathematically arranged?  isnt that just stats?",
+            "score": 3,
+            "que": "im no expert but i think the terminology is confusing because artificial neural nets are very loosely modeled on the biology of neurons. this doesnt make them an emulation of the neural network within a biological brain. simultaenously there are some out there who would argue this general framework could potentially lead to a true machine \"intelligence\" similar to that which we hold - how much of this is science and how much of it is hype is above my pay grade. re learning, i mean, it depends what you mean, i guess? most of the time it means a computer solving a problem without explicit instruction. it still takes a lot of explicit instruction to set up an environment in which this is possible though."
+        },
+        {
+            "id": "ewwpo6l",
+            "parent": "t1_eww07ze",
+            "ans": "We still do not know a ton about how a human brain works. How could we possibly begin to mimic it? Neural networks have an analogous structure to brain neurons on an individual level, but that is all. Machine Learning and Human Learning are entirely different things, with unfortunately confusing nomenclature.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eww3mx8",
+            "parent": "t1_eww07ze",
+            "ans": "A lot of this is just calculation though. If a human looks at a series of points on a plot and attempts to predict where a previously unseen point would lie, would you say they are learning? To me it seems they just carried out some arithmetic, a slightly more advanced version of 2+2. I wouldn't consider that learning, there hasn't been any development of knowledge or intellect. \n\nI know there are ML algorithms which will improve performance as they get more data, like a chess engine for example, but fundamentally it is still just performing the same arithmetic, albeit on a larger data set, no? Whereas a human playing chess is considering tactical and strategic factors as well as the numbers - improvement in human performance comes not only from improved calculation but also from a better understanding of the game.",
+            "score": -1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewwbahv",
+            "parent": "t1_ewwb46h",
+            "ans": "Yup. That's exactly why OLS regression is machine learning. The regression line is fitted over iterations, using OLS as a measure of best fit.",
+            "score": 14,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewxhhs9",
+            "parent": "t1_ewxckz3",
+            "ans": "> As others have pointed out, neural nets are essentially \u201cjust\u201d nested logistic regression\n\nOkay, so let's continue down this rabbit hole: Logistic regression is \"just\" math. And math is \"just\" counting. Where did that get us? It's a pointless argument.",
+            "score": 4,
+            "que": "But isn\u2019t that argument also true of things like linear regression? Before computers, that was often too laborious to do manually and people drew lines literally by eye. As others have pointed out, neural nets are essentially \u201cjust\u201d nested logistic regression. That\u2019s not to say I disagree that machine learning is stats + comp sci, but I think you can argue the two have gone hand in hand for far longer than that."
+        },
+        {
+            "id": "ex0p5ld",
+            "parent": "t1_ewxckz3",
+            "ans": "I agree with what you said. The main distinction for me is the evolution of computer science and technology. This evolution has been on an upward trajectory while stats hasn't made as significant strides. \nLet me try to put it another way: fundamental theory of machine learning has been stats. In practice, stats has not evolved nearly as much and we have been able to leverage better technology such as GPUs. People who think machine learning is just stats are taking technology for granted and should show some appreciation to the engineers, scientists, and technologists that made machine learning possible.",
+            "score": 1,
+            "que": "But isn\u2019t that argument also true of things like linear regression? Before computers, that was often too laborious to do manually and people drew lines literally by eye. As others have pointed out, neural nets are essentially \u201cjust\u201d nested logistic regression. That\u2019s not to say I disagree that machine learning is stats + comp sci, but I think you can argue the two have gone hand in hand for far longer than that."
+        },
+        {
+            "id": "ex04ns9",
+            "parent": "t1_ewzrsxi",
+            "ans": "Being a superset means that it involves elements that the subset lacks. What you're stating doesn't go against my initial premise. Though, for the record, algorithms that learn from data and computer programming is nothing new to stats. It's just called computational stats. \n\nThere's nothing new about ML except that people who were previously completely ignorant of the field suddenly discovered that it's something that can make them money.",
+            "score": 0,
+            "que": ">The thing is that ML is a superset of stats and you can't really understand ML if you're not already well versed in stats. \n\nML is not a superset of stats. It's a new hybrid field where  algorithms that learn from data, computer programming and statistical models overlap."
+        },
+        {
+            "id": "ex1q0kr",
+            "parent": "t1_ex060oo",
+            "ans": "Did they give you an abacus?",
+            "score": 1,
+            "que": "Man I loved my Advanced Counting 401 class when I did my BA in Stats."
+        },
+        {
+            "id": "eyxowml",
+            "parent": "t1_ewx3yz9",
+            "ans": "This.",
+            "score": 1,
+            "que": "The two aren't mutually exclusive, management and recruiters will throw themselves at you if you tick off buzzwords. You're still going to get the full scrutiny by whatever technical people they already have doing the hiring..."
+        },
+        {
+            "id": "exa0oml",
+            "parent": "t1_ewz5luw",
+            "ans": "my dog is overtrained",
+            "score": 1,
+            "que": "Maybe overtrained in some cases"
+        },
+        {
+            "id": "ewxq7pl",
+            "parent": "t1_ewx99vz",
+            "ans": "Hell, we\u2019re still learning to learn to learn by gradient descent, by hard work, by trial and error.",
+            "score": 9,
+            "que": "It's certainly not! It's going to be driving our innovation for decades. And we are still learning."
+        },
+        {
+            "id": "ewzsybp",
+            "parent": "t1_ewx99vz",
+            "ans": "ML is just statistics",
+            "score": 3,
+            "que": "It's certainly not! It's going to be driving our innovation for decades. And we are still learning."
+        },
+        {
+            "id": "exa0ah4",
+            "parent": "t1_ewx99vz",
+            "ans": "I spent most of grad school studying/interning in ML and doing ML-based projects. I changed focus because most of the software products that claim to use ML are no more different than me programming a bot on a website. Real ML \"products\" that add real value have yet to be created",
+            "score": 1,
+            "que": "It's certainly not! It's going to be driving our innovation for decades. And we are still learning."
+        },
+        {
+            "id": "eww7v06",
+            "parent": "t1_eww7mb7",
+            "ans": "Haha ya I get it, although I'm not sure that's the job of a business exec or whoever is reviewing your work to understand the nuances of what you are doing, that's why they pay you the big bucks",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewwjazl",
+            "parent": "t1_eww3su0",
+            "ans": "What is the 'correct way' here",
+            "score": 8,
+            "que": "I had this happen at work recently. I was trained in statistics, and my coworker built a model where the categorical feature was encoded just like that. We debated for a bit and I insisted that encoding it correctly would produce better results.\n\nLo behold I train the model the \u201ccorrect\u201d way and the results were nearly the same. Was definitely a wake up call that when doing pure prediction you can do strange things like that."
+        },
+        {
+            "id": "ewxomr2",
+            "parent": "t1_eww3su0",
+            "ans": "I think the problem is that on average encoding it correctly would produce better results... On a particular dataset it's anyone's guess.\n\nIs a linear approximation ( IE just code as number) good enough, or do you use splines ( piecewise constant=dummy encoding), piecewise linear, piecewise cubic..",
+            "score": -3,
+            "que": "I had this happen at work recently. I was trained in statistics, and my coworker built a model where the categorical feature was encoded just like that. We debated for a bit and I insisted that encoding it correctly would produce better results.\n\nLo behold I train the model the \u201ccorrect\u201d way and the results were nearly the same. Was definitely a wake up call that when doing pure prediction you can do strange things like that."
+        },
+        {
+            "id": "ewx7rvo",
+            "parent": "t1_eww3o4s",
+            "ans": "So, in even more simple terms, ML is automating the process of looking at data and finding correlation. The quality, then, is dependent upon how difficult it is to identify applicable correlation versus how well the \"teacher\" was programmed to complete that task. \n\nMan, the deeper I get into data and programming the more I feel it really isn't that conceptually insane. Granted I'm sure some of those more robust algorithms would make my head spin, but this is hardly what I expected it to be. \n\nIt also explains, though, where there is room to improve. Our marketing software has AI based analytics that reports the impact of variables. It had reported that recipients of emails who had a first name in the system were moderately correlated to worse open rates. While that's a pretty good indicator that something's up, it's not quite enough to pinpoint the issue, even with the accompanying measurements.",
+            "score": 2,
+            "que": "> machine learning is guessing and checking at scale.\n\nYa, that's it.\n\nYou write two programs. The first program, the \"student\", works by using some input data set and some best guesses for what decisions to make, does some operation in a fuzzy way and stops when it thinks it's done or is forced to stop. The second program, the \"teacher\", grades the performance of the first program, and aggregates the results into guesses that are slightly better. (This is just for explanation. This may be one actual program, or it may be two or three or more small programs.)\n\nNow, you run student program 1,000 times, and then feed the results into the teacher, which returns a set of better guesses. Now you take those better guesses, and run the student 1,000 times again, which the teacher grades into *even better* guesses. The whole idea is to construct a virtuous cycle of improvement. As long as your input data set is consistent and your evaluation of the performance is correct, then your guesses will steadily improve over time.\n\nIt's basically the computer program version of the [dropped stick method to estimate pi](https://www.sciencefriday.com/articles/estimate-pi-by-dropping-sticks/). The thing is, if you can make dropping sticks easier and faster to do than [a continuous fraction](https://en.wikipedia.org/wiki/Pi#Continued_fractions), then suddenly dropping sticks is a great idea! For certain very complex problems, it's difficult to understand all the factors at work to derive an accurate heuristic. If it's easier to write a program to *guess* at how to do something as well as write another program that grades and aggregates that performance into better guesses. In the end, it won't matter that you don't know what the actual formula is for determining the outcome; you'll be able to accurately predict it anyways."
+        },
+        {
+            "id": "ex8z2fk",
+            "parent": "t1_eww3o4s",
+            "ans": "The key to ML, though, is how the teacher produces those better guesses. The rest of the system is easy to set up, the hard part is getting each iteration to be better than before. Usually the space of possible solutions is so massive that if you don't have a smart way to generate better solutions you'll get nowhere.",
+            "score": 1,
+            "que": "> machine learning is guessing and checking at scale.\n\nYa, that's it.\n\nYou write two programs. The first program, the \"student\", works by using some input data set and some best guesses for what decisions to make, does some operation in a fuzzy way and stops when it thinks it's done or is forced to stop. The second program, the \"teacher\", grades the performance of the first program, and aggregates the results into guesses that are slightly better. (This is just for explanation. This may be one actual program, or it may be two or three or more small programs.)\n\nNow, you run student program 1,000 times, and then feed the results into the teacher, which returns a set of better guesses. Now you take those better guesses, and run the student 1,000 times again, which the teacher grades into *even better* guesses. The whole idea is to construct a virtuous cycle of improvement. As long as your input data set is consistent and your evaluation of the performance is correct, then your guesses will steadily improve over time.\n\nIt's basically the computer program version of the [dropped stick method to estimate pi](https://www.sciencefriday.com/articles/estimate-pi-by-dropping-sticks/). The thing is, if you can make dropping sticks easier and faster to do than [a continuous fraction](https://en.wikipedia.org/wiki/Pi#Continued_fractions), then suddenly dropping sticks is a great idea! For certain very complex problems, it's difficult to understand all the factors at work to derive an accurate heuristic. If it's easier to write a program to *guess* at how to do something as well as write another program that grades and aggregates that performance into better guesses. In the end, it won't matter that you don't know what the actual formula is for determining the outcome; you'll be able to accurately predict it anyways."
+        },
+        {
+            "id": "ewyjd2w",
+            "parent": "t1_ewxowa3",
+            "ans": "They collect and clean data in a much different way. If you\u2019ve worked in business and academia (which I have), you\u2019d probably agree with that. Writing a python or R script to do some data cleansing is vastly different from writing a data pipeline that streams, cleans, and extracts features from GBs of data per day for a production algorithm.",
+            "score": 2,
+            "que": "You don't think statisticians collect and  clean data?\n\nAgreed that there is a computer science component, which applies to anything implemented on a computer, eg a word processor, numerical linear algebra etc."
+        },
+        {
+            "id": "ewyj1f6",
+            "parent": "t1_ewyinpo",
+            "ans": "Lol I\u2019m not sure what would give you that impression, but okay. Also, wouldn\u2019t computer science be part of the \u201cscience of ml\u201d? So pretty sure my point still stand if we are talking about data scientists vs statisticians. They still have to take into account this thing called computer science.",
+            "score": 2,
+            "que": "I believe the post is about the science of ML vs the science of statistics so imho \"ML engineers\" have no place in this conversation."
+        },
+        {
+            "id": "ex2cqal",
+            "parent": "t1_ewwpo6l",
+            "ans": "> Neural networks have an analogous structure to brain neurons on an individual level, but that is all. \n\nNeural Networks was a bad name which unfortunately stuck, due perhaps to the ignorance or arrogance of the A.I. researchers who initially developed and used them. \"Logistic Regression\" networks is more accurate, but not as catchy or inspiring. \n\nIronically, despite failing to simulate the human brain, some researchers today still remain optimistic that we're on the brink of human like machine intelligence when all the signs suggest the opposite! Having said that, perhaps today's architectures will eventually evolve into something akin to a true \"Neural Network\"...",
+            "score": 2,
+            "que": "We still do not know a ton about how a human brain works. How could we possibly begin to mimic it? Neural networks have an analogous structure to brain neurons on an individual level, but that is all. Machine Learning and Human Learning are entirely different things, with unfortunately confusing nomenclature."
+        },
+        {
+            "id": "ewwc5tk",
+            "parent": "t1_ewwbahv",
+            "ans": "[deleted]",
+            "score": -4,
+            "que": "Yup. That's exactly why OLS regression is machine learning. The regression line is fitted over iterations, using OLS as a measure of best fit."
+        },
+        {
+            "id": "ewxjxyo",
+            "parent": "t1_ewxhhs9",
+            "ans": "To the understanding that all this really is just maths and logic - which I don\u2019t really think is a pointless argument. \n\n(Although you could argue that logistic regression is not just maths as you are inputting the human understanding of why it matters to minimise some function which we consider to be an \u201cerror\u201d.)\n\nNevertheless, I\u2019m not saying don\u2019t make the delineations or don\u2019t consider that different fields have contributed to the development of what we\u2019d consider machine learning these days - I\u2019m simply pointing out that these delineations are more arbitrary and greyscale than is often claimed.",
+            "score": 1,
+            "que": "> As others have pointed out, neural nets are essentially \u201cjust\u201d nested logistic regression\n\nOkay, so let's continue down this rabbit hole: Logistic regression is \"just\" math. And math is \"just\" counting. Where did that get us? It's a pointless argument."
+        },
+        {
+            "id": "ewzcymv",
+            "parent": "t1_ewxhhs9",
+            "ans": "I don't understand the point you're trying to make - you can reduce any argument to absurdity. That doesn't mean it's pointless.",
+            "score": 1,
+            "que": "> As others have pointed out, neural nets are essentially \u201cjust\u201d nested logistic regression\n\nOkay, so let's continue down this rabbit hole: Logistic regression is \"just\" math. And math is \"just\" counting. Where did that get us? It's a pointless argument."
+        },
+        {
+            "id": "ex1quhh",
+            "parent": "t1_ex1q0kr",
+            "ans": "No we just used a calculator, silly",
+            "score": 1,
+            "que": "Did they give you an abacus?"
+        },
+        {
+            "id": "ewzx3e5",
+            "parent": "t1_ewzsybp",
+            "ans": "Does that mean that you think deep learning as a field belongs to statistics?",
+            "score": 6,
+            "que": "ML is just statistics"
+        },
+        {
+            "id": "exaaq1i",
+            "parent": "t1_exa0ah4",
+            "ans": "I have a masters in Data Analytics and can personally say the contribution to healthcare alone is really exciting.",
+            "score": 1,
+            "que": "I spent most of grad school studying/interning in ML and doing ML-based projects. I changed focus because most of the software products that claim to use ML are no more different than me programming a bot on a website. Real ML \"products\" that add real value have yet to be created"
+        },
+        {
+            "id": "ewywvyw",
+            "parent": "t1_ewyj1f6",
+            "ans": "ML engineers are just using tools that other people made for them. They don't necessarily understand them. Those \"other people\" who made the tools can be computers scientists or statisticians but ML engineers will usually be plain technologists, not scientists. This might displease some people but it is the truth.",
+            "score": -2,
+            "que": "Lol I\u2019m not sure what would give you that impression, but okay. Also, wouldn\u2019t computer science be part of the \u201cscience of ml\u201d? So pretty sure my point still stand if we are talking about data scientists vs statisticians. They still have to take into account this thing called computer science."
+        },
+        {
+            "id": "ewwfde3",
+            "parent": "t1_ewwc5tk",
+            "ans": "Wait...you can solve OLS regression with gradient descent can you not?\n\nPresumably something does fit the assumptions that OLS regression requires, OLS regression performs on par, if not better, than more complex machine learning algorithm, in addition to being fully explainable. In this case, is it considered a more advance technique?\n\nAlso super weird to think it's belittling when obviously no one is doing that.",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewwcqi8",
+            "parent": "t1_ewwc5tk",
+            "ans": "Ah, I see that I'm in elitist territory. It doesn't matter what kind of prestigious definition ML \"suggests\". Linear regression is a foundational method in ML, that's not belittling, it's just a fact.",
+            "score": 14,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewwi9em",
+            "parent": "t1_ewwc5tk",
+            "ans": "Numerical optimization methods like gradient descent are very common in statistics and in many other areas of mathematics. If you can't solve something analytically you use an iterative method",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewwgf6m",
+            "parent": "t1_ewwc5tk",
+            "ans": "This is silly. \n\nThe reason those techniques are used to fit the model (solve the related optimization problem) is just because there\u2019s no closed form solution. If there were, that\u2019s what would be done. \n\nIt\u2019s not \u2018learning,\u2019 it\u2019s just minimizing least squares (or whatever loss function) using a standard optimization package (gradient descent) and watching the improvement in for over iteration. Just like any statistical method (in fact, even OLS - doing the closed form solution is not that efficient in practice).",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ewzi8ip",
+            "parent": "t1_ewzcymv",
+            "ans": "I\u2019m saying it adds nothing of value to make this painfully obvious statement.",
+            "score": 0,
+            "que": "I don't understand the point you're trying to make - you can reduce any argument to absurdity. That doesn't mean it's pointless."
+        },
+        {
+            "id": "exjp2fc",
+            "parent": "t1_exaaq1i",
+            "ans": "yeah, i did a MS in data science. i thought about the healthcare industry mostly because of the grass looking greener on that side. but i didnt want to take epidemiology courses or biostatistics. I also didn't want to bother learning SAS.",
+            "score": 1,
+            "que": "I have a masters in Data Analytics and can personally say the contribution to healthcare alone is really exciting."
+        },
+        {
+            "id": "ewzlkrb",
+            "parent": "t1_ewzi8ip",
+            "ans": "relevant:  [https://xkcd.com/435/](https://xkcd.com/435/)",
+            "score": 1,
+            "que": "I\u2019m saying it adds nothing of value to make this painfully obvious statement."
+        }
+    ]
+}

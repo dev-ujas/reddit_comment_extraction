@@ -1,0 +1,1373 @@
+{
+    "title": "True that",
+    "id": "ejvao9",
+    "create_at": 1578135230.0,
+    "score": 2661,
+    "comments": [
+        {
+            "id": "fd48diz",
+            "parent": "t1_fd1vlzd",
+            "ans": "Yeah most I've seen are more like 20k. Granted I haven't looked carefully at the top programs, and those are surely where the most money is.",
+            "score": 17,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd37vw6",
+            "parent": "t1_fd1vlzd",
+            "ans": "At this point google is publishing as many game changing AI papers as Stanford and you know they pay better too.",
+            "score": 16,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fdaup1i",
+            "parent": "t1_fd1vlzd",
+            "ans": "Shit, right? Mine was a 1/3rd of that when I was in grad school.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd7abtc",
+            "parent": "t1_fd1vlzd",
+            "ans": "Where I work we start interns at $35k",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2fekn",
+            "parent": "t1_fd1vlzd",
+            "ans": "Field?",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2eyd7",
+            "parent": "t1_fd29rqk",
+            "ans": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?",
+            "score": 27,
+            "que": "LPT: Data Science can be really interesting and fun, but if you aren\u2019t able to leverage DS to provide real world utility you aren\u2019t going to make a lot of money."
+        },
+        {
+            "id": "fd4jhhh",
+            "parent": "t1_fd1za1u",
+            "ans": "This is so true! There is a now internally famous study that one of our data science teams did on client attrition. They used state of the art machine learning techniques, advanced statistical analysis, non-linear regression, k-nearest neighbour clustering, you name it on over 1,000 variables to build a client attrition model. \n\nProud and confident the data science team declares that they have found the single most important variable in determining why clients leave us. This field is 95% accurate in determining attrition rates they say to the business teams.\n\n... \u201cThat\u2019s the deceased indicator\u201d the business team responds.",
+            "score": 23,
+            "que": "Perfect example of why the result is what matters and how technical jobs/people can get lost in their skill. \n\nNo one wants to pay (salaries) for analysis. They pay for insights that lead to actions that lead to more money. If there is any stop before the \u201cmore money\u201d part it\u2019s not interesting. Research is fantastic but only if you apply it in the right way. A PhD who focuses his time on guiding high value decisions will not be making 30k a year."
+        },
+        {
+            "id": "fd322ve",
+            "parent": "t1_fd1za1u",
+            "ans": "A PhD student typically makes the same whether they're making high value decisions or not.",
+            "score": 21,
+            "que": "Perfect example of why the result is what matters and how technical jobs/people can get lost in their skill. \n\nNo one wants to pay (salaries) for analysis. They pay for insights that lead to actions that lead to more money. If there is any stop before the \u201cmore money\u201d part it\u2019s not interesting. Research is fantastic but only if you apply it in the right way. A PhD who focuses his time on guiding high value decisions will not be making 30k a year."
+        },
+        {
+            "id": "fd3bkas",
+            "parent": "t1_fd1za1u",
+            "ans": "I think this is why we\u2019re starting to see data science ~like degrees pop up in different places. Operations research, information/decision science, computational sociology, and business analytics are all focused around using DS methods to improve our knowledge/actions in some applied domain.",
+            "score": 5,
+            "que": "Perfect example of why the result is what matters and how technical jobs/people can get lost in their skill. \n\nNo one wants to pay (salaries) for analysis. They pay for insights that lead to actions that lead to more money. If there is any stop before the \u201cmore money\u201d part it\u2019s not interesting. Research is fantastic but only if you apply it in the right way. A PhD who focuses his time on guiding high value decisions will not be making 30k a year."
+        },
+        {
+            "id": "fd32o3v",
+            "parent": "t1_fd1za1u",
+            "ans": "30k a year is a PhD stipend. Your PhD could be how to turn coal into gold and you would still only make 30k a year.",
+            "score": 15,
+            "que": "Perfect example of why the result is what matters and how technical jobs/people can get lost in their skill. \n\nNo one wants to pay (salaries) for analysis. They pay for insights that lead to actions that lead to more money. If there is any stop before the \u201cmore money\u201d part it\u2019s not interesting. Research is fantastic but only if you apply it in the right way. A PhD who focuses his time on guiding high value decisions will not be making 30k a year."
+        },
+        {
+            "id": "fd289w2",
+            "parent": "t1_fd1za1u",
+            "ans": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless.",
+            "score": 35,
+            "que": "Perfect example of why the result is what matters and how technical jobs/people can get lost in their skill. \n\nNo one wants to pay (salaries) for analysis. They pay for insights that lead to actions that lead to more money. If there is any stop before the \u201cmore money\u201d part it\u2019s not interesting. Research is fantastic but only if you apply it in the right way. A PhD who focuses his time on guiding high value decisions will not be making 30k a year."
+        },
+        {
+            "id": "fd41mhj",
+            "parent": "t1_fd1za1u",
+            "ans": "this reply is super disconnected from reality and is just a bunch of babble",
+            "score": 2,
+            "que": "Perfect example of why the result is what matters and how technical jobs/people can get lost in their skill. \n\nNo one wants to pay (salaries) for analysis. They pay for insights that lead to actions that lead to more money. If there is any stop before the \u201cmore money\u201d part it\u2019s not interesting. Research is fantastic but only if you apply it in the right way. A PhD who focuses his time on guiding high value decisions will not be making 30k a year."
+        },
+        {
+            "id": "fd4srbr",
+            "parent": "t1_fd256gz",
+            "ans": "I was going to say, I don't think CEOs are doing any pie charts.",
+            "score": 9,
+            "que": "This is a fabricated lie. CEOs tell others to build pie charts. They don\u2019t build pie charts."
+        },
+        {
+            "id": "fd2lvb8",
+            "parent": "t1_fd28kqj",
+            "ans": "That's how literally I got involved with DS. We had this genius PhD (he actually had 2 post-docs in stats) that knew 'everything there is to know' about statistics. He couldn't deliver anything with real business value because he understood 0 about the business side of the problem we were trying to solve",
+            "score": 41,
+            "que": "This being a joke but I experience this mentality all the time. We had to deal with a couple of very entitled PhDs that thought everybody was an idiot but could not deliver any business value to our department. Ended up using Automodel software that got us the result."
+        },
+        {
+            "id": "fd7786o",
+            "parent": "t1_fd28kqj",
+            "ans": "This times a million. I've constantly run into PhDs throughout my career that can't get out of the academic mindset and need everything to be perfect. In reality a near 100% perfect model is often pointless because if I can create a simple regression model that gets me 80% of the way there in a fraction of the time and effort, the business can move quicker work that. **The incremental validity provided by your fancy PhD model isn't worth the resources it takes to build compared to something simple in a large majority of business situations.**\n\nLearn from the engineers, K.I.S.S. One of the best skills you can have is understanding when accuracy matters. I often ask my customers what if I tell you the answer to your question is 70%? Ok what action will you take based on that? Now what of I tell you it's actually 76.3% or even 85%, does the action you take differ? If not, I'm giving you quick and dirty directional data and moving on to other requests so I can maximize my impact.",
+            "score": 9,
+            "que": "This being a joke but I experience this mentality all the time. We had to deal with a couple of very entitled PhDs that thought everybody was an idiot but could not deliver any business value to our department. Ended up using Automodel software that got us the result."
+        },
+        {
+            "id": "fd3abu4",
+            "parent": "t1_fd28kqj",
+            "ans": "Personally I opted for a business analytics MS over CS, stats, etc. So far this has worked out really well for me. Interning as a data scientist last summer, I was able to communicate how various NLP methods will address unstructured text problems and positively affect the bottom line.",
+            "score": 9,
+            "que": "This being a joke but I experience this mentality all the time. We had to deal with a couple of very entitled PhDs that thought everybody was an idiot but could not deliver any business value to our department. Ended up using Automodel software that got us the result."
+        },
+        {
+            "id": "fd98cix",
+            "parent": "t1_fd28kqj",
+            "ans": "Which AutoModel platform did you use? I have used RapidMiner, DataRobot, and Dataiku, all great in their own ways.I am  to get a feel if other professionals are having success with such platforms in industry.",
+            "score": 2,
+            "que": "This being a joke but I experience this mentality all the time. We had to deal with a couple of very entitled PhDs that thought everybody was an idiot but could not deliver any business value to our department. Ended up using Automodel software that got us the result."
+        },
+        {
+            "id": "fd3ljzm",
+            "parent": "t1_fd2u12w",
+            "ans": "That 90+ hours a week work week for CEOs is super duper false. Studies have been done that show an average of 60 hours a week spent working. Which, btw, is more in the realm of what the work week for a humble telecom technician does. Just because Elon Musk likes to say he works that much doesn't mean most CEOs actually do. For the record, when people like Musk report ridiculous work hours, it's usually a good idea to be skeptical anyway. He's pretty well known for outlandish claims. \n\nhttps://www.forbes.com/sites/markhall/2018/06/25/how-ceo-spend-time/",
+            "score": 25,
+            "que": "I know this is a joke but the truth is, as you move up this ladder, the roles change from purely theoretical (having no consequences) to implementing changes affecting a billion dollars a year. You also move from working 40-50 hours to 70 hours a week and add 20 years of industry based experience around how to make those decisions to your graduate degree.\n\nEdit: changed 90+ hours a week to 70 hours."
+        },
+        {
+            "id": "fd2apun",
+            "parent": "t1_fd1xhi4",
+            "ans": "Samesies. Is nice.\n\nThanks PhD students!",
+            "score": 18,
+            "que": "I'm dumb as hell but currently sitting pretty in tier two"
+        },
+        {
+            "id": "fd31zgf",
+            "parent": "t1_fd1xhi4",
+            "ans": "I joke about this with a coworker who's in the same boat:\n\nManager: \"You're the worst data scientist I've ever heard of!\"\n\nMe: \"but you have heard of me\"",
+            "score": 17,
+            "que": "I'm dumb as hell but currently sitting pretty in tier two"
+        },
+        {
+            "id": "fd3llnh",
+            "parent": "t1_fd1xhi4",
+            "ans": "As a dumb, overwhelmed 22 y/o just starting in tier two, reading this was relieving",
+            "score": 5,
+            "que": "I'm dumb as hell but currently sitting pretty in tier two"
+        },
+        {
+            "id": "fd5tldb",
+            "parent": "t1_fd1xhi4",
+            "ans": "Are you saying you're a data scientists without a PhD? I was under the impression that a PhD is required to work in the field?",
+            "score": -1,
+            "que": "I'm dumb as hell but currently sitting pretty in tier two"
+        },
+        {
+            "id": "fd2jggg",
+            "parent": "t1_fd207ue",
+            "ans": "I thought they only did lunches!!!",
+            "score": 7,
+            "que": "What, you know CEOs who can do pie charts?"
+        },
+        {
+            "id": "fd78rd0",
+            "parent": "t1_fd5pcbp",
+            "ans": "Mine does but we're only like a 20 mil a year company",
+            "score": 1,
+            "que": "Please find me the CEO who makes his own pie charts."
+        },
+        {
+            "id": "fd2ocr0",
+            "parent": "t1_fd2bg68",
+            "ans": "Honestly it\u2019s the right path for some. I\u2019m one of the people who realized I like being an analyst more than I\u2019d like being a data scientist.",
+            "score": 7,
+            "que": "Data analyst it is then !!"
+        },
+        {
+            "id": "fd2541z",
+            "parent": "t1_fd216x2",
+            "ans": "Pre build models - not so much. But stuff like regression has very deep entity which often gets overlooked, and you can spend a year learning it. DS that come from CS are rather ignorant in stats imo.",
+            "score": 18,
+            "que": "What type of job uses pre built sklearn models? Is it a data scientist as well? I'm new to this and have been learning scikitlearn and find it rather easy so far"
+        },
+        {
+            "id": "fd27mij",
+            "parent": "t1_fd216x2",
+            "ans": "It's easy when you are learning and are fed datasets.  When the questions become open-ended and nobody tells you where to find what data and what things to check as potential dependent variables then it gets a little more opaque.",
+            "score": 17,
+            "que": "What type of job uses pre built sklearn models? Is it a data scientist as well? I'm new to this and have been learning scikitlearn and find it rather easy so far"
+        },
+        {
+            "id": "fd3c7sh",
+            "parent": "t1_fd216x2",
+            "ans": "You can expect to use linear and logistic regression very frequently because they\u2019re easily employed and easily interpreted. Both are available within sklearn",
+            "score": 4,
+            "que": "What type of job uses pre built sklearn models? Is it a data scientist as well? I'm new to this and have been learning scikitlearn and find it rather easy so far"
+        },
+        {
+            "id": "fd2z7qo",
+            "parent": "t1_fd2wm75",
+            "ans": "Meh, less a bubble, more a filtration as less data literate people wise up to the fantastical claims many in the AI/ML space make.",
+            "score": 8,
+            "que": "The data economy, especially from a jobs perspective, had all the tell-tale signs of a bubble. Pair that with decision-makers failing to attempt to understand data  or to only go after the \u201csexy stuff\u201d and who knows where we\u2019ll be in a year"
+        },
+        {
+            "id": "fd3ubfm",
+            "parent": "t1_fd2wm75",
+            "ans": "What are these tell-tale signs? \n\nIt seems like the market is driven by FANG like companies, which do appear to be getting generous returns on their data science investments.",
+            "score": 6,
+            "que": "The data economy, especially from a jobs perspective, had all the tell-tale signs of a bubble. Pair that with decision-makers failing to attempt to understand data  or to only go after the \u201csexy stuff\u201d and who knows where we\u2019ll be in a year"
+        },
+        {
+            "id": "fd3c4p8",
+            "parent": "t1_fd2wm75",
+            "ans": "Given it seems like a bubble, should these careers be avoided? Was entertaining a masters in stats to facilitate a data career.",
+            "score": 2,
+            "que": "The data economy, especially from a jobs perspective, had all the tell-tale signs of a bubble. Pair that with decision-makers failing to attempt to understand data  or to only go after the \u201csexy stuff\u201d and who knows where we\u2019ll be in a year"
+        },
+        {
+            "id": "fd2o94o",
+            "parent": "t1_fd2jkjl",
+            "ans": "As of end of 2017, $120k put you in the [top 10% of wage earners in the US](https://www.investopedia.com/personal-finance/how-much-income-puts-you-top-1-5-10/).\n\nI\u2019m not sure why you consider that a \u201cnot good salary\u201d.",
+            "score": 12,
+            "que": "120k a year is not a good salary. I think it should pay more.\n\n*edit wow so many downvotes. But really this isnt a great salary in IT. Sure compared to other jobs, but not IT."
+        },
+        {
+            "id": "fd2otpj",
+            "parent": "t1_fd2jkjl",
+            "ans": "Most retarded comment I have read in a while",
+            "score": 10,
+            "que": "120k a year is not a good salary. I think it should pay more.\n\n*edit wow so many downvotes. But really this isnt a great salary in IT. Sure compared to other jobs, but not IT."
+        },
+        {
+            "id": "fd2log5",
+            "parent": "t1_fd2jkjl",
+            "ans": "What is for where",
+            "score": 1,
+            "que": "120k a year is not a good salary. I think it should pay more.\n\n*edit wow so many downvotes. But really this isnt a great salary in IT. Sure compared to other jobs, but not IT."
+        },
+        {
+            "id": "fd2gofq",
+            "parent": "t1_fd2fekn",
+            "ans": "[deleted]",
+            "score": 18,
+            "que": "Field?"
+        },
+        {
+            "id": "fd2sozr",
+            "parent": "t1_fd2eyd7",
+            "ans": "I'm just one person. But so far I'd say no. We can learn how to use the tools well. Even with a data science job I still hit datacamp everyday to keep my SQL, python, r and git functions and syntax sharp. You have to know how to use your tools. I data mine, model, segment, a/b test, predict, clean, and all that using these tools. \n\nHowever, the domain is the other 65%. I work in finance, which means my work is pointed at social science concepts... socioeconomic behavior in terms of financial instruments and contexts. I did not have this background before I started as I was in linguistics. So I learn the theory, read papers, TALK with as many COLLEAGUES as possible. After all, it's their work and business I'm analyzing. \n\nI engineer variables more appropriately after these conversations. My dashboards are more used after these conversations. My models generally yield better metrics after these conversations. My work is more appreciated. \n\nDS folks dig into the technical programming and mathematics because we have been cultured to via the internet. DS professional development was born of the internet. So the discourse lends itself to topics more aligned with internet culture. Interpersonal skills are not emphasized here. But from what I've experienced, those are the skills you need to get your work accepted and to learn about your domain. That generally happens in an actual job as it is very difficult to simulate in a class.",
+            "score": 56,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd2ijrg",
+            "parent": "t1_fd2eyd7",
+            "ans": "The latter is pretty much how every job works. Frankly, I'm not sure universities and other educational sources can do much to improve that gap.",
+            "score": 27,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd2s2s7",
+            "parent": "t1_fd2eyd7",
+            "ans": "To be frank, I don't know if schools are in that business... That would require less statistics/computer science/math theoretical practice and more industry experience.\n\nGet a career mentor. Listen to your bosses and ask for feedback from your SME's and project leads. Also, take a step back in your projects and ask a few other successful people around you if they think you are taking a good direction. Take note of their views at a very minimum.\n\nI think the mistake that most people make is assuming their route is the best and should always be taken.\n\nSometimes risks/sacrifices need to be made to get great results. That includes backing projects you think are not going in a great direction. One thing I realized is that projects that have a bad direction sometimes sink and projects with a bad direction and no support always sink. If you are put in a bad direction, you should still support the project as best as possible. If it sinks, you can tell them, that they should have listened. If it doesn't, you will have a SME that trusts you to work WITH them instead of trying to force their hand on THEIR project.\n\nEdit:\n\nThe difference between someone successful in DS and someone not is usually a pretty even combination of:\n\n1) how they work with the people around them.\n\n2) how much they know",
+            "score": 11,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd2ytu2",
+            "parent": "t1_fd2eyd7",
+            "ans": "Translate outputs to decisions with dollars attached. Or customer counts. Or FTE headcount.",
+            "score": 5,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd5jdge",
+            "parent": "t1_fd2eyd7",
+            "ans": "If you want to do algorithms keep studying Data Science. The image above is biased... the career path is not Data Scientist -> Sr. Director -> ... -> ... -> ... -> CEO\n\nYou picked Data Science or Computer Science then don't expect the switch easily. There are career paths for that too, Business Analytics is basically Data Science Applied. Is basically: \"yeah yeah nice math and shit, now tell me how to use it to predict sales mofo!\"",
+            "score": 5,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd6fmpo",
+            "parent": "t1_fd2eyd7",
+            "ans": "I came from a management consulting background and now am a data scientist. The consulting skillset is invaluable in quickly understanding a domain, developing a set of problems to be solved and then deciding on the most value add problem to execute on, as well as bringing your stakeholders along for the ride. It can definitely be learned. Start with the McKinsey Way and Victor Chen's newsletters if you're interested in the basics of consulting.",
+            "score": 3,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd66rd5",
+            "parent": "t1_fd2eyd7",
+            "ans": "Get one of those \"mba in a day\" type books. Understand how any given company makes money. Then figure out how DS can make more of that money.",
+            "score": 2,
+            "que": "Can we 'learn' how to do that? Before getting into a job? Or should we just get into a job, gain more domain knowledge and learn it by trial and error?"
+        },
+        {
+            "id": "fd7cvff",
+            "parent": "t1_fd4jhhh",
+            "ans": "Know your data. Know your data. Know your data.",
+            "score": 8,
+            "que": "This is so true! There is a now internally famous study that one of our data science teams did on client attrition. They used state of the art machine learning techniques, advanced statistical analysis, non-linear regression, k-nearest neighbour clustering, you name it on over 1,000 variables to build a client attrition model. \n\nProud and confident the data science team declares that they have found the single most important variable in determining why clients leave us. This field is 95% accurate in determining attrition rates they say to the business teams.\n\n... \u201cThat\u2019s the deceased indicator\u201d the business team responds."
+        },
+        {
+            "id": "fd5c0cm",
+            "parent": "t1_fd322ve",
+            "ans": "Not really, high level PhD students can amass a decent amount of awards and fellowships from national programs. The Canadian Vanier award can be $50K CAD on top of your stipend which ain't too bad.",
+            "score": 1,
+            "que": "A PhD student typically makes the same whether they're making high value decisions or not."
+        },
+        {
+            "id": "fd3l0fn",
+            "parent": "t1_fd322ve",
+            "ans": "No. What you mean to say is perhaps that a typical PhD student actually doesnt create a lot of value (other than his personal growth/learning)",
+            "score": -5,
+            "que": "A PhD student typically makes the same whether they're making high value decisions or not."
+        },
+        {
+            "id": "fd3r2ce",
+            "parent": "t1_fd32o3v",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "30k a year is a PhD stipend. Your PhD could be how to turn coal into gold and you would still only make 30k a year."
+        },
+        {
+            "id": "fd3lfc7",
+            "parent": "t1_fd32o3v",
+            "ans": "OK..? I would actually PAY to learn how to turn coal into gold (efficiently). Why would I get money to learn something important? Jesus some people have a messed up view on value and entitlement.",
+            "score": -4,
+            "que": "30k a year is a PhD stipend. Your PhD could be how to turn coal into gold and you would still only make 30k a year."
+        },
+        {
+            "id": "fd56uby",
+            "parent": "t1_fd289w2",
+            "ans": "People tend to expect pay to reflect the amount, speed, and/or difficulty of work. As we have seen, this is often not the case.",
+            "score": 7,
+            "que": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless."
+        },
+        {
+            "id": "fd2rgr4",
+            "parent": "t1_fd289w2",
+            "ans": "Well, if you think that most machine learning models that are used today by a bunch of data scientists are useless, what can I say? \n\nAnd also, if Ph.D. students never stopped to research that because using what is already, there is more useful than creating new algorithms, we would never have all that is state of the art today. I\u2019m talking about cancer-detecting algorithm, weather forecast, autopilot for cars and planes, generative models that allow the movie industry to work less on CGI, faster computers (all done by research), but yeah pie charts and analysis is what creates money for the industry.",
+            "score": 30,
+            "que": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless."
+        },
+        {
+            "id": "fdav8yv",
+            "parent": "t1_fd289w2",
+            "ans": "Something is very wrong when we're making the decision not to value hard work and knowledge. PhD students are some of the hardest working, smartest people on Earth and we throw them scraps. Meanwhile the son or daughter of a rich mogul starts a company and gets millions for their social connections and inherited capital.\n\nMostly I grow tired of the double-standards. Many people argue a person with complaints about their income needs to work harder or smarter to get ahead, yet clearly the system is not designed to reward people this way.",
+            "score": 3,
+            "que": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless."
+        },
+        {
+            "id": "fd2kmqq",
+            "parent": "t1_fd289w2",
+            "ans": "From an idealistic POV the PHDs should be paid more since they are actually contributing to mankind's knowledge in a field instead of making more money off other people's money. But you guys seem very inclined to agree with *capitalism* views on perceived value so... yeah.",
+            "score": 18,
+            "que": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless."
+        },
+        {
+            "id": "fd47q0m",
+            "parent": "t1_fd289w2",
+            "ans": "\"Most PhD level research is useless.\"\n\nWow, hot take. I learned about the scientific process in middle school, where were you? I thought this was pretty basic stuff.",
+            "score": 2,
+            "que": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless."
+        },
+        {
+            "id": "fd2lgbc",
+            "parent": "t1_fd289w2",
+            "ans": "Also if PhD students would actually start patenting their ideas instead of giving them away for free, they'd be making a shit ton more money assuming they invented good ideas",
+            "score": -6,
+            "que": "THANK YOU. That tweet is really stupid. Why should we expect the most technical / innovative scientific roles to make the most money? Its not the algorithms, its how they are used. Not to mention most PhD level research is useless."
+        },
+        {
+            "id": "fd4u34x",
+            "parent": "t1_fd4srbr",
+            "ans": "How else are they going to claim innocence if the numbers are wrong?",
+            "score": 6,
+            "que": "I was going to say, I don't think CEOs are doing any pie charts."
+        },
+        {
+            "id": "fd5dnjg",
+            "parent": "t1_fd2lvb8",
+            "ans": "Or your data simply did't say what you wanted it to say and he didn't want to lie.",
+            "score": -6,
+            "que": "That's how literally I got involved with DS. We had this genius PhD (he actually had 2 post-docs in stats) that knew 'everything there is to know' about statistics. He couldn't deliver anything with real business value because he understood 0 about the business side of the problem we were trying to solve"
+        },
+        {
+            "id": "fd4xc6y",
+            "parent": "t1_fd3abu4",
+            "ans": "This is really interesting. I want to get into DS and I\u2019ve read so much that I should get a CS degree. However I have decided on ASU business data analytics degree. I often question if this is the right choice.",
+            "score": 6,
+            "que": "Personally I opted for a business analytics MS over CS, stats, etc. So far this has worked out really well for me. Interning as a data scientist last summer, I was able to communicate how various NLP methods will address unstructured text problems and positively affect the bottom line."
+        },
+        {
+            "id": "frjym4t",
+            "parent": "t1_fd3abu4",
+            "ans": "Been in analytics for about 3 years now, and heading back to school to finish a degree in decision analytics and a master in data science. I've been working in business for 5ish years and have an operations background, but I find it important to get the under degree in decision analytics to pair with the technical masters.",
+            "score": 1,
+            "que": "Personally I opted for a business analytics MS over CS, stats, etc. So far this has worked out really well for me. Interning as a data scientist last summer, I was able to communicate how various NLP methods will address unstructured text problems and positively affect the bottom line."
+        },
+        {
+            "id": "fd9x82k",
+            "parent": "t1_fd98cix",
+            "ans": "I only have experience with python, sorry.\n\nMost of the projects we worked on in grad school were a bit too big for auto models, so we learned to use pyspark to distribute the computations and PyTorch on a GPU to train NNs more efficiently, etc\n\nOne professor said we could optionally use rapid miner, but I had never heard of it nor seen it as a desired skill on any job descriptions, so I decided to use R instead. While all the other classes were mandatory about use of python.",
+            "score": 3,
+            "que": "Which AutoModel platform did you use? I have used RapidMiner, DataRobot, and Dataiku, all great in their own ways.I am  to get a feel if other professionals are having success with such platforms in industry."
+        },
+        {
+            "id": "fd3pfw5",
+            "parent": "t1_fd3ljzm",
+            "ans": "Good point, I didnt know that. Hedge fund analysts work 60-90 hours typically ([link](https://www.wallstreetoasis.com/forums/how-are-hedge-fund-hours-like))\n\nAs a common exit opportunity from investment banking and sales and trading - many analysts are looking for a better \"lifestyle\" then IB in the hedge fund universe. Our users shared their experiences below with ***hours for hedge fund analysts ranging between 60 - 90 hours a week.***",
+            "score": 10,
+            "que": "That 90+ hours a week work week for CEOs is super duper false. Studies have been done that show an average of 60 hours a week spent working. Which, btw, is more in the realm of what the work week for a humble telecom technician does. Just because Elon Musk likes to say he works that much doesn't mean most CEOs actually do. For the record, when people like Musk report ridiculous work hours, it's usually a good idea to be skeptical anyway. He's pretty well known for outlandish claims. \n\nhttps://www.forbes.com/sites/markhall/2018/06/25/how-ceo-spend-time/"
+        },
+        {
+            "id": "fd5vd7y",
+            "parent": "t1_fd5tldb",
+            "ans": "That is completely the wrong impression. I have a BA.",
+            "score": 7,
+            "que": "Are you saying you're a data scientists without a PhD? I was under the impression that a PhD is required to work in the field?"
+        },
+        {
+            "id": "fdcmnoq",
+            "parent": "t1_fd78rd0",
+            "ans": "LOL. I suppose I should add find me the CEO who draws $14 mn a year and draws his own pie charts.",
+            "score": 2,
+            "que": "Mine does but we're only like a 20 mil a year company"
+        },
+        {
+            "id": "fd5qbt7",
+            "parent": "t1_fd2ocr0",
+            "ans": "What is the main difference between the two? Is it just rank or is there more?",
+            "score": 1,
+            "que": "Honestly it\u2019s the right path for some. I\u2019m one of the people who realized I like being an analyst more than I\u2019d like being a data scientist."
+        },
+        {
+            "id": "fd290qn",
+            "parent": "t1_fd27mij",
+            "ans": "Yeah that makes sense to me. I would imagine getting the right data and choosing the right model and explaining why the model works are the biggest challenges?\n\nAnd to clarify, are there jobs that just take advantage of the prebuilt scikitlearn models? I come from a computer science background rather than stats but with the information I am hoping i can use it in my current job as a business analyst.",
+            "score": 3,
+            "que": "It's easy when you are learning and are fed datasets.  When the questions become open-ended and nobody tells you where to find what data and what things to check as potential dependent variables then it gets a little more opaque."
+        },
+        {
+            "id": "fd787ve",
+            "parent": "t1_fd3c7sh",
+            "ans": "But prebuilt implies known/preconfigured weights/coefficients. The poster actually probably meant off the shelf ML algorithms",
+            "score": 2,
+            "que": "You can expect to use linear and logistic regression very frequently because they\u2019re easily employed and easily interpreted. Both are available within sklearn"
+        },
+        {
+            "id": "fd3osjr",
+            "parent": "t1_fd3c4p8",
+            "ans": "A solid knowledge of statistics isn't going to become useless any time soon. But you can probably expect the \"AI\" fad to calm down some, following the typical hype curve.",
+            "score": 6,
+            "que": "Given it seems like a bubble, should these careers be avoided? Was entertaining a masters in stats to facilitate a data career."
+        },
+        {
+            "id": "fd31kek",
+            "parent": "t1_fd2o94o",
+            "ans": "I know of other IT roles less taxing on the brain that pay more. What Im trying to say is it should actually pay more.",
+            "score": 4,
+            "que": "As of end of 2017, $120k put you in the [top 10% of wage earners in the US](https://www.investopedia.com/personal-finance/how-much-income-puts-you-top-1-5-10/).\n\nI\u2019m not sure why you consider that a \u201cnot good salary\u201d."
+        },
+        {
+            "id": "fd2zee2",
+            "parent": "t1_fd2o94o",
+            "ans": "Relative to IT it's not terribly high.\n\n$120k is a good entry level salary for a PhD / great for a masters degree.\n\nI'm seeing remote offers these days starting at $210k for just a few years experience.",
+            "score": 2,
+            "que": "As of end of 2017, $120k put you in the [top 10% of wage earners in the US](https://www.investopedia.com/personal-finance/how-much-income-puts-you-top-1-5-10/).\n\nI\u2019m not sure why you consider that a \u201cnot good salary\u201d."
+        },
+        {
+            "id": "fd2s683",
+            "parent": "t1_fd2otpj",
+            "ans": "Why? I know of other IT roles less taxing on the brain that pay more.\n\nI feel that role should actually pay more.",
+            "score": 2,
+            "que": "Most retarded comment I have read in a while"
+        },
+        {
+            "id": "fd2q268",
+            "parent": "t1_fd2log5",
+            "ans": "in US in IT",
+            "score": 1,
+            "que": "What is for where"
+        },
+        {
+            "id": "fd3ozua",
+            "parent": "t1_fd2gofq",
+            "ans": "\u00a322-25 for an entry level role would be verrrrrrry low. I think the going London rate is ~\u00a335k+ for a new grad.",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd41tvc",
+            "parent": "t1_fd2gofq",
+            "ans": "come to the US then and make 100k+ starting in NYC, at worst like 70-100k range as a data scientist",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2i8bx",
+            "parent": "t1_fd2gofq",
+            "ans": "Which most definitely gets you much further than 30k in the U.S.",
+            "score": -1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd4jkxy",
+            "parent": "t1_fd2sozr",
+            "ans": "I\u2019m about to graduate in Finance, can I message you with some questions?",
+            "score": 6,
+            "que": "I'm just one person. But so far I'd say no. We can learn how to use the tools well. Even with a data science job I still hit datacamp everyday to keep my SQL, python, r and git functions and syntax sharp. You have to know how to use your tools. I data mine, model, segment, a/b test, predict, clean, and all that using these tools. \n\nHowever, the domain is the other 65%. I work in finance, which means my work is pointed at social science concepts... socioeconomic behavior in terms of financial instruments and contexts. I did not have this background before I started as I was in linguistics. So I learn the theory, read papers, TALK with as many COLLEAGUES as possible. After all, it's their work and business I'm analyzing. \n\nI engineer variables more appropriately after these conversations. My dashboards are more used after these conversations. My models generally yield better metrics after these conversations. My work is more appreciated. \n\nDS folks dig into the technical programming and mathematics because we have been cultured to via the internet. DS professional development was born of the internet. So the discourse lends itself to topics more aligned with internet culture. Interpersonal skills are not emphasized here. But from what I've experienced, those are the skills you need to get your work accepted and to learn about your domain. That generally happens in an actual job as it is very difficult to simulate in a class."
+        },
+        {
+            "id": "fd2tcl6",
+            "parent": "t1_fd2s2s7",
+            "ans": "Thank you for this clear insight. So its less about science and more about connections and building trust? What if the management is not ready to take the blame? What else can we do to tackle the sink?",
+            "score": 3,
+            "que": "To be frank, I don't know if schools are in that business... That would require less statistics/computer science/math theoretical practice and more industry experience.\n\nGet a career mentor. Listen to your bosses and ask for feedback from your SME's and project leads. Also, take a step back in your projects and ask a few other successful people around you if they think you are taking a good direction. Take note of their views at a very minimum.\n\nI think the mistake that most people make is assuming their route is the best and should always be taken.\n\nSometimes risks/sacrifices need to be made to get great results. That includes backing projects you think are not going in a great direction. One thing I realized is that projects that have a bad direction sometimes sink and projects with a bad direction and no support always sink. If you are put in a bad direction, you should still support the project as best as possible. If it sinks, you can tell them, that they should have listened. If it doesn't, you will have a SME that trusts you to work WITH them instead of trying to force their hand on THEIR project.\n\nEdit:\n\nThe difference between someone successful in DS and someone not is usually a pretty even combination of:\n\n1) how they work with the people around them.\n\n2) how much they know"
+        },
+        {
+            "id": "fd74anz",
+            "parent": "t1_fd66rd5",
+            "ans": "Think like a freak by Steven Levitt and/or Stephen dubner would be a really good one for ds people wanting to do business. Or like zero to one by Peter theil. There's a ton of good business books and they're way easier than learning stats",
+            "score": 3,
+            "que": "Get one of those \"mba in a day\" type books. Understand how any given company makes money. Then figure out how DS can make more of that money."
+        },
+        {
+            "id": "fd5k9fs",
+            "parent": "t1_fd5c0cm",
+            "ans": "Oh cool I didn't know about that award!\n\nI think this would be a better argument if these awards were more prevalent. Still a good point though.",
+            "score": 3,
+            "que": "Not really, high level PhD students can amass a decent amount of awards and fellowships from national programs. The Canadian Vanier award can be $50K CAD on top of your stipend which ain't too bad."
+        },
+        {
+            "id": "fd4ijla",
+            "parent": "t1_fd3l0fn",
+            "ans": "[removed]",
+            "score": 10,
+            "que": "No. What you mean to say is perhaps that a typical PhD student actually doesnt create a lot of value (other than his personal growth/learning)"
+        },
+        {
+            "id": "fd43hd3",
+            "parent": "t1_fd3l0fn",
+            "ans": "No what I mean to say is what I said. \n\nIf you are a PhD student, your stipend is set by the grants you obtain or the positions you work. While some grants provide more funding than others, they fall within a narrow range. The NSF GRFP is one of the better paying individual grants you can get at 34,000 per year (it's also very prestigious). Compensation for positions is standardized for a department so if you teach or work in a research lab, there's very little variation in pay. Working in computer science may get them a couple grand more per year when compared to working in a social science lab but the difference is slight. \n\nAlso who are you supposed to be creating value for? The uni?",
+            "score": 6,
+            "que": "No. What you mean to say is perhaps that a typical PhD student actually doesnt create a lot of value (other than his personal growth/learning)"
+        },
+        {
+            "id": "fd3rq09",
+            "parent": "t1_fd3r2ce",
+            "ans": "That\u2019s not at all how that works. If you completed any work on it at the university, they now own 50% of it and will sue for it.",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd3m4ph",
+            "parent": "t1_fd3lfc7",
+            "ans": "A PhD isn\u2019t you learning something, it\u2019s you doing the research to discover something. Why would you pay to do that (unless you get to patent it and make the money yourself, which, you absolutely do not). My point is that there\u2019s no correlation between money generating probability of your PhD research and how much you get paid. The stipend of the student who\u2019s chemical process generates billions globally is the same as the one who studies the breathing pattern of Sub Saharan antelopes.",
+            "score": 8,
+            "que": "OK..? I would actually PAY to learn how to turn coal into gold (efficiently). Why would I get money to learn something important? Jesus some people have a messed up view on value and entitlement."
+        },
+        {
+            "id": "fd3mapw",
+            "parent": "t1_fd2rgr4",
+            "ans": "You've inverted the proposition there. Most PhD research is useless. A small amount of PhD research becomes very useful. Most of what people use on a day to day basis came from a very tiny fraction of the work done by AI researchers.",
+            "score": 17,
+            "que": "Well, if you think that most machine learning models that are used today by a bunch of data scientists are useless, what can I say? \n\nAnd also, if Ph.D. students never stopped to research that because using what is already, there is more useful than creating new algorithms, we would never have all that is state of the art today. I\u2019m talking about cancer-detecting algorithm, weather forecast, autopilot for cars and planes, generative models that allow the movie industry to work less on CGI, faster computers (all done by research), but yeah pie charts and analysis is what creates money for the industry."
+        },
+        {
+            "id": "fd2oj5y",
+            "parent": "t1_fd2kmqq",
+            "ans": "[deleted]",
+            "score": 13,
+            "que": "From an idealistic POV the PHDs should be paid more since they are actually contributing to mankind's knowledge in a field instead of making more money off other people's money. But you guys seem very inclined to agree with *capitalism* views on perceived value so... yeah."
+        },
+        {
+            "id": "fd4glbz",
+            "parent": "t1_fd2kmqq",
+            "ans": ".",
+            "score": 1,
+            "que": "From an idealistic POV the PHDs should be paid more since they are actually contributing to mankind's knowledge in a field instead of making more money off other people's money. But you guys seem very inclined to agree with *capitalism* views on perceived value so... yeah."
+        },
+        {
+            "id": "fetvptj",
+            "parent": "t1_fd2kmqq",
+            "ans": "Why? As stated, if a lot of PhD research has no practical significance, why should they be paid more?\n\nWe already have a system whereby PhDs with very useful research make more money. It\u2019s called endowed chairs, where a university decides to use additional funds over standard salaries to employ high value researchers. \n\nWe also have another way to pay PhDs with useful research. It\u2019s called the market, and any company is free to make use of any researcher they want and compete with others to pay them a lot of money.",
+            "score": 1,
+            "que": "From an idealistic POV the PHDs should be paid more since they are actually contributing to mankind's knowledge in a field instead of making more money off other people's money. But you guys seem very inclined to agree with *capitalism* views on perceived value so... yeah."
+        },
+        {
+            "id": "fd2m8kv",
+            "parent": "t1_fd2lgbc",
+            "ans": "You cannot patent mathematics.",
+            "score": 19,
+            "que": "Also if PhD students would actually start patenting their ideas instead of giving them away for free, they'd be making a shit ton more money assuming they invented good ideas"
+        },
+        {
+            "id": "fd38wuo",
+            "parent": "t1_fd2lgbc",
+            "ans": "My university wouldn\u2019t let us patent anything. If we created anything of value they \u201cowned it\u201d. My friend fought for a long time only to lose that battle.",
+            "score": 2,
+            "que": "Also if PhD students would actually start patenting their ideas instead of giving them away for free, they'd be making a shit ton more money assuming they invented good ideas"
+        },
+        {
+            "id": "fd5i12j",
+            "parent": "t1_fd5dnjg",
+            "ans": "Can't give more details, but no, it's not the case. Once I got a good understanding of R and some classification algorithms, I managed to improve the model accuracy and stability as well as giving it some business sense that the client required",
+            "score": 6,
+            "que": "Or your data simply did't say what you wanted it to say and he didn't want to lie."
+        },
+        {
+            "id": "fd56vle",
+            "parent": "t1_fd4xc6y",
+            "ans": "A CS degree is not necessary. Sure, CS will elevate you to the top 10% of applicants. But MSBA is a fine way to enter the industry, as well. \n\nThe key is - projects. I did 2 NLP projects, 1 with computer vision, and 1 with NN based recommender systems. This experience has seriously helped me compete with CS applicants.\n\nEdit: my university offers an MSBA and an MSCS. The biggest difference I\u2019ve noted is - the MSBA has all neural network applications wrapped up in one course. Whereas the MSCS has an NLP NN class, a CNN computer vision, course and a reinforcement learning class. In practice, you don\u2019t have enough time to take all these classes, so the MSCS forced you to specialize. Whereas the MSBA tends to give you a \u201cgeneralist\u201d approach to data science.",
+            "score": 3,
+            "que": "This is really interesting. I want to get into DS and I\u2019ve read so much that I should get a CS degree. However I have decided on ASU business data analytics degree. I often question if this is the right choice."
+        },
+        {
+            "id": "fdaao3v",
+            "parent": "t1_fd9x82k",
+            "ans": "Thanks for your reply, my post was actually to u/swime, per their use of Automodel Software.",
+            "score": 2,
+            "que": "I only have experience with python, sorry.\n\nMost of the projects we worked on in grad school were a bit too big for auto models, so we learned to use pyspark to distribute the computations and PyTorch on a GPU to train NNs more efficiently, etc\n\nOne professor said we could optionally use rapid miner, but I had never heard of it nor seen it as a desired skill on any job descriptions, so I decided to use R instead. While all the other classes were mandatory about use of python."
+        },
+        {
+            "id": "fd3qmdu",
+            "parent": "t1_fd3pfw5",
+            "ans": "Good point there. I was reading the initial comment of \"going up the ladder\" to mean specifically into more executive than analytic positions based on the context of the meme this was all about. I'm actually much less skeptical of long working hours for hedge fund analysts, although I still don't entirely trust self reporting.",
+            "score": 6,
+            "que": "Good point, I didnt know that. Hedge fund analysts work 60-90 hours typically ([link](https://www.wallstreetoasis.com/forums/how-are-hedge-fund-hours-like))\n\nAs a common exit opportunity from investment banking and sales and trading - many analysts are looking for a better \"lifestyle\" then IB in the hedge fund universe. Our users shared their experiences below with ***hours for hedge fund analysts ranging between 60 - 90 hours a week.***"
+        },
+        {
+            "id": "fd6vj1a",
+            "parent": "t1_fd5vd7y",
+            "ans": "That is encouraging. Thanks for sharing",
+            "score": 2,
+            "que": "That is completely the wrong impression. I have a BA."
+        },
+        {
+            "id": "fd5rn1f",
+            "parent": "t1_fd5qbt7",
+            "ans": "Depends company to company. Typically data scientists are working on predictive modelling, while analysts are working closer to the business and describing what has happened in the past and up to today to answer current business questions.\n\nBut again, that all depends on the company. Typically data science entails a more advanced degree in something like stats, while being an analyst does not.",
+            "score": 2,
+            "que": "What is the main difference between the two? Is it just rank or is there more?"
+        },
+        {
+            "id": "fd3o9wm",
+            "parent": "t1_fd290qn",
+            "ans": "You've skipped the hardest step: picking a project that will provide significantly more value when it's done than the cost of paying you to do it. If your boss says: we need to increase the length of time our customers renew their subscriptions you aren't yet in a place to pick a model and clean some data. You have to figure out how using some model is going to give you information you can *act* on.",
+            "score": 5,
+            "que": "Yeah that makes sense to me. I would imagine getting the right data and choosing the right model and explaining why the model works are the biggest challenges?\n\nAnd to clarify, are there jobs that just take advantage of the prebuilt scikitlearn models? I come from a computer science background rather than stats but with the information I am hoping i can use it in my current job as a business analyst."
+        },
+        {
+            "id": "fd2vd51",
+            "parent": "t1_fd290qn",
+            "ans": "I'm a computer science grad as well, working as a data scientist. The biggest challenges about the job is to really understand the business, and most importantly **DATA CLEANING**, if you have messy data, you can use the best model out there and it will give you shit results. \n\nOnce you have all that, you will need to do some feature engineering,  try out different models and parameters, and it will give you great results. In my projects, xgboost with a simple randomized search could gave us the best results.",
+            "score": 4,
+            "que": "Yeah that makes sense to me. I would imagine getting the right data and choosing the right model and explaining why the model works are the biggest challenges?\n\nAnd to clarify, are there jobs that just take advantage of the prebuilt scikitlearn models? I come from a computer science background rather than stats but with the information I am hoping i can use it in my current job as a business analyst."
+        },
+        {
+            "id": "fd3pccl",
+            "parent": "t1_fd3osjr",
+            "ans": "What\u2019s funny is that my motivation to study statistics isnt about AI/ML but to enhance my understanding and ability surrounding analytics... Im much more interested in math than I am anything the business school \u201cteaches\u201d",
+            "score": 5,
+            "que": "A solid knowledge of statistics isn't going to become useless any time soon. But you can probably expect the \"AI\" fad to calm down some, following the typical hype curve."
+        },
+        {
+            "id": "fd78sx3",
+            "parent": "t1_fd3osjr",
+            "ans": "> But you can probably expect the \"AI\" fad to calm down some, following the typical hype curve.\n\nML and AI are bullshit fad but Gartner Hype Cycle and Laffer Curves are rock solid science /s",
+            "score": 2,
+            "que": "A solid knowledge of statistics isn't going to become useless any time soon. But you can probably expect the \"AI\" fad to calm down some, following the typical hype curve."
+        },
+        {
+            "id": "fd325cw",
+            "parent": "t1_fd2zee2",
+            "ans": "Can you please tell me examples of this? I am not US based though, but afaik this is not common for remote jobs.",
+            "score": 4,
+            "que": "Relative to IT it's not terribly high.\n\n$120k is a good entry level salary for a PhD / great for a masters degree.\n\nI'm seeing remote offers these days starting at $210k for just a few years experience."
+        },
+        {
+            "id": "fd33qkb",
+            "parent": "t1_fd2zee2",
+            "ans": "Exactly, an example I know of a role doing basic dev, actually flow charts with simple logic in a product similiar to but simpler than Salesforce, paying 150k USD. This is not uncommon.",
+            "score": 1,
+            "que": "Relative to IT it's not terribly high.\n\n$120k is a good entry level salary for a PhD / great for a masters degree.\n\nI'm seeing remote offers these days starting at $210k for just a few years experience."
+        },
+        {
+            "id": "fd3pwlq",
+            "parent": "t1_fd3ozua",
+            "ans": "[deleted]",
+            "score": 6,
+            "que": "\u00a322-25 for an entry level role would be verrrrrrry low. I think the going London rate is ~\u00a335k+ for a new grad."
+        },
+        {
+            "id": "fdeah2w",
+            "parent": "t1_fd3ozua",
+            "ans": "Why is the pay so low in London (Britain in general?). Even with the conversion, that's like $40k? in the US",
+            "score": 1,
+            "que": "\u00a322-25 for an entry level role would be verrrrrrry low. I think the going London rate is ~\u00a335k+ for a new grad."
+        },
+        {
+            "id": "fd2ib0u",
+            "parent": "t1_fd2i8bx",
+            "ans": "[deleted]",
+            "score": 17,
+            "que": "Which most definitely gets you much further than 30k in the U.S."
+        },
+        {
+            "id": "fd3ddwg",
+            "parent": "t1_fd2tcl6",
+            "ans": "A quick intro about me, I am 4 years outside of school and I have stayed at my first company. I have never gotten less than a 20% annual raise. I am in no way an expert but I have been very successful in my role. I am the first Data Scientist at my company and we have had 4 others added in the last year due to me being run thin and the demand on my time increasing. I work in the finance industry so we have a lot of data (I would say 1000 tables is a VERY conservative estimate). I think this is is all pretty unique and there are still a lot of things that I am learning so take what I say with a grain of salt.\n\n>So its less about science and more about connections and building trust?\n\nThat has been my experience. The most successful project I was on made a \\~50% reduction in turnaround time across all process in the company. I stumbled on the problem because of a logistic model I ran. When started diving into the issue, a SME said 'this is so beautiful I want to vomit' because of how much money/effort/etc was wasted. I then spent 3 months trying to better understand the data surrounding the processes, issues that cropped up, and other things we could take action on. To help implement the change, the SME that started the project with me worked probably 60+ hours a week and got promoted to better lead it. The change resulted in less man hour cost, higher win rate for new clients, and around $3m a year in client retention because of the faster turn around times. I didnt know for 2 years but the SME had put really everything into this change. I knew he worked a lot but I didnt know he pushed for this to be his only project (he would live or die by it) and actually changed the culture of those employees impacted by the change to see it's success. He made fun instructional videos, he made screen savers on computers, he did everything. He did this to see it's success because he believed in it in the project and the direction I gave.\n\nI am extremely confident that I could never implement the project as well as he did (and possibly not even well enough to see 1/4 of the gains we currently have) and am very grateful to have been able to work with him, as I am sure he is grateful to work with me...\n\n>What if the management is not ready to take the blame?\n\nWhat do you mean? In my world, projects are known as failed or successful. Someone is blamed and unless I gave poor direction (I should be blamed), it is often the project lead for their inability to take action. They are in charge of finding a good direction, pushing the change out, and getting people energized about the change. We are a tool they can use to find a direction, continuously track it's success (so they can stop a complete failure), or do experiments to see how best to push the change... but in the end of the day, we are just a single tool in their tool kit. \n\nTo sort of curb the likelihood of having giving poor direction, I think that it is beneficial for people new in their role to work extra hours to make sure that their projects don't fail and show they can be trusted on future work.\n\n>What else can we do to tackle the sink?\n\nI dont know if it is our responsibility. Your role is to provide as much guidance as possible. I think that the project leads are there to do everything they can to see the project succeed.\n\n&#x200B;\n\nAs a final note, Charles Schwab was at one point hired to work in the steel industry. He was given a salary of $1m a year and it was considered the highest salary ever at the time. He was asked if he deserved it and he said he was paid this salary largely because of his ability to deal with people and was asked how he did it\n\n>\"I consider my ability to arouse enthusiasm among my people, the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.\"\n\nSo in the end, if you want to have projects succeed, you need to learn how to create enthusiasm and support of those you work with while still providing as much direction as possible.\n\n&#x200B;\n\nI dont know... is this helpful?",
+            "score": 12,
+            "que": "Thank you for this clear insight. So its less about science and more about connections and building trust? What if the management is not ready to take the blame? What else can we do to tackle the sink?"
+        },
+        {
+            "id": "fd90l76",
+            "parent": "t1_fd74anz",
+            "ans": "Exactly. \n\nNever heard of think like a freak. Could you please give me a quick synopsis?",
+            "score": 3,
+            "que": "Think like a freak by Steven Levitt and/or Stephen dubner would be a really good one for ds people wanting to do business. Or like zero to one by Peter theil. There's a ton of good business books and they're way easier than learning stats"
+        },
+        {
+            "id": "fd4nuof",
+            "parent": "t1_fd4ijla",
+            "ans": "Can you imagine that some PhD students actually go outside the uni and collaborate with companies who are interested in results and willing to pay? Is it so crazy for you that you cant even see that option when u read what I write?",
+            "score": 3,
+            "que": "[removed]"
+        },
+        {
+            "id": "fd45cnb",
+            "parent": "t1_fd43hd3",
+            "ans": "You are arguing about technicalities. Compare what you just wrote to the tweet. Those are different worlds. You have imho lost track. When I talk about PhD students and value Im not talking about comparing departments and unisand it wasnt what the tweet was doing either. I was talking about PhD studies vs actual work at a company, like the tweet was.\n\n&#x200B;\n\nValue is typically defined in relationship to some kind of customer who is able and willing to pay. It could be something else, but in this context a customer (in the broad sense) seems to be relevant. Yes it is less clear who the customer is for a PhD student's research. Hence the lower pay.",
+            "score": -5,
+            "que": "No what I mean to say is what I said. \n\nIf you are a PhD student, your stipend is set by the grants you obtain or the positions you work. While some grants provide more funding than others, they fall within a narrow range. The NSF GRFP is one of the better paying individual grants you can get at 34,000 per year (it's also very prestigious). Compensation for positions is standardized for a department so if you teach or work in a research lab, there's very little variation in pay. Working in computer science may get them a couple grand more per year when compared to working in a social science lab but the difference is slight. \n\nAlso who are you supposed to be creating value for? The uni?"
+        },
+        {
+            "id": "fd5awet",
+            "parent": "t1_fd3rq09",
+            "ans": "Or the company you join in industry will own all of it.",
+            "score": 7,
+            "que": "That\u2019s not at all how that works. If you completed any work on it at the university, they now own 50% of it and will sue for it."
+        },
+        {
+            "id": "fd3s3ag",
+            "parent": "t1_fd3m4ph",
+            "ans": "Yes it is you learning something. You also (hopefully) publish something, but honestly that is not of any significant value when it comes to the vast majority of PhD students. \n\nThe potential for future value might drive individuals to apply and it might get companies involved (which typically increases $$$). If you can create value for a customer that customer will be willing to pay. If not, you are probably not creating as much value as you thought. Having a cool idea about a new product is not helping customers. Delivering a product of an idea to the right customer, at the right time, to the right price etc is value. Research is a very small part of that.",
+            "score": 0,
+            "que": "A PhD isn\u2019t you learning something, it\u2019s you doing the research to discover something. Why would you pay to do that (unless you get to patent it and make the money yourself, which, you absolutely do not). My point is that there\u2019s no correlation between money generating probability of your PhD research and how much you get paid. The stipend of the student who\u2019s chemical process generates billions globally is the same as the one who studies the breathing pattern of Sub Saharan antelopes."
+        },
+        {
+            "id": "fd75iw9",
+            "parent": "t1_fd3mapw",
+            "ans": "> Most PhD research is useless.\n\nThis is insightless insight.",
+            "score": 10,
+            "que": "You've inverted the proposition there. Most PhD research is useless. A small amount of PhD research becomes very useful. Most of what people use on a day to day basis came from a very tiny fraction of the work done by AI researchers."
+        },
+        {
+            "id": "fd5s9nh",
+            "parent": "t1_fd3mapw",
+            "ans": "> Most PhD research is useless.\n\nThis is a funny phrase, as it feels both true and false at the same time :) I guess science is pretty much like a \"lucky ticket\" situation in deep learning, or actually even worse - more like an evolution algorithm with a quality-diversity metrics. Post-hoc, most random paths were indeed \"useless\". But you could have never found the optimum without all these random particles exploring random dimensions.",
+            "score": 8,
+            "que": "You've inverted the proposition there. Most PhD research is useless. A small amount of PhD research becomes very useful. Most of what people use on a day to day basis came from a very tiny fraction of the work done by AI researchers."
+        },
+        {
+            "id": "fd5ayu4",
+            "parent": "t1_fd3mapw",
+            "ans": "Yeah but that's just science. You can't just expect every academic venture to have an amazing payout. That's kind of the point of the scientific method.",
+            "score": 10,
+            "que": "You've inverted the proposition there. Most PhD research is useless. A small amount of PhD research becomes very useful. Most of what people use on a day to day basis came from a very tiny fraction of the work done by AI researchers."
+        },
+        {
+            "id": "fd513kt",
+            "parent": "t1_fd3mapw",
+            "ans": "That is why it is called research.  If it were a sure thing then industry would do it.  Instead, we have luckily had a strong public sector in the twentieth century that generates true innovation, while the private sector reaps the profits.",
+            "score": 8,
+            "que": "You've inverted the proposition there. Most PhD research is useless. A small amount of PhD research becomes very useful. Most of what people use on a day to day basis came from a very tiny fraction of the work done by AI researchers."
+        },
+        {
+            "id": "fdav522",
+            "parent": "t1_fd3mapw",
+            "ans": "One of those useless theories from 30 years ago can turn into exactly what someone needs today to get something practical done.",
+            "score": 2,
+            "que": "You've inverted the proposition there. Most PhD research is useless. A small amount of PhD research becomes very useful. Most of what people use on a day to day basis came from a very tiny fraction of the work done by AI researchers."
+        },
+        {
+            "id": "fd2vlk2",
+            "parent": "t1_fd2oj5y",
+            "ans": "Why did you call me off for bringing capitalism when we're discussing wages and perceived value in the capitalist system? I mean, that's the whole system that decides who is paid what. It's not a crime to bring it up is it?\n\nAlso the 90% figure you threw so non-chalantly in a data science forum gets a free pass? Ok I give up. PhDs are bad, capitalism good, we should pay CEOs more.",
+            "score": 17,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd55dgr",
+            "parent": "t1_fd2oj5y",
+            "ans": "These are the arguments that people without phds say about people with phds to justify them having a data scientist job that typically expects a phd. lol.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2zq4z",
+            "parent": "t1_fd2oj5y",
+            "ans": "Why would people bring up capitalism?  Because capitalism in it\u2019s current form is pathological - it is destroying the planet and incentivizing behavior that generates short term illusory gains at the cost of long term value.  The vast majority of innovation that has fueled the technological boom of that past century was done in universities and national laboratories, largely by PhD students.  Then it was passed off to companies for free to monetize.  Now data scientists and CEOs are able to stand on the shoulders of that intellectual mindstock and net the benefit for the sake of quarterly profits.  I don\u2019t see how you can fail to see the basic relevance of late-stage capitalism to that tweet.  \n\nAlso, yes, most scientific and research labor is ultimately fruitless.  That\u2019s why it is science, because you have to collect new data where you don\u2019t know the answer beforehand.  It is still the wellspring of all modern wealth.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd3ndal",
+            "parent": "t1_fd38wuo",
+            "ans": "That's the agreement you sign up for when you accept a RA position. You don't get to own grant-supported research. Why would any institution issue grants under those circumstances? The whole point is the open exchange of knowledge.",
+            "score": 7,
+            "que": "My university wouldn\u2019t let us patent anything. If we created anything of value they \u201cowned it\u201d. My friend fought for a long time only to lose that battle."
+        },
+        {
+            "id": "fd6ejav",
+            "parent": "t1_fd5i12j",
+            "ans": "Ah yeah, I can see that. However I tend to experience more of business people wanting something retarded and just not understanding why what they want is bullshit, even if there are numbers going in and numbers going out.",
+            "score": 1,
+            "que": "Can't give more details, but no, it's not the case. Once I got a good understanding of R and some classification algorithms, I managed to improve the model accuracy and stability as well as giving it some business sense that the client required"
+        },
+        {
+            "id": "fd2yuze",
+            "parent": "t1_fd2vd51",
+            "ans": "I'm not a comp sci grad but i picked up computer science over the years as a hobby and understand a lot of the concepts which made learning to use the models easy (so far). I'm taking Jose Portilla's class on Udemy and find it reallt interesting though the barriers of getting into DS seem astronomically high relative to where i am (can't afford going back to school, etc.) though I'm loving the material so far.\n\nI can see what you're saying though. When i think about how i can apply what I've learned so far to my office job i think about the lack of good data to use. When taking a class on DS you're given nice data sets so things go smoothly. Is it true that there are jobs dedicated to gathering and cleaning data for data scientists? I heard that is what data engineers are though could be mistaken.",
+            "score": 2,
+            "que": "I'm a computer science grad as well, working as a data scientist. The biggest challenges about the job is to really understand the business, and most importantly **DATA CLEANING**, if you have messy data, you can use the best model out there and it will give you shit results. \n\nOnce you have all that, you will need to do some feature engineering,  try out different models and parameters, and it will give you great results. In my projects, xgboost with a simple randomized search could gave us the best results."
+        },
+        {
+            "id": "fd3s2qj",
+            "parent": "t1_fd3pccl",
+            "ans": "I was also pretty dismissive of business and those associated activities when I was an academic. Then I started getting involved in those kinds of projects and it turns out it's very interesting, and for me, I found it much more satisfying to build things people love to use than to write a paper that no one reads. But I still try to keep learning math for fun.    \nA strong grounding in stats will take you pretty far. There are definitely pure-stats jobs, but if you're interested in a data science path, you'd want to augment that with some software skills. You'll discover that most of the work is applied regressions rather than complex ML modelling. But your mileage may vary.",
+            "score": 3,
+            "que": "What\u2019s funny is that my motivation to study statistics isnt about AI/ML but to enhance my understanding and ability surrounding analytics... Im much more interested in math than I am anything the business school \u201cteaches\u201d"
+        },
+        {
+            "id": "fd9vpf1",
+            "parent": "t1_fd78sx3",
+            "ans": "I didn't call ML bullshit. I'm just saying it's getting a lot of hype right now and that's unlikely to sustain at this level indefinitely. I'm currently hiring, trying to grow my team. If I thought it was bullshit, don't you think I'd maybe chance careers or something?",
+            "score": 2,
+            "que": "> But you can probably expect the \"AI\" fad to calm down some, following the typical hype curve.\n\nML and AI are bullshit fad but Gartner Hype Cycle and Laffer Curves are rock solid science /s"
+        },
+        {
+            "id": "fd3tpk3",
+            "parent": "t1_fd325cw",
+            "ans": "Typically mid-to-senior level w/ NLP in Finance, typically Chicago or other big-ish-but-not-as-deep-as-possible-DS-bench cities.\n\nNo West Coast I've seen, a few NYC, lots and lots of Chicago.",
+            "score": -1,
+            "que": "Can you please tell me examples of this? I am not US based though, but afaik this is not common for remote jobs."
+        },
+        {
+            "id": "fd45sl0",
+            "parent": "t1_fd3pwlq",
+            "ans": "For someone as (or soon to be) highly trained in a hot field I would definitely consider moving to the states, or just anywhere where they pay higher for such an in demand job. It\u2019s almost shooting yourself in a foot not getting the best ROI on your education. \n\n[all IMHO]",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fdg8iba",
+            "parent": "t1_fdeah2w",
+            "ans": "GDP per capita of the US: $59,531\nGDP per capita of the UK: $39,720\n\nThere\u2019s just less money to go around.",
+            "score": 1,
+            "que": "Why is the pay so low in London (Britain in general?). Even with the conversion, that's like $40k? in the US"
+        },
+        {
+            "id": "fd2k9cg",
+            "parent": "t1_fd2ib0u",
+            "ans": "It totally depends where in the US",
+            "score": 14,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2jrur",
+            "parent": "t1_fd2ib0u",
+            "ans": "I\u2019m positive. An entry level job in data science in NYC pays *at least* 50k (and that\u2019s a low guess). In other places it might pay a bit less but not much less.",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd3jct6",
+            "parent": "t1_fd2ib0u",
+            "ans": "The dollar is worth less (30k usd is about 22k in pounds) and we pay out the ass for things like healthcare . I also think our groceries cost a bit more though I could be wrong.\n\nPersonally I also spend a ton on transport because my area has ZERO public transit, though gas is cheap its not possible for me to get anywhere without driving.\n\nCodt of living varies wildly across the US. It's a massive country.  My 1 bedroom apartment is $1100/mo. In my previous city I could have found something similar for around $700. In NYC etc this would easily be over $2k.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2n8tm",
+            "parent": "t1_fd2ib0u",
+            "ans": "We don\u2019t have the same social safety nets, time off, etc. which generally means US salaries are higher to compensate. \n\nAt least that\u2019s the best I can come up with after discussing this topic a few times.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2oa2b",
+            "parent": "t1_fd2ib0u",
+            "ans": "According to this site ([link](https://www.investopedia.com/ask/answers/100214/what-cost-living-difference-between-us-and-uk.asp)) the cost of living in the UK is 6% lower than the US. That means your 30k pounds is similar to 32k pounds in the US. 32k pounds is close to 42k USD.\n\nI would guess the best way to frame the point is that Data Scientists in the US probably make around 1.5-2x the median household income of the area they live... (outliers do exist due to performance and location)\n\nHow do data scientist salary compare to non-data scientist salary in the UK?\n\nEdit:\n\nHere ([link](https://h1bdata.info/index.php?em=&job=Data+Scientist%25&city=&year=2019)) is a look at how much data scientists with an H1B visa applicants made in 2019 (immigrants to the US). These people are usually just out of school. I havent pulled the data but by spot checking a few key cities, it looks like the median is probably around 1.5x the median household income of the area.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd2jch3",
+            "parent": "t1_fd2ib0u",
+            "ans": "Student loans",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd4at1e",
+            "parent": "t1_fd3ddwg",
+            "ans": "It is really helpful. Thank you very much for these insights.\n\nAnd I personally think every current DS's experience is extremely helpful for future DS since we don't have a specific criteria or skills or responsibilities that encapsulate this field. So I curiously listen to people who share their experience, pros, cons and tips regarding their jobs.\n\nThanks a lot again.",
+            "score": 1,
+            "que": "A quick intro about me, I am 4 years outside of school and I have stayed at my first company. I have never gotten less than a 20% annual raise. I am in no way an expert but I have been very successful in my role. I am the first Data Scientist at my company and we have had 4 others added in the last year due to me being run thin and the demand on my time increasing. I work in the finance industry so we have a lot of data (I would say 1000 tables is a VERY conservative estimate). I think this is is all pretty unique and there are still a lot of things that I am learning so take what I say with a grain of salt.\n\n>So its less about science and more about connections and building trust?\n\nThat has been my experience. The most successful project I was on made a \\~50% reduction in turnaround time across all process in the company. I stumbled on the problem because of a logistic model I ran. When started diving into the issue, a SME said 'this is so beautiful I want to vomit' because of how much money/effort/etc was wasted. I then spent 3 months trying to better understand the data surrounding the processes, issues that cropped up, and other things we could take action on. To help implement the change, the SME that started the project with me worked probably 60+ hours a week and got promoted to better lead it. The change resulted in less man hour cost, higher win rate for new clients, and around $3m a year in client retention because of the faster turn around times. I didnt know for 2 years but the SME had put really everything into this change. I knew he worked a lot but I didnt know he pushed for this to be his only project (he would live or die by it) and actually changed the culture of those employees impacted by the change to see it's success. He made fun instructional videos, he made screen savers on computers, he did everything. He did this to see it's success because he believed in it in the project and the direction I gave.\n\nI am extremely confident that I could never implement the project as well as he did (and possibly not even well enough to see 1/4 of the gains we currently have) and am very grateful to have been able to work with him, as I am sure he is grateful to work with me...\n\n>What if the management is not ready to take the blame?\n\nWhat do you mean? In my world, projects are known as failed or successful. Someone is blamed and unless I gave poor direction (I should be blamed), it is often the project lead for their inability to take action. They are in charge of finding a good direction, pushing the change out, and getting people energized about the change. We are a tool they can use to find a direction, continuously track it's success (so they can stop a complete failure), or do experiments to see how best to push the change... but in the end of the day, we are just a single tool in their tool kit. \n\nTo sort of curb the likelihood of having giving poor direction, I think that it is beneficial for people new in their role to work extra hours to make sure that their projects don't fail and show they can be trusted on future work.\n\n>What else can we do to tackle the sink?\n\nI dont know if it is our responsibility. Your role is to provide as much guidance as possible. I think that the project leads are there to do everything they can to see the project succeed.\n\n&#x200B;\n\nAs a final note, Charles Schwab was at one point hired to work in the steel industry. He was given a salary of $1m a year and it was considered the highest salary ever at the time. He was asked if he deserved it and he said he was paid this salary largely because of his ability to deal with people and was asked how he did it\n\n>\"I consider my ability to arouse enthusiasm among my people, the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.\"\n\nSo in the end, if you want to have projects succeed, you need to learn how to create enthusiasm and support of those you work with while still providing as much direction as possible.\n\n&#x200B;\n\nI dont know... is this helpful?"
+        },
+        {
+            "id": "fd9k2aw",
+            "parent": "t1_fd3ddwg",
+            "ans": "Thanks for writing this. I myself have experience a lot of what you described but it's superuseful to read it from a completely unrelated party.",
+            "score": 1,
+            "que": "A quick intro about me, I am 4 years outside of school and I have stayed at my first company. I have never gotten less than a 20% annual raise. I am in no way an expert but I have been very successful in my role. I am the first Data Scientist at my company and we have had 4 others added in the last year due to me being run thin and the demand on my time increasing. I work in the finance industry so we have a lot of data (I would say 1000 tables is a VERY conservative estimate). I think this is is all pretty unique and there are still a lot of things that I am learning so take what I say with a grain of salt.\n\n>So its less about science and more about connections and building trust?\n\nThat has been my experience. The most successful project I was on made a \\~50% reduction in turnaround time across all process in the company. I stumbled on the problem because of a logistic model I ran. When started diving into the issue, a SME said 'this is so beautiful I want to vomit' because of how much money/effort/etc was wasted. I then spent 3 months trying to better understand the data surrounding the processes, issues that cropped up, and other things we could take action on. To help implement the change, the SME that started the project with me worked probably 60+ hours a week and got promoted to better lead it. The change resulted in less man hour cost, higher win rate for new clients, and around $3m a year in client retention because of the faster turn around times. I didnt know for 2 years but the SME had put really everything into this change. I knew he worked a lot but I didnt know he pushed for this to be his only project (he would live or die by it) and actually changed the culture of those employees impacted by the change to see it's success. He made fun instructional videos, he made screen savers on computers, he did everything. He did this to see it's success because he believed in it in the project and the direction I gave.\n\nI am extremely confident that I could never implement the project as well as he did (and possibly not even well enough to see 1/4 of the gains we currently have) and am very grateful to have been able to work with him, as I am sure he is grateful to work with me...\n\n>What if the management is not ready to take the blame?\n\nWhat do you mean? In my world, projects are known as failed or successful. Someone is blamed and unless I gave poor direction (I should be blamed), it is often the project lead for their inability to take action. They are in charge of finding a good direction, pushing the change out, and getting people energized about the change. We are a tool they can use to find a direction, continuously track it's success (so they can stop a complete failure), or do experiments to see how best to push the change... but in the end of the day, we are just a single tool in their tool kit. \n\nTo sort of curb the likelihood of having giving poor direction, I think that it is beneficial for people new in their role to work extra hours to make sure that their projects don't fail and show they can be trusted on future work.\n\n>What else can we do to tackle the sink?\n\nI dont know if it is our responsibility. Your role is to provide as much guidance as possible. I think that the project leads are there to do everything they can to see the project succeed.\n\n&#x200B;\n\nAs a final note, Charles Schwab was at one point hired to work in the steel industry. He was given a salary of $1m a year and it was considered the highest salary ever at the time. He was asked if he deserved it and he said he was paid this salary largely because of his ability to deal with people and was asked how he did it\n\n>\"I consider my ability to arouse enthusiasm among my people, the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.\"\n\nSo in the end, if you want to have projects succeed, you need to learn how to create enthusiasm and support of those you work with while still providing as much direction as possible.\n\n&#x200B;\n\nI dont know... is this helpful?"
+        },
+        {
+            "id": "fdkukdo",
+            "parent": "t1_fd3ddwg",
+            "ans": "Thanks for this write up. It was very interesting.",
+            "score": 1,
+            "que": "A quick intro about me, I am 4 years outside of school and I have stayed at my first company. I have never gotten less than a 20% annual raise. I am in no way an expert but I have been very successful in my role. I am the first Data Scientist at my company and we have had 4 others added in the last year due to me being run thin and the demand on my time increasing. I work in the finance industry so we have a lot of data (I would say 1000 tables is a VERY conservative estimate). I think this is is all pretty unique and there are still a lot of things that I am learning so take what I say with a grain of salt.\n\n>So its less about science and more about connections and building trust?\n\nThat has been my experience. The most successful project I was on made a \\~50% reduction in turnaround time across all process in the company. I stumbled on the problem because of a logistic model I ran. When started diving into the issue, a SME said 'this is so beautiful I want to vomit' because of how much money/effort/etc was wasted. I then spent 3 months trying to better understand the data surrounding the processes, issues that cropped up, and other things we could take action on. To help implement the change, the SME that started the project with me worked probably 60+ hours a week and got promoted to better lead it. The change resulted in less man hour cost, higher win rate for new clients, and around $3m a year in client retention because of the faster turn around times. I didnt know for 2 years but the SME had put really everything into this change. I knew he worked a lot but I didnt know he pushed for this to be his only project (he would live or die by it) and actually changed the culture of those employees impacted by the change to see it's success. He made fun instructional videos, he made screen savers on computers, he did everything. He did this to see it's success because he believed in it in the project and the direction I gave.\n\nI am extremely confident that I could never implement the project as well as he did (and possibly not even well enough to see 1/4 of the gains we currently have) and am very grateful to have been able to work with him, as I am sure he is grateful to work with me...\n\n>What if the management is not ready to take the blame?\n\nWhat do you mean? In my world, projects are known as failed or successful. Someone is blamed and unless I gave poor direction (I should be blamed), it is often the project lead for their inability to take action. They are in charge of finding a good direction, pushing the change out, and getting people energized about the change. We are a tool they can use to find a direction, continuously track it's success (so they can stop a complete failure), or do experiments to see how best to push the change... but in the end of the day, we are just a single tool in their tool kit. \n\nTo sort of curb the likelihood of having giving poor direction, I think that it is beneficial for people new in their role to work extra hours to make sure that their projects don't fail and show they can be trusted on future work.\n\n>What else can we do to tackle the sink?\n\nI dont know if it is our responsibility. Your role is to provide as much guidance as possible. I think that the project leads are there to do everything they can to see the project succeed.\n\n&#x200B;\n\nAs a final note, Charles Schwab was at one point hired to work in the steel industry. He was given a salary of $1m a year and it was considered the highest salary ever at the time. He was asked if he deserved it and he said he was paid this salary largely because of his ability to deal with people and was asked how he did it\n\n>\"I consider my ability to arouse enthusiasm among my people, the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.\"\n\nSo in the end, if you want to have projects succeed, you need to learn how to create enthusiasm and support of those you work with while still providing as much direction as possible.\n\n&#x200B;\n\nI dont know... is this helpful?"
+        },
+        {
+            "id": "fd97d3f",
+            "parent": "t1_fd90l76",
+            "ans": "It's actually not quite what this guy was talking about but it's still pretty good. The two guys wrote a couple of really popular economics/pop sci books (Freakanomics, Superfreakanomics) before this about unexpected effects of events laws etc.  And this book just explains the thought process of it all and how to do it. So it's more useful for understanding what kind of days to look for and everything like that but it's still really good.\n\nZero to ones a more traditional business book but it's really good too",
+            "score": 3,
+            "que": "Exactly. \n\nNever heard of think like a freak. Could you please give me a quick synopsis?"
+        },
+        {
+            "id": "fd4vlee",
+            "parent": "t1_fd4nuof",
+            "ans": "[removed]",
+            "score": 7,
+            "que": "Can you imagine that some PhD students actually go outside the uni and collaborate with companies who are interested in results and willing to pay? Is it so crazy for you that you cant even see that option when u read what I write?"
+        },
+        {
+            "id": "fd4dane",
+            "parent": "t1_fd45cnb",
+            "ans": "Nope haven't lost track of the argument. \n\n>A PhD who focuses his time on making high value decisions will not be making 30k per year\n\nMy argument is not that different departments are higher value, i'm saying the amount you make is basically flat with very little fluctuation. It doesn't matter if you focus on making high value decisions or not. You make the same.",
+            "score": 3,
+            "que": "You are arguing about technicalities. Compare what you just wrote to the tweet. Those are different worlds. You have imho lost track. When I talk about PhD students and value Im not talking about comparing departments and unisand it wasnt what the tweet was doing either. I was talking about PhD studies vs actual work at a company, like the tweet was.\n\n&#x200B;\n\nValue is typically defined in relationship to some kind of customer who is able and willing to pay. It could be something else, but in this context a customer (in the broad sense) seems to be relevant. Yes it is less clear who the customer is for a PhD student's research. Hence the lower pay."
+        },
+        {
+            "id": "fd3u4ka",
+            "parent": "t1_fd3s3ag",
+            "ans": "You seem to forget that basic research is the bedrock of all that is around us. Basic research has value because it allows applied research to build products, therapies, treatments for disease, etc. Doing research that does not directly end in a product that people buy and sell is extremely valuable. The problem is that people don\u2019t value it.",
+            "score": 7,
+            "que": "Yes it is you learning something. You also (hopefully) publish something, but honestly that is not of any significant value when it comes to the vast majority of PhD students. \n\nThe potential for future value might drive individuals to apply and it might get companies involved (which typically increases $$$). If you can create value for a customer that customer will be willing to pay. If not, you are probably not creating as much value as you thought. Having a cool idea about a new product is not helping customers. Delivering a product of an idea to the right customer, at the right time, to the right price etc is value. Research is a very small part of that."
+        },
+        {
+            "id": "fd3taxw",
+            "parent": "t1_fd3s3ag",
+            "ans": "Your initial comment was that a PhD guiding high value decisions would be making more than 30k p/y. My comment is saying as long as you are a student, this is false. That\u2019s it. The value of your PhD work exclusively (which is what the initial tweet this post is about) is the stipend you get paid and nothing more, regardless of its value to industry or future value or whatever. \n\nI agree with you about the difference between the value of research and the value of the right research (and also the lack of focus on the development side of research *and* development), but that isn\u2019t what I\u2019m talking about.",
+            "score": 6,
+            "que": "Yes it is you learning something. You also (hopefully) publish something, but honestly that is not of any significant value when it comes to the vast majority of PhD students. \n\nThe potential for future value might drive individuals to apply and it might get companies involved (which typically increases $$$). If you can create value for a customer that customer will be willing to pay. If not, you are probably not creating as much value as you thought. Having a cool idea about a new product is not helping customers. Delivering a product of an idea to the right customer, at the right time, to the right price etc is value. Research is a very small part of that."
+        },
+        {
+            "id": "fd5u4bd",
+            "parent": "t1_fd5s9nh",
+            "ans": "That's exactly right, I think.",
+            "score": 3,
+            "que": "> Most PhD research is useless.\n\nThis is a funny phrase, as it feels both true and false at the same time :) I guess science is pretty much like a \"lucky ticket\" situation in deep learning, or actually even worse - more like an evolution algorithm with a quality-diversity metrics. Post-hoc, most random paths were indeed \"useless\". But you could have never found the optimum without all these random particles exploring random dimensions."
+        },
+        {
+            "id": "fd7jhms",
+            "parent": "t1_fd5ayu4",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "Yeah but that's just science. You can't just expect every academic venture to have an amazing payout. That's kind of the point of the scientific method."
+        },
+        {
+            "id": "fd5t1nb",
+            "parent": "t1_fd5ayu4",
+            "ans": "So it sounds like ... we agree.",
+            "score": 4,
+            "que": "Yeah but that's just science. You can't just expect every academic venture to have an amazing payout. That's kind of the point of the scientific method."
+        },
+        {
+            "id": "fd5u0p7",
+            "parent": "t1_fd513kt",
+            "ans": "Though lots of innovation has come from the private sector, too. I'm not saying *all* academic research is worthless. I'm not saying it should stop happening. It's just the case that most of it us useless. All the comments saying 'yeah, but that's just the way it goes' aren't contradicting me. They're making my point for me.",
+            "score": 2,
+            "que": "That is why it is called research.  If it were a sure thing then industry would do it.  Instead, we have luckily had a strong public sector in the twentieth century that generates true innovation, while the private sector reaps the profits."
+        },
+        {
+            "id": "fdavesi",
+            "parent": "t1_fdav522",
+            "ans": "Yes it can. Most don't.",
+            "score": 2,
+            "que": "One of those useless theories from 30 years ago can turn into exactly what someone needs today to get something practical done."
+        },
+        {
+            "id": "fd2yvb6",
+            "parent": "t1_fd2vlk2",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "Why did you call me off for bringing capitalism when we're discussing wages and perceived value in the capitalist system? I mean, that's the whole system that decides who is paid what. It's not a crime to bring it up is it?\n\nAlso the 90% figure you threw so non-chalantly in a data science forum gets a free pass? Ok I give up. PhDs are bad, capitalism good, we should pay CEOs more."
+        },
+        {
+            "id": "fd68zsv",
+            "parent": "t1_fd55dgr",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "These are the arguments that people without phds say about people with phds to justify them having a data scientist job that typically expects a phd. lol."
+        },
+        {
+            "id": "fd47wjf",
+            "parent": "t1_fd2zq4z",
+            "ans": "Don't bother, this sub has nothing to do with science and everything to do with profit maximization.",
+            "score": 6,
+            "que": "Why would people bring up capitalism?  Because capitalism in it\u2019s current form is pathological - it is destroying the planet and incentivizing behavior that generates short term illusory gains at the cost of long term value.  The vast majority of innovation that has fueled the technological boom of that past century was done in universities and national laboratories, largely by PhD students.  Then it was passed off to companies for free to monetize.  Now data scientists and CEOs are able to stand on the shoulders of that intellectual mindstock and net the benefit for the sake of quarterly profits.  I don\u2019t see how you can fail to see the basic relevance of late-stage capitalism to that tweet.  \n\nAlso, yes, most scientific and research labor is ultimately fruitless.  That\u2019s why it is science, because you have to collect new data where you don\u2019t know the answer beforehand.  It is still the wellspring of all modern wealth."
+        },
+        {
+            "id": "fd3tq2h",
+            "parent": "t1_fd3ndal",
+            "ans": "Exactly! that's what I'm thinking too.  A university or any entity is never going to just give up a money maker for free.",
+            "score": 2,
+            "que": "That's the agreement you sign up for when you accept a RA position. You don't get to own grant-supported research. Why would any institution issue grants under those circumstances? The whole point is the open exchange of knowledge."
+        },
+        {
+            "id": "fd6gmlj",
+            "parent": "t1_fd6ejav",
+            "ans": "That's pretty common too, but that's why we always had an initial meeting to set expectations with the business oriented people.\n\nWhat I'm trying to illustrate is how technical people sometimes get too lost on programming and modeling etc and lose focus on what really matters, solving a problem. Eg That's great that you used the newest algorithms available and could predict if a particular payment will not be paid, but that's not what we want to know. We want to know if I should be approving a loan to a new customer",
+            "score": 5,
+            "que": "Ah yeah, I can see that. However I tend to experience more of business people wanting something retarded and just not understanding why what they want is bullshit, even if there are numbers going in and numbers going out."
+        },
+        {
+            "id": "fd3t50l",
+            "parent": "t1_fd3s2qj",
+            "ans": "Not trying to be dismissive, as if I were an engineering undergrad, an MBA would be very beneficial. Im the opposite, a finance manager with an accounting/business undergrad, wanting to differentiate myself with statistical knowledge. Ive gone down the thought path of an MBA, masters in computer science, and finally landed on a masters in statistics with electives in statistical computing/data science. End goal is to augment our BI function at the small SaaS company I work at.",
+            "score": 2,
+            "que": "I was also pretty dismissive of business and those associated activities when I was an academic. Then I started getting involved in those kinds of projects and it turns out it's very interesting, and for me, I found it much more satisfying to build things people love to use than to write a paper that no one reads. But I still try to keep learning math for fun.    \nA strong grounding in stats will take you pretty far. There are definitely pure-stats jobs, but if you're interested in a data science path, you'd want to augment that with some software skills. You'll discover that most of the work is applied regressions rather than complex ML modelling. But your mileage may vary."
+        },
+        {
+            "id": "fd4e13j",
+            "parent": "t1_fd3tpk3",
+            "ans": "But can you show me exact job vacancies?",
+            "score": 4,
+            "que": "Typically mid-to-senior level w/ NLP in Finance, typically Chicago or other big-ish-but-not-as-deep-as-possible-DS-bench cities.\n\nNo West Coast I've seen, a few NYC, lots and lots of Chicago."
+        },
+        {
+            "id": "fd6x6km",
+            "parent": "t1_fd45sl0",
+            "ans": "If you don't have a US passport, it's honestly quite difficult to get a job in the US, even when skilled. Yes, you can get employment sponsored visas, but it's very difficult for a company to meet the justifications required for an entry level position, and even then, the H1B lottery entry date is April 1st for a potential work start date of October 1st. It's very difficult for a company to hire someone entry level with a start date more than six months away.",
+            "score": 5,
+            "que": "For someone as (or soon to be) highly trained in a hot field I would definitely consider moving to the states, or just anywhere where they pay higher for such an in demand job. It\u2019s almost shooting yourself in a foot not getting the best ROI on your education. \n\n[all IMHO]"
+        },
+        {
+            "id": "fdhj6rh",
+            "parent": "t1_fdg8iba",
+            "ans": "Yeah but that is like that is like less than 30% of the typical pay a data scientist would make in the States.",
+            "score": 1,
+            "que": "GDP per capita of the US: $59,531\nGDP per capita of the UK: $39,720\n\nThere\u2019s just less money to go around."
+        },
+        {
+            "id": "fd2ntas",
+            "parent": "t1_fd2k9cg",
+            "ans": "Pretty mich any place in the US that has a data scientist job will have a cost of living level where 30k wouldn\u2019t get you far",
+            "score": 15,
+            "que": "It totally depends where in the US"
+        },
+        {
+            "id": "fdeanfp",
+            "parent": "t1_fd2jrur",
+            "ans": "You can make $50k just fiddling around in Excel.",
+            "score": 4,
+            "que": "I\u2019m positive. An entry level job in data science in NYC pays *at least* 50k (and that\u2019s a low guess). In other places it might pay a bit less but not much less."
+        },
+        {
+            "id": "fd8uv45",
+            "parent": "t1_fd3jct6",
+            "ans": "The groceries are cheaper in my experience but the quality is nasty.  UK gets wholefoods fruit and veg a loooot cheaper",
+            "score": 1,
+            "que": "The dollar is worth less (30k usd is about 22k in pounds) and we pay out the ass for things like healthcare . I also think our groceries cost a bit more though I could be wrong.\n\nPersonally I also spend a ton on transport because my area has ZERO public transit, though gas is cheap its not possible for me to get anywhere without driving.\n\nCodt of living varies wildly across the US. It's a massive country.  My 1 bedroom apartment is $1100/mo. In my previous city I could have found something similar for around $700. In NYC etc this would easily be over $2k."
+        },
+        {
+            "id": "fdeau0v",
+            "parent": "t1_fd2n8tm",
+            "ans": "Hold on, $40k/year doesn't make up for that difference at all. I worked as a *data analyst* for a \\~$10B SaaS company and make more than double that with 5 weeks of vacation, fully paid healthcare (with like $200 deductible) with like 2 years of experience.\n\nYou cannot tell me that some 'social safety net' or whatever is going to amount to that much difference.",
+            "score": 1,
+            "que": "We don\u2019t have the same social safety nets, time off, etc. which generally means US salaries are higher to compensate. \n\nAt least that\u2019s the best I can come up with after discussing this topic a few times."
+        },
+        {
+            "id": "fdca6vh",
+            "parent": "t1_fd9k2aw",
+            "ans": "Thanks :D",
+            "score": 1,
+            "que": "Thanks for writing this. I myself have experience a lot of what you described but it's superuseful to read it from a completely unrelated party."
+        },
+        {
+            "id": "fd97gxg",
+            "parent": "t1_fd97d3f",
+            "ans": "Ahhh ok. It's the Freakonomics guys?\n\nZt1 is great, i agree",
+            "score": 3,
+            "que": "It's actually not quite what this guy was talking about but it's still pretty good. The two guys wrote a couple of really popular economics/pop sci books (Freakanomics, Superfreakanomics) before this about unexpected effects of events laws etc.  And this book just explains the thought process of it all and how to do it. So it's more useful for understanding what kind of days to look for and everything like that but it's still really good.\n\nZero to ones a more traditional business book but it's really good too"
+        },
+        {
+            "id": "fd505y2",
+            "parent": "t1_fd4vlee",
+            "ans": "If a teacher helps you to have a mentor at a company so you can get some grounding in reality thats great and all, but its mostly academic and thats why you might not get extra pay. If you actually helped the company, of course they would be happy to pay (and the stupid one would be you if you didnt ask for it). But you would most likely be competing with consultants who have it as their job to do just that. \n\nIt is not uncommon to have PhDs (not students) work as consultants (eg within analytics consulting), after they have learned what they need/proven they can do it. Even then they quite often struggle with the business side and cant do projects without colleagues who help with other aspects that are critical to actually create value",
+            "score": 3,
+            "que": "[removed]"
+        },
+        {
+            "id": "fd4mw3p",
+            "parent": "t1_fd4dane",
+            "ans": "because the pool you are comparing with (financed by unis) is basically never high value in the sense that no one is willing to pay for their output...",
+            "score": 1,
+            "que": "Nope haven't lost track of the argument. \n\n>A PhD who focuses his time on making high value decisions will not be making 30k per year\n\nMy argument is not that different departments are higher value, i'm saying the amount you make is basically flat with very little fluctuation. It doesn't matter if you focus on making high value decisions or not. You make the same."
+        },
+        {
+            "id": "fd3wn4b",
+            "parent": "t1_fd3u4ka",
+            "ans": "no I dont but I dont lose focus on what this thread was about. Its kinda silly to bring up in the context of the tweet mentioned. Absolutely basic research is important and in some industries funding it can be a problem and seeing the link to actual value realization is difficult because of the nature of it. But that tweet had nothing to do with that.",
+            "score": 0,
+            "que": "You seem to forget that basic research is the bedrock of all that is around us. Basic research has value because it allows applied research to build products, therapies, treatments for disease, etc. Doing research that does not directly end in a product that people buy and sell is extremely valuable. The problem is that people don\u2019t value it."
+        },
+        {
+            "id": "fd3xl7w",
+            "parent": "t1_fd3taxw",
+            "ans": "> Your initial comment was that a PhD guiding high value decisions would be making more than 30k p/y. My comment is saying as long as you are a student, this is false. That\u2019s it.\nWhat makes you think that any significant amount of PhD students are directly involved in high value decisions? Please share your sources and/or reasoning behind this.",
+            "score": -1,
+            "que": "Your initial comment was that a PhD guiding high value decisions would be making more than 30k p/y. My comment is saying as long as you are a student, this is false. That\u2019s it. The value of your PhD work exclusively (which is what the initial tweet this post is about) is the stipend you get paid and nothing more, regardless of its value to industry or future value or whatever. \n\nI agree with you about the difference between the value of research and the value of the right research (and also the lack of focus on the development side of research *and* development), but that isn\u2019t what I\u2019m talking about."
+        },
+        {
+            "id": "fd7qy27",
+            "parent": "t1_fd7jhms",
+            "ans": "Yeah I don't understand all the people in this thread who are complaining about science being \"unsuccessful\" so often. Negative results is science",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd68a6i",
+            "parent": "t1_fd5u0p7",
+            "ans": "I'm sorry but this entire thread is missing the whole point of academy. From my experience in academy most of the work surrounding theses, conference and journal papers, and dissertations serve to assist the advisors in their research that often is leveraged by big companies and/or the government. Likewise, I've known several PhDs who were hired simply because they were one of the few experts in the particular science they explored. This entire thread is just incorrect.",
+            "score": 6,
+            "que": "Though lots of innovation has come from the private sector, too. I'm not saying *all* academic research is worthless. I'm not saying it should stop happening. It's just the case that most of it us useless. All the comments saying 'yeah, but that's just the way it goes' aren't contradicting me. They're making my point for me."
+        },
+        {
+            "id": "fd37k7k",
+            "parent": "t1_fd2yvb6",
+            "ans": "My point was not *capitalism bad*. I was suggesting that we should pay PhDs more for their contribution to society (which you could've argued against without making up figures) as opposed to rewarding people for making more money (the way it works in the capitalist system). I didn't bring the word to start a revolutionary talk, I'm discussing wages.",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fdlm3uo",
+            "parent": "t1_fd68zsv",
+            "ans": "Data science is also mostly useless. There is little evidence that firms really reduce costs or increase revenues from leveraging data. Often the choices made after analysis were obvious anyway. But, this sub, like every other professional sub on Reddit, is loathe to criticize its profession, so whatever.",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd4kv3y",
+            "parent": "t1_fd47wjf",
+            "ans": "This is so true. For so many people since the boom, datascience is a way out of poverty or a way to upper middle class or even millionaire entrepreneur dreams. \n\nCapitalism and economics are the root of this sub (and to a degree this fields) popularity!",
+            "score": 4,
+            "que": "Don't bother, this sub has nothing to do with science and everything to do with profit maximization."
+        },
+        {
+            "id": "fd6mpyf",
+            "parent": "t1_fd3tq2h",
+            "ans": "The university doesn't patent it either. You just write a paper about it, publish it openly, and make it available for anyone.",
+            "score": 1,
+            "que": "Exactly! that's what I'm thinking too.  A university or any entity is never going to just give up a money maker for free."
+        },
+        {
+            "id": "fd4x69e",
+            "parent": "t1_fd4e13j",
+            "ans": "I don't normally share personal emails, but here are some snippets. \n\n> Prior experience building applications that utilize image processing and machine learning algorithms.\n\n....\n\n> ... You can expect competitive pay as our median compensation is $230,000 USD.\n\nGoal was to build a classification application.",
+            "score": 1,
+            "que": "But can you show me exact job vacancies?"
+        },
+        {
+            "id": "fd8upw3",
+            "parent": "t1_fd6x6km",
+            "ans": "If you're Australian it's easy as pie, fun little loophole",
+            "score": 1,
+            "que": "If you don't have a US passport, it's honestly quite difficult to get a job in the US, even when skilled. Yes, you can get employment sponsored visas, but it's very difficult for a company to meet the justifications required for an entry level position, and even then, the H1B lottery entry date is April 1st for a potential work start date of October 1st. It's very difficult for a company to hire someone entry level with a start date more than six months away."
+        },
+        {
+            "id": "fen8em6",
+            "parent": "t1_fd6x6km",
+            "ans": "I\u2019ve actually heard the H1B is a joke and (some) companies here like to abuse the system by bringing any Joe Shmoe over then keeping him on a leash where if he asks for a raise or better bennies, they withdrawwl the H1B and deport the employee. \n\nAt least those are stories I\u2019ve heard. Let\u2019s just chalk it up to rumor. Aside from that getting a workers visa isn\u2019t that difficult, it\u2019s just a lengthy process. I have Canadian friends who have to wait 2-3 months for the permits to come thru so they can work as nurses over here.",
+            "score": 1,
+            "que": "If you don't have a US passport, it's honestly quite difficult to get a job in the US, even when skilled. Yes, you can get employment sponsored visas, but it's very difficult for a company to meet the justifications required for an entry level position, and even then, the H1B lottery entry date is April 1st for a potential work start date of October 1st. It's very difficult for a company to hire someone entry level with a start date more than six months away."
+        },
+        {
+            "id": "fd3jivn",
+            "parent": "t1_fd2ntas",
+            "ans": "For the most part (shameless plug for Albuquerque and Pittsburgh, both of which ha e growing tech scenes and low cost of living, though lower salaries to match)",
+            "score": 3,
+            "que": "Pretty mich any place in the US that has a data scientist job will have a cost of living level where 30k wouldn\u2019t get you far"
+        },
+        {
+            "id": "fd2qpih",
+            "parent": "t1_fd2ntas",
+            "ans": "Yeah I would agree, but I was just commenting on the comparison vs the UK.",
+            "score": 2,
+            "que": "Pretty mich any place in the US that has a data scientist job will have a cost of living level where 30k wouldn\u2019t get you far"
+        },
+        {
+            "id": "fdebevg",
+            "parent": "t1_fdeau0v",
+            "ans": "If you have a better explanation (or one that adds in factors, since I think I've named a couple), I'm all ears.  Been trying to figure this out for the better part of a year so if you have other factors, I'm earnestly curious to hear them.",
+            "score": 1,
+            "que": "Hold on, $40k/year doesn't make up for that difference at all. I worked as a *data analyst* for a \\~$10B SaaS company and make more than double that with 5 weeks of vacation, fully paid healthcare (with like $200 deductible) with like 2 years of experience.\n\nYou cannot tell me that some 'social safety net' or whatever is going to amount to that much difference."
+        },
+        {
+            "id": "fd97n4a",
+            "parent": "t1_fd97gxg",
+            "ans": "Yeah it is. I got a little carried away recommending it as a business book but it's only like 150 pages and super easy to read",
+            "score": 3,
+            "que": "Ahhh ok. It's the Freakonomics guys?\n\nZt1 is great, i agree"
+        },
+        {
+            "id": "fd4oiwq",
+            "parent": "t1_fd4mw3p",
+            "ans": "That's not what you wrote.",
+            "score": 1,
+            "que": "because the pool you are comparing with (financed by unis) is basically never high value in the sense that no one is willing to pay for their output..."
+        },
+        {
+            "id": "fd3yob3",
+            "parent": "t1_fd3wn4b",
+            "ans": "I was going off your comment that (quoting loosely) the vast majority of PhD research produces nothing of value except maybe some publications. \n\nMy argument: those publications are of value, even if they don\u2019t directly create money for someone.",
+            "score": 6,
+            "que": "no I dont but I dont lose focus on what this thread was about. Its kinda silly to bring up in the context of the tweet mentioned. Absolutely basic research is important and in some industries funding it can be a problem and seeing the link to actual value realization is difficult because of the nature of it. But that tweet had nothing to do with that."
+        },
+        {
+            "id": "fd9xemy",
+            "parent": "t1_fd7qy27",
+            "ans": "I'm not complaining. It's not a complaint. It's just the case. I don't understand all the people getting all riled up about stating that fact.",
+            "score": 3,
+            "que": "Yeah I don't understand all the people in this thread who are complaining about science being \"unsuccessful\" so often. Negative results is science"
+        },
+        {
+            "id": "fd6m6cb",
+            "parent": "t1_fd68a6i",
+            "ans": "It's still the case that the great majority of the research done by grad students is not particularly useful. I think you're reading that comment to be saying 'and therefore all of academia is entirely useless' or something. But that's not what I said. I was a grad student and everything I published, and everything published by every grad student I knew was useless.",
+            "score": 2,
+            "que": "I'm sorry but this entire thread is missing the whole point of academy. From my experience in academy most of the work surrounding theses, conference and journal papers, and dissertations serve to assist the advisors in their research that often is leveraged by big companies and/or the government. Likewise, I've known several PhDs who were hired simply because they were one of the few experts in the particular science they explored. This entire thread is just incorrect."
+        },
+        {
+            "id": "fd3n1ui",
+            "parent": "t1_fd37k7k",
+            "ans": "I'd support paying PhD's more. But also we should have far fewer PhDs.",
+            "score": 8,
+            "que": "My point was not *capitalism bad*. I was suggesting that we should pay PhDs more for their contribution to society (which you could've argued against without making up figures) as opposed to rewarding people for making more money (the way it works in the capitalist system). I didn't bring the word to start a revolutionary talk, I'm discussing wages."
+        },
+        {
+            "id": "fd50gbx",
+            "parent": "t1_fd4kv3y",
+            "ans": "I just wish people would stop calling it data *science*, but that's a battle that was lost a long time ago.",
+            "score": 5,
+            "que": "This is so true. For so many people since the boom, datascience is a way out of poverty or a way to upper middle class or even millionaire entrepreneur dreams. \n\nCapitalism and economics are the root of this sub (and to a degree this fields) popularity!"
+        },
+        {
+            "id": "fd50gcv",
+            "parent": "t1_fd4kv3y",
+            "ans": "In fact it is one of the only ways for upward mobilization that remains.  Those who can afford the time and money/debt, can attain the higher education required to have a small chance at a coveted DS position. For a few years at least.  Then they have the privilege of pouring over data to squeeze a few more drops of blood for the paymasters who own everything.  That is at least until even data science can be automated or outsourced.",
+            "score": 4,
+            "que": "This is so true. For so many people since the boom, datascience is a way out of poverty or a way to upper middle class or even millionaire entrepreneur dreams. \n\nCapitalism and economics are the root of this sub (and to a degree this fields) popularity!"
+        },
+        {
+            "id": "fd9g0m9",
+            "parent": "t1_fd6mpyf",
+            "ans": "Not necessarily.  My research (as an astronomer) had no commercial value so of course we just published it freely.  But like I mentioned, a friend of mine was doing research but built a specialized measurement device that actually could have had commercial value so the university wanted to control that patent.",
+            "score": 1,
+            "que": "The university doesn't patent it either. You just write a paper about it, publish it openly, and make it available for anyone."
+        },
+        {
+            "id": "fep2c3n",
+            "parent": "t1_fen8em6",
+            "ans": "Canada to US isn't too bad, there's a different Visa for that. H1Bs can be abused (something Microsoft, for example is somewhat notorious for), but they're also a great option to have as opposed to basically no option for the countries (most of them) that we don't have another agreement with. There are other ways (O visa, J visa, OPT for folks on a student visa) but Os are pretty hard to justify for people outside of academia and the others all have hard upper limits on how long you can stay and work on that visa.",
+            "score": 1,
+            "que": "I\u2019ve actually heard the H1B is a joke and (some) companies here like to abuse the system by bringing any Joe Shmoe over then keeping him on a leash where if he asks for a raise or better bennies, they withdrawwl the H1B and deport the employee. \n\nAt least those are stories I\u2019ve heard. Let\u2019s just chalk it up to rumor. Aside from that getting a workers visa isn\u2019t that difficult, it\u2019s just a lengthy process. I have Canadian friends who have to wait 2-3 months for the permits to come thru so they can work as nurses over here."
+        },
+        {
+            "id": "fd4ov7x",
+            "parent": "t1_fd3jivn",
+            "ans": "Which companies in abq you like ?",
+            "score": 1,
+            "que": "For the most part (shameless plug for Albuquerque and Pittsburgh, both of which ha e growing tech scenes and low cost of living, though lower salaries to match)"
+        },
+        {
+            "id": "fd98f5i",
+            "parent": "t1_fd97n4a",
+            "ans": "\"How to think\" would probably be more valuable than any random \"framework\" biz book.",
+            "score": 2,
+            "que": "Yeah it is. I got a little carried away recommending it as a business book but it's only like 150 pages and super easy to read"
+        },
+        {
+            "id": "fd4qibp",
+            "parent": "t1_fd4oiwq",
+            "ans": "Thank you for your insights",
+            "score": -1,
+            "que": "That's not what you wrote."
+        },
+        {
+            "id": "fd43bh7",
+            "parent": "t1_fd3yob3",
+            "ans": "You fell too deep in the rabbit hole and now you are coming with the boring and obvious \"basic research\"\n\nPerhaps if I express myself a little more directly. The guy in the tweet picked the wrong features for correlation analysis. He used a representation for \"academic complexity\" and compared it to \"remuneration\". He was implying that academic complexity should be linked to pay, but it is not. Value provided is linked to pay. \n\nYou missed that basic flaw in the original statement and fell into some hole leading you to basic research. Yes there is a problem with funding basic research optimally. Thats something completely different",
+            "score": -1,
+            "que": "I was going off your comment that (quoting loosely) the vast majority of PhD research produces nothing of value except maybe some publications. \n\nMy argument: those publications are of value, even if they don\u2019t directly create money for someone."
+        },
+        {
+            "id": "fd6wjh4",
+            "parent": "t1_fd6m6cb",
+            "ans": "In the grad program I was involved in I read the work of past grad students to build upon their efforts for my own research. I bet the same thing happens with your work. It's not useless, it's apart of the process that shapes a scientist. There's no other reliable way.",
+            "score": 2,
+            "que": "It's still the case that the great majority of the research done by grad students is not particularly useful. I think you're reading that comment to be saying 'and therefore all of academia is entirely useless' or something. But that's not what I said. I was a grad student and everything I published, and everything published by every grad student I knew was useless."
+        },
+        {
+            "id": "fd5syc7",
+            "parent": "t1_fd3n1ui",
+            "ans": "It's already next to impossible to get to a PhD program in ML ([here's a nice article about it, from about a week ago](https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b)). You think it needs to be done even more competitive?..",
+            "score": 3,
+            "que": "I'd support paying PhD's more. But also we should have far fewer PhDs."
+        },
+        {
+            "id": "fd7kcm2",
+            "parent": "t1_fd3n1ui",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I'd support paying PhD's more. But also we should have far fewer PhDs."
+        },
+        {
+            "id": "fd9tk33",
+            "parent": "t1_fd98f5i",
+            "ans": "Which \"how to think\" book are you referring to here?",
+            "score": 1,
+            "que": "\"How to think\" would probably be more valuable than any random \"framework\" biz book."
+        },
+        {
+            "id": "fd9wet2",
+            "parent": "t1_fd6wjh4",
+            "ans": "Yes, the point of an education is largely pedagogical. Well discovered.\n\nOf course you understood by the context of the discussion that by 'useless' we meant 'has no applications.' At the end of the chain of work people do, building on the work of others, it's still the case that most of that doesn't become applied. This isn't an insult. This isn't making a case against doing science. It's just ... the case.\n\nMoreover, most of that work that you built your work off of came out of the top-tier institutions. But there are a loooooot more PhD granting institutions whose theses never get published anywhere and no one builds off of them.",
+            "score": 2,
+            "que": "In the grad program I was involved in I read the work of past grad students to build upon their efforts for my own research. I bet the same thing happens with your work. It's not useless, it's apart of the process that shapes a scientist. There's no other reliable way."
+        },
+        {
+            "id": "fd9x8qb",
+            "parent": "t1_fd5syc7",
+            "ans": "Well, I meant in general. Not just in one field. But, yes.   \n\n\nThing about that post is the author is applying 1) as an international student and 2) to the top programs. There are hundreds of directional state universities in the country that'll give you a PhD, too. It's still not exactly easy to get in, but it's also nothing like what was described there.",
+            "score": 1,
+            "que": "It's already next to impossible to get to a PhD program in ML ([here's a nice article about it, from about a week ago](https://medium.com/@andreas_madsen/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b)). You think it needs to be done even more competitive?.."
+        },
+        {
+            "id": "fd9vafu",
+            "parent": "t1_fd7kcm2",
+            "ans": "I didn't say it's unjustified. That's an assumption you (and seemingly everyone else responding to me) are making.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fd9wkmj",
+            "parent": "t1_fd9tk33",
+            "ans": "I was reacting to his think like a freak book",
+            "score": 2,
+            "que": "Which \"how to think\" book are you referring to here?"
+        }
+    ]
+}

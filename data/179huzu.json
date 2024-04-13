@@ -1,0 +1,463 @@
+{
+    "title": "Meme Mondays",
+    "id": "179huzu",
+    "create_at": 1697493093.0,
+    "score": 1705,
+    "comments": [
+        {
+            "id": "k59gy0c",
+            "parent": "t1_k57i6jw",
+            "ans": "I'll show you my p value if you show me yours",
+            "score": 108,
+            "que": "If answered ask what's a p value"
+        },
+        {
+            "id": "k57pdn7",
+            "parent": "t1_k57i6jw",
+            "ans": "\ud83d\ude21 Probability \ud83d\ude21 that \ud83d\ude21 the \ud83d\ude21 observed \ud83d\ude21 data \ud83d\ude21 would \ud83d\ude21 happen \ud83d\ude21 given \ud83d\ude21 the \ud83d\ude21 null \ud83d\ude21 hypothesis \ud83d\ude21",
+            "score": 224,
+            "que": "If answered ask what's a p value"
+        },
+        {
+            "id": "k57wmlw",
+            "parent": "t1_k57i6jw",
+            "ans": "Haha you would get so many bad answers. Also fuck p values, imo",
+            "score": 22,
+            "que": "If answered ask what's a p value"
+        },
+        {
+            "id": "k5huyz6",
+            "parent": "t1_k57i6jw",
+            "ans": "When someone says \u201cactually it\u2019s rejecting the null hypothesis\u201d I want to punch them. We all know, we just don\u2019t want to talk like idiots.",
+            "score": 3,
+            "que": "If answered ask what's a p value"
+        },
+        {
+            "id": "k58nak8",
+            "parent": "t1_k58ghzy",
+            "ans": "This is honestly not terrible when you need to communicate with stakeholders who need simple yes/no answers to make decisions. I think the problem is when as a data scientist you\u2019re not aware of what these things are.",
+            "score": 87,
+            "que": "I once asked my data science team to provide me with p values, t scores, or 95% CIs for their coefficients of  relationships they were claiming.  I knew they weren't great at that stuff so I just wanted to keep it as simple as possible.  \n\nInstead they gave me a table that described the fits as \"good\" \"great\" \"not so good\""
+        },
+        {
+            "id": "k5ba7dc",
+            "parent": "t1_k583pad",
+            "ans": "Scipy",
+            "score": 15,
+            "que": "Inside my brain, \"I believe one of the Python lib already have this feature, if I am lucky enough, Pandas might have implemented it already. \""
+        },
+        {
+            "id": "k5anan4",
+            "parent": "t1_k586b9s",
+            "ans": "What does Max Verstappen have to do with Machine Learning? /s",
+            "score": 24,
+            "que": "This is why I'm telling everyone I'm an ML engineer. So I can get away with the trifecta of loss, RMSE and F1 score"
+        },
+        {
+            "id": "k58dsf8",
+            "parent": "t1_k586b9s",
+            "ans": "You mean harmonic mean",
+            "score": 31,
+            "que": "This is why I'm telling everyone I'm an ML engineer. So I can get away with the trifecta of loss, RMSE and F1 score"
+        },
+        {
+            "id": "k579q4m",
+            "parent": "t1_k570knd",
+            "ans": "SMH credible intervals in 2023? \n\nMe and the homies only use <niche uncertainty quantification tool>, read about it in my new Ebook!! /s",
+            "score": 79,
+            "que": "virgin confidence interval vs chad credible interval"
+        },
+        {
+            "id": "k57ac9z",
+            "parent": "t1_k570knd",
+            "ans": "69% based interval",
+            "score": 39,
+            "que": "virgin confidence interval vs chad credible interval"
+        },
+        {
+            "id": "k57ntiw",
+            "parent": "t1_k571zj7",
+            "ans": "Lucky you, we don\u2019t have anything apart from aleatoric uncertainty in our company. Especially when it comes to performance reviews and raises, haha",
+            "score": 13,
+            "que": "It\u2019s the period of time between me finishing my coffee in the morning and feeling drag-arsey after lunch where I\u2019m motivated and feel like I can accomplish anything.  This is followed shortly thereafter by a period of epistemic uncertainty."
+        },
+        {
+            "id": "k58dqij",
+            "parent": "t1_k571zj7",
+            "ans": "Wait, you don't even throw up in the mornings?",
+            "score": 7,
+            "que": "It\u2019s the period of time between me finishing my coffee in the morning and feeling drag-arsey after lunch where I\u2019m motivated and feel like I can accomplish anything.  This is followed shortly thereafter by a period of epistemic uncertainty."
+        },
+        {
+            "id": "k5a5sph",
+            "parent": "t1_k594mix",
+            "ans": "That is shocking. I learned about the difference in high school. Our math teacher wanted us to know how people used statistics to lie/mislead.",
+            "score": 15,
+            "que": "When interviewing I start with easier questions, like \"what's the difference between an average and a median\", usually 70% of the candidates can't answer this even with a lot of help..."
+        },
+        {
+            "id": "k5cjtw6",
+            "parent": "t1_k594mix",
+            "ans": "Do you mean the difference between a mean and a median? Average is ambiguous and can mean different things in different contexts.",
+            "score": 10,
+            "que": "When interviewing I start with easier questions, like \"what's the difference between an average and a median\", usually 70% of the candidates can't answer this even with a lot of help..."
+        },
+        {
+            "id": "k5c70ki",
+            "parent": "t1_k594mix",
+            "ans": "Whats the answer that you are looking for?",
+            "score": 2,
+            "que": "When interviewing I start with easier questions, like \"what's the difference between an average and a median\", usually 70% of the candidates can't answer this even with a lot of help..."
+        },
+        {
+            "id": "k5az82f",
+            "parent": "t1_k594mix",
+            "ans": "You can tier this. If their explanation is relatively simple but also talks about different measures of centrality, they understand the concept. If they start talking about L1/L2 norms, they can code it.",
+            "score": -5,
+            "que": "When interviewing I start with easier questions, like \"what's the difference between an average and a median\", usually 70% of the candidates can't answer this even with a lot of help..."
+        },
+        {
+            "id": "k59h72c",
+            "parent": "t1_k58xmqf",
+            "ans": "no for no in \\[\"no\"\\]",
+            "score": 19,
+            "que": "OP are the one who posted the harmonic mean post several months back?"
+        },
+        {
+            "id": "k5m22b3",
+            "parent": "t1_k58xmqf",
+            "ans": "I think it has been years since that legendary post.",
+            "score": 2,
+            "que": "OP are the one who posted the harmonic mean post several months back?"
+        },
+        {
+            "id": "k5azcyx",
+            "parent": "t1_k58tn8n",
+            "ans": "https://media.giphy.com/media/1wPA3zM1gv2YH0ZKn3/giphy.gif",
+            "score": 1,
+            "que": "Me obsessing over how the Pearson and Spearman coefficients work over the last week and people around me blindly using correl() in Excel and saying they did a correlation analysis (they spent a week on using a function over a few columns)"
+        },
+        {
+            "id": "k5a8sgd",
+            "parent": "t1_k59iy03",
+            "ans": "Let me nitpick here. It is impossible to know, in absolute terms, how likely an observed effect is to happen by random chance, because we don't know a probability distribution for what happens in the world. A p-value gives the probability of the data, conditional on the null hypothesis. A lot of people miss the \"conditional on the null hypothesis\" part, and think you're showing how likely the null hypothesis is to be true. I think it's crucial to communicate that this isn't true.",
+            "score": 10,
+            "que": "Not a data science.. but I am a business intelligence analyst and need to regularly explain these concepts to people that dont normally deal with stats (usually they took a class a million years ago)... A p value tells you how likely an observed effect happened by random chance.. so smaller values means less likely it was random chance. Confidence intervals give you a range of values (to whatever confidence you like. usually 95% is calculated) where you are fairly certain the TRUE average exists... I'll go onto a brief synopsis of the central limit theorem from there if they look interested"
+        },
+        {
+            "id": "k5focj2",
+            "parent": "t1_k5dgncr",
+            "ans": "In my opinion, it is normal to not know this on top of your head, specially when talking about statistics. \n\nThe more you study statistics, the more you need to double check.\n\nI think people like OP are just trying to say that some people say they are a professional of this area when they are not...  \n\n\nOP should help their partners with discussions, so both of them have a better understanding of what a confidence interval really is. Instead, at the time of post, he is just acknowledging that fact to others so he can reaffirm that there is more complex doubts in the area of statistics that should be discussed so he can provide more profit to his boss.",
+            "score": 2,
+            "que": "Are you supposed to know what this is off the top of your head?\n\nI am constantly double checking definitions and how to apply something\u2026.."
+        },
+        {
+            "id": "k58wi1z",
+            "parent": "t1_k58qq2k",
+            "ans": "Python is a \"\"beginer\"\" language for data science. Often people who started with it (since it is \"\"easy\"\") are attracted by th\u00e9 Idea of doing programmation to make machine learning etc... But they do not bother to check th\u00e9 \"boring\" maths before...",
+            "score": 27,
+            "que": "I don\u2019t get the joke  \ud83d\ude2d"
+        },
+        {
+            "id": "k596354",
+            "parent": "t1_k58qq2k",
+            "ans": "It's a medium-tier shitpost",
+            "score": 4,
+            "que": "I don\u2019t get the joke  \ud83d\ude2d"
+        },
+        {
+            "id": "k5ah6bc",
+            "parent": "t1_k5a31mz",
+            "ans": "I hope chatgpt collapses into a black hole. #stackoverflowforlife",
+            "score": 1,
+            "que": "The confidence interval is a range calculated around a model's estimate, where the size of the range is determined by the standard error, indicating how much the estimate might vary due to sampling variability. -chatgpt"
+        },
+        {
+            "id": "k5a2hn1",
+            "parent": "t1_k59gy0c",
+            "ans": "size doesn\u2019t matter, because your p value is too big",
+            "score": 32,
+            "que": "I'll show you my p value if you show me yours"
+        },
+        {
+            "id": "k5a360m",
+            "parent": "t1_k59gy0c",
+            "ans": "I dont need a p value to see how significant you are to me.",
+            "score": 6,
+            "que": "I'll show you my p value if you show me yours"
+        },
+        {
+            "id": "k57py64",
+            "parent": "t1_k57pdn7",
+            "ans": "Or data weirder than observed data",
+            "score": 105,
+            "que": "\ud83d\ude21 Probability \ud83d\ude21 that \ud83d\ude21 the \ud83d\ude21 observed \ud83d\ude21 data \ud83d\ude21 would \ud83d\ude21 happen \ud83d\ude21 given \ud83d\ude21 the \ud83d\ude21 null \ud83d\ude21 hypothesis \ud83d\ude21"
+        },
+        {
+            "id": "k58qya2",
+            "parent": "t1_k57pdn7",
+            "ans": "Some colleagues also call it a quantification of the evidence contained in the observed data against the null hypothesis.",
+            "score": 14,
+            "que": "\ud83d\ude21 Probability \ud83d\ude21 that \ud83d\ude21 the \ud83d\ude21 observed \ud83d\ude21 data \ud83d\ude21 would \ud83d\ude21 happen \ud83d\ude21 given \ud83d\ude21 the \ud83d\ude21 null \ud83d\ude21 hypothesis \ud83d\ude21"
+        },
+        {
+            "id": "k5a7mhs",
+            "parent": "t1_k57pdn7",
+            "ans": "What is the null hypothesis",
+            "score": 4,
+            "que": "\ud83d\ude21 Probability \ud83d\ude21 that \ud83d\ude21 the \ud83d\ude21 observed \ud83d\ude21 data \ud83d\ude21 would \ud83d\ude21 happen \ud83d\ude21 given \ud83d\ude21 the \ud83d\ude21 null \ud83d\ude21 hypothesis \ud83d\ude21"
+        },
+        {
+            "id": "k5agofj",
+            "parent": "t1_k57pdn7",
+            "ans": "Me, an agent of chaos looking to anger the true data nerds:\n\nThe probability the null hypothesis is true.",
+            "score": 5,
+            "que": "\ud83d\ude21 Probability \ud83d\ude21 that \ud83d\ude21 the \ud83d\ude21 observed \ud83d\ude21 data \ud83d\ude21 would \ud83d\ude21 happen \ud83d\ude21 given \ud83d\ude21 the \ud83d\ude21 null \ud83d\ude21 hypothesis \ud83d\ude21"
+        },
+        {
+            "id": "k58drgd",
+            "parent": "t1_k57wmlw",
+            "ans": "Even professors can\u2019t answer it. Seriously",
+            "score": 35,
+            "que": "Haha you would get so many bad answers. Also fuck p values, imo"
+        },
+        {
+            "id": "k599ohk",
+            "parent": "t1_k58nak8",
+            "ans": "Yeah I\u2019ve been told mean, median and mode is too technical for stakeholders before so there really is no floor on this shit",
+            "score": 83,
+            "que": "This is honestly not terrible when you need to communicate with stakeholders who need simple yes/no answers to make decisions. I think the problem is when as a data scientist you\u2019re not aware of what these things are."
+        },
+        {
+            "id": "k59ebn0",
+            "parent": "t1_k58nak8",
+            "ans": "I would agree with this in general.  However when the stakeholder requests the more technical definition it's unacceptable to not provide it",
+            "score": 17,
+            "que": "This is honestly not terrible when you need to communicate with stakeholders who need simple yes/no answers to make decisions. I think the problem is when as a data scientist you\u2019re not aware of what these things are."
+        },
+        {
+            "id": "k5ap7vj",
+            "parent": "t1_k5anan4",
+            "ans": "He's a machine and has to learn loads of tracks...?",
+            "score": 11,
+            "que": "What does Max Verstappen have to do with Machine Learning? /s"
+        },
+        {
+            "id": "koh6xjv",
+            "parent": "t1_k5anan4",
+            "ans": "He calulates f1 scores for driving around the curves",
+            "score": 3,
+            "que": "What does Max Verstappen have to do with Machine Learning? /s"
+        },
+        {
+            "id": "k57nahp",
+            "parent": "t1_k57ac9z",
+            "ans": "Nice!",
+            "score": 3,
+            "que": "69% based interval"
+        },
+        {
+            "id": "k58j3cy",
+            "parent": "t1_k57ac9z",
+            "ans": " You're my kinda people \ud83d\ude05 I feel right at home.",
+            "score": -2,
+            "que": "69% based interval"
+        },
+        {
+            "id": "k5aufaw",
+            "parent": "t1_k5a5sph",
+            "ans": "High school?!?\n\nThey started that when they taught division in 3rd grade for me.",
+            "score": 4,
+            "que": "That is shocking. I learned about the difference in high school. Our math teacher wanted us to know how people used statistics to lie/mislead."
+        },
+        {
+            "id": "k5dzep0",
+            "parent": "t1_k5cjtw6",
+            "ans": "Mean can also mean different things. Of course every serious (aspiring) data scientist knows that interviewers are talking about the harmonic mean.",
+            "score": 11,
+            "que": "Do you mean the difference between a mean and a median? Average is ambiguous and can mean different things in different contexts."
+        },
+        {
+            "id": "k5clzi0",
+            "parent": "t1_k5cjtw6",
+            "ans": "Really? I always thought average = mean",
+            "score": 6,
+            "que": "Do you mean the difference between a mean and a median? Average is ambiguous and can mean different things in different contexts."
+        },
+        {
+            "id": "k5eexzi",
+            "parent": "t1_k5cjtw6",
+            "ans": "You're obviously in the 30% :)",
+            "score": 2,
+            "que": "Do you mean the difference between a mean and a median? Average is ambiguous and can mean different things in different contexts."
+        },
+        {
+            "id": "k5efegl",
+            "parent": "t1_k5c70ki",
+            "ans": "Well, acknowledging that they can be different, a little bit of explaining why, then this become an intro to skewed data and how to handle them (that's probably problem/industry specific, but if we reach that point of the discussion, you reached a good mark :) )",
+            "score": 2,
+            "que": "Whats the answer that you are looking for?"
+        },
+        {
+            "id": "k5d0yq4",
+            "parent": "t1_k5a8sgd",
+            "ans": "Yes and no. On the one hand.. yes you are more right.. a more accurate way to explain it could be to say something like \"the smaller the p value, the less likely the observed difference is due to random chance,  assuming the null hypothesis is true\"...but I guarantee you will instantly lose two-thirds of the room the moment you say \"null hypothesis\".. It ultimately boils down to precision vs practicality. From a BI perspective I'll draw that shit out in crayon if i think it will help the executives actually understand what the hell I am saying.... and I can't tell you the number of times I've had to explain that statistical significance does not necessarily mean practical significance...",
+            "score": 1,
+            "que": "Let me nitpick here. It is impossible to know, in absolute terms, how likely an observed effect is to happen by random chance, because we don't know a probability distribution for what happens in the world. A p-value gives the probability of the data, conditional on the null hypothesis. A lot of people miss the \"conditional on the null hypothesis\" part, and think you're showing how likely the null hypothesis is to be true. I think it's crucial to communicate that this isn't true."
+        },
+        {
+            "id": "k5c5gou",
+            "parent": "t1_k5a8sgd",
+            "ans": "To me it's implied that the confidence value exists because it is conditional on the null hypothesis. Of course the confidence interval would change if the hypothesis changes.",
+            "score": 1,
+            "que": "Let me nitpick here. It is impossible to know, in absolute terms, how likely an observed effect is to happen by random chance, because we don't know a probability distribution for what happens in the world. A p-value gives the probability of the data, conditional on the null hypothesis. A lot of people miss the \"conditional on the null hypothesis\" part, and think you're showing how likely the null hypothesis is to be true. I think it's crucial to communicate that this isn't true."
+        },
+        {
+            "id": "k59c105",
+            "parent": "t1_k58wi1z",
+            "ans": "As someone who got into programming/Python after I had already reached a relatively advanced level of statistics edication, it always tickles me how little about statistics some of the people who are \"into\" machine learning know.\n\nI'm the first to admit I'm a shitty programmer though. A person needs a good balance.",
+            "score": 15,
+            "que": "Python is a \"\"beginer\"\" language for data science. Often people who started with it (since it is \"\"easy\"\") are attracted by th\u00e9 Idea of doing programmation to make machine learning etc... But they do not bother to check th\u00e9 \"boring\" maths before..."
+        },
+        {
+            "id": "k5d9kxq",
+            "parent": "t1_k5ah6bc",
+            "ans": "Why? It\u2019s incredibly useful to give you some fast code to get cold starts going. It can help with pair programming / talking to someone when you have no one else to talk to. I\u2019ve also learned a ton of good python practices from it. \n\nDoes it give bad results? Oh yeah. But it\u2019s just a tool. And it provably sped up my coding by a lot.",
+            "score": 1,
+            "que": "I hope chatgpt collapses into a black hole. #stackoverflowforlife"
+        },
+        {
+            "id": "k5aalen",
+            "parent": "t1_k5a2hn1",
+            "ans": "Yo mama's p value is so fat it's not even significant",
+            "score": 26,
+            "que": "size doesn\u2019t matter, because your p value is too big"
+        },
+        {
+            "id": "k57tjz7",
+            "parent": "t1_k57py64",
+            "ans": "Or, if it's a two-tailed test, data that are somehow equally, yet oppositely weird.",
+            "score": 53,
+            "que": "Or data weirder than observed data"
+        },
+        {
+            "id": "k57uru6",
+            "parent": "t1_k57py64",
+            "ans": "Ahem at least as weird. \n\n*Parents breathing a sigh of relief that maybe their kid is *just a weeb*",
+            "score": 23,
+            "que": "Or data weirder than observed data"
+        },
+        {
+            "id": "k5ctpey",
+            "parent": "t1_k57py64",
+            "ans": "Whats your type I and type II error?",
+            "score": 2,
+            "que": "Or data weirder than observed data"
+        },
+        {
+            "id": "k59e9wk",
+            "parent": "t1_k58qya2",
+            "ans": "Maybe I'm just reading it wrong but this sounds like they're flirting with the idea they it's the probability the hypothesis is true, which is not it",
+            "score": 15,
+            "que": "Some colleagues also call it a quantification of the evidence contained in the observed data against the null hypothesis."
+        },
+        {
+            "id": "k5a6ah1",
+            "parent": "t1_k58qya2",
+            "ans": "I like to explain it as a measure of compatibility between the null and the data so that the implications of small and large values makes sense. If the null (which we just made up) and the data are incompatible, we reject the null and go with what the data tell us. If they are compatible, the data provide no evidence against the null.",
+            "score": 2,
+            "que": "Some colleagues also call it a quantification of the evidence contained in the observed data against the null hypothesis."
+        },
+        {
+            "id": "k591jyr",
+            "parent": "t1_k58drgd",
+            "ans": "Well, it's hard for them to understand, given their publish-or-perish paycheck is dependent on their not understanding it.",
+            "score": 15,
+            "que": "Even professors can\u2019t answer it. Seriously"
+        },
+        {
+            "id": "k59p8kz",
+            "parent": "t1_k599ohk",
+            "ans": "I\u2019ve opted for balloon animals and then at the end I just beg them to keep me",
+            "score": 37,
+            "que": "Yeah I\u2019ve been told mean, median and mode is too technical for stakeholders before so there really is no floor on this shit"
+        },
+        {
+            "id": "k59hfej",
+            "parent": "t1_k59ebn0",
+            "ans": "That\u2019s totally true. It\u2019s why appendix slides exist :)",
+            "score": 7,
+            "que": "I would agree with this in general.  However when the stakeholder requests the more technical definition it's unacceptable to not provide it"
+        },
+        {
+            "id": "k5dkxjb",
+            "parent": "t1_k5clzi0",
+            "ans": "Well that's what Excel says so I just accepted that as fact",
+            "score": 3,
+            "que": "Really? I always thought average = mean"
+        },
+        {
+            "id": "k5e3fhm",
+            "parent": "t1_k5d0yq4",
+            "ans": "You don\u2019t have to say it like that. They will understand \u201cif we live in a world where [statement of null hypothesis], data like this probably wouldn\u2019t happen. So this data suggests our world is different.\u201d Avoid the terminology, but provide a logically correct meaning.",
+            "score": 2,
+            "que": "Yes and no. On the one hand.. yes you are more right.. a more accurate way to explain it could be to say something like \"the smaller the p value, the less likely the observed difference is due to random chance,  assuming the null hypothesis is true\"...but I guarantee you will instantly lose two-thirds of the room the moment you say \"null hypothesis\".. It ultimately boils down to precision vs practicality. From a BI perspective I'll draw that shit out in crayon if i think it will help the executives actually understand what the hell I am saying.... and I can't tell you the number of times I've had to explain that statistical significance does not necessarily mean practical significance..."
+        },
+        {
+            "id": "k59gs3l",
+            "parent": "t1_k59c105",
+            "ans": "Yes lmao\n\nEveryone comes in from different backgrounds, and there are tradeoffs to specializing in different skill sets, but there some fundamental concepts that can should be understood by most people in the field",
+            "score": 6,
+            "que": "As someone who got into programming/Python after I had already reached a relatively advanced level of statistics edication, it always tickles me how little about statistics some of the people who are \"into\" machine learning know.\n\nI'm the first to admit I'm a shitty programmer though. A person needs a good balance."
+        },
+        {
+            "id": "k5du9r9",
+            "parent": "t1_k5d9kxq",
+            "ans": "A tool that gives bad results is a bad tool. A tool that gives bad results that someone without deep knowledge can even tell are bad is a horrific tool.\n\nDon't get me wrong, it's cool, but it's too prone to fail spectacularly and silently. Anything chatgpt can regurgitate is out on the Internet already anyway. You could have just looked up good programming practices from countless reputable sources that teach them and read better information.",
+            "score": 1,
+            "que": "Why? It\u2019s incredibly useful to give you some fast code to get cold starts going. It can help with pair programming / talking to someone when you have no one else to talk to. I\u2019ve also learned a ton of good python practices from it. \n\nDoes it give bad results? Oh yeah. But it\u2019s just a tool. And it provably sped up my coding by a lot."
+        },
+        {
+            "id": "k5p5jf3",
+            "parent": "t1_k57tjz7",
+            "ans": "It\u2019s called quantum data, can be anything, every value at once",
+            "score": 2,
+            "que": "Or, if it's a two-tailed test, data that are somehow equally, yet oppositely weird."
+        },
+        {
+            "id": "k5a02p7",
+            "parent": "t1_k59e9wk",
+            "ans": "Oh no, at least I hope not. As far as I know we don't prove a hypothesis right. We just discard the simpler hypotheses at a given uncertainty until we can't anymore. Idk if I'm even phrasing it right, it can get philosophical quick too.",
+            "score": 4,
+            "que": "Maybe I'm just reading it wrong but this sounds like they're flirting with the idea they it's the probability the hypothesis is true, which is not it"
+        },
+        {
+            "id": "k5bgn2o",
+            "parent": "t1_k59p8kz",
+            "ans": "Why did my brain spend a good couple seconds panicking that \u201cballoon animals\u201d were the hip new chart/visualization that I hadn\u2019t heard of",
+            "score": 6,
+            "que": "I\u2019ve opted for balloon animals and then at the end I just beg them to keep me"
+        },
+        {
+            "id": "k5a85sf",
+            "parent": "t1_k5a02p7",
+            "ans": "Well, you shouldnt really be using p values as the solo measure of your test. The ASA has quietly kind of disavowed the use of p values because of how misleading they can be\n\nBut ultimately the p value doesn't directly say anything about the hypothesis itself, it measures how compatible the *data* is with the hypothesis",
+            "score": 10,
+            "que": "Oh no, at least I hope not. As far as I know we don't prove a hypothesis right. We just discard the simpler hypotheses at a given uncertainty until we can't anymore. Idk if I'm even phrasing it right, it can get philosophical quick too."
+        },
+        {
+            "id": "k5bh31z",
+            "parent": "t1_k5bgn2o",
+            "ans": "Agahah thats a genius mindset I think",
+            "score": 5,
+            "que": "Why did my brain spend a good couple seconds panicking that \u201cballoon animals\u201d were the hip new chart/visualization that I hadn\u2019t heard of"
+        },
+        {
+            "id": "k5aalcb",
+            "parent": "t1_k5a85sf",
+            "ans": "I kinda moved on from p-values there, my point was more general. [I prefer not relying on them](https://www.nature.com/articles/nmeth.3288) anyway.",
+            "score": 1,
+            "que": "Well, you shouldnt really be using p values as the solo measure of your test. The ASA has quietly kind of disavowed the use of p values because of how misleading they can be\n\nBut ultimately the p value doesn't directly say anything about the hypothesis itself, it measures how compatible the *data* is with the hypothesis"
+        }
+    ]
+}

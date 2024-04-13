@@ -1,0 +1,778 @@
+{
+    "title": "That's true",
+    "id": "p59a8u",
+    "create_at": 1629089555.0,
+    "score": 2153,
+    "comments": [
+        {
+            "id": "h97qmx7",
+            "parent": "t1_h95fq1x",
+            "ans": "I bet there is some statistics veteran out there who doesn't even know he is doing machine learning, deep learning, AI, NFT development, Blockchain, Cryptocurrency, Quantum Company, Fintech, techtech all at once.",
+            "score": 24,
+            "que": "research: statistics\n\ndev: machine learning\n\nbusiness: deep learning\n\nmarketing: artificial intelligense\n\nalso, oddly enough, the p-value goes from .03 to .15 somehow"
+        },
+        {
+            "id": "h95vmwm",
+            "parent": "t1_h95fq1x",
+            "ans": "Was 'intelligense' for marketing deliberate?",
+            "score": 31,
+            "que": "research: statistics\n\ndev: machine learning\n\nbusiness: deep learning\n\nmarketing: artificial intelligense\n\nalso, oddly enough, the p-value goes from .03 to .15 somehow"
+        },
+        {
+            "id": "h94mtb0",
+            "parent": "t1_h94m0q7",
+            "ans": "Yep, automated, iterative statistics.",
+            "score": 123,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h964zif",
+            "parent": "t1_h94m0q7",
+            "ans": "Some applied approaches are deeply rooted in statistics, such as Bayesian techniques (ie. naive Bayes), mixture models, and K means. Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nStatistical learning theory is a foundational approach to understanding bounds and the effects of ML, but computational learning theory (CLT, sometimes referred to as machine learning theory) approaches machine learning from a multifaceted approach. For example, VC dimension and epsilon nets. You could argue that the calculations necessary for this are reminiscent of probability, but it's equally valid to use combinatorial arguments, especially since they sit close to set theory.\n\nWhat I'm trying to say here is that statistics are sometimes a tool, sometimes analysis, but it *isn't* the end-all be-all of machine learning. Machine learning, like every field that came before it, depends on insights from other fields, until it became enough to be a field in its own right. Statistics depends on probability, set theory, combinatorics, optimization, calculus, linear algebra, and so forth, just as much as machine learning. So, it's really silly to say that all of these are just statistics.",
+            "score": 24,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h94tt01",
+            "parent": "t1_h94m0q7",
+            "ans": "Symbolic AI actually has nothing to do with AI",
+            "score": 8,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h98mboj",
+            "parent": "t1_h94m0q7",
+            "ans": "Not exactly. It's more about what you're trying to achieve.\n\nYou can have machine learning without it being statistics.\n\nJust because it's mathematical doesn't mean it's statistics. A lot of things are mathematical in nature without being statistics. You can represent the exact same concept in multiple ways including ways that have nothing to do with statistics.\n\nMost modern statistics is represented as an optimization problem or a graph problem for example because that's easier for computers. So I could say that all of statistics is just a special case of machine learning.",
+            "score": 1,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h95gnng",
+            "parent": "t1_h94m0q7",
+            "ans": "Deep Learning isn't statistics; It's more of calc and a part stats",
+            "score": -27,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h94oflu",
+            "parent": "t1_h94m0q7",
+            "ans": "Hardly",
+            "score": -68,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h97afx7",
+            "parent": "t1_h94m0q7",
+            "ans": "Maybe they meant to use Heuristics?",
+            "score": 1,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h98qoma",
+            "parent": "t1_h94m0q7",
+            "ans": "Went get my free award just so you could have it.",
+            "score": 1,
+            "que": "They're literally all statistics..."
+        },
+        {
+            "id": "h95eug2",
+            "parent": "t1_h94y8bw",
+            "ans": "Statistician: \u201cAI/ML/Deep Learning is Applied Statistics!\u201d",
+            "score": 18,
+            "que": "Essentially the [purity](https://imgs.xkcd.com/comics/purity.png) argument."
+        },
+        {
+            "id": "h97o23g",
+            "parent": "t1_h94y8bw",
+            "ans": "A variation of a very old joke: \n\nBiologists think they are biochemists,   \nBiochemists think they are physical chemists,  \nPhysical chemists think they are physicists,  \nPhysicists think they are gods,  \nAnd God thinks he is a mathematician.",
+            "score": 6,
+            "que": "Essentially the [purity](https://imgs.xkcd.com/comics/purity.png) argument."
+        },
+        {
+            "id": "h96hfg3",
+            "parent": "t1_h94y8bw",
+            "ans": "Shouldn\u2019t philosophy be behind the mathematician?",
+            "score": 5,
+            "que": "Essentially the [purity](https://imgs.xkcd.com/comics/purity.png) argument."
+        },
+        {
+            "id": "h97rgjh",
+            "parent": "t1_h94y8bw",
+            "ans": "I studied accounting in uni and I kid you not that there is a great consensus that the core concept of modern accounting comes from physics. \n\nYeah, there is this whole debate about the source of accounting. So we just called accounting something in between art and science and called it a day. And the fun part is .....  wait... I shouldn't be snitching on my accountant friends.",
+            "score": 1,
+            "que": "Essentially the [purity](https://imgs.xkcd.com/comics/purity.png) argument."
+        },
+        {
+            "id": "h96elq0",
+            "parent": "t1_h95mxj9",
+            "ans": "You only need a basic understanding of stats to deploy ML models. If you were doing ML research or trying to create cutting edge models you might need more stats knowledge.",
+            "score": 6,
+            "que": "I've seen several data analysts, who knew how to pull data become ML engineers and leaders in title with increased pay.  They are often promoted for delivering \"ML solutions\". However, in my time working with them it was clear they didnt know basic stats.  \n\nIs it possible for those types to deploy ML effectively or do they need to understand stats to build reliable ML models?  I would think yes, but I have not worked in ML or data science."
+        },
+        {
+            "id": "h97dhb0",
+            "parent": "t1_h95mxj9",
+            "ans": "You really don\u2019t need advanced statistics to do machine learning.",
+            "score": 2,
+            "que": "I've seen several data analysts, who knew how to pull data become ML engineers and leaders in title with increased pay.  They are often promoted for delivering \"ML solutions\". However, in my time working with them it was clear they didnt know basic stats.  \n\nIs it possible for those types to deploy ML effectively or do they need to understand stats to build reliable ML models?  I would think yes, but I have not worked in ML or data science."
+        },
+        {
+            "id": "h98ozd3",
+            "parent": "t1_h96jzry",
+            "ans": "Getting lectured by professors who received PhDs in fields other than stats about stats.",
+            "score": 3,
+            "que": "Where are my angry stats majors at?"
+        },
+        {
+            "id": "h95w9f2",
+            "parent": "t1_h95uxsm",
+            "ans": "I followed the same course as my first intro to ML. The course is good but yes, this is a real issue with it. His mission seems to be to get as many people as possible to be able to build ML models as fast as possible.",
+            "score": 5,
+            "que": "True Story: I started the free online Fast.ai machine learning for coders course because it was recommended as a prerequisite to the huggingface transformers course, and couldn't get past the second lesson in which the instructor goes on an inexplicable rant about how dumb statistics are and why he doesn't think that significance of estimated parameters should ever be looked at.  The dude just lost all credibility for me right then and there.  Funny thing is he had been vocally insecure about his lack of mathematical training or background as a philosophy major, but felt totally confident making bold assertions about statistical concepts he clearly never studied either... typical!"
+        },
+        {
+            "id": "h95ngo0",
+            "parent": "t1_h958k9z",
+            "ans": "The field's skill levels are all over the place with no common ground of knowledge. About half of the jobs I see have wildly different requirements suggesting entirely different educational requirements. One type requires heavy, heavy programming and basically zero statistics abilities while the other is best described as scientific researcher looking for a job in a business.",
+            "score": 15,
+            "que": "It\u2019s a shame there aren\u2019t any widely accepted DS or ML certification tests. Seems like a DS should be able to answer simple stats questions like \u201cwhy is normality important?\u201d I\u2019ve met a bunch of the shit-hot DS types and they\u2019re really nothing more than programmers. Oh, you know C+ and Python? Good for you. Go make some software and leave the actual analytics to folks who know how to do that sort of thing."
+        },
+        {
+            "id": "h97e2wm",
+            "parent": "t1_h958k9z",
+            "ans": "Understanding statistics is less important than being able to write good code if your goal is to create machine learning models that make accurate inferences. That\u2019s what most data scientists do. \n\nFor a data analyst position, it\u2019s the opposite. You need to understand statistics but you don\u2019t need to be able to write code.",
+            "score": 2,
+            "que": "It\u2019s a shame there aren\u2019t any widely accepted DS or ML certification tests. Seems like a DS should be able to answer simple stats questions like \u201cwhy is normality important?\u201d I\u2019ve met a bunch of the shit-hot DS types and they\u2019re really nothing more than programmers. Oh, you know C+ and Python? Good for you. Go make some software and leave the actual analytics to folks who know how to do that sort of thing."
+        },
+        {
+            "id": "h94q6gy",
+            "parent": "t1_h94oh39",
+            "ans": "Be glad you\u2019re not doing cryptography",
+            "score": 17,
+            "que": "But can machine learning engineers do statistics by hand??\n\nAlso why do I have to learn stats by hand to be a data scientist. Im actually dying from these math courses"
+        },
+        {
+            "id": "h958d05",
+            "parent": "t1_h94oh39",
+            "ans": "It is a pain in the ass, but it's the only way to realy learn stats - or anything. \n\nIn reality, data science is 80% interpretation of your data and knowing what kind of model to use and why, and 20% is building said models.",
+            "score": 12,
+            "que": "But can machine learning engineers do statistics by hand??\n\nAlso why do I have to learn stats by hand to be a data scientist. Im actually dying from these math courses"
+        },
+        {
+            "id": "h95eyvv",
+            "parent": "t1_h94oh39",
+            "ans": "It can be a pain, but I use the skills/theory I picked up from a pure stats degree to improve models, understand assumptions, and even debug cryptic error messages. \n\nLike I had a stats professor who had some of the hardest classes I've ever taken. Allof the students I knew hated him and his classes, but after it was done, I'm so glad he pushed us that hard because it's paid off in dividends.",
+            "score": 5,
+            "que": "But can machine learning engineers do statistics by hand??\n\nAlso why do I have to learn stats by hand to be a data scientist. Im actually dying from these math courses"
+        },
+        {
+            "id": "h95w8th",
+            "parent": "t1_h94oh39",
+            "ans": "Isn\u2019t a data scientist who hates stats like a chemist who hates Bunsen burners?\n\n/s (only kinda)",
+            "score": 2,
+            "que": "But can machine learning engineers do statistics by hand??\n\nAlso why do I have to learn stats by hand to be a data scientist. Im actually dying from these math courses"
+        },
+        {
+            "id": "h94qznr",
+            "parent": "t1_h94oh39",
+            "ans": ">  Im actually dying from these math courses\n\nagreed I hated/did poorly at my statistics module at uni.",
+            "score": -3,
+            "que": "But can machine learning engineers do statistics by hand??\n\nAlso why do I have to learn stats by hand to be a data scientist. Im actually dying from these math courses"
+        },
+        {
+            "id": "h95m26d",
+            "parent": "t1_h958jjd",
+            "ans": "Umm, everyone downvoting me please refer to \"selection bias\" as to 99% of jobs being SQL and Excel. Taylor swift fans bonanza four star reviews.",
+            "score": -10,
+            "que": "Data science is not math. Its where wannabe modelers who can\u2019t hack it in real stats or CS go. I can point you to several four star album reviews of Taylor Swift on Amazon that prove my point."
+        },
+        {
+            "id": "h98vhmb",
+            "parent": "t1_h98vdhw",
+            "ans": "I will be messaging you in 14 hours on [**2021-08-17 17:29:11 UTC**](http://www.wolframalpha.com/input/?i=2021-08-17%2017:29:11%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/datascience/comments/p59a8u/thats_true/h98vdhw/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fdatascience%2Fcomments%2Fp59a8u%2Fthats_true%2Fh98vdhw%2F%5D%0A%0ARemindMe%21%202021-08-17%2017%3A29%3A11%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20p59a8u)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "score": 1,
+            "que": "!RemindMe 14 hours"
+        },
+        {
+            "id": "h98o233",
+            "parent": "t1_h97qmx7",
+            "ans": "Throw in self-driving cannabis application in age-tech space exploration and we are golden.",
+            "score": 8,
+            "que": "I bet there is some statistics veteran out there who doesn't even know he is doing machine learning, deep learning, AI, NFT development, Blockchain, Cryptocurrency, Quantum Company, Fintech, techtech all at once."
+        },
+        {
+            "id": "hfzv042",
+            "parent": "t1_h97qmx7",
+            "ans": "This was me lol I got so down on myself that I had a PhD in statistics but had no idea what people actually meant when they said \u201cmachine learning\u201d. Then one of my team members sat me down and said actually you know all of this already and apply it every day! I still feel like an imposter using words like AI and Machine Learning but at least I don\u2019t feel like I\u2019m left out of the cool club anymore lol",
+            "score": 3,
+            "que": "I bet there is some statistics veteran out there who doesn't even know he is doing machine learning, deep learning, AI, NFT development, Blockchain, Cryptocurrency, Quantum Company, Fintech, techtech all at once."
+        },
+        {
+            "id": "h96hycn",
+            "parent": "t1_h95vmwm",
+            "ans": "yep",
+            "score": 6,
+            "que": "Was 'intelligense' for marketing deliberate?"
+        },
+        {
+            "id": "h96ucqd",
+            "parent": "t1_h94mtb0",
+            "ans": "Pretty much all statistical modeling requires automation, and most are iterative.",
+            "score": 16,
+            "que": "Yep, automated, iterative statistics."
+        },
+        {
+            "id": "h96ko9s",
+            "parent": "t1_h964zif",
+            "ans": ">Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nYou just described a large chunk of the material covered in my stats program.\n\n&#x200B;\n\nAlso, to make things murkier: PCA was invented by Karl Pearson. I would argue that its reliance on linear algebra doesn't make it any less a part of the statistical domain than any other concept in the field that relies on linear algebra.",
+            "score": 19,
+            "que": "Some applied approaches are deeply rooted in statistics, such as Bayesian techniques (ie. naive Bayes), mixture models, and K means. Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nStatistical learning theory is a foundational approach to understanding bounds and the effects of ML, but computational learning theory (CLT, sometimes referred to as machine learning theory) approaches machine learning from a multifaceted approach. For example, VC dimension and epsilon nets. You could argue that the calculations necessary for this are reminiscent of probability, but it's equally valid to use combinatorial arguments, especially since they sit close to set theory.\n\nWhat I'm trying to say here is that statistics are sometimes a tool, sometimes analysis, but it *isn't* the end-all be-all of machine learning. Machine learning, like every field that came before it, depends on insights from other fields, until it became enough to be a field in its own right. Statistics depends on probability, set theory, combinatorics, optimization, calculus, linear algebra, and so forth, just as much as machine learning. So, it's really silly to say that all of these are just statistics."
+        },
+        {
+            "id": "h96mkvi",
+            "parent": "t1_h964zif",
+            "ans": "While you may need to use calculus or numerical analysis to optimize an objective function quickly, the reason why doing so gives you what you want is statistics. If the question is \u201chow do I take in data and use it to classify or predict,\u201d then the answer is \u201cstatistics\u201d no matter what other tools you bring to bear in furtherance of that goal. Statistics is an applied field that already drew from probability, calculus, measure theory, differential equations, linear algebra, and more long before deep learning was a thing. The fact that deep learning draws on some of this doesn\u2019t make deep learning more than statistics, it makes statistics broader than you thought.",
+            "score": 13,
+            "que": "Some applied approaches are deeply rooted in statistics, such as Bayesian techniques (ie. naive Bayes), mixture models, and K means. Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nStatistical learning theory is a foundational approach to understanding bounds and the effects of ML, but computational learning theory (CLT, sometimes referred to as machine learning theory) approaches machine learning from a multifaceted approach. For example, VC dimension and epsilon nets. You could argue that the calculations necessary for this are reminiscent of probability, but it's equally valid to use combinatorial arguments, especially since they sit close to set theory.\n\nWhat I'm trying to say here is that statistics are sometimes a tool, sometimes analysis, but it *isn't* the end-all be-all of machine learning. Machine learning, like every field that came before it, depends on insights from other fields, until it became enough to be a field in its own right. Statistics depends on probability, set theory, combinatorics, optimization, calculus, linear algebra, and so forth, just as much as machine learning. So, it's really silly to say that all of these are just statistics."
+        },
+        {
+            "id": "h96bbkq",
+            "parent": "t1_h964zif",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "Some applied approaches are deeply rooted in statistics, such as Bayesian techniques (ie. naive Bayes), mixture models, and K means. Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nStatistical learning theory is a foundational approach to understanding bounds and the effects of ML, but computational learning theory (CLT, sometimes referred to as machine learning theory) approaches machine learning from a multifaceted approach. For example, VC dimension and epsilon nets. You could argue that the calculations necessary for this are reminiscent of probability, but it's equally valid to use combinatorial arguments, especially since they sit close to set theory.\n\nWhat I'm trying to say here is that statistics are sometimes a tool, sometimes analysis, but it *isn't* the end-all be-all of machine learning. Machine learning, like every field that came before it, depends on insights from other fields, until it became enough to be a field in its own right. Statistics depends on probability, set theory, combinatorics, optimization, calculus, linear algebra, and so forth, just as much as machine learning. So, it's really silly to say that all of these are just statistics."
+        },
+        {
+            "id": "h957iva",
+            "parent": "t1_h94tt01",
+            "ans": "[deleted]",
+            "score": 21,
+            "que": "Symbolic AI actually has nothing to do with AI"
+        },
+        {
+            "id": "h94ysfu",
+            "parent": "t1_h94oflu",
+            "ans": "They are definitely all statistics, what\u2019re you on about?",
+            "score": 31,
+            "que": "Hardly"
+        },
+        {
+            "id": "h95hxeg",
+            "parent": "t1_h95eug2",
+            "ans": "Mathematician: \"Statistics is Applied Mathematics, ergo AI/ML/Deep Learning is Applied Mathematics!\"",
+            "score": 21,
+            "que": "Statistician: \u201cAI/ML/Deep Learning is Applied Statistics!\u201d"
+        },
+        {
+            "id": "h96nak3",
+            "parent": "t1_h96hfg3",
+            "ans": "The like is a circle.",
+            "score": 1,
+            "que": "Shouldn\u2019t philosophy be behind the mathematician?"
+        },
+        {
+            "id": "h97mgo0",
+            "parent": "t1_h96elq0",
+            "ans": "So you can leverage existing tools and libraries to do the stats heavy lifting accurately and only if you are trying to modify something beyond typical modeling would you need to understand the stats?",
+            "score": 1,
+            "que": "You only need a basic understanding of stats to deploy ML models. If you were doing ML research or trying to create cutting edge models you might need more stats knowledge."
+        },
+        {
+            "id": "h95x7x9",
+            "parent": "t1_h95w9f2",
+            "ans": "That's a fine mission, but instead it came across like his mission was to replace statistics with machine learning wherever possible.  Does he return to this theme, or can I just fast-forward past that section and try not to let it bother me?  It would be better if they actually reviewed the relevant statistical methods in a more balanced way but since I already know those a good ML course is all I really want/need.",
+            "score": 1,
+            "que": "I followed the same course as my first intro to ML. The course is good but yes, this is a real issue with it. His mission seems to be to get as many people as possible to be able to build ML models as fast as possible."
+        },
+        {
+            "id": "h97hrzf",
+            "parent": "t1_h97e2wm",
+            "ans": "Negative. If you\u2019re doing grunt work and have a chief data scientist telling you what to do, then all you need to do is program. Data analysts are just that, analysts. That don\u2019t scale or productionize. Writing this as a retired chief data scientist.",
+            "score": 3,
+            "que": "Understanding statistics is less important than being able to write good code if your goal is to create machine learning models that make accurate inferences. That\u2019s what most data scientists do. \n\nFor a data analyst position, it\u2019s the opposite. You need to understand statistics but you don\u2019t need to be able to write code."
+        },
+        {
+            "id": "h9epj17",
+            "parent": "t1_h97e2wm",
+            "ans": ">Understanding statistics is less important than being able to write good code if your goal is to create machine learning models that make accurate inferences.\n\nThat's completely wrong.  Maybe if your goal is to make rough prediction, (*blackbox goes brrrrr*) but don't even call yourself scientist at that point.  You are gonna need extensive, theoretical understanding of statistics.",
+            "score": 1,
+            "que": "Understanding statistics is less important than being able to write good code if your goal is to create machine learning models that make accurate inferences. That\u2019s what most data scientists do. \n\nFor a data analyst position, it\u2019s the opposite. You need to understand statistics but you don\u2019t need to be able to write code."
+        },
+        {
+            "id": "h95a57x",
+            "parent": "t1_h958d05",
+            "ans": "20% is generous.",
+            "score": 8,
+            "que": "It is a pain in the ass, but it's the only way to realy learn stats - or anything. \n\nIn reality, data science is 80% interpretation of your data and knowing what kind of model to use and why, and 20% is building said models."
+        },
+        {
+            "id": "h94ym0x",
+            "parent": "t1_h94qznr",
+            "ans": "Can't understand why you both are getting downvoted. You didn't even state an opinion.",
+            "score": 10,
+            "que": ">  Im actually dying from these math courses\n\nagreed I hated/did poorly at my statistics module at uni."
+        },
+        {
+            "id": "hg00lri",
+            "parent": "t1_hfzv042",
+            "ans": "I once got on a heated debate by telling people linear regression is not machine learning it is just statistics. They told me machine learning literally starts from the OLS method. So, I just use the word statistics and machine learning interchangeably after that.\n\nBTW Phd statistics... that sounds brutal!",
+            "score": 1,
+            "que": "This was me lol I got so down on myself that I had a PhD in statistics but had no idea what people actually meant when they said \u201cmachine learning\u201d. Then one of my team members sat me down and said actually you know all of this already and apply it every day! I still feel like an imposter using words like AI and Machine Learning but at least I don\u2019t feel like I\u2019m left out of the cool club anymore lol"
+        },
+        {
+            "id": "h98hxn6",
+            "parent": "t1_h96ucqd",
+            "ans": "So does being alive, but you don\u2019t see biological cells flexing.",
+            "score": 8,
+            "que": "Pretty much all statistical modeling requires automation, and most are iterative."
+        },
+        {
+            "id": "h97v9ua",
+            "parent": "t1_h96ko9s",
+            "ans": "lol like half of mathematics relies on or is useful to linear algebra in some way.",
+            "score": 7,
+            "que": ">Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nYou just described a large chunk of the material covered in my stats program.\n\n&#x200B;\n\nAlso, to make things murkier: PCA was invented by Karl Pearson. I would argue that its reliance on linear algebra doesn't make it any less a part of the statistical domain than any other concept in the field that relies on linear algebra."
+        },
+        {
+            "id": "h97cwlt",
+            "parent": "t1_h96ko9s",
+            "ans": "Just because deep learning and statistical methods both use optimization does non mean deep learning is statistical.",
+            "score": -7,
+            "que": ">Deep learning, linear models, and some clustering approaches depend on optimization, landing it in the field of numerical optimization or operational research (or the thousand variants thereof). That is, you justify the effectiveness of optimization-based approaches via arguments about convexity or global optimal, not based on statistics. For example, gradient descent and Newtonian methods are based on calculus. While SGD and variance-reduction techniques do require statistical tools, the end goal is reducing the convergence rate in the convex case, leading to these techniques landing squarely in optimization with some real analysis or calculus (take your pick). While statistical arguments are sometimes used in machine learning theory, especially as it relates to average case analysis or making stronger results by applying assumptions of data (eg. that it emerges from a Gaussian process), there are a lot of results that don't come from the statistical domain. For example, many optimization approaches use linear algebra (eg. PCA and linear regression use the QR matrix decomposition for the asymptotically fastest SVD).\n\nYou just described a large chunk of the material covered in my stats program.\n\n&#x200B;\n\nAlso, to make things murkier: PCA was invented by Karl Pearson. I would argue that its reliance on linear algebra doesn't make it any less a part of the statistical domain than any other concept in the field that relies on linear algebra."
+        },
+        {
+            "id": "h96bxqp",
+            "parent": "t1_h96bbkq",
+            "ans": "> Certainly DL and so on is not *inferential* statistics\n\nCan you elaborate on this point a bit, with some concrete examples? I\u2019m not a statistician and have never really thought about this before, but I probably should.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h96fus9",
+            "parent": "t1_h96bbkq",
+            "ans": "GLMs and VAEs assume priors and sit in the realm of a Bayesian statistical perspective of machine learning theory, aka statistical learning. GAMs do not assume priors, but you could assume it if you wanted a statistical perspective. Most of the time, you don't assume a prior for linear models or, as statisticians like to view it, as a uniform prior with maximum likelihood estimate (MLE), but that's an arbitrary assumption to leave it in the realm of statistics -- most people just leave it as a linear optimization problem and use algebraic methods. This is, in good part, my point. There are many views of the problems which do not inherently require statistics. Of course, based on your comments, I assume you're coming from the statistical learning perspective and, in particular, have a particularly Bayesian view of the world, so I guess everything is statistics for you.\n\nEven if you view the world as Bayesian statistics, though, there are problems that don't sit in the statistics world. In particular, learnability and computational analysis are inherently from the domain of computational learning theory, which emerged out of computer science. However, I would never make the mistake of assuming that CLT is computer science -- it's not. It emerged out of it. It has some common techniques and problems, but it's not. Just like machine learning and MLT are not statistics.",
+            "score": -2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h95l51d",
+            "parent": "t1_h957iva",
+            "ans": "Title: Exploitation Unveiled: How Technology Barons Exploit the Contributions of the Community\n\nIntroduction:\n\nIn the rapidly evolving landscape of technology, the contributions of engineers, scientists, and technologists play a pivotal role in driving innovation and progress [1]. However, concerns have emerged regarding the exploitation of these contributions by technology barons, leading to a wide range of ethical and moral dilemmas [2]. This article aims to shed light on the exploitation of community contributions by technology barons, exploring issues such as intellectual property rights, open-source exploitation, unfair compensation practices, and the erosion of collaborative spirit [3].\n\n\n1. Intellectual Property Rights and Patents:\n\nOne of the fundamental ways in which technology barons exploit the contributions of the community is through the manipulation of intellectual property rights and patents [4]. While patents are designed to protect inventions and reward inventors, they are increasingly being used to stifle competition and monopolize the market [5]. Technology barons often strategically acquire patents and employ aggressive litigation strategies to suppress innovation and extract royalties from smaller players [6]. This exploitation not only discourages inventors but also hinders technological progress and limits the overall benefit to society [7].\n\n\n2. Open-Source Exploitation:\n\nOpen-source software and collaborative platforms have revolutionized the way technology is developed and shared [8]. However, technology barons have been known to exploit the goodwill of the open-source community. By leveraging open-source projects, these entities often incorporate community-developed solutions into their proprietary products without adequately compensating or acknowledging the original creators [9]. This exploitation undermines the spirit of collaboration and discourages community involvement, ultimately harming the very ecosystem that fosters innovation [10].\n\n\n3. Unfair Compensation Practices:\n\nThe contributions of engineers, scientists, and technologists are often undervalued and inadequately compensated by technology barons [11]. Despite the pivotal role played by these professionals in driving technological advancements, they are frequently subjected to long working hours, unrealistic deadlines, and inadequate remuneration [12]. Additionally, the rise of gig economy models has further exacerbated this issue, as independent contractors and freelancers are often left without benefits, job security, or fair compensation for their expertise [13]. Such exploitative practices not only demoralize the community but also hinder the long-term sustainability of the technology industry [14].\n\n\n4. Exploitative Data Harvesting:\n\nData has become the lifeblood of the digital age, and technology barons have amassed colossal amounts of user data through their platforms and services [15]. This data is often used to fuel targeted advertising, algorithmic optimizations, and predictive analytics, all of which generate significant profits [16]. However, the collection and utilization of user data are often done without adequate consent, transparency, or fair compensation to the individuals who generate this valuable resource [17]. The community's contributions in the form of personal data are exploited for financial gain, raising serious concerns about privacy, consent, and equitable distribution of benefits [18].\n\n\n5. Erosion of Collaborative Spirit:\n\nThe tech industry has thrived on the collaborative spirit of engineers, scientists, and technologists working together to solve complex problems [19]. However, the actions of technology barons have eroded this spirit over time. Through aggressive acquisition strategies and anti-competitive practices, these entities create an environment that discourages collaboration and fosters a winner-takes-all mentality [20]. This not only stifles innovation but also prevents the community from collectively addressing the pressing challenges of our time, such as climate change, healthcare, and social equity [21].\n\n\nConclusion:\n\nThe exploitation of the community's contributions by technology barons poses significant ethical and moral challenges in the realm of technology and innovation [22]. To foster a more equitable and sustainable ecosystem, it is crucial for technology barons to recognize and rectify these exploitative practices [23]. This can be achieved through transparent intellectual property frameworks, fair compensation models, responsible data handling practices, and a renewed commitment to collaboration [24]. By addressing these issues, we can create a technology landscape that not only thrives on innovation but also upholds the values of fairness, inclusivity, and respect for the contributions of the community [25].\n\n\nReferences:\n\n[1] Smith, J. R., et al. \"The role of engineers in the modern world.\" Engineering Journal, vol. 25, no. 4, pp. 11-17, 2021.\n\n[2] Johnson, M. \"The ethical challenges of technology barons in exploiting community contributions.\" Tech Ethics Magazine, vol. 7, no. 2, pp. 45-52, 2022.\n\n[3] Anderson, L., et al. \"Examining the exploitation of community contributions by technology barons.\" International Conference on Engineering Ethics and Moral Dilemmas, pp. 112-129, 2023.\n\n[4] Peterson, A., et al. \"Intellectual property rights and the challenges faced by technology barons.\" Journal of Intellectual Property Law, vol. 18, no. 3, pp. 87-103, 2022.\n\n[5] Walker, S., et al. \"Patent manipulation and its impact on technological progress.\" IEEE Transactions on Technology and Society, vol. 5, no. 1, pp. 23-36, 2021.\n\n[6] White, R., et al. \"The exploitation of patents by technology barons for market dominance.\" Proceedings of the IEEE International Conference on Patent Litigation, pp. 67-73, 2022.\n\n[7] Jackson, E. \"The impact of patent exploitation on technological progress.\" Technology Review, vol. 45, no. 2, pp. 89-94, 2023.\n\n[8] Stallman, R. \"The importance of open-source software in fostering innovation.\" Communications of the ACM, vol. 48, no. 5, pp. 67-73, 2021.\n\n[9] Martin, B., et al. \"Exploitation and the erosion of the open-source ethos.\" IEEE Software, vol. 29, no. 3, pp. 89-97, 2022.\n\n[10] Williams, S., et al. \"The impact of open-source exploitation on collaborative innovation.\" Journal of Open Innovation: Technology, Market, and Complexity, vol. 8, no. 4, pp. 56-71, 2023.\n\n[11] Collins, R., et al. \"The undervaluation of community contributions in the technology industry.\" Journal of Engineering Compensation, vol. 32, no. 2, pp. 45-61, 2021.\n\n[12] Johnson, L., et al. \"Unfair compensation practices and their impact on technology professionals.\" IEEE Transactions on Engineering Management, vol. 40, no. 4, pp. 112-129, 2022.\n\n[13] Hensley, M., et al. \"The gig economy and its implications for technology professionals.\" International Journal of Human Resource Management, vol. 28, no. 3, pp. 67-84, 2023.\n\n[14] Richards, A., et al. \"Exploring the long-term effects of unfair compensation practices on the technology industry.\" IEEE Transactions on Professional Ethics, vol. 14, no. 2, pp. 78-91, 2022.\n\n[15] Smith, T., et al. \"Data as the new currency: implications for technology barons.\" IEEE Computer Society, vol. 34, no. 1, pp. 56-62, 2021.\n\n[16] Brown, C., et al. \"Exploitative data harvesting and its impact on user privacy.\" IEEE Security & Privacy, vol. 18, no. 5, pp. 89-97, 2022.\n\n[17] Johnson, K., et al. \"The ethical implications of data exploitation by technology barons.\" Journal of Data Ethics, vol. 6, no. 3, pp. 112-129, 2023.\n\n[18] Rodriguez, M., et al. \"Ensuring equitable data usage and distribution in the digital age.\" IEEE Technology and Society Magazine, vol. 29, no. 4, pp. 45-52, 2021.\n\n[19] Patel, S., et al. \"The collaborative spirit and its impact on technological advancements.\" IEEE Transactions on Engineering Collaboration, vol. 23, no. 2, pp. 78-91, 2022.\n\n[20] Adams, J., et al. \"The erosion of collaboration due to technology barons' practices.\" International Journal of Collaborative Engineering, vol. 15, no. 3, pp. 67-84, 2023.\n\n[21] Klein, E., et al. \"The role of collaboration in addressing global challenges.\" IEEE Engineering in Medicine and Biology Magazine, vol. 41, no. 2, pp. 34-42, 2021.\n\n[22] Thompson, G., et al. \"Ethical challenges in technology barons' exploitation of community contributions.\" IEEE Potentials, vol. 42, no. 1, pp. 56-63, 2022.\n\n[23] Jones, D., et al. \"Rectifying exploitative practices in the technology industry.\" IEEE Technology Management Review, vol. 28, no. 4, pp. 89-97, 2023.\n\n[24] Chen, W., et al. \"Promoting ethical practices in technology barons through policy and regulation.\" IEEE Policy & Ethics in Technology, vol. 13, no. 3, pp. 112-129, 2021.\n\n[25] Miller, H., et al. \"Creating an equitable and sustainable technology ecosystem.\" Journal of Technology and Innovation Management, vol. 40, no. 2, pp. 45-61, 2022.",
+            "score": 14,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h9ag6ej",
+            "parent": "t1_h957iva",
+            "ans": "You might be right, but it is still quite a substantial part of AI research ;)",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h955qmb",
+            "parent": "t1_h94ysfu",
+            "ans": "They're totally not just statistics (if you know nothing about either statistics or ML).",
+            "score": -39,
+            "que": "They are definitely all statistics, what\u2019re you on about?"
+        },
+        {
+            "id": "h95pu38",
+            "parent": "t1_h95hxeg",
+            "ans": "I mean it really is \ud83e\udd37\u200d\u2642\ufe0f",
+            "score": 29,
+            "que": "Mathematician: \"Statistics is Applied Mathematics, ergo AI/ML/Deep Learning is Applied Mathematics!\""
+        },
+        {
+            "id": "h960yfn",
+            "parent": "t1_h95hxeg",
+            "ans": "Mathematics is just applied philosophy!",
+            "score": 11,
+            "que": "Mathematician: \"Statistics is Applied Mathematics, ergo AI/ML/Deep Learning is Applied Mathematics!\""
+        },
+        {
+            "id": "h97pz36",
+            "parent": "t1_h97mgo0",
+            "ans": "Yea, for sure. I mean, it depends what you are trying to achieve and what tools you are using. As with anything, if you don't understand what's going on under the hood you're more likely to make mistakes, but it's definitely the case that many ML applications have no stats requirements at all. To use some existing tools you don't even have to understand ML. \n\nNot understanding the stats will limit what you can do, but there is a huge amount you can do without anything more than a very basic understanding of stats.\n\nFor example, you could download some popular models from arXiv, plug in some of your own data and have a powerful solution to your problem without knowing any stats and only having a basic theoretical understanding of ML.",
+            "score": 1,
+            "que": "So you can leverage existing tools and libraries to do the stats heavy lifting accurately and only if you are trying to modify something beyond typical modeling would you need to understand the stats?"
+        },
+        {
+            "id": "h95ybpk",
+            "parent": "t1_h95x7x9",
+            "ans": "Ugh even the \u201cDeep Learning Interview Book\u201d covers GLMs and p values in chapter 1",
+            "score": 2,
+            "que": "That's a fine mission, but instead it came across like his mission was to replace statistics with machine learning wherever possible.  Does he return to this theme, or can I just fast-forward past that section and try not to let it bother me?  It would be better if they actually reviewed the relevant statistical methods in a more balanced way but since I already know those a good ML course is all I really want/need."
+        },
+        {
+            "id": "h96jryr",
+            "parent": "t1_h95x7x9",
+            "ans": "I think he has one more rant about fisher but otherwise if you want a decent starter ML course, it is decent and set me up pretty well. It gets a lot better later on when he is interrogating the model he builds and builds a rf from scratch.\n\nThe other bias seems to be that he's applied ML in situations where data is plentiful. You see this when someone asks about cross validation vs validation set and this may also be related to his anti-stats comments.",
+            "score": 2,
+            "que": "That's a fine mission, but instead it came across like his mission was to replace statistics with machine learning wherever possible.  Does he return to this theme, or can I just fast-forward past that section and try not to let it bother me?  It would be better if they actually reviewed the relevant statistical methods in a more balanced way but since I already know those a good ML course is all I really want/need."
+        },
+        {
+            "id": "h97jb10",
+            "parent": "t1_h97hrzf",
+            "ans": "I can\u2019t tell if you are saying that someone needs to use statistics.",
+            "score": 1,
+            "que": "Negative. If you\u2019re doing grunt work and have a chief data scientist telling you what to do, then all you need to do is program. Data analysts are just that, analysts. That don\u2019t scale or productionize. Writing this as a retired chief data scientist."
+        },
+        {
+            "id": "h96006k",
+            "parent": "t1_h94ym0x",
+            "ans": "Probably because it makes 0 sense for a DS to dislike and be bad at stats.",
+            "score": 7,
+            "que": "Can't understand why you both are getting downvoted. You didn't even state an opinion."
+        },
+        {
+            "id": "h97frlj",
+            "parent": "t1_h97cwlt",
+            "ans": "No it doesn't, but highlighting one of these areas where they overlap significantly is not a great argument that they are different. Here are my thoughts from another post:\n\n>I feel like distinction between statistics and machine learning is murky in the same way that it is between statistics and econometrics/psychometrics. Researchers in these fields sometimes develop models that are rooted in their own literature, and not on existing statistical literature (Often using different estimation techniques than ones use to fit equivalent models within the field of statistics). However, not every psycho/econometric problem is statistical in nature - some models in these fields are deterministic.  \n>  \n>What actually make something statistical? I'd argue that a problem where the relationship between inputs and outputs is uncertain, and data are employed to make a useful connection between them, is a statistical problem. The use case is where labels like machine learning, econometric, or psychometric come in. They're meant to communicate what kinds of problems are being solved, whether the approach is statistical in nature or not.",
+            "score": 4,
+            "que": "Just because deep learning and statistical methods both use optimization does non mean deep learning is statistical."
+        },
+        {
+            "id": "h96ghlu",
+            "parent": "t1_h96bxqp",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "> Certainly DL and so on is not *inferential* statistics\n\nCan you elaborate on this point a bit, with some concrete examples? I\u2019m not a statistician and have never really thought about this before, but I probably should."
+        },
+        {
+            "id": "h95hykv",
+            "parent": "t1_h955qmb",
+            "ans": "Obviously there is more to it other than pure statistics? That\u2019s why there\u2019s a whole subject around machine learning, but ALL underlying concepts of models and even deep learning models are rooted in stats.",
+            "score": 20,
+            "que": "They're totally not just statistics (if you know nothing about either statistics or ML)."
+        },
+        {
+            "id": "h98ewkw",
+            "parent": "t1_h955qmb",
+            "ans": "You are right, if you know nothing about either statistics or ML then they\u2019re totally not just statistics to you.",
+            "score": 1,
+            "que": "They're totally not just statistics (if you know nothing about either statistics or ML)."
+        },
+        {
+            "id": "h9k71cn",
+            "parent": "t1_h960yfn",
+            "ans": "Lol, it really is in a way. Perhaps the logic sub-component of the discipline and less from the \"why we are here\" or \"how to view the world\" angle.\n\nThe logicians tend to work a lot on CS problems anymore.",
+            "score": 1,
+            "que": "Mathematics is just applied philosophy!"
+        },
+        {
+            "id": "h99xh9y",
+            "parent": "t1_h97pz36",
+            "ans": "That's amazing, thanks for the info.",
+            "score": 1,
+            "que": "Yea, for sure. I mean, it depends what you are trying to achieve and what tools you are using. As with anything, if you don't understand what's going on under the hood you're more likely to make mistakes, but it's definitely the case that many ML applications have no stats requirements at all. To use some existing tools you don't even have to understand ML. \n\nNot understanding the stats will limit what you can do, but there is a huge amount you can do without anything more than a very basic understanding of stats.\n\nFor example, you could download some popular models from arXiv, plug in some of your own data and have a powerful solution to your problem without knowing any stats and only having a basic theoretical understanding of ML."
+        },
+        {
+            "id": "h97mdin",
+            "parent": "t1_h97jb10",
+            "ans": "My belief is that you need to understand the mathematics behind the algorithms and why some are better than others than solving problems. If I told a programmer to just solve it using gradient descent and they have no idea what I\u2019m talking about, it\u2019s only going to go downhill. 90% of the DS projects I\u2019ve seen at Fortune 500 companies is based on classical linear models and supervised learning. I worked in industry, not software and development, so my focus was a little different.",
+            "score": 3,
+            "que": "I can\u2019t tell if you are saying that someone needs to use statistics."
+        },
+        {
+            "id": "h962e94",
+            "parent": "t1_h96006k",
+            "ans": "\"I like the vibe of being a lawyer but I hate reading about laws\"",
+            "score": 7,
+            "que": "Probably because it makes 0 sense for a DS to dislike and be bad at stats."
+        },
+        {
+            "id": "h97hms5",
+            "parent": "t1_h97frlj",
+            "ans": ">What actually make something statistical? I'd argue that a problem where the relationship between inputs and outputs is uncertain, and data are employed to make a useful connection between them, is a statistical problem. The use case is where labels like machine learning, econometric, or psychometric come in. They're meant to communicate what kinds of problems are being solved, whether the approach is statistical in nature or not.\n\nWhat you've described is the problem called function approximation.\n\nThere are many ways to approximate functions, there are statistical and non statistical ways to do it. And statistics includes a lot more than just function approximation.\n\nThere is a very wide overlap between machine learning models and statistical function approximation. But definitely not all of it fits into that category. I personally deep learning kind of an edge case but mostly consider it non statistical. The ties to stats theory are pretty stretched if you ask me.\n\nStuff like bayesian neural nets, that's definitely statistical. But using optimization to approximate a function doesn't meet the bar.",
+            "score": -1,
+            "que": "No it doesn't, but highlighting one of these areas where they overlap significantly is not a great argument that they are different. Here are my thoughts from another post:\n\n>I feel like distinction between statistics and machine learning is murky in the same way that it is between statistics and econometrics/psychometrics. Researchers in these fields sometimes develop models that are rooted in their own literature, and not on existing statistical literature (Often using different estimation techniques than ones use to fit equivalent models within the field of statistics). However, not every psycho/econometric problem is statistical in nature - some models in these fields are deterministic.  \n>  \n>What actually make something statistical? I'd argue that a problem where the relationship between inputs and outputs is uncertain, and data are employed to make a useful connection between them, is a statistical problem. The use case is where labels like machine learning, econometric, or psychometric come in. They're meant to communicate what kinds of problems are being solved, whether the approach is statistical in nature or not."
+        },
+        {
+            "id": "h96y94t",
+            "parent": "t1_h96ghlu",
+            "ans": "I mean I know what inferential statistics is. To put my Stats 101 hat on, stats can be divided into inferential and descriptive, I think. Thus, if as you claim ML/DL doesn't really involve inferential stats, that means all the stats that go into ML/DL would fall under the descriptive umbrella, e.g., describing statistical aspects of distributions. Is that essentially what you are claiming? Let me know if that is rambling and incomprehensible :)",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h98nhyi",
+            "parent": "t1_h95hykv",
+            "ans": "I have a model of a taxi price being kilometers * $2.50 + $5\n\nWhere is statistics there?\n\nYou are confusing math with statistics. It simply makes me laugh how statisticians imagine that everything with math in it suddenly makes it statistics.",
+            "score": 0,
+            "que": "Obviously there is more to it other than pure statistics? That\u2019s why there\u2019s a whole subject around machine learning, but ALL underlying concepts of models and even deep learning models are rooted in stats."
+        },
+        {
+            "id": "h95vxgy",
+            "parent": "t1_h95hykv",
+            "ans": "Probably an unpopular opinion around here (or in this thread, at least), but I\u2019d argue stats, LA, and MV Calc are all equally important pillars of these fields. There is a lot of interplay between them though, to be sure. I just don\u2019t think it\u2019s accurate to say every component of machine learning and deep learning arises first from statistical theories.",
+            "score": -4,
+            "que": "Obviously there is more to it other than pure statistics? That\u2019s why there\u2019s a whole subject around machine learning, but ALL underlying concepts of models and even deep learning models are rooted in stats."
+        },
+        {
+            "id": "h96rfs7",
+            "parent": "t1_h95hykv",
+            "ans": "No they aren\u2019t. Not all deep learning models are learned through cost functions that have a statistical basis e.g. Mle or otherwise. Is your opinion that finding a minima is statistics?",
+            "score": -4,
+            "que": "Obviously there is more to it other than pure statistics? That\u2019s why there\u2019s a whole subject around machine learning, but ALL underlying concepts of models and even deep learning models are rooted in stats."
+        },
+        {
+            "id": "h98lbgl",
+            "parent": "t1_h98ewkw",
+            "ans": "That's what I was trying to say, dunno if it came out that way from the downvotes :D",
+            "score": 1,
+            "que": "You are right, if you know nothing about either statistics or ML then they\u2019re totally not just statistics to you."
+        },
+        {
+            "id": "h96c9mg",
+            "parent": "t1_h962e94",
+            "ans": "I can be a lawyer without that, stop gatekeeping /s",
+            "score": 5,
+            "que": "\"I like the vibe of being a lawyer but I hate reading about laws\""
+        },
+        {
+            "id": "h97j6qc",
+            "parent": "t1_h97hms5",
+            "ans": ">What you've described is the problem called function approximation.\n\nI know what function approximation is, but that's not quite what I'm talking about. You could approximate a function with a taylor series, but the actual relationship between x and y is already known. I wouldn't call that a statistical problem.\n\nI'd argue that \"statistical\" refers to a class of problem being solved, not just the theory that has evolved around those kinds of problems.",
+            "score": 2,
+            "que": ">What actually make something statistical? I'd argue that a problem where the relationship between inputs and outputs is uncertain, and data are employed to make a useful connection between them, is a statistical problem. The use case is where labels like machine learning, econometric, or psychometric come in. They're meant to communicate what kinds of problems are being solved, whether the approach is statistical in nature or not.\n\nWhat you've described is the problem called function approximation.\n\nThere are many ways to approximate functions, there are statistical and non statistical ways to do it. And statistics includes a lot more than just function approximation.\n\nThere is a very wide overlap between machine learning models and statistical function approximation. But definitely not all of it fits into that category. I personally deep learning kind of an edge case but mostly consider it non statistical. The ties to stats theory are pretty stretched if you ask me.\n\nStuff like bayesian neural nets, that's definitely statistical. But using optimization to approximate a function doesn't meet the bar."
+        },
+        {
+            "id": "h972aqt",
+            "parent": "t1_h96y94t",
+            "ans": ">To put my Stats 101 hat on, stats can be divided into inferential and descriptive\n\nYeah this is what they often teach in stats 101 classes, but predictive modeling has always been a part of the field.",
+            "score": 3,
+            "que": "I mean I know what inferential statistics is. To put my Stats 101 hat on, stats can be divided into inferential and descriptive, I think. Thus, if as you claim ML/DL doesn't really involve inferential stats, that means all the stats that go into ML/DL would fall under the descriptive umbrella, e.g., describing statistical aspects of distributions. Is that essentially what you are claiming? Let me know if that is rambling and incomprehensible :)"
+        },
+        {
+            "id": "h96zby6",
+            "parent": "t1_h96y94t",
+            "ans": "ML/DL would originally fall under a 3rd category predictive statistical modeling but nowadays a lot of stuff is combining causal inference principles into it so the line is blurring between predictive and inferential modeling. Like SHAP and interpretability methods for example, it doesn\u2019t quite fall into either.\n\nDescriptive is simpler than both that is just like plots and summary stats",
+            "score": 1,
+            "que": "I mean I know what inferential statistics is. To put my Stats 101 hat on, stats can be divided into inferential and descriptive, I think. Thus, if as you claim ML/DL doesn't really involve inferential stats, that means all the stats that go into ML/DL would fall under the descriptive umbrella, e.g., describing statistical aspects of distributions. Is that essentially what you are claiming? Let me know if that is rambling and incomprehensible :)"
+        },
+        {
+            "id": "h9911kf",
+            "parent": "t1_h98nhyi",
+            "ans": "That\u2019s not a model",
+            "score": 1,
+            "que": "I have a model of a taxi price being kilometers * $2.50 + $5\n\nWhere is statistics there?\n\nYou are confusing math with statistics. It simply makes me laugh how statisticians imagine that everything with math in it suddenly makes it statistics."
+        },
+        {
+            "id": "h95wjez",
+            "parent": "t1_h95vxgy",
+            "ans": "I\u2019m not saying every component does computational science plays a large role in it as well. that\u2019s why I said above it\u2019s not all pure statistics. But yeah if you start counting calculus and all the other subjects that make up statistics there\u2019s quite a few different ones. I mean shit, a lot of my research takes me down into quantum mechanics so there are definitely many pillars of these fields",
+            "score": 4,
+            "que": "Probably an unpopular opinion around here (or in this thread, at least), but I\u2019d argue stats, LA, and MV Calc are all equally important pillars of these fields. There is a lot of interplay between them though, to be sure. I just don\u2019t think it\u2019s accurate to say every component of machine learning and deep learning arises first from statistical theories."
+        },
+        {
+            "id": "h96rs84",
+            "parent": "t1_h96rfs7",
+            "ans": "What? Yes I would consider finding minima a statistical concept? That\u2019s like first year uni shit? But obviously it\u2019s also rooted in calculus concepts as well?",
+            "score": 6,
+            "que": "No they aren\u2019t. Not all deep learning models are learned through cost functions that have a statistical basis e.g. Mle or otherwise. Is your opinion that finding a minima is statistics?"
+        },
+        {
+            "id": "h96ru9n",
+            "parent": "t1_h96rfs7",
+            "ans": "Also, mle is a statistical concept?",
+            "score": 2,
+            "que": "No they aren\u2019t. Not all deep learning models are learned through cost functions that have a statistical basis e.g. Mle or otherwise. Is your opinion that finding a minima is statistics?"
+        },
+        {
+            "id": "h96t6bi",
+            "parent": "t1_h96rfs7",
+            "ans": "I would like to hear about what models you know that aren\u2019t trained by underlying statistical concepts though?",
+            "score": 1,
+            "que": "No they aren\u2019t. Not all deep learning models are learned through cost functions that have a statistical basis e.g. Mle or otherwise. Is your opinion that finding a minima is statistics?"
+        },
+        {
+            "id": "h98m3fm",
+            "parent": "t1_h98lbgl",
+            "ans": "Oh... then I would say it is misunderstood. Anyone who reads your comment assumes you meant to write \u201cIf you know *anything* about...\u201d",
+            "score": 1,
+            "que": "That's what I was trying to say, dunno if it came out that way from the downvotes :D"
+        },
+        {
+            "id": "h96iaw5",
+            "parent": "t1_h96c9mg",
+            "ans": "I have but one upvote to give",
+            "score": 0,
+            "que": "I can be a lawyer without that, stop gatekeeping /s"
+        },
+        {
+            "id": "h98cijk",
+            "parent": "t1_h972aqt",
+            "ans": "Yea and largely those types of courses are geared toward people outside stats. Like people from psych, polisci, bio, etc most of who need basic stats. \n\nPeople get the impression stats is all hypothesis testing when its not at all.",
+            "score": 1,
+            "que": ">To put my Stats 101 hat on, stats can be divided into inferential and descriptive\n\nYeah this is what they often teach in stats 101 classes, but predictive modeling has always been a part of the field."
+        },
+        {
+            "id": "h99160e",
+            "parent": "t1_h9911kf",
+            "ans": "Yes it is. It's a linear model in the form of wx + b. Exactly the same as linear regression.\n\nIf I collected some data to estimate a model then it's a statistical model. If I don't do that then it's just a model.\n\nYou can have all kinds of models and most of them are not statistical.\n\nThis idiocy is exactly what I mean and is exactly why I don't like working with \"statisticians\" that have no mathematical training beyond undergrad calculus and think that the entire world is statistics and nothing else.",
+            "score": 0,
+            "que": "That\u2019s not a model"
+        },
+        {
+            "id": "h96s3rl",
+            "parent": "t1_h96rs84",
+            "ans": "So to clarify, finding the minimum of a function is a concept that belongs to statistics, so any time someone is minimizing a function, they are doing statistics?",
+            "score": -3,
+            "que": "What? Yes I would consider finding minima a statistical concept? That\u2019s like first year uni shit? But obviously it\u2019s also rooted in calculus concepts as well?"
+        },
+        {
+            "id": "h96rz9n",
+            "parent": "t1_h96ru9n",
+            "ans": "Notice the 'not'. As in they do not all come from statistical techniques such as MLE.",
+            "score": 2,
+            "que": "Also, mle is a statistical concept?"
+        },
+        {
+            "id": "h99mdjf",
+            "parent": "t1_h98m3fm",
+            "ans": "Haha, leave it to a bunch of redditors to downvote what they think someone meant instead of downvoting what they actually said \ud83d\ude02",
+            "score": 1,
+            "que": "Oh... then I would say it is misunderstood. Anyone who reads your comment assumes you meant to write \u201cIf you know *anything* about...\u201d"
+        },
+        {
+            "id": "h98glw0",
+            "parent": "t1_h98cijk",
+            "ans": ">etc most of who need basic stats\n\nIMO they need more than basic stats, but all they get are basic stats. Like, all they really spend time on are t-tests and very specific formulations of ANOVAs and mixed models. Researchers try to fit their experiments and data into these molds instead of considering potentially more appropriate formulations.",
+            "score": 2,
+            "que": "Yea and largely those types of courses are geared toward people outside stats. Like people from psych, polisci, bio, etc most of who need basic stats. \n\nPeople get the impression stats is all hypothesis testing when its not at all."
+        },
+        {
+            "id": "h99pkfh",
+            "parent": "t1_h99160e",
+            "ans": "Okay then there are plenty of statistics behind linear models, learn the fucking math and theory behind it.",
+            "score": 1,
+            "que": "Yes it is. It's a linear model in the form of wx + b. Exactly the same as linear regression.\n\nIf I collected some data to estimate a model then it's a statistical model. If I don't do that then it's just a model.\n\nYou can have all kinds of models and most of them are not statistical.\n\nThis idiocy is exactly what I mean and is exactly why I don't like working with \"statisticians\" that have no mathematical training beyond undergrad calculus and think that the entire world is statistics and nothing else."
+        },
+        {
+            "id": "h99pnav",
+            "parent": "t1_h99160e",
+            "ans": "Lol undergrad statistics, Im a PhD student in statistics",
+            "score": 1,
+            "que": "Yes it is. It's a linear model in the form of wx + b. Exactly the same as linear regression.\n\nIf I collected some data to estimate a model then it's a statistical model. If I don't do that then it's just a model.\n\nYou can have all kinds of models and most of them are not statistical.\n\nThis idiocy is exactly what I mean and is exactly why I don't like working with \"statisticians\" that have no mathematical training beyond undergrad calculus and think that the entire world is statistics and nothing else."
+        },
+        {
+            "id": "h99ppb3",
+            "parent": "t1_h99160e",
+            "ans": "But you\u2019re entire comment is idiotic, a linear model is literally just basic statistics",
+            "score": 1,
+            "que": "Yes it is. It's a linear model in the form of wx + b. Exactly the same as linear regression.\n\nIf I collected some data to estimate a model then it's a statistical model. If I don't do that then it's just a model.\n\nYou can have all kinds of models and most of them are not statistical.\n\nThis idiocy is exactly what I mean and is exactly why I don't like working with \"statisticians\" that have no mathematical training beyond undergrad calculus and think that the entire world is statistics and nothing else."
+        },
+        {
+            "id": "h9ceyke",
+            "parent": "t1_h99160e",
+            "ans": "But a model whether in statistics or physics, is the same fucking thing they are trying to predict something, except in physics there are underlying theories they are testing against whereas machine learning uses validation sets to test predictions. Chemistry doesn\u2019t have the same kind of \u2018models\u2019 you\u2019re describing they have molecular models. I\u2019m not trying to argue that every model is statistics because the word model can be used in so many different ways. What I am arguing is that wx+b is either a linear model/regression or a linear equation you can\u2019t call it both like you have. If you call it a linear model then immediate assumptions are made about what and how it\u2019s used. But yes models don\u2019t just follow the form of wx+b either, In deep learning models you add non-linearities to simple linear models to allow it to learn more abstract relationships between the data.\n\nThose accounting formulas in excel are statistics my man? Either that or they\u2019re just simple equations adding or multiplying things?\n\nAnd while those models were created by hypothesis first, you need to gather data and test whether said model is true and that\u2019s when you start trying to map y=f(x) to prove said models significance. You can use so many different ways to model some mathematical concept in physics and calculus and stats but that\u2019s why they all interplay.\n\nEdit: back to your original point if you take miles*kilometers + rate then you have an algebraic linear model, not the same thing as a regression",
+            "score": 1,
+            "que": "Yes it is. It's a linear model in the form of wx + b. Exactly the same as linear regression.\n\nIf I collected some data to estimate a model then it's a statistical model. If I don't do that then it's just a model.\n\nYou can have all kinds of models and most of them are not statistical.\n\nThis idiocy is exactly what I mean and is exactly why I don't like working with \"statisticians\" that have no mathematical training beyond undergrad calculus and think that the entire world is statistics and nothing else."
+        },
+        {
+            "id": "h96s3vi",
+            "parent": "t1_h96rz9n",
+            "ans": "Okay, we can call mle iterative statistics",
+            "score": 2,
+            "que": "Notice the 'not'. As in they do not all come from statistical techniques such as MLE."
+        },
+        {
+            "id": "h96s8fw",
+            "parent": "t1_h96rz9n",
+            "ans": "Oh nvm I\u2019m being dumb I didn\u2019t read it",
+            "score": 2,
+            "que": "Notice the 'not'. As in they do not all come from statistical techniques such as MLE."
+        },
+        {
+            "id": "h96sapb",
+            "parent": "t1_h96rz9n",
+            "ans": "Walking while trying to read and type is not my strong suit, no I agree with you on that.",
+            "score": 2,
+            "que": "Notice the 'not'. As in they do not all come from statistical techniques such as MLE."
+        },
+        {
+            "id": "h9bgn3l",
+            "parent": "t1_h99pkfh",
+            "ans": "Please show me where there is statistics in multiplying a taxi fare by the kilometers and adding the basic charge.",
+            "score": 0,
+            "que": "Okay then there are plenty of statistics behind linear models, learn the fucking math and theory behind it."
+        },
+        {
+            "id": "h9cjera",
+            "parent": "t1_h9ceyke",
+            "ans": "No. Models have nothing to do with prediction. Most models are used for inference and interpretation, not to predict something.\n\nIdeal gas model PV = nRT. No molecules here. Still a model from chemistry.\n\nMathematical modeling describes the process of getting a model that somewhat represents something that we want to model. Unlike other models, mathematical models are equations or something like that (a map or a globe is a model of the world but it's not a mathematical model). Statistical models are a tiny subset of mathematical models.\n\nIf I went ahead and got myself some data and used the data to estimate myself a taxi pricing model, sure that's statistical. But if I don't use data to come up with my model (such as eyeballing it and then seeing if it works or having a crystal ball whisper it to me in my dreams) then it is not a statistical model.\n\nWhether it's a linear model in the format wx + b or it's a neural network or a decision tree or a random forest doesn't matter.\n\nStatistical modeling refers to what you're doing, not the mathematical techniques themselves. Most of those techniques have nothing to do with statistics and are found all over the place.\n\nMost of those techniques boil down to calculus and linear algebra. Statistics doesn't have some special claim on calculus and linear algebra. Pretty much everything you compute will involve linear algebra.\n\nYou probably went to school and noticed that this sign right here = means \"equals to\". Maybe in the future you will go to college to study some math and encounter arrows and do some proofs and realize that you can represent the exact same thing in multiple ways and solve the exact same problem using multiple techniques.\n\n\nYou are clearly some clueless undergrad or a highschooler with no mathematical training.",
+            "score": 0,
+            "que": "But a model whether in statistics or physics, is the same fucking thing they are trying to predict something, except in physics there are underlying theories they are testing against whereas machine learning uses validation sets to test predictions. Chemistry doesn\u2019t have the same kind of \u2018models\u2019 you\u2019re describing they have molecular models. I\u2019m not trying to argue that every model is statistics because the word model can be used in so many different ways. What I am arguing is that wx+b is either a linear model/regression or a linear equation you can\u2019t call it both like you have. If you call it a linear model then immediate assumptions are made about what and how it\u2019s used. But yes models don\u2019t just follow the form of wx+b either, In deep learning models you add non-linearities to simple linear models to allow it to learn more abstract relationships between the data.\n\nThose accounting formulas in excel are statistics my man? Either that or they\u2019re just simple equations adding or multiplying things?\n\nAnd while those models were created by hypothesis first, you need to gather data and test whether said model is true and that\u2019s when you start trying to map y=f(x) to prove said models significance. You can use so many different ways to model some mathematical concept in physics and calculus and stats but that\u2019s why they all interplay.\n\nEdit: back to your original point if you take miles*kilometers + rate then you have an algebraic linear model, not the same thing as a regression"
+        },
+        {
+            "id": "h9c6meu",
+            "parent": "t1_h9bgn3l",
+            "ans": "Wx+b is still statistics. You\u2019re still learning a very simple mapping of y=f(x) (assuming x and y are both real). You\u2019re estimating W and b from N training pairs, and once you\u2019ve have those you get them estimate y. And if you take a taxi fair * kilometres + charge = y and call it a linear model as you did then you either have plugged in known data to an already trained linear model, or you just have an incredibly shit one because you have n=1 training pairs",
+            "score": 1,
+            "que": "Please show me where there is statistics in multiplying a taxi fare by the kilometers and adding the basic charge."
+        },
+        {
+            "id": "h9c7khl",
+            "parent": "t1_h9bgn3l",
+            "ans": "If you call it a linear model, you\u2019re making statistical assumptions about what you\u2019re doing with that data and how it\u2019s going to be processed whether or not you plug in just one training pair or 100000, the statistical concept behind it stay the same.",
+            "score": 1,
+            "que": "Please show me where there is statistics in multiplying a taxi fare by the kilometers and adding the basic charge."
+        },
+        {
+            "id": "h9cjv92",
+            "parent": "t1_h9cjera",
+            "ans": "Im a statistics and physics PhD student lol and I have not once tried to claim every single mode under the fucking sun is based on statistics??????",
+            "score": 1,
+            "que": "No. Models have nothing to do with prediction. Most models are used for inference and interpretation, not to predict something.\n\nIdeal gas model PV = nRT. No molecules here. Still a model from chemistry.\n\nMathematical modeling describes the process of getting a model that somewhat represents something that we want to model. Unlike other models, mathematical models are equations or something like that (a map or a globe is a model of the world but it's not a mathematical model). Statistical models are a tiny subset of mathematical models.\n\nIf I went ahead and got myself some data and used the data to estimate myself a taxi pricing model, sure that's statistical. But if I don't use data to come up with my model (such as eyeballing it and then seeing if it works or having a crystal ball whisper it to me in my dreams) then it is not a statistical model.\n\nWhether it's a linear model in the format wx + b or it's a neural network or a decision tree or a random forest doesn't matter.\n\nStatistical modeling refers to what you're doing, not the mathematical techniques themselves. Most of those techniques have nothing to do with statistics and are found all over the place.\n\nMost of those techniques boil down to calculus and linear algebra. Statistics doesn't have some special claim on calculus and linear algebra. Pretty much everything you compute will involve linear algebra.\n\nYou probably went to school and noticed that this sign right here = means \"equals to\". Maybe in the future you will go to college to study some math and encounter arrows and do some proofs and realize that you can represent the exact same thing in multiple ways and solve the exact same problem using multiple techniques.\n\n\nYou are clearly some clueless undergrad or a highschooler with no mathematical training."
+        },
+        {
+            "id": "h9caj8c",
+            "parent": "t1_h9c6meu",
+            "ans": "No it is not statistics. It's god damn multiplication you learn in 3rd grade.\n\nIf I am a taxi driver and I decided that is my pricing model than that is my pricing model. No statistics to see here.\n\nThis idiocy is exactly my point. Not everything mathematical is statistics. In fact very few things are statistical compared to the overwhelming amount of other things you can do.",
+            "score": 0,
+            "que": "Wx+b is still statistics. You\u2019re still learning a very simple mapping of y=f(x) (assuming x and y are both real). You\u2019re estimating W and b from N training pairs, and once you\u2019ve have those you get them estimate y. And if you take a taxi fair * kilometres + charge = y and call it a linear model as you did then you either have plugged in known data to an already trained linear model, or you just have an incredibly shit one because you have n=1 training pairs"
+        },
+        {
+            "id": "h9caloi",
+            "parent": "t1_h9caj8c",
+            "ans": "Then you\u2019re talking about an equation, not a fucking linear model",
+            "score": 1,
+            "que": "No it is not statistics. It's god damn multiplication you learn in 3rd grade.\n\nIf I am a taxi driver and I decided that is my pricing model than that is my pricing model. No statistics to see here.\n\nThis idiocy is exactly my point. Not everything mathematical is statistics. In fact very few things are statistical compared to the overwhelming amount of other things you can do."
+        },
+        {
+            "id": "h9cape1",
+            "parent": "t1_h9caj8c",
+            "ans": "And yes there is no statistics in fucking algebra you idiot",
+            "score": 1,
+            "que": "No it is not statistics. It's god damn multiplication you learn in 3rd grade.\n\nIf I am a taxi driver and I decided that is my pricing model than that is my pricing model. No statistics to see here.\n\nThis idiocy is exactly my point. Not everything mathematical is statistics. In fact very few things are statistical compared to the overwhelming amount of other things you can do."
+        },
+        {
+            "id": "h9cawpc",
+            "parent": "t1_h9caj8c",
+            "ans": "It\u2019s just a fucking linear equation at that point, not a model. Make correct assumptions based on what you call things mr common job",
+            "score": 1,
+            "que": "No it is not statistics. It's god damn multiplication you learn in 3rd grade.\n\nIf I am a taxi driver and I decided that is my pricing model than that is my pricing model. No statistics to see here.\n\nThis idiocy is exactly my point. Not everything mathematical is statistics. In fact very few things are statistical compared to the overwhelming amount of other things you can do."
+        },
+        {
+            "id": "h9dp2s0",
+            "parent": "t1_h9caloi",
+            "ans": "Yeah, you're definitely in the wrong here. Not all models are learned through fitting data [nor does that make the model immediately statistics].",
+            "score": 1,
+            "que": "Then you\u2019re talking about an equation, not a fucking linear model"
+        },
+        {
+            "id": "h9cbc53",
+            "parent": "t1_h9cawpc",
+            "ans": "A linear equation modeling some phenomenon called a model. That's literally what the word model means. Any type of equation or a function can be a model if it's modeling something.\n \nAlmost all models in this world are not statistical. Every physics equation, every chemistry equation, every accounting formula in excel etc. you've ever encountered is a model and that model was not learned from some data. In fact it's the opposite: those models were created as a hypothesis first.",
+            "score": 1,
+            "que": "It\u2019s just a fucking linear equation at that point, not a model. Make correct assumptions based on what you call things mr common job"
+        },
+        {
+            "id": "h9dp3l4",
+            "parent": "t1_h9cbc53",
+            "ans": "For what it's worth you're clearly correct.",
+            "score": 1,
+            "que": "A linear equation modeling some phenomenon called a model. That's literally what the word model means. Any type of equation or a function can be a model if it's modeling something.\n \nAlmost all models in this world are not statistical. Every physics equation, every chemistry equation, every accounting formula in excel etc. you've ever encountered is a model and that model was not learned from some data. In fact it's the opposite: those models were created as a hypothesis first."
+        }
+    ]
+}

@@ -1,0 +1,554 @@
+{
+    "title": "Pre screening tests be like",
+    "id": "zw9mtn",
+    "create_at": 1672125307.0,
+    "score": 2176,
+    "comments": [
+        {
+            "id": "j1uvqp4",
+            "parent": "t1_j1to0dy",
+            "ans": "If only I knew what A/B testing was I could get a job!",
+            "score": 40,
+            "que": "Ah yes the famous math you need for your career in t tests"
+        },
+        {
+            "id": "j1xm0ga",
+            "parent": "t1_j1to0dy",
+            "ans": "Eh, I run DS in a corporation and t-tests are legit my favorite test. They're underappreciated.",
+            "score": 5,
+            "que": "Ah yes the famous math you need for your career in t tests"
+        },
+        {
+            "id": "j1tzjxi",
+            "parent": "t1_j1to0dy",
+            "ans": "What if it's a data science / ML position?",
+            "score": 23,
+            "que": "Ah yes the famous math you need for your career in t tests"
+        },
+        {
+            "id": "j1uhgh4",
+            "parent": "t1_j1u6rbs",
+            "ans": "The correct answer is clearly 4^(-1)x",
+            "score": 93,
+            "que": "WTF is (1/4)x? The correct answer is x/4. \n\n\n/s"
+        },
+        {
+            "id": "j1w3s5v",
+            "parent": "t1_j1u6rbs",
+            "ans": "I\u2019m pretty sure the correct answer is \u201cwhy is equal to one fourth ex.",
+            "score": 3,
+            "que": "WTF is (1/4)x? The correct answer is x/4. \n\n\n/s"
+        },
+        {
+            "id": "j1vj1x9",
+            "parent": "t1_j1u6rbs",
+            "ans": "Clearly we all know the answer is 42. The answer to everything is 42.",
+            "score": 3,
+            "que": "WTF is (1/4)x? The correct answer is x/4. \n\n\n/s"
+        },
+        {
+            "id": "j1vfz0o",
+            "parent": "t1_j1u6rbs",
+            "ans": "Both of them are better than 0,25x though.",
+            "score": -2,
+            "que": "WTF is (1/4)x? The correct answer is x/4. \n\n\n/s"
+        },
+        {
+            "id": "j1v8hj3",
+            "parent": "t1_j1u6rbs",
+            "ans": "Always hated this notation",
+            "score": -1,
+            "que": "WTF is (1/4)x? The correct answer is x/4. \n\n\n/s"
+        },
+        {
+            "id": "j1usdhc",
+            "parent": "t1_j1tygaj",
+            "ans": "The joke is that during these type of prescreens, the (bad) recruiters often have their own perceived notion of the correct answer, even if slight variants of it are also correct.",
+            "score": 29,
+            "que": "Jesus, is it the same with the actual test? Can anyone who works in recruitment confirm please?"
+        },
+        {
+            "id": "j1v06fi",
+            "parent": "t1_j1ur4al",
+            "ans": "As much as I love to rag on these because I hate them, this could be a legitimate reason, but only if they indicated this somewhere.",
+            "score": 26,
+            "que": "Doesn't 1/4 indicate infinite precision? 0.25 does not. Sig figs etc."
+        },
+        {
+            "id": "j1wjp98",
+            "parent": "t1_j1ur4al",
+            "ans": "If this is just a math problem, ie there isn't some measurement with limited precision, sig figs aren't relevant here.",
+            "score": 6,
+            "que": "Doesn't 1/4 indicate infinite precision? 0.25 does not. Sig figs etc."
+        },
+        {
+            "id": "j1v7o9l",
+            "parent": "t1_j1ur4al",
+            "ans": "In that case, wouldn't 0.25 have two sig figs, while 1/4 is only one?",
+            "score": 2,
+            "que": "Doesn't 1/4 indicate infinite precision? 0.25 does not. Sig figs etc."
+        },
+        {
+            "id": "j1uy7na",
+            "parent": "t1_j1u8ybx",
+            "ans": "Looks like something to do with slopes but I could be wrong tbh\n\nedit: just realized what sub im on",
+            "score": 4,
+            "que": "What was the actual question?"
+        },
+        {
+            "id": "j1vsi04",
+            "parent": "t1_j1vmpen",
+            "ans": "...do you think reddit is only on phones?",
+            "score": 2,
+            "que": "In before somebody complains about a photo of a screen...because everyone is interested in taking a print screen, transferring it to their phone and then making a Reddit post."
+        },
+        {
+            "id": "j1tq2jl",
+            "parent": "t1_j1toz0b",
+            "ans": "0.25x = (1/4)x = x/4 = 1/(4/x)  \n\n\nAll of these are equivalent.",
+            "score": 58,
+            "que": "It's late and I am tired but one spontaneous thought - a decimal is not the same as a fraction in math. Maybe the test didn't ask for decimals?"
+        },
+        {
+            "id": "j1tsmmh",
+            "parent": "t1_j1toz0b",
+            "ans": "Only r/maths guys can solve this ambiguity.",
+            "score": 10,
+            "que": "It's late and I am tired but one spontaneous thought - a decimal is not the same as a fraction in math. Maybe the test didn't ask for decimals?"
+        },
+        {
+            "id": "j1tpky5",
+            "parent": "t1_j1toz0b",
+            "ans": "Why would it not be if it isn\u2019t a recurring decimal or a non-terminating decimal. Am I missing something? \n\n1/4 is exactly .25 in base 10, is it not?",
+            "score": 22,
+            "que": "It's late and I am tired but one spontaneous thought - a decimal is not the same as a fraction in math. Maybe the test didn't ask for decimals?"
+        },
+        {
+            "id": "j1txwhz",
+            "parent": "t1_j1toz0b",
+            "ans": "[deleted]",
+            "score": 9,
+            "que": "It's late and I am tired but one spontaneous thought - a decimal is not the same as a fraction in math. Maybe the test didn't ask for decimals?"
+        },
+        {
+            "id": "j1txe64",
+            "parent": "t1_j1toz0b",
+            "ans": "[You're getting downvoted for stating (perhaps a bit generally) a fact about math.](https://www.themathdoctors.org/fractions-vs-decimals-pros-and-cons/) In one way, fractions and decimals are the same in that they are both ways to represent numbers. But they are not the exact same.\n\nWhile 1/4x == 0.25x, 1/3x != 0.33x. At the same time, irrational numbers can be represented in decimal form, but not in simple fractions (22/7 approximates, but does not equal pi)\n\nFor most of us, we are fine with approximations, so we may accept the rounding errors brought on in our calculations using either fractions or decimals (or a mix) when they are convenient for our work. But we can't deny that they aren't the *exact* same.\n\nAs for this quiz/test, it's possible it's poorly designed and only accepts whatever answer the professor or TA put in...or was set up to use fractions for all answers. We don't see the instructions for the test so it's hard to say either way.",
+            "score": -37,
+            "que": "It's late and I am tired but one spontaneous thought - a decimal is not the same as a fraction in math. Maybe the test didn't ask for decimals?"
+        },
+        {
+            "id": "j1tu8tq",
+            "parent": "t1_j1toz0b",
+            "ans": "This place so many stupids (I saw your downvoted). They don't understand that 1/3 not equal 0.3. And even 0.333. Math not for them. \n\nBut, maybe, they future software developers. Sad.",
+            "score": -78,
+            "que": "It's late and I am tired but one spontaneous thought - a decimal is not the same as a fraction in math. Maybe the test didn't ask for decimals?"
+        },
+        {
+            "id": "j1tytnw",
+            "parent": "t1_j1tvuqj",
+            "ans": "Maybe English isn\u2019t for you. Also, 1/4 is equal to 0.25, so what the fuck are you on about?",
+            "score": 47,
+            "que": "Maybe, data science is not for you, because you can't see different between a random coincidence (in this case) and a regular discrepancy (math rules). \n\nSoftware developing is full of such helpless undebuggened 'engineers'."
+        },
+        {
+            "id": "j1u2z9s",
+            "parent": "t1_j1tvuqj",
+            "ans": "How can you be so dense but this confident? \n\n1/4 = 0.25 = 2.5 \u00d710^-1\n\nThey're mathematically identical and equivalent.. a coincidence that always holds true in all contexts isn't a fucking coincidence",
+            "score": 20,
+            "que": "Maybe, data science is not for you, because you can't see different between a random coincidence (in this case) and a regular discrepancy (math rules). \n\nSoftware developing is full of such helpless undebuggened 'engineers'."
+        },
+        {
+            "id": "j1u1tjc",
+            "parent": "t1_j1tvuqj",
+            "ans": "Seems like you might have an IQ of 0.25",
+            "score": 34,
+            "que": "Maybe, data science is not for you, because you can't see different between a random coincidence (in this case) and a regular discrepancy (math rules). \n\nSoftware developing is full of such helpless undebuggened 'engineers'."
+        },
+        {
+            "id": "j1ua1e5",
+            "parent": "t1_j1tvuqj",
+            "ans": "Seems like you are missing a very important skill, critical thinking.",
+            "score": 5,
+            "que": "Maybe, data science is not for you, because you can't see different between a random coincidence (in this case) and a regular discrepancy (math rules). \n\nSoftware developing is full of such helpless undebuggened 'engineers'."
+        },
+        {
+            "id": "j1u3vsi",
+            "parent": "t1_j1tvuqj",
+            "ans": "Seem like data scientist don\u2019t get sarcasm",
+            "score": 1,
+            "que": "Maybe, data science is not for you, because you can't see different between a random coincidence (in this case) and a regular discrepancy (math rules). \n\nSoftware developing is full of such helpless undebuggened 'engineers'."
+        },
+        {
+            "id": "j1u283x",
+            "parent": "t1_j1tw19r",
+            "ans": "Obviously, considering its the correct answer",
+            "score": 14,
+            "que": "I just curious, are u complain about this?"
+        },
+        {
+            "id": "j1ur0w6",
+            "parent": "t1_j1uevcq",
+            "ans": "Programs for testing like this will accept 1/4 and convert to what's shown. There are also now in programs like word the ability to insert correctly formatted expressions such as shown here. However that's no defense of this question being marked incorrectly.\n\nMy uni marking software does the formatting conversion like shown in the post, but my uni marking software would absolutely accept 0.25 unless the question specified a fraction answer",
+            "score": 3,
+            "que": "A human doesn't even type like that? Using what I'm assuming has to be an ascii character for the 1/4?"
+        },
+        {
+            "id": "j1uwyec",
+            "parent": "t1_j1uevcq",
+            "ans": "It\u2019s obviously \\frac{1}{4} x",
+            "score": 2,
+            "que": "A human doesn't even type like that? Using what I'm assuming has to be an ascii character for the 1/4?"
+        },
+        {
+            "id": "j1wbqsp",
+            "parent": "t1_j1uvqp4",
+            "ans": "Or maybe you couldn't, if only there were a way to test.",
+            "score": 14,
+            "que": "If only I knew what A/B testing was I could get a job!"
+        },
+        {
+            "id": "j1ucjqt",
+            "parent": "t1_j1tzjxi",
+            "ans": "More t-Tests",
+            "score": 39,
+            "que": "What if it's a data science / ML position?"
+        },
+        {
+            "id": "j1vmdik",
+            "parent": "t1_j1tzjxi",
+            "ans": "What is a T test?",
+            "score": 5,
+            "que": "What if it's a data science / ML position?"
+        },
+        {
+            "id": "j1un4gg",
+            "parent": "t1_j1tzjxi",
+            "ans": "Depends on what type of data science position.",
+            "score": 2,
+            "que": "What if it's a data science / ML position?"
+        },
+        {
+            "id": "j1v46wl",
+            "parent": "t1_j1tzjxi",
+            "ans": "\\*paired t-test",
+            "score": 1,
+            "que": "What if it's a data science / ML position?"
+        },
+        {
+            "id": "j1uq7eb",
+            "parent": "t1_j1uhgh4",
+            "ans": "(2.5\\*10\\^-1\\)*x",
+            "score": 23,
+            "que": "The correct answer is clearly 4^(-1)x"
+        },
+        {
+            "id": "j1vhq7g",
+            "parent": "t1_j1vfz0o",
+            "ans": "Yes, but neither are better than 0.25x",
+            "score": 7,
+            "que": "Both of them are better than 0,25x though."
+        },
+        {
+            "id": "j1v1ost",
+            "parent": "t1_j1v06fi",
+            "ans": " Nah, fuck em still",
+            "score": 17,
+            "que": "As much as I love to rag on these because I hate them, this could be a legitimate reason, but only if they indicated this somewhere."
+        },
+        {
+            "id": "j1vaa28",
+            "parent": "t1_j1v7o9l",
+            "ans": "I see your reasoning in that both denominator and numerator has one sig fig, but in the world of significant figures, fractions made from integers are deemed to be exact and have infinite precision.",
+            "score": 18,
+            "que": "In that case, wouldn't 0.25 have two sig figs, while 1/4 is only one?"
+        },
+        {
+            "id": "j1vwdrh",
+            "parent": "t1_j1vsi04",
+            "ans": "Obviously no. But I don't know anyone who uses Reddit on a desktop/laptop anymore. I know something like 70% of visitros are from mobile.",
+            "score": -1,
+            "que": "...do you think reddit is only on phones?"
+        },
+        {
+            "id": "j1tw5de",
+            "parent": "t1_j1tq2jl",
+            "ans": "And green = cucumber, and apple = green. What's wrong?\n\nApple = cucumber. Oh nooo, crush an app again! \n\nFirst learn the math, then post the comment.",
+            "score": -116,
+            "que": "0.25x = (1/4)x = x/4 = 1/(4/x)  \n\n\nAll of these are equivalent."
+        },
+        {
+            "id": "j1uqmq9",
+            "parent": "t1_j1tpky5",
+            "ans": "Yeah it is. Sometimes fractions are preferred either way, but that is generally specified. I'm studying maths in University and I do find my tutors generally prefer a fraction, but there's no way I'd lose a mark for saying 0.25 rather than 1/4.",
+            "score": 1,
+            "que": "Why would it not be if it isn\u2019t a recurring decimal or a non-terminating decimal. Am I missing something? \n\n1/4 is exactly .25 in base 10, is it not?"
+        },
+        {
+            "id": "j1v14uu",
+            "parent": "t1_j1txwhz",
+            "ans": "Taking a number for face value can result in errors in coding. But I originally meant that by definition a fraction is not the same as a decimal, even if they describe the same value. \nAnd if whoever developed the test is hell bent on precision, they would also make sure that the solutions are written in a way that are most common in math. Is the test asking for an explicit conversion? Was the math problem using decimals originally? Or was it a math problem with fractions or integers? They are asking for a specific format for the answer, otherwise your solution would have been correct. Maybe the code for the test itself is also only accepting one solution, not alternative solutions in terms of formatting. That's something that would be of interest here too out of a coding perspective. \n By the way thank you for posting your question, because it points indirectly towards a bigger problem in Data science. For example this:  https://bertwagner.com/posts/more-wrong-sql-server-math-floating-point-errors/",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j1u1w1c",
+            "parent": "t1_j1txe64",
+            "ans": ">While 1/4x == 0.25x, 1/3x != 0.33x. \n\nWhat I don't understand is why the fuck you and the other commenter are bringing up 1/3 \u2260 0.33 as if that's at all relevant. \n\nIf, as you admit here, 1/4x == 0.25x, then the answer in OP **is correct**.. they are equivalent, they are exactly the same number, it's not an approximation, they're literally identical",
+            "score": 30,
+            "que": "[You're getting downvoted for stating (perhaps a bit generally) a fact about math.](https://www.themathdoctors.org/fractions-vs-decimals-pros-and-cons/) In one way, fractions and decimals are the same in that they are both ways to represent numbers. But they are not the exact same.\n\nWhile 1/4x == 0.25x, 1/3x != 0.33x. At the same time, irrational numbers can be represented in decimal form, but not in simple fractions (22/7 approximates, but does not equal pi)\n\nFor most of us, we are fine with approximations, so we may accept the rounding errors brought on in our calculations using either fractions or decimals (or a mix) when they are convenient for our work. But we can't deny that they aren't the *exact* same.\n\nAs for this quiz/test, it's possible it's poorly designed and only accepts whatever answer the professor or TA put in...or was set up to use fractions for all answers. We don't see the instructions for the test so it's hard to say either way."
+        },
+        {
+            "id": "j1tzsfb",
+            "parent": "t1_j1txe64",
+            "ans": "Irrational numbers cannot be represented in decimal form because they have an infinite string of decimals. 3.1416 (or whatever else) is not pi, it\u2019s an approximation of pi and so is any other decimal representation of pi because we cannot show an infinite string. The only way to represent irrational numbers is with symbols such as sqrt(2) or pi.",
+            "score": 11,
+            "que": "[You're getting downvoted for stating (perhaps a bit generally) a fact about math.](https://www.themathdoctors.org/fractions-vs-decimals-pros-and-cons/) In one way, fractions and decimals are the same in that they are both ways to represent numbers. But they are not the exact same.\n\nWhile 1/4x == 0.25x, 1/3x != 0.33x. At the same time, irrational numbers can be represented in decimal form, but not in simple fractions (22/7 approximates, but does not equal pi)\n\nFor most of us, we are fine with approximations, so we may accept the rounding errors brought on in our calculations using either fractions or decimals (or a mix) when they are convenient for our work. But we can't deny that they aren't the *exact* same.\n\nAs for this quiz/test, it's possible it's poorly designed and only accepts whatever answer the professor or TA put in...or was set up to use fractions for all answers. We don't see the instructions for the test so it's hard to say either way."
+        },
+        {
+            "id": "j1uqmr9",
+            "parent": "t1_j1txe64",
+            "ans": "Thanks! You are much better in describing what I meant with my short sentence. People are mad about facts, I did not state it's unequal. I meant the terms and the definition of decimals vs fractions and how math equations are written. I am just starting to learn programming - but I  am already aware that the way numbers have to be defined in code has to be very precise. So thank you!",
+            "score": -6,
+            "que": "[You're getting downvoted for stating (perhaps a bit generally) a fact about math.](https://www.themathdoctors.org/fractions-vs-decimals-pros-and-cons/) In one way, fractions and decimals are the same in that they are both ways to represent numbers. But they are not the exact same.\n\nWhile 1/4x == 0.25x, 1/3x != 0.33x. At the same time, irrational numbers can be represented in decimal form, but not in simple fractions (22/7 approximates, but does not equal pi)\n\nFor most of us, we are fine with approximations, so we may accept the rounding errors brought on in our calculations using either fractions or decimals (or a mix) when they are convenient for our work. But we can't deny that they aren't the *exact* same.\n\nAs for this quiz/test, it's possible it's poorly designed and only accepts whatever answer the professor or TA put in...or was set up to use fractions for all answers. We don't see the instructions for the test so it's hard to say either way."
+        },
+        {
+            "id": "j1tvt92",
+            "parent": "t1_j1tu8tq",
+            "ans": "No ones talking about 1/3 mate. 1/4 has an exact decimal representation.",
+            "score": 40,
+            "que": "This place so many stupids (I saw your downvoted). They don't understand that 1/3 not equal 0.3. And even 0.333. Math not for them. \n\nBut, maybe, they future software developers. Sad."
+        },
+        {
+            "id": "j1txkh6",
+            "parent": "t1_j1tu8tq",
+            "ans": "Glad we have your infinite wisdom here to answer the things no one ever asked and already knew after you call us stupids.",
+            "score": 21,
+            "que": "This place so many stupids (I saw your downvoted). They don't understand that 1/3 not equal 0.3. And even 0.333. Math not for them. \n\nBut, maybe, they future software developers. Sad."
+        },
+        {
+            "id": "j1tvm6c",
+            "parent": "t1_j1tu8tq",
+            "ans": "Thats because 1/3 is an infinite string of 0.3333333333 and so on. 1/4 is 0.25, it doesnt continue beyond that. Even then, its completely reasonable to round to the nearest hundredth since, unless youre working with quantum mechanics, that level of precision is wholly unnecessary.\n\nIf youre gonna use an example, at least stick to an example that follows the proper format.",
+            "score": 35,
+            "que": "This place so many stupids (I saw your downvoted). They don't understand that 1/3 not equal 0.3. And even 0.333. Math not for them. \n\nBut, maybe, they future software developers. Sad."
+        },
+        {
+            "id": "j1u3hgi",
+            "parent": "t1_j1u1tjc",
+            "ans": "Or perhaps an IQ of 1/4",
+            "score": 22,
+            "que": "Seems like you might have an IQ of 0.25"
+        },
+        {
+            "id": "j1ury7z",
+            "parent": "t1_j1ucjqt",
+            "ans": "t-tests for the number of t-tests you need to run",
+            "score": 15,
+            "que": "More t-Tests"
+        },
+        {
+            "id": "j1v48jh",
+            "parent": "t1_j1un4gg",
+            "ans": "outliers doesn't reflect the general",
+            "score": 3,
+            "que": "Depends on what type of data science position."
+        },
+        {
+            "id": "j1v2ibt",
+            "parent": "t1_j1uq7eb",
+            "ans": "4y = x",
+            "score": 25,
+            "que": "(2.5\\*10\\^-1\\)*x"
+        },
+        {
+            "id": "j1vlivu",
+            "parent": "t1_j1vhq7g",
+            "ans": "Yes they are. They are exact numbers which 0.25 (0,25 in Finland where I\u2019m from) isn\u2019t, by default.",
+            "score": -4,
+            "que": "Yes, but neither are better than 0.25x"
+        },
+        {
+            "id": "j297ccq",
+            "parent": "t1_j1vaa28",
+            "ans": "Hear hear, someone who paid attention during highschool Algebra :P",
+            "score": 2,
+            "que": "I see your reasoning in that both denominator and numerator has one sig fig, but in the world of significant figures, fractions made from integers are deemed to be exact and have infinite precision."
+        },
+        {
+            "id": "j1w2oup",
+            "parent": "t1_j1vwdrh",
+            "ans": "I'm talking to you on desktop right now. Reddit is a website.",
+            "score": 3,
+            "que": "Obviously no. But I don't know anyone who uses Reddit on a desktop/laptop anymore. I know something like 70% of visitros are from mobile."
+        },
+        {
+            "id": "j1txw33",
+            "parent": "t1_j1tw5de",
+            "ans": "(In case your reply was sarcasm I'm sorry but in case that it was not you can read this). \n\nYou are mixing two different types of relations. The mathematical relation that u/c0ntrap0sitive is talking about is mathematical relation. This relation is an equivalence relation. One of the things about equivalence relations is that they are transitive. For example, a = b and b = c then a = c. They are also symetrical, this means that if a = b then b = a. In your example you supposed that the relation *having a colour* was also a transitive relation, which it is (if cucumbers are green and apples are green, then cucumbers are green) but you assumed that *having a colour* was a symmetrical relation, which is not. If a ball is red, that doesn't mean that red has the colour ball. It's not symmetrical. \n\nSo in case your comment was serious, the guy you answered was right, as he is talking about equivalence relations while you are talking about non-equivalence relations which don't follow the same rules. Have a nice one!",
+            "score": 46,
+            "que": "And green = cucumber, and apple = green. What's wrong?\n\nApple = cucumber. Oh nooo, crush an app again! \n\nFirst learn the math, then post the comment."
+        },
+        {
+            "id": "j1u3ojx",
+            "parent": "t1_j1tw5de",
+            "ans": "Why would you even comment this? Lol",
+            "score": 20,
+            "que": "And green = cucumber, and apple = green. What's wrong?\n\nApple = cucumber. Oh nooo, crush an app again! \n\nFirst learn the math, then post the comment."
+        },
+        {
+            "id": "j1uqcn2",
+            "parent": "t1_j1tw5de",
+            "ans": "First learn the math? Are you high? 1/4 absolutely is equal to 0.25. Unless the question specified that the answer be in the form of a fraction then theres no logical reason this would be wrong.",
+            "score": 5,
+            "que": "And green = cucumber, and apple = green. What's wrong?\n\nApple = cucumber. Oh nooo, crush an app again! \n\nFirst learn the math, then post the comment."
+        },
+        {
+            "id": "j1ucg0a",
+            "parent": "t1_j1u3hgi",
+            "ans": "Or maybe 4x/x16",
+            "score": 7,
+            "que": "Or perhaps an IQ of 1/4"
+        },
+        {
+            "id": "j1uwqn1",
+            "parent": "t1_j1ury7z",
+            "ans": "At which point you will need to start running an F-test to avoid Type 1 errors",
+            "score": 13,
+            "que": "t-tests for the number of t-tests you need to run"
+        },
+        {
+            "id": "j1v3rub",
+            "parent": "t1_j1v2ibt",
+            "ans": "clearly it\u2019s an estimator with no bias and a weight of .25",
+            "score": 8,
+            "que": "4y = x"
+        },
+        {
+            "id": "j1vmm7e",
+            "parent": "t1_j1vlivu",
+            "ans": "You don't know the context of the question. A float could be a more appropriate answer.",
+            "score": 4,
+            "que": "Yes they are. They are exact numbers which 0.25 (0,25 in Finland where I\u2019m from) isn\u2019t, by default."
+        },
+        {
+            "id": "j1w382d",
+            "parent": "t1_j1w2oup",
+            "ans": "The majority of people do not use Reddit from the desktop site anymore. Reddit is accessible in many forms.",
+            "score": -1,
+            "que": "I'm talking to you on desktop right now. Reddit is a website."
+        },
+        {
+            "id": "j1tzewo",
+            "parent": "t1_j1txw33",
+            "ans": "In your apple cucumber example the transitive property would be: if a cucumber has the colour of an apple and an apple is green, then a cucumber is green",
+            "score": 8,
+            "que": "(In case your reply was sarcasm I'm sorry but in case that it was not you can read this). \n\nYou are mixing two different types of relations. The mathematical relation that u/c0ntrap0sitive is talking about is mathematical relation. This relation is an equivalence relation. One of the things about equivalence relations is that they are transitive. For example, a = b and b = c then a = c. They are also symetrical, this means that if a = b then b = a. In your example you supposed that the relation *having a colour* was also a transitive relation, which it is (if cucumbers are green and apples are green, then cucumbers are green) but you assumed that *having a colour* was a symmetrical relation, which is not. If a ball is red, that doesn't mean that red has the colour ball. It's not symmetrical. \n\nSo in case your comment was serious, the guy you answered was right, as he is talking about equivalence relations while you are talking about non-equivalence relations which don't follow the same rules. Have a nice one!"
+        },
+        {
+            "id": "j1vni12",
+            "parent": "t1_j1txw33",
+            "ans": "Boom roasted",
+            "score": 1,
+            "que": "(In case your reply was sarcasm I'm sorry but in case that it was not you can read this). \n\nYou are mixing two different types of relations. The mathematical relation that u/c0ntrap0sitive is talking about is mathematical relation. This relation is an equivalence relation. One of the things about equivalence relations is that they are transitive. For example, a = b and b = c then a = c. They are also symetrical, this means that if a = b then b = a. In your example you supposed that the relation *having a colour* was also a transitive relation, which it is (if cucumbers are green and apples are green, then cucumbers are green) but you assumed that *having a colour* was a symmetrical relation, which is not. If a ball is red, that doesn't mean that red has the colour ball. It's not symmetrical. \n\nSo in case your comment was serious, the guy you answered was right, as he is talking about equivalence relations while you are talking about non-equivalence relations which don't follow the same rules. Have a nice one!"
+        },
+        {
+            "id": "j1urrl4",
+            "parent": "t1_j1uqcn2",
+            "ans": "This is really the heart of the issue.  There could be an objective reason why one representation fits the question/ requirement and the other does not.  But from what most of us can see, it\u2019s unlikely, and the test assessment is just wrong.",
+            "score": 1,
+            "que": "First learn the math? Are you high? 1/4 absolutely is equal to 0.25. Unless the question specified that the answer be in the form of a fraction then theres no logical reason this would be wrong."
+        },
+        {
+            "id": "j1vlq07",
+            "parent": "t1_j1uwqn1",
+            "ans": "Eh, I\u2019ll just jump straight to the post-hoc correction for type 1 errors.",
+            "score": 3,
+            "que": "At which point you will need to start running an F-test to avoid Type 1 errors"
+        },
+        {
+            "id": "j1vns2k",
+            "parent": "t1_j1vmm7e",
+            "ans": "Clearly it\u2019s not judging by the answer.",
+            "score": -5,
+            "que": "You don't know the context of the question. A float could be a more appropriate answer."
+        },
+        {
+            "id": "j1usuku",
+            "parent": "t1_j1urrl4",
+            "ans": "Oh I agree I just can't fathom the logic of the person I was replying to. I'm studying maths at uni now and they do definitely prefer fraction answers as a rule, but I won't get docked for it, I'll just get an advisory note usually.",
+            "score": 1,
+            "que": "This is really the heart of the issue.  There could be an objective reason why one representation fits the question/ requirement and the other does not.  But from what most of us can see, it\u2019s unlikely, and the test assessment is just wrong."
+        },
+        {
+            "id": "j1vqbx1",
+            "parent": "t1_j1vns2k",
+            "ans": "Judging by the answer, it was coded incorrectly and you probably shouldn't use it to make assumptions about the actual question.",
+            "score": 0,
+            "que": "Clearly it\u2019s not judging by the answer."
+        },
+        {
+            "id": "j1uugqy",
+            "parent": "t1_j1usuku",
+            "ans": "For fun sometime, you should read Godel\u2019s \u201cOn formally undecidable propositions.\u201d It\u2019s really pretty succinct, and fascinating. A bit tangential to the current discussion, but a view of how representation can be crucial, and shows the attempt of Whitehead/Russell to eliminate all ambiguity from math was futile.  I think it\u2019s not to be taken to extremes, because ambiguity can be quite well eliminated within non-trivial limits/guardrails. (As in the silly case we\u2019ve been discussing.) It\u2019s just that Godel had to point out those limits that the principia did not explicitly acknowledge.",
+            "score": 1,
+            "que": "Oh I agree I just can't fathom the logic of the person I was replying to. I'm studying maths at uni now and they do definitely prefer fraction answers as a rule, but I won't get docked for it, I'll just get an advisory note usually."
+        },
+        {
+            "id": "j1vqkzh",
+            "parent": "t1_j1vqbx1",
+            "ans": "You cannot make that assumption based on what we are seeing from the answer.\n\nIf the question asked for an exact answer, 0.25 isn\u2019t correct. x/4 or 1/4\u2022x are both correct (and we don\u2019t know if it would have accepted both of them).",
+            "score": -2,
+            "que": "Judging by the answer, it was coded incorrectly and you probably shouldn't use it to make assumptions about the actual question."
+        },
+        {
+            "id": "j1vqx7w",
+            "parent": "t1_j1vqkzh",
+            "ans": "There isn't a reasonable question that could be asked where it would be reasonable to reject 0.25 and accept 1/4",
+            "score": 1,
+            "que": "You cannot make that assumption based on what we are seeing from the answer.\n\nIf the question asked for an exact answer, 0.25 isn\u2019t correct. x/4 or 1/4\u2022x are both correct (and we don\u2019t know if it would have accepted both of them)."
+        },
+        {
+            "id": "j1vs6z2",
+            "parent": "t1_j1vqx7w",
+            "ans": "Any question where the value is asked to be inserted as an exact value.  \nOne valid reasoning for this would be just so they would know to separate individuals who cannot follow instructions, or who fail at basic mathematic understanding of the difference between an exact value and one that isn\u2019t. That\u2019s what pre-screening is for.",
+            "score": -3,
+            "que": "There isn't a reasonable question that could be asked where it would be reasonable to reject 0.25 and accept 1/4"
+        },
+        {
+            "id": "j1vty9a",
+            "parent": "t1_j1vs6z2",
+            "ans": "Merely requesting an \"exact value\" is not a valid enough reason to reject a decimal answer. Taken literally, 0.25=2/10+5/100=1/4. So 0.25 could be interpreted as either an exact value or a float with error, depending on the context.",
+            "score": 4,
+            "que": "Any question where the value is asked to be inserted as an exact value.  \nOne valid reasoning for this would be just so they would know to separate individuals who cannot follow instructions, or who fail at basic mathematic understanding of the difference between an exact value and one that isn\u2019t. That\u2019s what pre-screening is for."
+        },
+        {
+            "id": "j1y8qu1",
+            "parent": "t1_j1vty9a",
+            "ans": "Giving an answer of 0.25 doesn\u2019t mean it is exactly 0.25. It could have been 0.250, 0.251, 0.252, 0.253 or 0.254, whereas 1/4 is always exactly 1/4. There is a difference between them and it\u2019s not negligible.",
+            "score": 1,
+            "que": "Merely requesting an \"exact value\" is not a valid enough reason to reject a decimal answer. Taken literally, 0.25=2/10+5/100=1/4. So 0.25 could be interpreted as either an exact value or a float with error, depending on the context."
+        },
+        {
+            "id": "j1zuxic",
+            "parent": "t1_j1y8qu1",
+            "ans": "Reread my previous comment. 0.25 has a precise definition and it is exactly equal to 1/4. Depending on the context, it could be interpreted as a floating point number with a margin of error, but not all decimal representations are floating point numbers.",
+            "score": 1,
+            "que": "Giving an answer of 0.25 doesn\u2019t mean it is exactly 0.25. It could have been 0.250, 0.251, 0.252, 0.253 or 0.254, whereas 1/4 is always exactly 1/4. There is a difference between them and it\u2019s not negligible."
+        },
+        {
+            "id": "j1zvovr",
+            "parent": "t1_j1zuxic",
+            "ans": "Unless it is stated in the answer that 0.25 is precise in that scenario, it cannot be interpreted as precise by default. In OPs answer that was not stated.",
+            "score": 1,
+            "que": "Reread my previous comment. 0.25 has a precise definition and it is exactly equal to 1/4. Depending on the context, it could be interpreted as a floating point number with a margin of error, but not all decimal representations are floating point numbers."
+        },
+        {
+            "id": "j209nzs",
+            "parent": "t1_j1zvovr",
+            "ans": "By default, 0.25 is, by definition, a precise answer that is equal to 2\u22c510^(-1)+5\u22c510^(-2)=1/4. It is only by context and cultural subtext that we can interpret it as a floating point number with error.",
+            "score": 0,
+            "que": "Unless it is stated in the answer that 0.25 is precise in that scenario, it cannot be interpreted as precise by default. In OPs answer that was not stated."
+        }
+    ]
+}

@@ -1,0 +1,918 @@
+{
+    "title": "When you get your first DS role but they hit you with the mix.",
+    "id": "vbcfpg",
+    "create_at": 1655127515.0,
+    "score": 1898,
+    "comments": [
+        {
+            "id": "ic7stue",
+            "parent": "t1_ic7ed6g",
+            "ans": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?",
+            "score": 406,
+            "que": "My thoughts as a lowly analyst: If you wanted to pay me a DS salary to do DA work, That\u2019s okay"
+        },
+        {
+            "id": "ic7vqy4",
+            "parent": "t1_ic7ed6g",
+            "ans": "Fucking this",
+            "score": 5,
+            "que": "My thoughts as a lowly analyst: If you wanted to pay me a DS salary to do DA work, That\u2019s okay"
+        },
+        {
+            "id": "icamb9k",
+            "parent": "t1_ic7ed6g",
+            "ans": "Agreed.",
+            "score": 1,
+            "que": "My thoughts as a lowly analyst: If you wanted to pay me a DS salary to do DA work, That\u2019s okay"
+        },
+        {
+            "id": "icb5s8w",
+            "parent": "t1_ic7ed6g",
+            "ans": "Biochemistry student here, are you able to outline the difference between what a DS and a DA would do, in particular, why would one hate doing tableaus so much? Based on some of the below comments, I can gather that DA work consists largely of being very good at Microsoft Excel.",
+            "score": 1,
+            "que": "My thoughts as a lowly analyst: If you wanted to pay me a DS salary to do DA work, That\u2019s okay"
+        },
+        {
+            "id": "ic88rg3",
+            "parent": "t1_ic7dhkn",
+            "ans": "I hate dashboards and pipelines, so I always ask how their DE staffing is haha",
+            "score": 39,
+            "que": "Haha I was asking an interviewer whether he does any dashboarding, dude was visibly panicky and quickly denied he was doing any dashboading. Personally, I actually enjoy build dashboard."
+        },
+        {
+            "id": "ic7npdv",
+            "parent": "t1_ic7dhkn",
+            "ans": "What ever happened to self service? It's such a joke. Tableau is an analyst tool, not BI or Data Science.",
+            "score": 47,
+            "que": "Haha I was asking an interviewer whether he does any dashboarding, dude was visibly panicky and quickly denied he was doing any dashboading. Personally, I actually enjoy build dashboard."
+        },
+        {
+            "id": "ic8trwk",
+            "parent": "t1_ic8ov4x",
+            "ans": "I think you are spot on! I actually love dashboards to be fair, but I like creating funny and relatable DS memes :)",
+            "score": 18,
+            "que": "Unpopular opinion but like 95 percent of companies simply aren't ready for anything more than dashboards. Data engineering , staff training , policy management and all the things need to be in place before you can fully embrace DS.\n\nI'd just be happy people want data at all and don't work off of a gut feeling."
+        },
+        {
+            "id": "ic8wb31",
+            "parent": "t1_ic8ov4x",
+            "ans": "Spot on. I get that dashboards have been overdone, but it\u2019s still an extremely effective way to start building a data informed culture.",
+            "score": 6,
+            "que": "Unpopular opinion but like 95 percent of companies simply aren't ready for anything more than dashboards. Data engineering , staff training , policy management and all the things need to be in place before you can fully embrace DS.\n\nI'd just be happy people want data at all and don't work off of a gut feeling."
+        },
+        {
+            "id": "icaa289",
+            "parent": "t1_ic8ov4x",
+            "ans": "I agree. I\u2019ll go a step further and say that working for a company that fancies itself data savvy, but can\u2019t actually commit to being data driven, is the worst kind of middle ground. You do all this great data engineering and modeling for\u2026 nothing.",
+            "score": 6,
+            "que": "Unpopular opinion but like 95 percent of companies simply aren't ready for anything more than dashboards. Data engineering , staff training , policy management and all the things need to be in place before you can fully embrace DS.\n\nI'd just be happy people want data at all and don't work off of a gut feeling."
+        },
+        {
+            "id": "icby3wi",
+            "parent": "t1_ic8ov4x",
+            "ans": "Agreed. At the same time the line between dashboards and needing proper database access, while hard to spot for some, is clearly marked for data professionals, and in my experience, those professionals get roundly ignored in favor of the Management By Authority dullards.",
+            "score": 1,
+            "que": "Unpopular opinion but like 95 percent of companies simply aren't ready for anything more than dashboards. Data engineering , staff training , policy management and all the things need to be in place before you can fully embrace DS.\n\nI'd just be happy people want data at all and don't work off of a gut feeling."
+        },
+        {
+            "id": "ic7my67",
+            "parent": "t1_ic7ii3v",
+            "ans": "Yo, use power bi. That's what I did. Normally companies don't just buy excel and PowerPoint. They buy the office 365 suite which comes with power bi. Move the company over to that and give yourself another talking point on your resume.",
+            "score": 90,
+            "que": "For me it wasn\u2019t even Tableau but Excel and PowerPoint making \u201cdashboards.\u201d \n\nYou can escape. I did."
+        },
+        {
+            "id": "ic7ytg6",
+            "parent": "t1_ic7ii3v",
+            "ans": "build a \"deck\" in PPT of enbedded links to an excel file where each tab in excel is just a reskinned pivot table with a different parameter changed.\n\nMonthly job - open excel, refresh pivots via ODBC connection, open PPT, refresh Embeded links, print 20 copies and bind them in a binder for the C-suite to review in a meeting.\n\nGod I hated that phase of my career.",
+            "score": 14,
+            "que": "For me it wasn\u2019t even Tableau but Excel and PowerPoint making \u201cdashboards.\u201d \n\nYou can escape. I did."
+        },
+        {
+            "id": "ic8qchj",
+            "parent": "t1_ic7ii3v",
+            "ans": "The \"Data Science\" title gets thrown around alot these days because its a hot topic. But sadly managers don't understand what the differences are. \n\nProbably 1% of the people with Data Science titles actually do any modeling these days.",
+            "score": 9,
+            "que": "For me it wasn\u2019t even Tableau but Excel and PowerPoint making \u201cdashboards.\u201d \n\nYou can escape. I did."
+        },
+        {
+            "id": "ic7jarc",
+            "parent": "t1_ic7ii3v",
+            "ans": "Curious on how you did it, any advice?",
+            "score": 3,
+            "que": "For me it wasn\u2019t even Tableau but Excel and PowerPoint making \u201cdashboards.\u201d \n\nYou can escape. I did."
+        },
+        {
+            "id": "ic7hran",
+            "parent": "t1_ic7fylv",
+            "ans": "It is INEVITABLE.\n\nI guess you could just ask very clearly what your tasks are going to be and what you don't want to do in the job interviews.",
+            "score": 17,
+            "que": "Aaaa how to avoid that."
+        },
+        {
+            "id": "ic99kuo",
+            "parent": "t1_ic7fylv",
+            "ans": "One time I had 3 phone screens for 3 DS positions at the same company, so I got a fairly good apples:apples comparison of what each hiring manager actually wanted.\n\nFor one of them, the first thing the hiring manager asked was \"So do you know about Shiny?\" That was definitely the one to avoid (they all were, but especially that one).",
+            "score": 5,
+            "que": "Aaaa how to avoid that."
+        },
+        {
+            "id": "ic7yivz",
+            "parent": "t1_ic7cc3h",
+            "ans": "As someone who works with it everyday, same. I feel like a significant portion of my work is just hacking the software to do things it clearly wasn't designed to do.",
+            "score": 24,
+            "que": "I hate tableau"
+        },
+        {
+            "id": "ic7gexr",
+            "parent": "t1_ic7cc3h",
+            "ans": "I don\u2019t use it too often in my role, but I\u2019m genuinely shocked at how much functionality it\u2019s lacking. As the biggest BI tool in the market you\u2019d expect it to be a little bit more functional\n\n\nI remember having to look through forums and use these crazy workarounds like invisible edges or things in the same color as background just to do some basic things",
+            "score": 49,
+            "que": "I hate tableau"
+        },
+        {
+            "id": "ic7cf8l",
+            "parent": "t1_ic7cc3h",
+            "ans": "You more of a PowerBI type of person?",
+            "score": 14,
+            "que": "I hate tableau"
+        },
+        {
+            "id": "ic7l4c6",
+            "parent": "t1_ic7cc3h",
+            "ans": "Nobody loves Spotfire \ud83d\ude2d",
+            "score": 4,
+            "que": "I hate tableau"
+        },
+        {
+            "id": "ic89h7k",
+            "parent": "t1_ic7cc3h",
+            "ans": "I despise it too yet the company wide decision is Tableau is in and everything else is out. \n\nOur entire dashboard estate is on Qlik which is amazing and lets us do anything we want. \n\nWe\u2019re moving to Dash as it\u2019s just so much more versatile.",
+            "score": 4,
+            "que": "I hate tableau"
+        },
+        {
+            "id": "ic8qkt9",
+            "parent": "t1_ic7cc3h",
+            "ans": "This is what is so sad to me. Tableau is amazing, it's such a sick washboarding tool. It's just that it's really only useful in a few circumstances, and the price is too high. Moreover, people who don't understand applications try to shoe horn too many types of applications into being Tableau Dashboards that lead to really bad user experiences and terrible developer experiences.\n\nUltimately Tableau is amazing at what it is supposed to do but gets used for the wrong things far too often.",
+            "score": 2,
+            "que": "I hate tableau"
+        },
+        {
+            "id": "ic7l6ui",
+            "parent": "t1_ic7ekyu",
+            "ans": "And then tell us if there's any models you can build",
+            "score": 9,
+            "que": "Also this data is messy so can you clean it up for us?"
+        },
+        {
+            "id": "ic86e9w",
+            "parent": "t1_ic7n0kv",
+            "ans": "Yeah I got a 20k rise to go from power bi to ds. First project, can you teach power bi to our graduates...",
+            "score": 11,
+            "que": "If I get paid like a DS instead of a DA it don\u2019t matter"
+        },
+        {
+            "id": "ic8w3o8",
+            "parent": "t1_ic7n0kv",
+            "ans": "For sure. A lot of gatekeeping in the DS community. If someone uses the DS title to get paid then I\u2019m not concerned if they\u2019re doing \u201creal\u201d DS. I once told my boss they could call me lead turd wrangler for all I care.",
+            "score": 4,
+            "que": "If I get paid like a DS instead of a DA it don\u2019t matter"
+        },
+        {
+            "id": "ic7zgsl",
+            "parent": "t1_ic7n0kv",
+            "ans": "It does matter!",
+            "score": 5,
+            "que": "If I get paid like a DS instead of a DA it don\u2019t matter"
+        },
+        {
+            "id": "icbpsdy",
+            "parent": "t1_ic7hb3t",
+            "ans": "nah put it back.",
+            "score": 4,
+            "que": "Exactly what happened to me on my first \"data science\" job. Left after 7 months because of that. Even though it was for a famous company, I took it off my LinkedIn because I didn't feel I did any actual data science there."
+        },
+        {
+            "id": "ic7uaqz",
+            "parent": "t1_ic7hr3p",
+            "ans": "I use data to build models that offer actionable insight or develop/automate new features or products. Dashboarding results is a job for bi/reporting teams. The data science function is research. Even productionization of pipelines is now a ml/data ops function. \n\nI'm happy to assist analysts, but tasks like that wouldn't be assigned to my sprints. The whole reason I taught myself to code was to get away from dashboards and reports.",
+            "score": 13,
+            "que": "So, what did you expect if not to churn out dashboards, reports, and \"wrangle data\"? That's all part of analytics, and especially as a utility player like a data scientist. What type of romanticized version of analytics work did they present in college or other courses?"
+        },
+        {
+            "id": "ic7xixm",
+            "parent": "t1_ic7hr3p",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "So, what did you expect if not to churn out dashboards, reports, and \"wrangle data\"? That's all part of analytics, and especially as a utility player like a data scientist. What type of romanticized version of analytics work did they present in college or other courses?"
+        },
+        {
+            "id": "ic8tmye",
+            "parent": "t1_ic8t9o5",
+            "ans": "I am right there with you. During an interview, you can ask them to be transparent with your job duties, but it means nothing until you're actually on the job. I am a DS who mainly does Analyst work with a logistic regression model here and there.",
+            "score": 2,
+            "que": "I was about to ask this question yesterday tbh but I didn't have enough karmas to do so :(\n\nI completed my master's in DS in 2019 and for the past 4 years, I have worked in 3 different companies hoping to get some actual DS work, but all I end up doing is reporting and dashboarding and a bit of DE.\n\nI have come to a point where I realize I may never get any DS work and I should just pivot to DE instead."
+        },
+        {
+            "id": "ifjr3s8",
+            "parent": "t1_ica7sus",
+            "ans": "L\u3153\u314b",
+            "score": 1,
+            "que": "When I was hired as a data scientist in the training department at Star Health, this is the list of tasks that were assigned to me:\n\n* Make charts for presentations\n* Learn about the Learning Management System (LMS) \\[functionalities, content management, etc.\\] and help others in the whole company learn how to use it \\[tougher than it sounds, most were computer-illiterate\\]\n* Handle the invoices received from e-learning service providers and follow up with Accounts on whether the invoices were cleared\n* Talk with e-learning vendors, specifically bargaining (ugh!)\n\nAs if this wasn't enough, next came another excruciatingly disgusting work: the company was building a training academy and the whole training department was to shift there. I had to follow up with the interior designers and the builder about the completion of the work. That's the work of the Administration department, isn't it? I'd often remark to my supportive colleagues that I just didn't paint the place; I seem to have done everything else. The company treated me like a jackass.\n\nThe main problem was that they never acknowledged my introversion, English fluency, voracious reading habit, grammatical perfection and my writing ability. I tried my best to articulate to everyone around, but they were far more content in undermining me. The icing on the cake: I was also used for creating calendar invites and hosting Zoom meetings. Exactly what executive assistants should be doing. The irony was that we had a receptionist, but I was still the one doing it.\n\nThat was the last straw for me. I had joined in February 2020 and had wanted to leave in July 2020, but the pandemic-induced slowdown meant that there were no jobs available in the market (in India, at least). Besides, I was looking for an opportunity as a content writer rather than as a data science professional (yeah, I finally decided to go mainstream with my passion).\n\nAfter a year and a half of job hunting, I finally landed one and I happily resigned from Star in January 2022. People at Star were baffled; some of them still call me for clarifications on the LMS and I angrily respond that \"I resigned from your shithole company long back. Stop calling me.\" Some of them still assume that I would be at Star forever. The fact that Star Health has people who spend their entire career at one company is a bummer. This \"taken-for-granted\" attitude is what irked me the most.\n\nThankfully, my current company [https://examroom.ai/](https://examroom.ai/) is heaven. I'm ready to go over and above for them as they differ from my previous employer in critical aspect: they accept me for who I am. They embrace my introversion. They provide flexible timings, which is a boon for writers like me. My advice to you is this: work at a place where you are respected. It's sad that I am getting this respect only at the age of 29, 7 years after I entered the workforce, but I'm thankful that I'm at least getting it now."
+        },
+        {
+            "id": "ica7xpl",
+            "parent": "t1_ic9mf9i",
+            "ans": "No. Tableau is for visualizing your data, much like Power BI or the charts you make in MS Excel.",
+            "score": 3,
+            "que": "Is Tableau similar to Jupyter? (programmer who dabbles in DS)"
+        },
+        {
+            "id": "ic7uag3",
+            "parent": "t1_ic7stue",
+            "ans": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require.",
+            "score": 98,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic8z78j",
+            "parent": "t1_ic7stue",
+            "ans": "[deleted]",
+            "score": 11,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic8anzk",
+            "parent": "t1_ic7stue",
+            "ans": "Lmfao facts. Glad it's not just me",
+            "score": 3,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "icb52dk",
+            "parent": "t1_ic7stue",
+            "ans": "Bruh this is me as a DE hahah. Requirements where \u201cknowledge of spark, java, scala and python. Knowledge of hive, hadoop and distributed systems. Etc etc\u201d. All I do is power bi and excel lol",
+            "score": 3,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic83bj8",
+            "parent": "t1_ic7stue",
+            "ans": "So true!",
+            "score": 2,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "icava9z",
+            "parent": "t1_ic7stue",
+            "ans": "I know this is hypothetical but any job ad that would ask for \"Bayesian modeling experience\" or anything similarly incompatible with the business world should be looked at with caution.",
+            "score": 2,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic84vku",
+            "parent": "t1_ic7stue",
+            "ans": "Yep, advertise for the role you\u2019d like to be hiring for, not the one you actually are hiring for.",
+            "score": 1,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic8awhy",
+            "parent": "t1_ic7stue",
+            "ans": "Head on over to Revenue. Plenty of opportunities to get your bayesian statistics on lol.",
+            "score": 1,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic8tzwk",
+            "parent": "t1_ic7stue",
+            "ans": "This is my job, with slightly crappier education ha. Paid enough for it though!",
+            "score": 1,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "ic9zpsw",
+            "parent": "t1_ic7stue",
+            "ans": "This is my life without the dope pay.",
+            "score": 1,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "icban59",
+            "parent": "t1_ic7stue",
+            "ans": "OMG, I thought this situation happens only in China",
+            "score": 1,
+            "que": "Requirements:\n\n- Masters in math, statistics, or computer science \n- 4+ years of experience building models\n- Bayesian modeling experience \n\nJob:\n\n- build tableau dashboards\n- fix this VBA thing the guy before you maintained \n- can you help me with this VLOOKUP I'm trying to do?"
+        },
+        {
+            "id": "icc5rm8",
+            "parent": "t1_icb5s8w",
+            "ans": "Disclaimer: speaking as a DA here. People that learn a set of tools for data science usually want to be doing data science things. It\u2019s very cool stuff. They\u2019ve probably spent a few years doing DA work to gain familiarity and competency to work towards DS. \n\n\nSo when they finally nab a DS role, it probably is pretty frustrating to be doing dashbording still. \n\n\nAlso if data analysts are primarily working in Excel, you don\u2019t want to work there, lol. The standard these days seems like SQL/Oracle combined with some visualization tool (there are many.)",
+            "score": 4,
+            "que": "Biochemistry student here, are you able to outline the difference between what a DS and a DA would do, in particular, why would one hate doing tableaus so much? Based on some of the below comments, I can gather that DA work consists largely of being very good at Microsoft Excel."
+        },
+        {
+            "id": "ic8the9",
+            "parent": "t1_ic7npdv",
+            "ans": "IT. IT is what happened to self-service.\n\nThere\u2019s a major communication, skills and expectation gap that eroding the field.\n\nIt may be my personal bias and projection on the matter but incompetent IT has been the sore thumb.",
+            "score": 16,
+            "que": "What ever happened to self service? It's such a joke. Tableau is an analyst tool, not BI or Data Science."
+        },
+        {
+            "id": "icafvgy",
+            "parent": "t1_icaa289",
+            "ans": "We care... But not enough to listen. Yah that would suck and sounds like my bosses trying to solve social work.. it hurts.... Send help and adult supervision plz.",
+            "score": 1,
+            "que": "I agree. I\u2019ll go a step further and say that working for a company that fancies itself data savvy, but can\u2019t actually commit to being data driven, is the worst kind of middle ground. You do all this great data engineering and modeling for\u2026 nothing."
+        },
+        {
+            "id": "ic7p3gt",
+            "parent": "t1_ic7my67",
+            "ans": "I will remember that if I ever go back to microsoft suite.",
+            "score": 20,
+            "que": "Yo, use power bi. That's what I did. Normally companies don't just buy excel and PowerPoint. They buy the office 365 suite which comes with power bi. Move the company over to that and give yourself another talking point on your resume."
+        },
+        {
+            "id": "ic88s2n",
+            "parent": "t1_ic7my67",
+            "ans": "I know that it depends on people but for me PBI is still not the mountain of fun\n\nAnd it is kind of boring to do that when you expected to do actual DS !",
+            "score": 7,
+            "que": "Yo, use power bi. That's what I did. Normally companies don't just buy excel and PowerPoint. They buy the office 365 suite which comes with power bi. Move the company over to that and give yourself another talking point on your resume."
+        },
+        {
+            "id": "ic8a8de",
+            "parent": "t1_ic7my67",
+            "ans": "Good tip only if your employer is willing to invest either in the infrastructure to support Power BI Report server (in house option to pbi service for a company to host their pbi reports) or spend money on pbi service licenses (or both on many cases).  It\u2019s easy to use power bi to develop dashboards. It\u2019s friggin powerful. But unless an enterprise has the infrastructure or willingness to get what they need to SHARE these reports, pbi may not be an ideal option. For smaller share circles though, sharing a pbix may be an option but a big no no (exception, only when you must, and when u do, ensure you\u2019re following all required data privacy protocols). Anyways, great tip nonetheless. Peace and blessings mate.",
+            "score": 4,
+            "que": "Yo, use power bi. That's what I did. Normally companies don't just buy excel and PowerPoint. They buy the office 365 suite which comes with power bi. Move the company over to that and give yourself another talking point on your resume."
+        },
+        {
+            "id": "ic8vrwg",
+            "parent": "t1_ic7my67",
+            "ans": "One of our clients recently complained that our analytics web app didn't work in their browser, which they are required to use internally.\n\nIt was Internet Explorer 7.\n\nCompany size: over 10,000",
+            "score": 2,
+            "que": "Yo, use power bi. That's what I did. Normally companies don't just buy excel and PowerPoint. They buy the office 365 suite which comes with power bi. Move the company over to that and give yourself another talking point on your resume."
+        },
+        {
+            "id": "ical4kz",
+            "parent": "t1_ic7my67",
+            "ans": "this is the way^",
+            "score": 1,
+            "que": "Yo, use power bi. That's what I did. Normally companies don't just buy excel and PowerPoint. They buy the office 365 suite which comes with power bi. Move the company over to that and give yourself another talking point on your resume."
+        },
+        {
+            "id": "ic87j4o",
+            "parent": "t1_ic7ytg6",
+            "ans": "ODBC is like the most Microsoft technology ever. \u201cNow in order to integrate your Microsoft SQL Server with your Microsoft Windows computer, you will first need to install an appropriate version of the Microsoft ODBC driver. If you haven\u2019t yet purchased a license for this open source, cross-platform industry standard, please do so now.",
+            "score": 5,
+            "que": "build a \"deck\" in PPT of enbedded links to an excel file where each tab in excel is just a reskinned pivot table with a different parameter changed.\n\nMonthly job - open excel, refresh pivots via ODBC connection, open PPT, refresh Embeded links, print 20 copies and bind them in a binder for the C-suite to review in a meeting.\n\nGod I hated that phase of my career."
+        },
+        {
+            "id": "ic80ted",
+            "parent": "t1_ic7ytg6",
+            "ans": "I didn\u2019t even get to build decks. Project would open, I would go through old files looking for the previous version of the PPT, run some code I hoped generated results by the same logic, then fill out the charts. Then I would present it to the client facing people who would tell me that it doesn\u2019t answer what questions they are interested in, and the results don\u2019t look good can we present it in a different way? \n\nA little mindless work each week is okay. But this kind of unanalytical work drove me crazy.",
+            "score": 1,
+            "que": "build a \"deck\" in PPT of enbedded links to an excel file where each tab in excel is just a reskinned pivot table with a different parameter changed.\n\nMonthly job - open excel, refresh pivots via ODBC connection, open PPT, refresh Embeded links, print 20 copies and bind them in a binder for the C-suite to review in a meeting.\n\nGod I hated that phase of my career."
+        },
+        {
+            "id": "ic9xsin",
+            "parent": "t1_ic8qchj",
+            "ans": "Is this really true? If so that makes me feel better. In my first DS job, still finishing my analytics masters, everywhere you look and eveything you read says that DS roles are about modeling. Unfortunately I\u2019ve only done one model since starting and it was to back up another analysis I was doing. I get to do a lot of a/b and statistical testing though, using Python which is nice.",
+            "score": 6,
+            "que": "The \"Data Science\" title gets thrown around alot these days because its a hot topic. But sadly managers don't understand what the differences are. \n\nProbably 1% of the people with Data Science titles actually do any modeling these days."
+        },
+        {
+            "id": "ic8qlug",
+            "parent": "t1_ic8qchj",
+            "ans": "Yes, I have to give this speech to almost anyone who asks me what I do.",
+            "score": 2,
+            "que": "The \"Data Science\" title gets thrown around alot these days because its a hot topic. But sadly managers don't understand what the differences are. \n\nProbably 1% of the people with Data Science titles actually do any modeling these days."
+        },
+        {
+            "id": "ic9kbvu",
+            "parent": "t1_ic8qchj",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "The \"Data Science\" title gets thrown around alot these days because its a hot topic. But sadly managers don't understand what the differences are. \n\nProbably 1% of the people with Data Science titles actually do any modeling these days."
+        },
+        {
+            "id": "icaiexr",
+            "parent": "t1_ic8qchj",
+            "ans": "I noticed this problem in 2018 so it's not exactly new. In fact I think it's gotten better as the data engineer role is much more common nowadays.",
+            "score": 1,
+            "que": "The \"Data Science\" title gets thrown around alot these days because its a hot topic. But sadly managers don't understand what the differences are. \n\nProbably 1% of the people with Data Science titles actually do any modeling these days."
+        },
+        {
+            "id": "ic7khx3",
+            "parent": "t1_ic7jarc",
+            "ans": "Keep applying to new jobs. Get very clear in your own mind about what you like and what you don\u2019t. Agitate with your supervisors to get some cross training; for example I got my boss to let me help with modelers. It was a smidge of experience, but it allowed me to put that on my resume. \n\nWhen you get an interview, try to ask specific questions about the position. Ask for specific answers on what your typical deliverables will be (this was a go to question for me). Basically, at the end of a project, what am I handing over to someone else? \n\nThrough questions like these, you will get a clear idea of what is out there and what you can reasonably segue into. Also, be patient. The market is hot right now. Don\u2019t be afraid to turn down a job if it doesn\u2019t seem like it\u2019s going to be the kind of work you like to do. \n\nStick with it and you\u2019ll do well.",
+            "score": 19,
+            "que": "Curious on how you did it, any advice?"
+        },
+        {
+            "id": "ic7oama",
+            "parent": "t1_ic7hran",
+            "ans": "Yeah to be honest you can sniff this stuff out in interviews if you ask about it. I\u2019ve been very careful in my career (starting eons ago when the title data scientist didn\u2019t even exist) to only accept positions that had a focus on predictive modeling. Employers can call me whatever they\u2019d like, but let me do what I do best.\n\n\nEdit: I should note that very first year of my career they wouldn\u2019t let me touch the models. I was \u2018model adjacent\u2019 in so much as I reported on them, dashboards and the like. I\u2019m actually glad I had that first year be more of an analyst role because I learned a lot about reporting and data engineering, but the whole time was agitating to be moved to the modeling group, which eventually worked.",
+            "score": 9,
+            "que": "It is INEVITABLE.\n\nI guess you could just ask very clearly what your tasks are going to be and what you don't want to do in the job interviews."
+        },
+        {
+            "id": "ic8cmdy",
+            "parent": "t1_ic7yivz",
+            "ans": "I mean like anything the problem is when you're forced to put a square leg in a round hole. It's not going to give you the same functionality as r or other tools and it wasn't really designed to.",
+            "score": 4,
+            "que": "As someone who works with it everyday, same. I feel like a significant portion of my work is just hacking the software to do things it clearly wasn't designed to do."
+        },
+        {
+            "id": "icb7pc7",
+            "parent": "t1_ic7yivz",
+            "ans": "When you have worked with tableau you know exactly how it works and what its limitations are, and then you design your dashboards around those, and never have to do hacks. \n\nThe hacks appear when you have a specific design in mind and expect Tableau to be able to reproduce that exact design without any data prep in advance",
+            "score": 1,
+            "que": "As someone who works with it everyday, same. I feel like a significant portion of my work is just hacking the software to do things it clearly wasn't designed to do."
+        },
+        {
+            "id": "ic7zp02",
+            "parent": "t1_ic7gexr",
+            "ans": "That\u2019s the hard truth. 70% if it\u2019s functionality is actually a workaround you google where some freak exploited some other functionality in an absurd way.",
+            "score": 21,
+            "que": "I don\u2019t use it too often in my role, but I\u2019m genuinely shocked at how much functionality it\u2019s lacking. As the biggest BI tool in the market you\u2019d expect it to be a little bit more functional\n\n\nI remember having to look through forums and use these crazy workarounds like invisible edges or things in the same color as background just to do some basic things"
+        },
+        {
+            "id": "ic7ijih",
+            "parent": "t1_ic7gexr",
+            "ans": "Shiny/Dash/Streamlit all day.",
+            "score": 23,
+            "que": "I don\u2019t use it too often in my role, but I\u2019m genuinely shocked at how much functionality it\u2019s lacking. As the biggest BI tool in the market you\u2019d expect it to be a little bit more functional\n\n\nI remember having to look through forums and use these crazy workarounds like invisible edges or things in the same color as background just to do some basic things"
+        },
+        {
+            "id": "ic7jiy1",
+            "parent": "t1_ic7cf8l",
+            "ans": "I like PowerBI more, but given the choice I\u2019d rather develop something with code and proper version control. Someone below mention R Shiny and Python\u2019s Dash. Either of those would be preferable.",
+            "score": 17,
+            "que": "You more of a PowerBI type of person?"
+        },
+        {
+            "id": "ic7j7j9",
+            "parent": "t1_ic7cf8l",
+            "ans": "Actually, I'm more of a \"Power bi\" person instead of a PowerBI person.",
+            "score": -11,
+            "que": "You more of a PowerBI type of person?"
+        },
+        {
+            "id": "ic83xg5",
+            "parent": "t1_ic7l4c6",
+            "ans": "Or SAS VA \ud83d\ude2d",
+            "score": 3,
+            "que": "Nobody loves Spotfire \ud83d\ude2d"
+        },
+        {
+            "id": "ic7wdzs",
+            "parent": "t1_ic7uaqz",
+            "ans": "Having very splintered categories of tasks like that is more common at larger companies that have the resources and bandwidth to accommodate niches.",
+            "score": 7,
+            "que": "I use data to build models that offer actionable insight or develop/automate new features or products. Dashboarding results is a job for bi/reporting teams. The data science function is research. Even productionization of pipelines is now a ml/data ops function. \n\nI'm happy to assist analysts, but tasks like that wouldn't be assigned to my sprints. The whole reason I taught myself to code was to get away from dashboards and reports."
+        },
+        {
+            "id": "ic7znd9",
+            "parent": "t1_ic7xixm",
+            "ans": "Yep, and increasingly the lines between analyst, data scientist, engineer, etc. are blurring because the expectation is that people have the capacity to perform multiple functions (and even levels). It's becoming a luxury to be allowed to focus on niche aspects of analytics, unless you're at the management/executive level.",
+            "score": 8,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ic84kck",
+            "parent": "t1_ic7uag3",
+            "ans": "They get to say they're hiring such that they're positioned well for the digital transformation the company is working on. They're building an innovative team of data scientists, and their boss likes the sound of that.",
+            "score": 97,
+            "que": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require."
+        },
+        {
+            "id": "ic8j75y",
+            "parent": "t1_ic7uag3",
+            "ans": "They want someone who can code in python and/or r and they know they have to pay and call it a data scientist to get that. Otherwise they get people who know basic excel but struggle beyond that.",
+            "score": 19,
+            "que": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require."
+        },
+        {
+            "id": "ic8c8d6",
+            "parent": "t1_ic7uag3",
+            "ans": "Most biz leaders don\u2019t know what they need. But analytics managers probably figure they\u2019d rather over-hire than risk a Boot Camp boi (under hiring) for when increased technical need arises.",
+            "score": 14,
+            "que": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require."
+        },
+        {
+            "id": "ic8loha",
+            "parent": "t1_ic7uag3",
+            "ans": "[deleted]",
+            "score": 12,
+            "que": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require."
+        },
+        {
+            "id": "ic8ca4y",
+            "parent": "t1_ic7uag3",
+            "ans": "I think a lot of it comes down to a disconnect between what management/HR thinks is required and what is actually needed, especially with smaller organizations where managers sometimes have to oversee roles that they don't fully understand. I've done multiple interviews where the job description required python/sql skills only to find out the actual job doesn't really involve that at all.",
+            "score": 5,
+            "que": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require."
+        },
+        {
+            "id": "icaptob",
+            "parent": "t1_ic7uag3",
+            "ans": "They don't understand the problem space and don't get that ds has to be integrated in the process to achieve success.",
+            "score": 1,
+            "que": "I really don't get what the employer gets out of that situation. The employee is going to be annoyed from day 1 and you're filtering out people that would otherwise be willing to do the actual work you require."
+        },
+        {
+            "id": "ic9s8un",
+            "parent": "t1_ic8z78j",
+            "ans": "He needed job security lol",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ic97vov",
+            "parent": "t1_ic8z78j",
+            "ans": "Lol",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "idquiox",
+            "parent": "t1_icc5rm8",
+            "ans": "I saw a job listing that was odd. The required skill list looked like this:\n\n-Excel (okay, not hard skill for DS)\n\n-Dashboards (okay, not too bad, is a part of DS, but is just visualization)\n\n-Power Bi (okay, we're going a little backwards here now)\n\n-Java (hmmm)\n\n-PowerShell (okay now hold up lol)",
+            "score": 1,
+            "que": "Disclaimer: speaking as a DA here. People that learn a set of tools for data science usually want to be doing data science things. It\u2019s very cool stuff. They\u2019ve probably spent a few years doing DA work to gain familiarity and competency to work towards DS. \n\n\nSo when they finally nab a DS role, it probably is pretty frustrating to be doing dashbording still. \n\n\nAlso if data analysts are primarily working in Excel, you don\u2019t want to work there, lol. The standard these days seems like SQL/Oracle combined with some visualization tool (there are many.)"
+        },
+        {
+            "id": "ic90i34",
+            "parent": "t1_ic8the9",
+            "ans": "Can you elaborate a bit more on this?",
+            "score": 6,
+            "que": "IT. IT is what happened to self-service.\n\nThere\u2019s a major communication, skills and expectation gap that eroding the field.\n\nIt may be my personal bias and projection on the matter but incompetent IT has been the sore thumb."
+        },
+        {
+            "id": "ica1b9a",
+            "parent": "t1_ic8the9",
+            "ans": "Interesting, I've seen the issue being with managers or directors thinking self service tools like tableau being outside their job description. In this situation we didn't have analysts and I'm guessing your referring more to IT analysts?",
+            "score": 2,
+            "que": "IT. IT is what happened to self-service.\n\nThere\u2019s a major communication, skills and expectation gap that eroding the field.\n\nIt may be my personal bias and projection on the matter but incompetent IT has been the sore thumb."
+        },
+        {
+            "id": "ic8ajb8",
+            "parent": "t1_ic7p3gt",
+            "ans": "You don\u2019t need the Microsoft suite for Power Bi. Although it may be cheaper to share pbi reports if you do have a Microsoft suite.",
+            "score": 8,
+            "que": "I will remember that if I ever go back to microsoft suite."
+        },
+        {
+            "id": "ic8a53x",
+            "parent": "t1_ic88s2n",
+            "ans": "Oh, I'm not claiming it's fun either. Most of my experience using PBI was 90% Stackover flow and 10% PBI.\n\nBut since the commenter was stuck in a role that had him make excel sheet dashboards. He might as well do it in power bi to get a resume booster. My company loved the fact that a refresh just involved feeding it new data instead of having to copy and paste new data over old data in the dashboard excel file. That alone was enough of a selling point.",
+            "score": 8,
+            "que": "I know that it depends on people but for me PBI is still not the mountain of fun\n\nAnd it is kind of boring to do that when you expected to do actual DS !"
+        },
+        {
+            "id": "ic8en9e",
+            "parent": "t1_ic8a8de",
+            "ans": "In my company tableau was the dominant visualization tool, however there's been a big push towards power bi. We have the infrastructure set up, and some teams do use it. The challenge is we have tons of reports still written and tableau and the majority of our analysts visualization skills are in tableau.\n\nMy new job is a power bi shop, so I'll be spending the next two weeks learning that tool.",
+            "score": 3,
+            "que": "Good tip only if your employer is willing to invest either in the infrastructure to support Power BI Report server (in house option to pbi service for a company to host their pbi reports) or spend money on pbi service licenses (or both on many cases).  It\u2019s easy to use power bi to develop dashboards. It\u2019s friggin powerful. But unless an enterprise has the infrastructure or willingness to get what they need to SHARE these reports, pbi may not be an ideal option. For smaller share circles though, sharing a pbix may be an option but a big no no (exception, only when you must, and when u do, ensure you\u2019re following all required data privacy protocols). Anyways, great tip nonetheless. Peace and blessings mate."
+        },
+        {
+            "id": "ica957u",
+            "parent": "t1_ic9xsin",
+            "ans": "My experience has been that people don\u2019t ask you to build models, but they ask you to do analysis and research in which models can be useful tools. FWIW I just left a role where I got to build lots of models that no one ever used because of managerial ineptitude. I\u2019d rather build a pretty dashboard that everyone likes and be on time for daycare pickup.",
+            "score": 5,
+            "que": "Is this really true? If so that makes me feel better. In my first DS job, still finishing my analytics masters, everywhere you look and eveything you read says that DS roles are about modeling. Unfortunately I\u2019ve only done one model since starting and it was to back up another analysis I was doing. I get to do a lot of a/b and statistical testing though, using Python which is nice."
+        },
+        {
+            "id": "ica9ouc",
+            "parent": "t1_ic9kbvu",
+            "ans": "those people are statisticians",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ic7lbai",
+            "parent": "t1_ic7khx3",
+            "ans": "Awesome, thanks for the advice. I just took a new job (want to stick around for a year to ensure I get bonus + relocation for free) which I am finding now more and more will be mostly BI and light data engineering. I plan to spend the year using my free time to do MOOCs and make personal projects (I have the math and stats background, just need more of the coding chops for a portfolio). Any advice/wisdom/chance to talk is always big for me :).",
+            "score": 1,
+            "que": "Keep applying to new jobs. Get very clear in your own mind about what you like and what you don\u2019t. Agitate with your supervisors to get some cross training; for example I got my boss to let me help with modelers. It was a smidge of experience, but it allowed me to put that on my resume. \n\nWhen you get an interview, try to ask specific questions about the position. Ask for specific answers on what your typical deliverables will be (this was a go to question for me). Basically, at the end of a project, what am I handing over to someone else? \n\nThrough questions like these, you will get a clear idea of what is out there and what you can reasonably segue into. Also, be patient. The market is hot right now. Don\u2019t be afraid to turn down a job if it doesn\u2019t seem like it\u2019s going to be the kind of work you like to do. \n\nStick with it and you\u2019ll do well."
+        },
+        {
+            "id": "ic8lfo8",
+            "parent": "t1_ic7zp02",
+            "ans": "My old boss saw this and thought to himself \"if it cant be done in tableau then it's not because it cant be done but because we arent googling the problem hard enough.\"\n\nNo. Tableau is just limited.",
+            "score": 5,
+            "que": "That\u2019s the hard truth. 70% if it\u2019s functionality is actually a workaround you google where some freak exploited some other functionality in an absurd way."
+        },
+        {
+            "id": "ic8vy2f",
+            "parent": "t1_ic7ijih",
+            "ans": "Do you know if streamlit needs instance management in deployment? As far as I know you need one instance spun up for each dashboard user.",
+            "score": 2,
+            "que": "Shiny/Dash/Streamlit all day."
+        },
+        {
+            "id": "ic7wn68",
+            "parent": "t1_ic7jiy1",
+            "ans": "If I wanted to find out more about python dash, where would I do so?",
+            "score": 3,
+            "que": "I like PowerBI more, but given the choice I\u2019d rather develop something with code and proper version control. Someone below mention R Shiny and Python\u2019s Dash. Either of those would be preferable."
+        },
+        {
+            "id": "ic8yyka",
+            "parent": "t1_ic7jiy1",
+            "ans": "Not to mention that Shiny (and Dash) allows one to create any kind of content.\n\nI want to introduce Shiny to my workplace but the main issue is having them being able to use it. They go heavy on Microsoft products so pBI is easy to share. But something on Shiny ? Will be hard\n\nAlso damn, it's ok to create some dashboard but I don't even have the time to create some model/stuff I have in mind because they don't even realise what they are missing.",
+            "score": 2,
+            "que": "I like PowerBI more, but given the choice I\u2019d rather develop something with code and proper version control. Someone below mention R Shiny and Python\u2019s Dash. Either of those would be preferable."
+        },
+        {
+            "id": "ic8arsz",
+            "parent": "t1_ic7jiy1",
+            "ans": "Just an option - One can use azure devops integrated with GitHub repos to do version control for pbi.",
+            "score": 1,
+            "que": "I like PowerBI more, but given the choice I\u2019d rather develop something with code and proper version control. Someone below mention R Shiny and Python\u2019s Dash. Either of those would be preferable."
+        },
+        {
+            "id": "ic88fyv",
+            "parent": "t1_ic83xg5",
+            "ans": "Don't you mean PROC SOB?",
+            "score": 4,
+            "que": "Or SAS VA \ud83d\ude2d"
+        },
+        {
+            "id": "ic86d5t",
+            "parent": "t1_ic84kck",
+            "ans": "Still, the job listing can at least outline what the job actually requires and what's preferred. Some people would be fine with working on dashboards and wouldn't be applying to new jobs after the first 2 days. The employer can dress up the title as much as they'd like.",
+            "score": 8,
+            "que": "They get to say they're hiring such that they're positioned well for the digital transformation the company is working on. They're building an innovative team of data scientists, and their boss likes the sound of that."
+        },
+        {
+            "id": "icb4o1z",
+            "parent": "t1_ic84kck",
+            "ans": "Precisely and it takes other forms too. Other than duties, it can be not giving sufficient resources or support.",
+            "score": 2,
+            "que": "They get to say they're hiring such that they're positioned well for the digital transformation the company is working on. They're building an innovative team of data scientists, and their boss likes the sound of that."
+        },
+        {
+            "id": "id1ih40",
+            "parent": "t1_ic84kck",
+            "ans": "Sometimes their aspirations are also vastly out of alignment with the orgs current maturity",
+            "score": 1,
+            "que": "They get to say they're hiring such that they're positioned well for the digital transformation the company is working on. They're building an innovative team of data scientists, and their boss likes the sound of that."
+        },
+        {
+            "id": "ic9524q",
+            "parent": "t1_ic8j75y",
+            "ans": "I second this. Even if you write it like this, seven out of ten applicants can\u2019t properly spell their own name, two would be overqualified and bored, #ten may be a hit and if you\u2019re (s)he doesn\u2019t get rehired by a headhunter two positions above skillset.",
+            "score": 13,
+            "que": "They want someone who can code in python and/or r and they know they have to pay and call it a data scientist to get that. Otherwise they get people who know basic excel but struggle beyond that."
+        },
+        {
+            "id": "ic9fzvi",
+            "parent": "t1_ic8j75y",
+            "ans": "I dunno, I hire people onto Analyst titles all the time with R and Python and they're good at it.",
+            "score": 5,
+            "que": "They want someone who can code in python and/or r and they know they have to pay and call it a data scientist to get that. Otherwise they get people who know basic excel but struggle beyond that."
+        },
+        {
+            "id": "ic8p1bi",
+            "parent": "t1_ic8c8d6",
+            "ans": "Very much the case for me.",
+            "score": 4,
+            "que": "Most biz leaders don\u2019t know what they need. But analytics managers probably figure they\u2019d rather over-hire than risk a Boot Camp boi (under hiring) for when increased technical need arises."
+        },
+        {
+            "id": "ic9a5vt",
+            "parent": "t1_ic8loha",
+            "ans": "All of the above and \"welcome to EDA hell\"",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ica42tb",
+            "parent": "t1_ic9s8un",
+            "ans": "Yup. 4d chess master right there.",
+            "score": 6,
+            "que": "He needed job security lol"
+        },
+        {
+            "id": "ic9ajjt",
+            "parent": "t1_ic90i34",
+            "ans": "Allow me to elaborate in a Socratic fashion:\n\nWhat department does Data Science belong under? Business or IT? How did you figure your answer?",
+            "score": 9,
+            "que": "Can you elaborate a bit more on this?"
+        },
+        {
+            "id": "ica25lm",
+            "parent": "t1_ica1b9a",
+            "ans": "In general. I\u2019ll oppose one bit to your comment to say Tableau **is** a BI and Data Science suite of tools\u2014when configured to be and utilized at full throttle. It takes a certain level of skill and governance.\n\nThat\u2019s what I mean by a deficiency from IT departments in supporting a self service model. If the access, permissions and infrastructure aren\u2019t there\u2014for whatever reason\u2014it needs to be addressed across the aisle to make it so.",
+            "score": 3,
+            "que": "Interesting, I've seen the issue being with managers or directors thinking self service tools like tableau being outside their job description. In this situation we didn't have analysts and I'm guessing your referring more to IT analysts?"
+        },
+        {
+            "id": "icbfw3l",
+            "parent": "t1_ic8a53x",
+            "ans": "Agreed with that but if I was in his position I would just leave. \n\nIn fact I am quite stuck with PBI instead of DS and I'll be gone soon.",
+            "score": 1,
+            "que": "Oh, I'm not claiming it's fun either. Most of my experience using PBI was 90% Stackover flow and 10% PBI.\n\nBut since the commenter was stuck in a role that had him make excel sheet dashboards. He might as well do it in power bi to get a resume booster. My company loved the fact that a refresh just involved feeding it new data instead of having to copy and paste new data over old data in the dashboard excel file. That alone was enough of a selling point."
+        },
+        {
+            "id": "ic8kbn7",
+            "parent": "t1_ic8en9e",
+            "ans": "Very similar situation somewhere i worked previously. They were forced to migrate all Tableau reports (that were possible to switch, after assessment) to PBI. This was over a hundred reports. It took over 1 year to get close to the finishing line when i left. With that push, came a push to develop PBI skills, get PL-300 certified, etc. What also helped were internal resources, like sort of thought leadership people who created internal social media groups, recorded videos, weekly calls to go over issues, etc. So the internal learning resources available were top notch. I think this was key, in addition to having Tableau developers that were willing to try something new and not be afraid. It seems there's been a huge push by many Enterprises to switch to PBI. It's more flexible and more powerful than Tableau, which is mainly viz, while PBI has power query and other neat features. Although a platform always depends on the context of course.",
+            "score": 2,
+            "que": "In my company tableau was the dominant visualization tool, however there's been a big push towards power bi. We have the infrastructure set up, and some teams do use it. The challenge is we have tons of reports still written and tableau and the majority of our analysts visualization skills are in tableau.\n\nMy new job is a power bi shop, so I'll be spending the next two weeks learning that tool."
+        },
+        {
+            "id": "ic7lws6",
+            "parent": "t1_ic7lbai",
+            "ans": "I think you\u2019ve got the right idea. I did a lot of training on my own too, primarily with Python. \n\nA year is a good time frame. I stuck with mine for two years, though I started seriously interviewing for other roles at about a year and a half. I didn\u2019t start getting real responses until I got close to the two year mark as a data analyst, and I have often wondered if that was more than a coincidence.",
+            "score": 2,
+            "que": "Awesome, thanks for the advice. I just took a new job (want to stick around for a year to ensure I get bonus + relocation for free) which I am finding now more and more will be mostly BI and light data engineering. I plan to spend the year using my free time to do MOOCs and make personal projects (I have the math and stats background, just need more of the coding chops for a portfolio). Any advice/wisdom/chance to talk is always big for me :)."
+        },
+        {
+            "id": "id5vstb",
+            "parent": "t1_ic8vy2f",
+            "ans": "No streamlit handles multiple users in a single instance just fine nowadays.",
+            "score": 2,
+            "que": "Do you know if streamlit needs instance management in deployment? As far as I know you need one instance spun up for each dashboard user."
+        },
+        {
+            "id": "ic89j5k",
+            "parent": "t1_ic88fyv",
+            "ans": "Lmao",
+            "score": 2,
+            "que": "Don't you mean PROC SOB?"
+        },
+        {
+            "id": "ic8jdd3",
+            "parent": "t1_ic86d5t",
+            "ans": "Hr probably wrote the data scientist job post and requires them to be similar across the organization regardless of a specific roles responsibilities.",
+            "score": 15,
+            "que": "Still, the job listing can at least outline what the job actually requires and what's preferred. Some people would be fine with working on dashboards and wouldn't be applying to new jobs after the first 2 days. The employer can dress up the title as much as they'd like."
+        },
+        {
+            "id": "ic9x5ng",
+            "parent": "t1_ic86d5t",
+            "ans": "Shouldn't the candidate be asking probing questions in the interview to determine whether they are actually interested in the job?",
+            "score": 1,
+            "que": "Still, the job listing can at least outline what the job actually requires and what's preferred. Some people would be fine with working on dashboards and wouldn't be applying to new jobs after the first 2 days. The employer can dress up the title as much as they'd like."
+        },
+        {
+            "id": "icapaql",
+            "parent": "t1_ic86d5t",
+            "ans": "So many assumptions that people know what other people do.\n\nThey don\u2019t.",
+            "score": 1,
+            "que": "Still, the job listing can at least outline what the job actually requires and what's preferred. Some people would be fine with working on dashboards and wouldn't be applying to new jobs after the first 2 days. The employer can dress up the title as much as they'd like."
+        },
+        {
+            "id": "ica7iq7",
+            "parent": "t1_ic9524q",
+            "ans": "DS is a second career for me. I did night classes while pregnant and got my first DS job during maternity leave. My kid is 3.5 and I\u2019ve got a senior DS role in a chill company. I\u2019ll do as much dashboarding and sql as they want, and I\u2019ll build models and code in Python as needed. I think I\u2019m a glorified analyst most days but that\u2019s fine with me. \n\nThe interview was super culture and fit focused - they really did not want someone who would feel bored or stymied in this role. They said 50 other people interviewed. I think you\u2019re exactly right that most people who can do this job wouldn\u2019t want to.",
+            "score": 10,
+            "que": "I second this. Even if you write it like this, seven out of ten applicants can\u2019t properly spell their own name, two would be overqualified and bored, #ten may be a hit and if you\u2019re (s)he doesn\u2019t get rehired by a headhunter two positions above skillset."
+        },
+        {
+            "id": "ic9fryy",
+            "parent": "t1_ic9ajjt",
+            "ans": "Business? I mean data science should try to solve business problems.",
+            "score": 3,
+            "que": "Allow me to elaborate in a Socratic fashion:\n\nWhat department does Data Science belong under? Business or IT? How did you figure your answer?"
+        },
+        {
+            "id": "ica3e6z",
+            "parent": "t1_ica25lm",
+            "ans": "I agree with this. Tableau is a BI tool, you got me there but there is no reason to have developers, database teams, data warehouse developers work with it other then as a last line of support. The BI technical team should be creating the data wearhouse, the data cube and the calculations that go along with it. Then technical analysts or low level BI Developers use that cube (and/or tables directly) to build datasets, kpis and etc.  Finally, general analysts build dashboards using those datasets and KPIs. It's all controlled with permissions based on your title. \n\nSo basically a long way of saying yes I agree.",
+            "score": 2,
+            "que": "In general. I\u2019ll oppose one bit to your comment to say Tableau **is** a BI and Data Science suite of tools\u2014when configured to be and utilized at full throttle. It takes a certain level of skill and governance.\n\nThat\u2019s what I mean by a deficiency from IT departments in supporting a self service model. If the access, permissions and infrastructure aren\u2019t there\u2014for whatever reason\u2014it needs to be addressed across the aisle to make it so."
+        },
+        {
+            "id": "ic7m7hc",
+            "parent": "t1_ic7lws6",
+            "ans": "What type of training did you do (very curious on projects/courses you found more helpful)? Luckily I have a background as an analyst in more of an academic/economic capacity, so using statistical programming software (not R :'[)to write code. Now I just jumped over to a large tech firm doing BI/analyst work.",
+            "score": 1,
+            "que": "I think you\u2019ve got the right idea. I did a lot of training on my own too, primarily with Python. \n\nA year is a good time frame. I stuck with mine for two years, though I started seriously interviewing for other roles at about a year and a half. I didn\u2019t start getting real responses until I got close to the two year mark as a data analyst, and I have often wondered if that was more than a coincidence."
+        },
+        {
+            "id": "ic92jp4",
+            "parent": "t1_ic8jdd3",
+            "ans": "The \"if one of you leaves you'll need to know how to do their job anyway\" special",
+            "score": 5,
+            "que": "Hr probably wrote the data scientist job post and requires them to be similar across the organization regardless of a specific roles responsibilities."
+        },
+        {
+            "id": "ic9ybvj",
+            "parent": "t1_ic9x5ng",
+            "ans": "What? If they\u2019re lying in the job listing they\u2019ll lie when describing the job too.",
+            "score": 5,
+            "que": "Shouldn't the candidate be asking probing questions in the interview to determine whether they are actually interested in the job?"
+        },
+        {
+            "id": "icai546",
+            "parent": "t1_ica7iq7",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "DS is a second career for me. I did night classes while pregnant and got my first DS job during maternity leave. My kid is 3.5 and I\u2019ve got a senior DS role in a chill company. I\u2019ll do as much dashboarding and sql as they want, and I\u2019ll build models and code in Python as needed. I think I\u2019m a glorified analyst most days but that\u2019s fine with me. \n\nThe interview was super culture and fit focused - they really did not want someone who would feel bored or stymied in this role. They said 50 other people interviewed. I think you\u2019re exactly right that most people who can do this job wouldn\u2019t want to."
+        },
+        {
+            "id": "icbh7bl",
+            "parent": "t1_ica7iq7",
+            "ans": "what was your first career if you don't mind me asking?",
+            "score": 2,
+            "que": "DS is a second career for me. I did night classes while pregnant and got my first DS job during maternity leave. My kid is 3.5 and I\u2019ve got a senior DS role in a chill company. I\u2019ll do as much dashboarding and sql as they want, and I\u2019ll build models and code in Python as needed. I think I\u2019m a glorified analyst most days but that\u2019s fine with me. \n\nThe interview was super culture and fit focused - they really did not want someone who would feel bored or stymied in this role. They said 50 other people interviewed. I think you\u2019re exactly right that most people who can do this job wouldn\u2019t want to."
+        },
+        {
+            "id": "ic9gwip",
+            "parent": "t1_ic9fryy",
+            "ans": "Splendid. *With what tools?*\n\nAll me to jump a few steps: Are you currently engaging data science and strategies with an abacus, pencils and paper??\n\nMore than likely not (despite the idea I can, have and will perform data science on butcher paper with fat tip markers, LOL).\n\nThe speed of our tools is outpacing the bureaucracy and skills of general IT departments. Take keen notice I said general\u2014specialized IT groups and OUs exist and are great partners to the business\u2026with an \u201coutrageous\u201d cost.\n\n\u201cOutrageous\u201d because with the wrong leadership, IT and other MSP services can fleece the business QUICKLY.\n\nThere\u2019s a bridge. And until that bridge is built, repaired and maintained\u2014self-service reporting is an after after thought.",
+            "score": 13,
+            "que": "Business? I mean data science should try to solve business problems."
+        },
+        {
+            "id": "ic7mus1",
+            "parent": "t1_ic7m7hc",
+            "ans": "I started with the basics and then I started looking for projects to build. Simple stuff like blackjack simulators and fractal generators. Ultimately code is used for doing things, so I feel it only sticks if you use it to do something. \n\nAnd which language you use will depend on the jobs/industry you want to break into. I got into Fintech, so Python Pandas was the thing to learn. Luckily, a lot of analyst positions just need you to be familiar with code, not a total whizz. Analyst is a lot about communication and problem solving.",
+            "score": 3,
+            "que": "What type of training did you do (very curious on projects/courses you found more helpful)? Luckily I have a background as an analyst in more of an academic/economic capacity, so using statistical programming software (not R :'[)to write code. Now I just jumped over to a large tech firm doing BI/analyst work."
+        },
+        {
+            "id": "icbn1g2",
+            "parent": "t1_icai546",
+            "ans": "I hope you can find that place :-)",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "icbmiox",
+            "parent": "t1_icbh7bl",
+            "ans": "Wind energy analyst, so I had a masters in science and a stats/research background that translated well.",
+            "score": 2,
+            "que": "what was your first career if you don't mind me asking?"
+        },
+        {
+            "id": "ica24qf",
+            "parent": "t1_ic9gwip",
+            "ans": "The bridge is called a data warehouse & data cube behind tableau. Depending on your title you get different levels of permissions to tableau. Some can only see dashboards, some can create dashboards with field and kpis that have already been built, some can combine and work with multiple datasets and etc. Requests go all the way through that chain before IT and the data/database team get involved.",
+            "score": 5,
+            "que": "Splendid. *With what tools?*\n\nAll me to jump a few steps: Are you currently engaging data science and strategies with an abacus, pencils and paper??\n\nMore than likely not (despite the idea I can, have and will perform data science on butcher paper with fat tip markers, LOL).\n\nThe speed of our tools is outpacing the bureaucracy and skills of general IT departments. Take keen notice I said general\u2014specialized IT groups and OUs exist and are great partners to the business\u2026with an \u201coutrageous\u201d cost.\n\n\u201cOutrageous\u201d because with the wrong leadership, IT and other MSP services can fleece the business QUICKLY.\n\nThere\u2019s a bridge. And until that bridge is built, repaired and maintained\u2014self-service reporting is an after after thought."
+        },
+        {
+            "id": "icd1f3x",
+            "parent": "t1_ic9gwip",
+            "ans": "This is the entire issue with my company. We need to go through IT to do anything DDL related and unless we do everything short of a commit statement, they don\u2019t know what the hell to do. We asked for indexing and they added an index to every column.\nThere is one competent data engineer in IT and they always have him teaching seminars on how to use Tableau Prep to avoid writing queries.",
+            "score": 2,
+            "que": "Splendid. *With what tools?*\n\nAll me to jump a few steps: Are you currently engaging data science and strategies with an abacus, pencils and paper??\n\nMore than likely not (despite the idea I can, have and will perform data science on butcher paper with fat tip markers, LOL).\n\nThe speed of our tools is outpacing the bureaucracy and skills of general IT departments. Take keen notice I said general\u2014specialized IT groups and OUs exist and are great partners to the business\u2026with an \u201coutrageous\u201d cost.\n\n\u201cOutrageous\u201d because with the wrong leadership, IT and other MSP services can fleece the business QUICKLY.\n\nThere\u2019s a bridge. And until that bridge is built, repaired and maintained\u2014self-service reporting is an after after thought."
+        },
+        {
+            "id": "ic7n36i",
+            "parent": "t1_ic7mus1",
+            "ans": "Awesome, thanks for the impromptu advice, it really made my day :).",
+            "score": 2,
+            "que": "I started with the basics and then I started looking for projects to build. Simple stuff like blackjack simulators and fractal generators. Ultimately code is used for doing things, so I feel it only sticks if you use it to do something. \n\nAnd which language you use will depend on the jobs/industry you want to break into. I got into Fintech, so Python Pandas was the thing to learn. Luckily, a lot of analyst positions just need you to be familiar with code, not a total whizz. Analyst is a lot about communication and problem solving."
+        },
+        {
+            "id": "icbn1bn",
+            "parent": "t1_icbmiox",
+            "ans": "Thanks. I asked because I am looking forward to switch to DS as well. From DA role.",
+            "score": 1,
+            "que": "Wind energy analyst, so I had a masters in science and a stats/research background that translated well."
+        },
+        {
+            "id": "ica2ekt",
+            "parent": "t1_ica24qf",
+            "ans": "Not in all shops.\n\nAnd if the infrastructure isn\u2019t there for a \u201cnormal\u201d business user to skillfully report, it has to be created and maintained.",
+            "score": 4,
+            "que": "The bridge is called a data warehouse & data cube behind tableau. Depending on your title you get different levels of permissions to tableau. Some can only see dashboards, some can create dashboards with field and kpis that have already been built, some can combine and work with multiple datasets and etc. Requests go all the way through that chain before IT and the data/database team get involved."
+        },
+        {
+            "id": "idqx17y",
+            "parent": "t1_icd1f3x",
+            "ans": "This is what happens when management has no idea what the difference is between IT, DS, and SWE. No offense to IT people, but the bar has been set so low to work in IT, and it has been going lower over time. No background in CompSci, but got a cisco/IT cert or two? Bam, Director of IT material right there. Now you have a dude with zero knowledge or understanding of DS/SWE who's now in charge of deciding what the DS/SWE folks are allowed to do, which winds up being zilch.\n\nAt one place I worked at, the Director of IT was a former cheerleading coach with zero technical background other than a single IT cert from a for-profit school. Even better, the database administrator was a former Avon rep with no degree and no tech skills. They both got the jobs because of family connections to upper management, but both severely hindered and harmed the work and productivity of the actual software folks. The Avon girl spent 100% of her time on the phone with database tech support people, and she even once crashed the entire company's system lmao. The Director of IT didn't know what a BIOS was. Hell yes I quit that place a few weeks later, what a joke.\n\nI know my IRL example is extreme, but my point is, IT Depts should not be allowed to dictate the work of DS/SWE folks. If that's what companies believe in doing, however, then it's time the bar to work in IT be set way higher. Perhaps, IT jobs should require BS degrees in CompSci or above, at the minimum, because I haven't yet met an IT person who was competent.",
+            "score": 3,
+            "que": "This is the entire issue with my company. We need to go through IT to do anything DDL related and unless we do everything short of a commit statement, they don\u2019t know what the hell to do. We asked for indexing and they added an index to every column.\nThere is one competent data engineer in IT and they always have him teaching seminars on how to use Tableau Prep to avoid writing queries."
+        },
+        {
+            "id": "ic7pmg8",
+            "parent": "t1_ic7n36i",
+            "ans": "Glad I could help. Good luck",
+            "score": 2,
+            "que": "Awesome, thanks for the impromptu advice, it really made my day :)."
+        },
+        {
+            "id": "ica9oye",
+            "parent": "t1_ica2ekt",
+            "ans": "This is why I always request the most powerful machine they\u2019ll give me and root access. I\u2019ve only been in DS for 4 years but I\u2019ve been rolling my own with a Linux command line since 2008, and that\u2019s my most transferable set of skills after being able to ELI5.",
+            "score": 4,
+            "que": "Not in all shops.\n\nAnd if the infrastructure isn\u2019t there for a \u201cnormal\u201d business user to skillfully report, it has to be created and maintained."
+        },
+        {
+            "id": "icaa1kj",
+            "parent": "t1_ica9oye",
+            "ans": "I DIG. Go 1.00 or go home.\n\nI maintain a similar strategy for independent contracts. It\u2019s the only way not to be in meetings about meetings to literally click a checkbox.",
+            "score": 2,
+            "que": "This is why I always request the most powerful machine they\u2019ll give me and root access. I\u2019ve only been in DS for 4 years but I\u2019ve been rolling my own with a Linux command line since 2008, and that\u2019s my most transferable set of skills after being able to ELI5."
+        }
+    ]
+}

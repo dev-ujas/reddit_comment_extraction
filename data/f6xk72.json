@@ -1,0 +1,834 @@
+{
+    "title": "For any python & pandas users out there, here's a free tool to visualize your dataframes",
+    "id": "f6xk72",
+    "create_at": 1582224233.0,
+    "score": 2247,
+    "comments": [
+        {
+            "id": "fi8kpiu",
+            "parent": "t1_fi7si0l",
+            "ans": "Definitely a tool that smooths the transition! I say as someone transitioning painfully now \ud83d\ude05",
+            "score": 19,
+            "que": "This is low key freaking AMAZING as someone coming from an excel background"
+        },
+        {
+            "id": "fi80f8g",
+            "parent": "t1_fi7obzm",
+            "ans": "[deleted]",
+            "score": 37,
+            "que": "Sorry for posting this information late.\n\nThe name of this tool is D-Tale (\"Data Tale\" or \"The Tale of your Data\").  Please submit any requests or issues on our [github](https://github.com/man-group/dtale)\n\nInteractive demo available [here](http://andrewschonfeld.pythonanywhere.com/)\n\nThanks and hope you enjoy!"
+        },
+        {
+            "id": "fi9rdtw",
+            "parent": "t1_fi7obzm",
+            "ans": "Have my star and fav",
+            "score": 3,
+            "que": "Sorry for posting this information late.\n\nThe name of this tool is D-Tale (\"Data Tale\" or \"The Tale of your Data\").  Please submit any requests or issues on our [github](https://github.com/man-group/dtale)\n\nInteractive demo available [here](http://andrewschonfeld.pythonanywhere.com/)\n\nThanks and hope you enjoy!"
+        },
+        {
+            "id": "fi7odye",
+            "parent": "t1_fi7o03a",
+            "ans": "Sorry about that, just posted the information for the github and where to play with the demo. :)",
+            "score": 4,
+            "que": "Can you write here what's the tool name? Thx."
+        },
+        {
+            "id": "fi7wuf0",
+            "parent": "t1_fi7vxta",
+            "ans": "If you open a python console or a debug session within VSCode you should be able to run something like the following:  \n`import dtale; dtale.show([insert pandas object here])`\n\nThis will return a URL which you can view in your browser. Once you close your session or after an hour of inactivity (whichever comes first) D-Tale will clean itself up.",
+            "score": 16,
+            "que": "Does this work with vscode?"
+        },
+        {
+            "id": "fi8q58i",
+            "parent": "t1_fi8pjx7",
+            "ans": "Hearing stuff like that makes it all worthwhile.  Make sure they go to the repo and add a \u2b50\ufe0f\n\n\ud83d\ude09",
+            "score": 18,
+            "que": "Thank you for this! I\u2019m a teaching assistant for a data analytics bootcamp at a university and I\u2019m going to have my students use this tool"
+        },
+        {
+            "id": "fi8byt2",
+            "parent": "t1_fi8beq4",
+            "ans": "The base case I was testing when I started building it was 1.5 million rows/200 columns with no issue.  The amount of data is more up to how much power your machine has.  The browser will only render how many cells can be painted based on dimensions of your window.\n\nI do think performance does degrade a little when you have a really wide dataframe (lots of columns).  I hit some lagginess when I loaded 700+ columns",
+            "score": 23,
+            "que": "How much data can this handle? Hundreds of thousands of rows and hundreds of columns at once?"
+        },
+        {
+            "id": "fia6ap4",
+            "parent": "t1_fi8beq4",
+            "ans": "thanks came to ask this",
+            "score": 2,
+            "que": "How much data can this handle? Hundreds of thousands of rows and hundreds of columns at once?"
+        },
+        {
+            "id": "fi8ggvp",
+            "parent": "t1_fi8f1p4",
+            "ans": "Unfortunately no, but i did see there is a package for loading R data into python\n\n\nhttp://blog.yhat.com/tutorials/rpy2-combing-the-power-of-r-and-python.html\n\nYou can try using that and loading your data in through that and wrapping it in a pandas dataframe and passing it to D-Tale.  Honestly, thinking about it I might create a custom CLI loader for it \ud83e\udd14",
+            "score": 3,
+            "que": "Sorry if this is a stupid question. Would this package also be available in R ? Not that I'd pick R over Python however I have a class in which I have to do some heavy data wrangling in R and this package or something similar would be really useful."
+        },
+        {
+            "id": "fi9ghuk",
+            "parent": "t1_fi8f1p4",
+            "ans": "Check out radiant. It's a fantastic tool https://radiant-rstats.github.io/docs/",
+            "score": 3,
+            "que": "Sorry if this is a stupid question. Would this package also be available in R ? Not that I'd pick R over Python however I have a class in which I have to do some heavy data wrangling in R and this package or something similar would be really useful."
+        },
+        {
+            "id": "fjsa51t",
+            "parent": "t1_fi8f1p4",
+            "ans": "I managed to get it working with [reticulate](https://github.com/man-group/dtale#r-with-reticulate)  \n\n\nI do plan on trying to get it to allow users to load R datasets into thru the use of rpy2",
+            "score": 2,
+            "que": "Sorry if this is a stupid question. Would this package also be available in R ? Not that I'd pick R over Python however I have a class in which I have to do some heavy data wrangling in R and this package or something similar would be really useful."
+        },
+        {
+            "id": "fialgia",
+            "parent": "t1_fi8f1p4",
+            "ans": "I don't think there's anything as comprehensive as this, but if you use Rstudio, you can use `View(df)`to see your data, and you can use this Rstudio add-in to interactively build some types of plots: https://github.com/dreamRs/esqisse",
+            "score": 1,
+            "que": "Sorry if this is a stupid question. Would this package also be available in R ? Not that I'd pick R over Python however I have a class in which I have to do some heavy data wrangling in R and this package or something similar would be really useful."
+        },
+        {
+            "id": "fi9030k",
+            "parent": "t1_fi8zzyq",
+            "ans": "Glad you asked.  We just had some nice folks add it to conda-forge\n\n\nhttps://github.com/conda-forge/dtale-feedstock",
+            "score": 6,
+            "que": "Is there an easy way to install this with anaconda? My work is very picky about which packages we can download unfortunately and does not play nice with anything that requires admin privileges."
+        },
+        {
+            "id": "fi80g98",
+            "parent": "t1_fi7y8c6",
+            "ans": "If you have dtale installed in your python environment and a python build system set up, yeah.   Just throw in some code like this:\n\n    import pandas as pd\n    import dtale\n    \n    df = <...whatever you do to get your dataframe...>\n    dtale.show(df, open_browser=True, subprocess=False)\n\nand then when you run/build that script it'll start up an instance in your browser",
+            "score": 10,
+            "que": "Hmmm can I use this on sublime text? Maybe install it as a package?"
+        },
+        {
+            "id": "fi7zth6",
+            "parent": "t1_fi7y8c6",
+            "ans": "Unfortunately I develop on PyCharm, but just like the VSCode user I would assume that there is some way to run a python console from within Sublime and then you'll be able to run something like the following:  \nimport dtale; dtale.show(\\[insert pandas object here\\])\n\nThis will return a URL which you can view in your browser. Once you close your session or after an hour of inactivity (whichever comes first) D-Tale will clean itself up.",
+            "score": 9,
+            "que": "Hmmm can I use this on sublime text? Maybe install it as a package?"
+        },
+        {
+            "id": "fi858x8",
+            "parent": "t1_fi84ht8",
+            "ans": "This is only for python unfortunately but if you had the time to install python you could try exporting your R data to CSV or JSON and use the command line options to load it into D-Tale: [CLI options](https://github.com/man-group/dtale#command-line)\n\nSorry I still need to add the documentation on how to use the JSON options",
+            "score": 4,
+            "que": "Could this be launched in RStudio using reticulate?"
+        },
+        {
+            "id": "fi8p15h",
+            "parent": "t1_fi8okkb",
+            "ans": "The base case I was testing when I started building it was 1.5 million rows/200 columns with no issue.  The amount of data is more up to how much power your machine has.  The browser will only render how many cells can be painted based on dimensions of your window.\n\nI do think performance does degrade a little when you have a really wide dataframe (lots of columns).  I hit some lagginess when I loaded 700+ columns",
+            "score": 6,
+            "que": "This is awesome!!! Does it perform well with large dataframes? Say around 2 million records?"
+        },
+        {
+            "id": "fi9scer",
+            "parent": "t1_fi9bsnr",
+            "ans": "If you\u2019re working in a jupyter notebook or python console you can save your D-Tale in a variable:\n\nd = dtale.show(df)\n\nThen if you want to change your data later on you do:\n\nd.data = new_df\n\nor if you\u2019re stacking timeseries data:\n\nd.data = pd.concat([d.data, new_df])\n\nAnd then just refresh your browser or if you\u2019re in an ipython cell go to the menu in the upper lefthand corner and click \u201crefresh\u201d",
+            "score": 2,
+            "que": "First of all, nice work and thank you & you\u2019re team for sharing.  Secondly, would this work for displaying a dataframe that is being added to? I noticed \u201cSecurity X\u201d in the video, I\u2019m curious if I could leave this window open and watch as say trade results come in to analyze each individually, as the backtest runs?"
+        },
+        {
+            "id": "fi9sdtm",
+            "parent": "t1_fi9czvr",
+            "ans": "The base case I was testing when I started building it was 1.5 million rows/200 columns with no issue.  The amount of data is more up to how much power your machine has.  The browser will only render how many cells can be painted based on dimensions of your window.\n\nI do think performance does degrade a little when you have a really wide dataframe (lots of columns).  I hit some lagginess when I loaded 700+ columns",
+            "score": 1,
+            "que": "This looks great, whats the size of dataframes it can work with without hanging?"
+        },
+        {
+            "id": "fi9s3sy",
+            "parent": "t1_fi9nc7f",
+            "ans": "Not at the moment. Plotly/dash has a pregenerated color scheme for each series in a chart.  Its certainly something that could be added just need to figure out the right way to do it.\n\nI\u2019ve added color builders in the past and they usually require so many clicks people dont use them",
+            "score": 1,
+            "que": "Cool stuff. Just wondering, can you add colours to your bar/pie plots?\n\nI've been digging through your rather sparse documentation and it seems like it's not an available option right now?"
+        },
+        {
+            "id": "fia2kml",
+            "parent": "t1_fia1s15",
+            "ans": "So I've done some work using this in jupyterhub and it does get tricky if you're running it within docker.  You'll have to add `--network host` when runing the container so the ports will be opened to the outside world.\n\nI've also had trouble if you're running jupyterhub over a proxy.  You'll have to add someway to allow for certain ports to be open for D-Tale processes.  I did a big re-write a while back so that there is a little bit of predictability to how the ports are chosen for D-Tale.  Now it starts at 40000 and then keep incrementing until it finds an open one.  So you could update your proxy to allow for port 4000 to be open for D-Tale processes and then just keep killing the previous D-Tale instance if you open a new notebook and create a new instance.  If you just keep calling `dtale.show` within one notebook it will be fine becuase it only opens one instance and adds more data globally available to it.\n\nThe urls to your D-Tale instances should be sharable.  To access what the URL is you can do one of two things:\n\n1) if you've stored your D-Tale instance in a variable you can do something like this:\n\n```\nd = [dtale.show](https://dtale.show)(df)\nprint(d._url) . # sent this link to others to view it\n```\n2) in the ipython cell that D-Tale is running there should be an option in the menu for \"Open Popup\".  This will open D-Tale in a new window which should have the url listed in the top and you can send that to others.\n\nHope this helps!",
+            "score": 3,
+            "que": "Amazing! I just wonder if the UI and the browser functionality will work in a remote jupyter server (like aws Sagemaker) because I read it'll use the system default browser, or am I misunderstanding that part? \nKeep the good work!"
+        },
+        {
+            "id": "fjsatba",
+            "parent": "t1_fia1s15",
+            "ans": "Just following up on this.  I got it working with hosted notebooks like [kaggle & google colab](https://github.com/man-group/dtale#google-colab--kaggle)  \nI also have some documentation on getting it running with [kubernetes/jupyterhub](https://github.com/man-group/dtale/blob/master/docs/JUPYTERHUB_KUBERNETES.md)",
+            "score": 1,
+            "que": "Amazing! I just wonder if the UI and the browser functionality will work in a remote jupyter server (like aws Sagemaker) because I read it'll use the system default browser, or am I misunderstanding that part? \nKeep the good work!"
+        },
+        {
+            "id": "fia7udz",
+            "parent": "t1_fia6pv6",
+            "ans": "But is it free?",
+            "score": 1,
+            "que": "This post is giving me some power bi vibes"
+        },
+        {
+            "id": "fiaii18",
+            "parent": "t1_fiai1ph",
+            "ans": "Currently it is being built on python 27-3 & 36-1.  If you are running a python version higher than 3.6 you might get issues.\n\nI am planning on tackling 3.8 soon",
+            "score": 1,
+            "que": "Are there version requirements for Python? I'm currently getting an error message."
+        },
+        {
+            "id": "fiaij85",
+            "parent": "t1_fiai1ph",
+            "ans": "Just curious, what is the error you're receiving?",
+            "score": 1,
+            "que": "Are there version requirements for Python? I'm currently getting an error message."
+        },
+        {
+            "id": "fibff4p",
+            "parent": "t1_fib9hvg",
+            "ans": "So this article has a bunch of suggestions on how to fix it: [https://windowsreport.com/err-connection-refused-windows-10/](https://windowsreport.com/err-connection-refused-windows-10/)\n\nI think a lot of the problem is the windows firewall so turning it off might work (although that might be overkill).  There should be a way to allow python processes through.  You don't want to allow a specific port through (although if you go that route 40000 is the best choice) because if you run multiple notebooks each with a different D-Tale instance they will be on different ports.\n\nUnfortunately I mainly develop on linux so I don't hit these issues. But i'm going to take some time next week to setup an environment on windows so I can be a little more helpful with these issues. Sorry :(\n\nHere's another article on how to allow python processes through the firewall: [https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/](https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/)",
+            "score": 2,
+            "que": "Impressive.\n\nAm getting this on chrome, what setting do I need to change ?\n\n>This site can\u2019t be reached pc-win10 refused to connect."
+        },
+        {
+            "id": "fjrxjcw",
+            "parent": "t1_fja1kyq",
+            "ans": "Pivoting is now available in 1.7.14 by way of the \u201cReshape\u201d popup",
+            "score": 2,
+            "que": "u/aschonfe , This is really amazing! I've been always thinking about some tool with Excel interface and power of Python, on the one hand Excel is easy to use and allows faster data manipulations but on larger datasets it would be freezing, so this tool should definitely come in handy!  \nHow long until we see features like Excel's pivot table?"
+        },
+        {
+            "id": "fjsbfbw",
+            "parent": "t1_fja392v",
+            "ans": "Pivoting is now available in the latest release [1.7.14](https://pypi.org/project/dtale/) by way of the new \"Reshape\" popup",
+            "score": 2,
+            "que": "Thanks, so glad its helping!\n\nPivot table is actually in the list of issues/features on github so i\u2019ll be sure to move it priority up :)\n\nThe one question about pivot is whether it should spawn a new data instance or overwrite the original data you loaded.  I\u2019m fine with spawning a new instance but it may eat up memory depending on how much power your machine has."
+        },
+        {
+            "id": "fjrsc8d",
+            "parent": "t1_fjrmc8r",
+            "ans": "I\u2019ve never tried it but D-tale is available on conda-forge https://github.com/conda-forge/dtale-feedstock",
+            "score": 2,
+            "que": "Gotta try this...will it work with Anaconda Jupyter on Linux? D-Tale graphic look great! \ud83d\udc4d\ud83e\udd1f"
+        },
+        {
+            "id": "fjrshtx",
+            "parent": "t1_fjrmc8r",
+            "ans": "Also, should have a new version released in another hour if you want to wait a little bit to install it \ud83d\udc40",
+            "score": 2,
+            "que": "Gotta try this...will it work with Anaconda Jupyter on Linux? D-Tale graphic look great! \ud83d\udc4d\ud83e\udd1f"
+        },
+        {
+            "id": "fjrxfpx",
+            "parent": "t1_fjrmc8r",
+            "ans": "New version is out there on pip, should be on conda soon too. Just includes a fix for the Reshape popup when forwarding to a new data point.  Probably wouldnt have noticed the issue anyways \ud83e\udd23",
+            "score": 1,
+            "que": "Gotta try this...will it work with Anaconda Jupyter on Linux? D-Tale graphic look great! \ud83d\udc4d\ud83e\udd1f"
+        },
+        {
+            "id": "fsapm06",
+            "parent": "t1_fsakke5",
+            "ans": "The demo is public, but for personal use it should be private unless you\u2019re hosting your local notebooks for everyone to see.\n\nI think even kaggle and google colab makes their notebooks only available to the users running them.\n\nI believe the user would really have to do some work on their end to make their D-Tale instances public.",
+            "score": 1,
+            "que": "Amazing tool, but one concern, what about data privacy? does data get shared online? can we setup a local server?"
+        },
+        {
+            "id": "fi8mgxg",
+            "parent": "t1_fi89efj",
+            "ans": "A man at Man, but not just any old man at Man \u2014 one of the Alpha men at Man.",
+            "score": 2,
+            "que": "who's  Andrew Schonfeld ?"
+        },
+        {
+            "id": "fi8bo3m",
+            "parent": "t1_fi89efj",
+            "ans": "I think hes kind of like a Spartacus-type character where hes in the hearts of each and every one of us...\ud83d\ude0f",
+            "score": 3,
+            "que": "who's  Andrew Schonfeld ?"
+        },
+        {
+            "id": "fi9s5dm",
+            "parent": "t1_fi9n9vn",
+            "ans": "Not sure, but the package is available in conda-forge:\n\n\nhttps://github.com/conda-forge/dtale-feedstock",
+            "score": 5,
+            "que": "Thank you \nDoes it work in Anaconda Spyder ?\nThank you"
+        },
+        {
+            "id": "fic6pk9",
+            "parent": "t1_fia6nqd",
+            "ans": "I did some more digging and it looks like google colab does support using flask:  [https://medium.com/@kshitijvijay271199/flask-on-google-colab-f6525986797b](https://medium.com/@kshitijvijay271199/flask-on-google-colab-f6525986797b) \n\nI'll see if I can add an optional dependency on run\\_with\\_ngrok so you can do this!  I'll keep you posted",
+            "score": 2,
+            "que": "Any else have luck trying to use dtale with google colab?"
+        },
+        {
+            "id": "fia780r",
+            "parent": "t1_fia6nqd",
+            "ans": "So I was able to get D-Tale installed by running \\`!pip install dtale\\` but I think that google collab must be running under some sort of proxy because when D-Tale presents the user with the URL associated with the data it has loaded you can't view it.\n\n&#x200B;\n\nYou can try talking to the admins at google collab and see if they would be willing to allow access to processes like this.  Maybe just opening access to port 40000 similar to what we had to do with jupyterhub.  I've been meaning to ask kaggle (a similar data science site to google collab) the same thing",
+            "score": 1,
+            "que": "Any else have luck trying to use dtale with google colab?"
+        },
+        {
+            "id": "fia7okj",
+            "parent": "t1_fia6nqd",
+            "ans": "I've opened a request with google collab, we'll see what they say",
+            "score": 1,
+            "que": "Any else have luck trying to use dtale with google colab?"
+        },
+        {
+            "id": "fia9w8w",
+            "parent": "t1_fia6nqd",
+            "ans": "I've also opened a request with Kaggle",
+            "score": 1,
+            "que": "Any else have luck trying to use dtale with google colab?"
+        },
+        {
+            "id": "finluwu",
+            "parent": "t1_fia6nqd",
+            "ans": "this is now available in version 1.7.9, please see this post: https://www.reddit.com/r/datascience/comments/f8uphl/dtale_pandas_dataframe_visualizer_now_available/",
+            "score": 1,
+            "que": "Any else have luck trying to use dtale with google colab?"
+        },
+        {
+            "id": "fia8ufu",
+            "parent": "t1_fia8hwd",
+            "ans": "So it looks like your instance for data\\_id '2' is gone.  Did you previously kill a running instance?\n\nIf you jump back to the data grid there is a button in the menu in the upper lefthand corner which will show you running instances.\n\nIt should be noted that D-Tale will try to clean itself up after an hour of inactivity so that might be how your data was removed.  If you would like to turn this behavior off then you can open D-Tale using this command:  \n\\`[dtale.show](https://dtale.show)(df, reaper\\_on=False)\\`\n\nThat will stop the auto-cleanup.  Hope this helps :)",
+            "score": 2,
+            "que": "I keep getting errors like below when trying to build a chart. \n\n Traceback (most recent call last):   File \"C:\\\\Users\\\\myname\\\\Anaconda3\\\\lib\\\\site-packages\\\\dtale\\\\dash\\_application\\\\charts.py\", line 723, in build\\_figure\\_data     data = run\\_query(DATA\\[data\\_id\\], query) KeyError: '2'"
+        },
+        {
+            "id": "fij2b7h",
+            "parent": "t1_fia8hwd",
+            "ans": "I just released version 1.7.8 which should solve this issue.  My apologies for the headaches.  It's currently on pip, not conda yet but shortly.",
+            "score": 2,
+            "que": "I keep getting errors like below when trying to build a chart. \n\n Traceback (most recent call last):   File \"C:\\\\Users\\\\myname\\\\Anaconda3\\\\lib\\\\site-packages\\\\dtale\\\\dash\\_application\\\\charts.py\", line 723, in build\\_figure\\_data     data = run\\_query(DATA\\[data\\_id\\], query) KeyError: '2'"
+        },
+        {
+            "id": "fiasn0y",
+            "parent": "t1_fiarn18",
+            "ans": "You do need a browser to view it, but I believe that PyCharm can run a browser inside it.\n\n[Configuring browser in PyCharm](https://www.jetbrains.com/help/pycharm/configuring-browsers.html)\n\nYou may have to install a browser wherever you're running this though.  That shouldn't be an issue.  I have both modzilla & chrome installed on my linux server.",
+            "score": 2,
+            "que": "Do I need to be in a browser or can I use pycharm to open that window? (At lunch but I wanna try this soon)"
+        },
+        {
+            "id": "fiawyqf",
+            "parent": "t1_fiawn4m",
+            "ans": "Are you trying to run it in a jupyter notebook or from a console? Also, can you send over the error you're receiving?",
+            "score": 1,
+            "que": "Hi! I installed it using pip, but I can\u2019t import it neither in spyder nor pandas. Any way to solve that?"
+        },
+        {
+            "id": "fib2c0w",
+            "parent": "t1_fib1j2e",
+            "ans": "It also appears that the SSL error you're seeing is associated with [Firefox](https://cheapsslsecurity.com/blog/ssl_error_rx_record_too_long/) any chance you could try opening the link in chrome or, takes deep breath, IE?\n\nIf you need a quick way to generate a link you could try opening a python console (running `python` from the command line) and running the following code snippet:\n```\nimport pandas as pd\nimport dtale\n\ndtale.show(pd.DataFrame([1,2,3]))\n```\nThis should return a url which you be able to paste into your browser and see a grid with one column and 3 rows.",
+            "score": 1,
+            "que": "I would like to test it, but I receive this error every time: SSL\\_ERROR\\_RX\\_RECORD\\_TOO\\_LONG\n\nI\u00b4ve tried making Python public under \"Allowed Apps\" on windows, but still..."
+        },
+        {
+            "id": "fibp3u3",
+            "parent": "t1_fibocpx",
+            "ans": "I think you need to downgrade Python to 3.6, I havent built support for python 3.7 or 3.8 yet.\n\nI\u2019ll try tackling that soon",
+            "score": 2,
+            "que": "I am getting a error: Dash() got an unexpected keyword argument \u2018eager_loading\u2019\n\nCan anybody help with this?"
+        },
+        {
+            "id": "figupid",
+            "parent": "t1_figmbpk",
+            "ans": "Are you talking about an error?  Sorry, just want to make sure it gets addressed if thats the case :)",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fi7yj7y",
+            "parent": "t1_fi7uppg",
+            "ans": "Are you going to start your DS journey in one year?",
+            "score": 10,
+            "que": "!remindme 1 year"
+        },
+        {
+            "id": "fi7w6a7",
+            "parent": "t1_fi7uppg",
+            "ans": "I will be messaging you in 1 year on [**2021-02-20 19:55:16 UTC**](http://www.wolframalpha.com/input/?i=2021-02-20%2019:55:16%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/datascience/comments/f6xk72/for_any_python_pandas_users_out_there_heres_a/fi7uppg/?context=3)\n\n[**3 OTHERS CLICKED THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fdatascience%2Fcomments%2Ff6xk72%2Ffor_any_python_pandas_users_out_there_heres_a%2Ffi7uppg%2F%5D%0A%0ARemindMe%21%202021-02-20%2019%3A55%3A16%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20f6xk72)\n\n*****\n\n|[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "score": 1,
+            "que": "!remindme 1 year"
+        },
+        {
+            "id": "fi9srsp",
+            "parent": "t1_fi8kpiu",
+            "ans": "100% appreciate tools like this for our purposes",
+            "score": 3,
+            "que": "Definitely a tool that smooths the transition! I say as someone transitioning painfully now \ud83d\ude05"
+        },
+        {
+            "id": "fi89tny",
+            "parent": "t1_fi80f8g",
+            "ans": "I'm actually shocked it's not 'detail'",
+            "score": 21,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fi7xhci",
+            "parent": "t1_fi7wuf0",
+            "ans": "Is the data stored or analyzed on your side?\n\nI'm asking for data confidentiality reasons, your tool is amazing!",
+            "score": 18,
+            "que": "If you open a python console or a debug session within VSCode you should be able to run something like the following:  \n`import dtale; dtale.show([insert pandas object here])`\n\nThis will return a URL which you can view in your browser. Once you close your session or after an hour of inactivity (whichever comes first) D-Tale will clean itself up."
+        },
+        {
+            "id": "fi9rucz",
+            "parent": "t1_fi7wuf0",
+            "ans": "First up, this looks amazing! Secondly, I'm new to using Jupyter notebooks in VSCode. I can run  [dtale.show](https://dtale.show)(df) in a cell and it outputs one page but doesn't seem to have proper functionality. How do I open the python console within VSCode?",
+            "score": 1,
+            "que": "If you open a python console or a debug session within VSCode you should be able to run something like the following:  \n`import dtale; dtale.show([insert pandas object here])`\n\nThis will return a URL which you can view in your browser. Once you close your session or after an hour of inactivity (whichever comes first) D-Tale will clean itself up."
+        },
+        {
+            "id": "fieinro",
+            "parent": "t1_fi8q58i",
+            "ans": "You deserve it.",
+            "score": 3,
+            "que": "Hearing stuff like that makes it all worthwhile.  Make sure they go to the repo and add a \u2b50\ufe0f\n\n\ud83d\ude09"
+        },
+        {
+            "id": "fi8qfhi",
+            "parent": "t1_fi8q58i",
+            "ans": "I\u2019ll make sure to have them add a \ud83c\udf1f. Keep up the good work!",
+            "score": 1,
+            "que": "Hearing stuff like that makes it all worthwhile.  Make sure they go to the repo and add a \u2b50\ufe0f\n\n\ud83d\ude09"
+        },
+        {
+            "id": "fi8cmnb",
+            "parent": "t1_fi8byt2",
+            "ans": "Awesome. Thanks!",
+            "score": 3,
+            "que": "The base case I was testing when I started building it was 1.5 million rows/200 columns with no issue.  The amount of data is more up to how much power your machine has.  The browser will only render how many cells can be painted based on dimensions of your window.\n\nI do think performance does degrade a little when you have a really wide dataframe (lots of columns).  I hit some lagginess when I loaded 700+ columns"
+        },
+        {
+            "id": "fi80r70",
+            "parent": "t1_fi80g98",
+            "ans": "Wooooooo!! Didn\u2019t think to do this - thanks!",
+            "score": 3,
+            "que": "If you have dtale installed in your python environment and a python build system set up, yeah.   Just throw in some code like this:\n\n    import pandas as pd\n    import dtale\n    \n    df = <...whatever you do to get your dataframe...>\n    dtale.show(df, open_browser=True, subprocess=False)\n\nand then when you run/build that script it'll start up an instance in your browser"
+        },
+        {
+            "id": "fjrx7jn",
+            "parent": "t1_fi80g98",
+            "ans": "I got that work on pycharm. awesome thanks!",
+            "score": 1,
+            "que": "If you have dtale installed in your python environment and a python build system set up, yeah.   Just throw in some code like this:\n\n    import pandas as pd\n    import dtale\n    \n    df = <...whatever you do to get your dataframe...>\n    dtale.show(df, open_browser=True, subprocess=False)\n\nand then when you run/build that script it'll start up an instance in your browser"
+        },
+        {
+            "id": "fi806ol",
+            "parent": "t1_fi7zth6",
+            "ans": "Will give this a try, thanks! Looks really neat.",
+            "score": 4,
+            "que": "Unfortunately I develop on PyCharm, but just like the VSCode user I would assume that there is some way to run a python console from within Sublime and then you'll be able to run something like the following:  \nimport dtale; dtale.show(\\[insert pandas object here\\])\n\nThis will return a URL which you can view in your browser. Once you close your session or after an hour of inactivity (whichever comes first) D-Tale will clean itself up."
+        },
+        {
+            "id": "fi88fyu",
+            "parent": "t1_fi858x8",
+            "ans": "Well reticulate lets you run python through RStudio, I\u2019m just wondering if it would still work. May test later",
+            "score": 2,
+            "que": "This is only for python unfortunately but if you had the time to install python you could try exporting your R data to CSV or JSON and use the command line options to load it into D-Tale: [CLI options](https://github.com/man-group/dtale#command-line)\n\nSorry I still need to add the documentation on how to use the JSON options"
+        },
+        {
+            "id": "fi9xw6r",
+            "parent": "t1_fi9s3sy",
+            "ans": "Hmm not too familiar with dashly/plotly but  if there's a way to extend the colour functionality via code would be great as I love how the generated plot looks.\n\nOr is there a way to change the behaviour of plotly pregenerated colour scheme to be more distinct? Apologies if I missed something",
+            "score": 1,
+            "que": "Not at the moment. Plotly/dash has a pregenerated color scheme for each series in a chart.  Its certainly something that could be added just need to figure out the right way to do it.\n\nI\u2019ve added color builders in the past and they usually require so many clicks people dont use them"
+        },
+        {
+            "id": "fibtm5t",
+            "parent": "t1_fia7udz",
+            "ans": "That\u2019s the thing",
+            "score": 3,
+            "que": "But is it free?"
+        },
+        {
+            "id": "fiaistl",
+            "parent": "t1_fiaii18",
+            "ans": "Ok cool, that my be the reason for my error then as I'm on 3.7\n\nHere's the current error:\nhttps://imgur.com/eUeqk8B",
+            "score": 1,
+            "que": "Currently it is being built on python 27-3 & 36-1.  If you are running a python version higher than 3.6 you might get issues.\n\nI am planning on tackling 3.8 soon"
+        },
+        {
+            "id": "fibgdo1",
+            "parent": "t1_fibff4p",
+            "ans": "Thanks. Will try your suggestions.",
+            "score": 2,
+            "que": "So this article has a bunch of suggestions on how to fix it: [https://windowsreport.com/err-connection-refused-windows-10/](https://windowsreport.com/err-connection-refused-windows-10/)\n\nI think a lot of the problem is the windows firewall so turning it off might work (although that might be overkill).  There should be a way to allow python processes through.  You don't want to allow a specific port through (although if you go that route 40000 is the best choice) because if you run multiple notebooks each with a different D-Tale instance they will be on different ports.\n\nUnfortunately I mainly develop on linux so I don't hit these issues. But i'm going to take some time next week to setup an environment on windows so I can be a little more helpful with these issues. Sorry :(\n\nHere's another article on how to allow python processes through the firewall: [https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/](https://www.howtogeek.com/howto/uncategorized/how-to-create-exceptions-in-windows-vista-firewall/)"
+        },
+        {
+            "id": "fju060n",
+            "parent": "t1_fjrxjcw",
+            "ans": "Simply amazing! Please keep it up, doing gods work!\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "score": 2,
+            "que": "Pivoting is now available in 1.7.14 by way of the \u201cReshape\u201d popup"
+        },
+        {
+            "id": "fjry24u",
+            "parent": "t1_fjrsc8d",
+            "ans": "I am working on jupyter but Pycharm with import dtale is working in Linux. \ud83d\udc4d",
+            "score": 2,
+            "que": "I\u2019ve never tried it but D-tale is available on conda-forge https://github.com/conda-forge/dtale-feedstock"
+        },
+        {
+            "id": "fi8oeki",
+            "parent": "t1_fi8bo3m",
+            "ans": "Well in that case, I am Andrew Schonfeld!\n\nEdit: seriously though, this package is awesome and I'll definitely be sharing it with my team.",
+            "score": 2,
+            "que": "I think hes kind of like a Spartacus-type character where hes in the hearts of each and every one of us...\ud83d\ude0f"
+        },
+        {
+            "id": "fib7mss",
+            "parent": "t1_fia8ufu",
+            "ans": "Thank you very much,\n\nStill not working :( \n\nHow can I kill these instances at once to start fresh ?",
+            "score": 1,
+            "que": "So it looks like your instance for data\\_id '2' is gone.  Did you previously kill a running instance?\n\nIf you jump back to the data grid there is a button in the menu in the upper lefthand corner which will show you running instances.\n\nIt should be noted that D-Tale will try to clean itself up after an hour of inactivity so that might be how your data was removed.  If you would like to turn this behavior off then you can open D-Tale using this command:  \n\\`[dtale.show](https://dtale.show)(df, reaper\\_on=False)\\`\n\nThat will stop the auto-cleanup.  Hope this helps :)"
+        },
+        {
+            "id": "fij2elq",
+            "parent": "t1_fij2b7h",
+            "ans": "Thank you so much.\nI will update you shortly. I am really really excited to learn. \n\nThank you",
+            "score": 2,
+            "que": "I just released version 1.7.8 which should solve this issue.  My apologies for the headaches.  It's currently on pip, not conda yet but shortly."
+        },
+        {
+            "id": "fiauvqe",
+            "parent": "t1_fiasn0y",
+            "ans": "Awesome thanks!",
+            "score": 2,
+            "que": "You do need a browser to view it, but I believe that PyCharm can run a browser inside it.\n\n[Configuring browser in PyCharm](https://www.jetbrains.com/help/pycharm/configuring-browsers.html)\n\nYou may have to install a browser wherever you're running this though.  That shouldn't be an issue.  I have both modzilla & chrome installed on my linux server."
+        },
+        {
+            "id": "fiaxnit",
+            "parent": "t1_fiawyqf",
+            "ans": "Im getting \u201cModuleNotFoundError: No module named \u2018dtale\u2019\u201d. In jupyter and also pasting the same code in a scritp in spyder",
+            "score": 1,
+            "que": "Are you trying to run it in a jupyter notebook or from a console? Also, can you send over the error you're receiving?"
+        },
+        {
+            "id": "fib41u3",
+            "parent": "t1_fib2c0w",
+            "ans": "I\u00b4ve tried Chrome too. I get this error message:  **ia2298w10** sent an invalid response.\n\nI\u00b4ve managed to get it up when I ran it from the python console as you told me.\n\nAny idea of what is wrong?",
+            "score": 1,
+            "que": "It also appears that the SSL error you're seeing is associated with [Firefox](https://cheapsslsecurity.com/blog/ssl_error_rx_record_too_long/) any chance you could try opening the link in chrome or, takes deep breath, IE?\n\nIf you need a quick way to generate a link you could try opening a python console (running `python` from the command line) and running the following code snippet:\n```\nimport pandas as pd\nimport dtale\n\ndtale.show(pd.DataFrame([1,2,3]))\n```\nThis should return a url which you be able to paste into your browser and see a grid with one column and 3 rows."
+        },
+        {
+            "id": "fibpagi",
+            "parent": "t1_fibp3u3",
+            "ans": "I\u2019ll give it a try. Thanks for the reply!",
+            "score": 2,
+            "que": "I think you need to downgrade Python to 3.6, I havent built support for python 3.7 or 3.8 yet.\n\nI\u2019ll try tackling that soon"
+        },
+        {
+            "id": "fibwtqu",
+            "parent": "t1_fibp3u3",
+            "ans": "Hmm still getting the same error. I used the conda install you posted and running a Jupyter notebook. I was able to import the package, but getting the error when using the dtale.show",
+            "score": 1,
+            "que": "I think you need to downgrade Python to 3.6, I havent built support for python 3.7 or 3.8 yet.\n\nI\u2019ll try tackling that soon"
+        },
+        {
+            "id": "fiiue6k",
+            "parent": "t1_figupid",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Are you talking about an error?  Sorry, just want to make sure it gets addressed if thats the case :)"
+        },
+        {
+            "id": "fi83ffs",
+            "parent": "t1_fi7yj7y",
+            "ans": "No time to look at it now but no one ever messages me so it'll be in my inbox better than a saved post *shrugs*. Also prolly graduating right about then so I'll have a bit more opportunity to look at it\n\nAlso lmao",
+            "score": 1,
+            "que": "Are you going to start your DS journey in one year?"
+        },
+        {
+            "id": "fl3c72w",
+            "parent": "t1_fi9srsp",
+            "ans": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f",
+            "score": 1,
+            "que": "100% appreciate tools like this for our purposes"
+        },
+        {
+            "id": "fi8i0qo",
+            "parent": "t1_fi89tny",
+            "ans": "I think it was taken",
+            "score": 5,
+            "que": "I'm actually shocked it's not 'detail'"
+        },
+        {
+            "id": "fi80xuu",
+            "parent": "t1_fi7xhci",
+            "ans": "D-Tale is just a simple client for your pandas data structures so under the hood its simply executing pandas functions that you can run in your notebook or console.  I'm not doing any statistics reporting on usage so anything you pass it should live and die in the process you running it under.\n\nThe one thing I will mention is that the \"Export plot to png\" function in the charts does send the data in your chart over to a server being run by plotly and returns a downloadable png.  So if you're worried I'd stay away from that.  I'm planning on removing it anyways.  Here's an example of what to look out for:\n\n[Export plot to png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode-python%2Fissues%2F7221&psig=AOvVaw3FZPrkw_TRnV5rgJx7X_VC&ust=1582317746706000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJis54j_4OcCFQAAAAAdAAAAABAD)",
+            "score": 32,
+            "que": "Is the data stored or analyzed on your side?\n\nI'm asking for data confidentiality reasons, your tool is amazing!"
+        },
+        {
+            "id": "fi8qlss",
+            "parent": "t1_fi8qfhi",
+            "ans": "You got it! Lots of other great features in the works",
+            "score": 1,
+            "que": "I\u2019ll make sure to have them add a \ud83c\udf1f. Keep up the good work!"
+        },
+        {
+            "id": "fi88uc7",
+            "parent": "t1_fi88fyu",
+            "ans": "Keep me posted on your findings.  Might dig into reticulate if thats the case so I can add some documentation on how to do it.",
+            "score": 1,
+            "que": "Well reticulate lets you run python through RStudio, I\u2019m just wondering if it would still work. May test later"
+        },
+        {
+            "id": "fi8h683",
+            "parent": "t1_fi88fyu",
+            "ans": "Pls make it work for us R plebs \ud83d\ude31",
+            "score": 1,
+            "que": "Well reticulate lets you run python through RStudio, I\u2019m just wondering if it would still work. May test later"
+        },
+        {
+            "id": "fi9yg49",
+            "parent": "t1_fi9xw6r",
+            "ans": "No, no you didn't miss anything at all.  There's a lot of other functionality available in plotly I just haven't had the time to build a UI around all of it.\n\nI know that plotly offers a tool to build charts (https://plot.ly/chart-studio/) but it costs money :(\n\nThanks for the interest",
+            "score": 1,
+            "que": "Hmm not too familiar with dashly/plotly but  if there's a way to extend the colour functionality via code would be great as I love how the generated plot looks.\n\nOr is there a way to change the behaviour of plotly pregenerated colour scheme to be more distinct? Apologies if I missed something"
+        },
+        {
+            "id": "fiaj5an",
+            "parent": "t1_fiaistl",
+            "ans": "Ahhh, yea this was what I was afraid of.  Looks like some of the packages (in this case Dash) doesn't support the latest version of their software in the latest version of Python :shrug:",
+            "score": 2,
+            "que": "Ok cool, that my be the reason for my error then as I'm on 3.7\n\nHere's the current error:\nhttps://imgur.com/eUeqk8B"
+        },
+        {
+            "id": "fib7yna",
+            "parent": "t1_fib7mss",
+            "ans": "So you can open up one of your instances in a browser, click the menu in the upper lefthand corner and then click \"Shutdown\"\n\nIf it starts throwing issues even after you shutdown the app you can try restarting the kernel of your notebook.",
+            "score": 1,
+            "que": "Thank you very much,\n\nStill not working :( \n\nHow can I kill these instances at once to start fresh ?"
+        },
+        {
+            "id": "fiaycb4",
+            "parent": "t1_fiaxnit",
+            "ans": "So after you installed D-Tale did you restart the kernel of your notebook?  Also, are you sure that your notebook is using the environment that you installed dtale too?\n\nThe only way you would receive that error is if dtale was not installed to your virtual environment.  You can also make sure dtale is installed correctly by going to the command line and running the command `pip freeze | grep dtale` which should show that version 1.7.5 is installed",
+            "score": 1,
+            "que": "Im getting \u201cModuleNotFoundError: No module named \u2018dtale\u2019\u201d. In jupyter and also pasting the same code in a scritp in spyder"
+        },
+        {
+            "id": "fib4m11",
+            "parent": "t1_fib41u3",
+            "ans": "So I found this article (https://www.thesslstore.com/blog/fix-err-ssl-protocol-error/).  Once again, it seems like another instance where windows is going overkill on the security.\n\nBased on the comments it looks like possibly doing this might work:\n\n\u2022 Open Run by pressing Windows logo key and R\n\n\u2022 Type C:\\Windows\\System32\\drivers\\etc in the Open: search space and press\n\n\u2022 Right-click on the hosts file and press Delete. Restart your PC.\n\nI also saw in another article that the Flask installation might be corrupted.  In which case you can try going to your virtual environemtn and doing:\n\npip unsinstall Flask\npip install -U Flask",
+            "score": 1,
+            "que": "I\u00b4ve tried Chrome too. I get this error message:  **ia2298w10** sent an invalid response.\n\nI\u00b4ve managed to get it up when I ran it from the python console as you told me.\n\nAny idea of what is wrong?"
+        },
+        {
+            "id": "fic421y",
+            "parent": "t1_fibwtqu",
+            "ans": "Looks like `eager_loading` wasn't available until dash version 1.5.0.  So if you're running something earlier than that you'll get issues.  I can pin it to >=1.5.0 to fix this going forward",
+            "score": 2,
+            "que": "Hmm still getting the same error. I used the conda install you posted and running a Jupyter notebook. I was able to import the package, but getting the error when using the dtale.show"
+        },
+        {
+            "id": "fibzo4h",
+            "parent": "t1_fibwtqu",
+            "ans": "Hmm, i wonder if the right version of plotly/dash is being installed if you run the following from your command line:\n\nconda list | grep dash\n\nIt should show you what version you have.  I built it using 1.9.0, i can try adding a check for that in the code",
+            "score": 1,
+            "que": "Hmm still getting the same error. I used the conda install you posted and running a Jupyter notebook. I was able to import the package, but getting the error when using the dtale.show"
+        },
+        {
+            "id": "fiiuu06",
+            "parent": "t1_fiiue6k",
+            "ans": "Got it.  I\u2019ve already had a request for code snippets to be made available (at least when generating charts) and i\u2019ll be addressing it soon.\n\nCertainly a valid gripe",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fi8acoe",
+            "parent": "t1_fi83ffs",
+            "ans": "Lol I think most people don't get many messages on reddit",
+            "score": 2,
+            "que": "No time to look at it now but no one ever messages me so it'll be in my inbox better than a saved post *shrugs*. Also prolly graduating right about then so I'll have a bit more opportunity to look at it\n\nAlso lmao"
+        },
+        {
+            "id": "fiawtow",
+            "parent": "t1_fi8i0qo",
+            "ans": "> The name of this tool is D-Tale (\"Data Tale\" or \"The Tale of your Data\").\n\nYeah, but it's called \"D-Tale\". D-Tale was a fantastic name all by itself because it sounds exactly like \"detail\".",
+            "score": 2,
+            "que": "I think it was taken"
+        },
+        {
+            "id": "fia14iq",
+            "parent": "t1_fi80xuu",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "D-Tale is just a simple client for your pandas data structures so under the hood its simply executing pandas functions that you can run in your notebook or console.  I'm not doing any statistics reporting on usage so anything you pass it should live and die in the process you running it under.\n\nThe one thing I will mention is that the \"Export plot to png\" function in the charts does send the data in your chart over to a server being run by plotly and returns a downloadable png.  So if you're worried I'd stay away from that.  I'm planning on removing it anyways.  Here's an example of what to look out for:\n\n[Export plot to png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode-python%2Fissues%2F7221&psig=AOvVaw3FZPrkw_TRnV5rgJx7X_VC&ust=1582317746706000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJis54j_4OcCFQAAAAAdAAAAABAD)"
+        },
+        {
+            "id": "fi9bwy0",
+            "parent": "t1_fi8qlss",
+            "ans": "I cant wait to see what the features are. Good luck!",
+            "score": 2,
+            "que": "You got it! Lots of other great features in the works"
+        },
+        {
+            "id": "fi91jhl",
+            "parent": "t1_fi88uc7",
+            "ans": "I have got the dtale browser to come up and some functionality to work through reticulate. May want to test on your end as you know how it should function.\n\nIf you library reticulate in R then dtale <- import('dtale'), dtale$ should work like dtale. in python",
+            "score": 2,
+            "que": "Keep me posted on your findings.  Might dig into reticulate if thats the case so I can add some documentation on how to do it."
+        },
+        {
+            "id": "fjrxybh",
+            "parent": "t1_fi8h683",
+            "ans": "I got it working with Reticulate (https://github.com/man-group/dtale#r-with-reticulate) and plan on trying to add the ability to at least load R datasets to it with rpy2",
+            "score": 1,
+            "que": "Pls make it work for us R plebs \ud83d\ude31"
+        },
+        {
+            "id": "fi9z4zx",
+            "parent": "t1_fi9yg49",
+            "ans": "You've done really good work with the entire tool btw! \n\nAt this point I'm really impressed at how speedy the ui is and what it can do, anything else is a plus.",
+            "score": 2,
+            "que": "No, no you didn't miss anything at all.  There's a lot of other functionality available in plotly I just haven't had the time to build a UI around all of it.\n\nI know that plotly offers a tool to build charts (https://plot.ly/chart-studio/) but it costs money :(\n\nThanks for the interest"
+        },
+        {
+            "id": "fib8amv",
+            "parent": "t1_fib7yna",
+            "ans": "I am sorry, I should have mentioned. \n\nI am opening the browser: d.open\\_browser() using Anaconda Spyder IDE which opens up a Chrome Tab. \n\nBut I still get the error. \n\nI am sure it is something I am doing wrong.",
+            "score": 1,
+            "que": "So you can open up one of your instances in a browser, click the menu in the upper lefthand corner and then click \"Shutdown\"\n\nIf it starts throwing issues even after you shutdown the app you can try restarting the kernel of your notebook."
+        },
+        {
+            "id": "fibhies",
+            "parent": "t1_fiaycb4",
+            "ans": "Thanks! It was the environment. I installed it through conda and works fine. It\u2019s pretty useful for data exploratory analysis. Saving time to plot the variables and so on",
+            "score": 2,
+            "que": "So after you installed D-Tale did you restart the kernel of your notebook?  Also, are you sure that your notebook is using the environment that you installed dtale too?\n\nThe only way you would receive that error is if dtale was not installed to your virtual environment.  You can also make sure dtale is installed correctly by going to the command line and running the command `pip freeze | grep dtale` which should show that version 1.7.5 is installed"
+        },
+        {
+            "id": "ficcb9j",
+            "parent": "t1_fic421y",
+            "ans": "Looks like updating the dash version did the trick. Thanks for the help!",
+            "score": 2,
+            "que": "Looks like `eager_loading` wasn't available until dash version 1.5.0.  So if you're running something earlier than that you'll get issues.  I can pin it to >=1.5.0 to fix this going forward"
+        },
+        {
+            "id": "fiiv024",
+            "parent": "t1_fiiuu06",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Got it.  I\u2019ve already had a request for code snippets to be made available (at least when generating charts) and i\u2019ll be addressing it soon.\n\nCertainly a valid gripe"
+        },
+        {
+            "id": "fiax76v",
+            "parent": "t1_fiawtow",
+            "ans": "The other name thrown around was PySpy, but luckily I committed to D-Tale early on and didn't feel like renaming the repo. ;)",
+            "score": 1,
+            "que": "> The name of this tool is D-Tale (\"Data Tale\" or \"The Tale of your Data\").\n\nYeah, but it's called \"D-Tale\". D-Tale was a fantastic name all by itself because it sounds exactly like \"detail\"."
+        },
+        {
+            "id": "fib7frt",
+            "parent": "t1_fia14iq",
+            "ans": "Just released version [1.7.6](https://pypi.org/project/dtale/) and I have removed this functionality.  Let me know if you see it anywhere.",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fia1b4o",
+            "parent": "t1_fia14iq",
+            "ans": "I plan on removing this function soon.  I'll let you know when the new version is available",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fjrye9g",
+            "parent": "t1_fi9bwy0",
+            "ans": "Just added the following in version 1.7.14:\n- code exports\n- offline charts for notebooks\n- exporting charts to HTML\n- exporting chart data to CSV\n- turning off the data limit (15K on most) on charts\n- reshaping data (aggregate, pivot, transpose)\n- building new columns",
+            "score": 2,
+            "que": "I cant wait to see what the features are. Good luck!"
+        },
+        {
+            "id": "fi92zyr",
+            "parent": "t1_fi91jhl",
+            "ans": "Thats great!  I\u2019ll give that a shot tomorrow and add some documentation to the README.  Thanks for looking into that",
+            "score": 1,
+            "que": "I have got the dtale browser to come up and some functionality to work through reticulate. May want to test on your end as you know how it should function.\n\nIf you library reticulate in R then dtale <- import('dtale'), dtale$ should work like dtale. in python"
+        },
+        {
+            "id": "fibft2r",
+            "parent": "t1_fib8amv",
+            "ans": "Hmm, so one other hacky way to do it would be running the following snippet:\n```\nimport dtale\nfrom dtale.views import cleanup\n\ncleanup()\ndtale.show(df, open_browser=True)\n```",
+            "score": 1,
+            "que": "I am sorry, I should have mentioned. \n\nI am opening the browser: d.open\\_browser() using Anaconda Spyder IDE which opens up a Chrome Tab. \n\nBut I still get the error. \n\nI am sure it is something I am doing wrong."
+        },
+        {
+            "id": "fibhmyi",
+            "parent": "t1_fibhies",
+            "ans": "Oh terrific!  I wouldn't have slept otherwise.",
+            "score": 2,
+            "que": "Thanks! It was the environment. I installed it through conda and works fine. It\u2019s pretty useful for data exploratory analysis. Saving time to plot the variables and so on"
+        },
+        {
+            "id": "fiiv6ps",
+            "parent": "t1_fiiv024",
+            "ans": "Totally understandable and funny enough I\u2019ve actually built similar functionality (code snipptets) in previous apps",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fjrwq79",
+            "parent": "t1_fiiv024",
+            "ans": "Code snippets are now available :)",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fjsu6ah",
+            "parent": "t1_fjrye9g",
+            "ans": "Im currently working on a project that automates a very lengthy Excel report using Python and Pandas and I need a way to export out as HTML, which you have just provided me!",
+            "score": 2,
+            "que": "Just added the following in version 1.7.14:\n- code exports\n- offline charts for notebooks\n- exporting charts to HTML\n- exporting chart data to CSV\n- turning off the data limit (15K on most) on charts\n- reshaping data (aggregate, pivot, transpose)\n- building new columns"
+        },
+        {
+            "id": "fi95r3l",
+            "parent": "t1_fi92zyr",
+            "ans": "I have never used reticulate much so if there is issues, may be worth asking https://github.com/rstudio/reticulate/issues",
+            "score": 2,
+            "que": "Thats great!  I\u2019ll give that a shot tomorrow and add some documentation to the README.  Thanks for looking into that"
+        },
+        {
+            "id": "fibl640",
+            "parent": "t1_fibft2r",
+            "ans": ">dtale.show(df, open\\_browser=True)\n\nI appreciate your patience.\n\nThis what I ran:\n\n    import dtale\n    from dtale.views import cleanup\n    cleanup()\n    dtale.show(df, open_browser=True)\n    Traceback (most recent call last):   File \"C:\\Users\\myname\\Anaconda3\\lib\\site-packages\\dtale\\dash_application\\charts.py\", line 723, in build_figure_data     data = run_query(DATA[data_id], query) KeyError: '1'\n\nIt will be resolved eventually :)",
+            "score": 1,
+            "que": "Hmm, so one other hacky way to do it would be running the following snippet:\n```\nimport dtale\nfrom dtale.views import cleanup\n\ncleanup()\ndtale.show(df, open_browser=True)\n```"
+        },
+        {
+            "id": "fjsvh4o",
+            "parent": "t1_fjsu6ah",
+            "ans": "Great to hear!  Feel free to give it your github \u2b50\ufe0f!\n\n\nhttps://github.com/man-group/dtale",
+            "score": 1,
+            "que": "Im currently working on a project that automates a very lengthy Excel report using Python and Pandas and I need a way to export out as HTML, which you have just provided me!"
+        },
+        {
+            "id": "fibob1x",
+            "parent": "t1_fibl640",
+            "ans": "Wow this is a tough one.  Can you run menone more snippet:\n\nfrom dtale.views import startup\n\ndata = startup(\u2018\u2019, data=df, ignore_duplicate=True)\nprint(data.data.head())\n\nI\u2019m wondering if something about your data D-Tale doesnt like and somehow the exception is being swallowed and data not being saved in global state, thus the KeyError\n\nIf this does throw an exception you dont have to send me a csv extract of your data but it would certainly help with debugging :)",
+            "score": 1,
+            "que": ">dtale.show(df, open\\_browser=True)\n\nI appreciate your patience.\n\nThis what I ran:\n\n    import dtale\n    from dtale.views import cleanup\n    cleanup()\n    dtale.show(df, open_browser=True)\n    Traceback (most recent call last):   File \"C:\\Users\\myname\\Anaconda3\\lib\\site-packages\\dtale\\dash_application\\charts.py\", line 723, in build_figure_data     data = run_query(DATA[data_id], query) KeyError: '1'\n\nIt will be resolved eventually :)"
+        },
+        {
+            "id": "fibt82r",
+            "parent": "t1_fibob1x",
+            "ans": "This is probably ridiculous, but is there any way the data_id could sometimes be passed around as an int and other times as a string, and that could account for the key errors?\n\nI really doubt something like that would slip through, just throwing it out there",
+            "score": 1,
+            "que": "Wow this is a tough one.  Can you run menone more snippet:\n\nfrom dtale.views import startup\n\ndata = startup(\u2018\u2019, data=df, ignore_duplicate=True)\nprint(data.data.head())\n\nI\u2019m wondering if something about your data D-Tale doesnt like and somehow the exception is being swallowed and data not being saved in global state, thus the KeyError\n\nIf this does throw an exception you dont have to send me a csv extract of your data but it would certainly help with debugging :)"
+        },
+        {
+            "id": "ficd5ji",
+            "parent": "t1_fibob1x",
+            "ans": "good news! I believe I have figured out the issue. Real tricky one around global state.  I think its only hit when you start an instance, `kill()` it, then try to start a new one.\n\nHopefully have a new release out there late tomorrow night (EST)",
+            "score": 1,
+            "que": "Wow this is a tough one.  Can you run menone more snippet:\n\nfrom dtale.views import startup\n\ndata = startup(\u2018\u2019, data=df, ignore_duplicate=True)\nprint(data.data.head())\n\nI\u2019m wondering if something about your data D-Tale doesnt like and somehow the exception is being swallowed and data not being saved in global state, thus the KeyError\n\nIf this does throw an exception you dont have to send me a csv extract of your data but it would certainly help with debugging :)"
+        },
+        {
+            "id": "fibxrwv",
+            "parent": "t1_fibt82r",
+            "ans": "No, thats a really solid guess and i\u2019ll do a deep dive into the code tonight.\n\nThe data_id gets created within \u2018dtale.views.startup\u2019 which is why I wanted to test passing your datframe to that method to see if it actually spits out data. Because if it does then it should be getting added to dtale.views.DATA fine.  You can check the keys of dtale.views.DATA to make sure they are strings.\n\nSorry i\u2019m typing these messages from my phone so they\u2019re probably horribly formatted",
+            "score": 1,
+            "que": "This is probably ridiculous, but is there any way the data_id could sometimes be passed around as an int and other times as a string, and that could account for the key errors?\n\nI really doubt something like that would slip through, just throwing it out there"
+        }
+    ]
+}

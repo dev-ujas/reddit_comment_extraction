@@ -1,0 +1,533 @@
+{
+    "title": "Fit an exponential curve to anything...",
+    "id": "fvu3qu",
+    "create_at": 1586157028.0,
+    "score": 2011,
+    "comments": [
+        {
+            "id": "fml3m6z",
+            "parent": "t1_fmkpr5q",
+            "ans": "Statistics show that ~~67~~87% of all statistics are made up on the spot",
+            "score": 57,
+            "que": "This is funny because this is how all forecasts work for bullshit bubble technologies."
+        },
+        {
+            "id": "fmlfytn",
+            "parent": "t1_fmkpr5q",
+            "ans": "May as well just always fit a skewed Guassian every time, assume everything's going to crash, every time",
+            "score": 12,
+            "que": "This is funny because this is how all forecasts work for bullshit bubble technologies."
+        },
+        {
+            "id": "fml9f1h",
+            "parent": "t1_fmkx35z",
+            "ans": "[deleted]",
+            "score": 26,
+            "que": "This must be what all the geniuses on r/dataisbeautiful must have been reading since the outbreak"
+        },
+        {
+            "id": "fmlzhfp",
+            "parent": "t1_fmkx35z",
+            "ans": "my favorite is the plot(time, numberofcases, data=covid) rstudio graph that made it to the front page",
+            "score": 17,
+            "que": "This must be what all the geniuses on r/dataisbeautiful must have been reading since the outbreak"
+        },
+        {
+            "id": "fmmayii",
+            "parent": "t1_fmkx35z",
+            "ans": "There's a guy on Facebook w/ 10K followers essentially doing this on state-by-state level then combining things into a national model. It's been a little sad watching everyone get their hopes up as his model 'predicted' a peak in deaths per day on 3/30. They were nearly all tap-dancing on his posts last week telling him he nailed it, media and government projections suck, only for him to come out 2 days later with a new model to explain a 'second wave' and now a 'third wave'. A couple of days ago he said something to the effect of \"I think I know what they mean by 'flattening the curve' now, it's really just 'attenuating the wave'\".  No shit?",
+            "score": 14,
+            "que": "This must be what all the geniuses on r/dataisbeautiful must have been reading since the outbreak"
+        },
+        {
+            "id": "fmlm53u",
+            "parent": "t1_fmkrfdw",
+            "ans": "I actually saw this discussion play out on another sub between two non-data people playing in excel. They concluded polynomial regression was better than exponential, and far far better than linear, with all the models having r^2 of >0.95",
+            "score": 40,
+            "que": "The more parameters and parameter interactions in your regression, the higher your R^2 , basically"
+        },
+        {
+            "id": "fmkyvns",
+            "parent": "t1_fmkrfdw",
+            "ans": "I really don't get why people don't add all the variables and all the interactions possible to the model! Clearly the more you add the better since the R\\^2 gets closer to 1!\n\n  \n\n\n\\\\s",
+            "score": 39,
+            "que": "The more parameters and parameter interactions in your regression, the higher your R^2 , basically"
+        },
+        {
+            "id": "fmm0qd1",
+            "parent": "t1_fmkrfdw",
+            "ans": "Why would you even calculate R^(2) with anything but linear regression? Did I just /r/woosh? R^2 doesn't mean anything when not talking about linear regression does it?",
+            "score": 6,
+            "que": "The more parameters and parameter interactions in your regression, the higher your R^2 , basically"
+        },
+        {
+            "id": "fmn0d3r",
+            "parent": "t1_fmkrfdw",
+            "ans": "You can always use metrics that penalize that!",
+            "score": 1,
+            "que": "The more parameters and parameter interactions in your regression, the higher your R^2 , basically"
+        },
+        {
+            "id": "fmlxuyt",
+            "parent": "t1_fmkrfdw",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "The more parameters and parameter interactions in your regression, the higher your R^2 , basically"
+        },
+        {
+            "id": "fmlspdo",
+            "parent": "t1_fmlcn73",
+            "ans": "He\u2019s a sigmoid boi",
+            "score": 3,
+            "que": "It's funny because the lizard looks more like a ``log``."
+        },
+        {
+            "id": "fmlfiwp",
+            "parent": "t1_fmlco6y",
+            "ans": "The models for infections due to viral spread are exponential assuming \"natural\" progression.  \n\nWith a strong understanding of the dynamics of viral transmission/spread in a population and carefully chosen interventions, you can manipulate the behavior to do just about whatever you want. The resulting data could look like almost anything. \n\nYou could have a discrete step function better model what's going on if you fully isolate cases and have the ability to intentionally cure/infect people strategically at will. I'm not proposing that, just illustrating that the data is relative to a process and the more we understand and are able control that process, the more we can manipulate what the data will look like (hopefully a nice no slope line around 0 cases eventually).\n\nTake newtonian mechanics. If I throw a ball in the air I have great well tested models that will predict its behaviors. Because I know all that information so well, I can introduce another ball and using the same model, make the balls intersect in the air in a way the primary ball has now skewed from it's natural progression that the initial model projected. A new holistic model now needs to account for the intervention of the balls. They may still use the same underlying mechanics but their interactions can result in behaviors you weren't initially accounting for because there was no sort of intervention before.\n\nExponential growth is not an absolute requirement.",
+            "score": 22,
+            "que": "Except that the mathematics of viral growth *is* exponential..."
+        },
+        {
+            "id": "fmlu3ss",
+            "parent": "t1_fmlco6y",
+            "ans": "Except it's not, it's logistic. We don't have infinite people to infect.",
+            "score": 13,
+            "que": "Except that the mathematics of viral growth *is* exponential..."
+        },
+        {
+            "id": "fmngst8",
+            "parent": "t1_fmlco6y",
+            "ans": "No it's not. It's sigmoidal",
+            "score": 2,
+            "que": "Except that the mathematics of viral growth *is* exponential..."
+        },
+        {
+            "id": "fmnuoac",
+            "parent": "t1_fmlco6y",
+            "ans": "In the most na\u00efve way and when unchecked it is, but realistically it isn't.\n\nIf you're curious how to model an epidemic, to get a better understanding, checkout 3Blue1Brown's video on the topic https://youtu.be/gxAaO2rsdIs\n\nAnd you'll start to see there are a lot of factors that change the curve.  Most factors slow it down making it not really exponential, giving it a long tail too.\n\nThough, I feel that video misses an important point: resurgences if an epidemic gets squashed too much.  No one seems to be talking about it.  The world is a bigger place than these na\u00efve SIR models.",
+            "score": 1,
+            "que": "Except that the mathematics of viral growth *is* exponential..."
+        },
+        {
+            "id": "fmnzv9i",
+            "parent": "t1_fmlco6y",
+            "ans": "Is a logistic in disguise.",
+            "score": 1,
+            "que": "Except that the mathematics of viral growth *is* exponential..."
+        },
+        {
+            "id": "fmknivk",
+            "parent": "t1_fmkn9qa",
+            "ans": "it's just made up :-)",
+            "score": 18,
+            "que": "What's the original book?"
+        },
+        {
+            "id": "fmkql4g",
+            "parent": "t1_fmkn9qa",
+            "ans": "Had a quick look here but couldn\u2019t see any that did look like it.. but I like this page! https://www.oreilly.com/animals.csp",
+            "score": 8,
+            "que": "What's the original book?"
+        },
+        {
+            "id": "fmkzie1",
+            "parent": "t1_fmkn9qa",
+            "ans": "There is a book on building neural networks with keras and tensorflow , it looks similar to that",
+            "score": 2,
+            "que": "What's the original book?"
+        },
+        {
+            "id": "fmljkqm",
+            "parent": "t1_fmkn9qa",
+            "ans": "[https://www.google.com/search?q=o%27really+programming&tbm=isch&ved=2ahUKEwjV6LS7kdToAhXHdd8KHVqiCcIQ2-cCegQIABAA&oq=o%27really+programming&gs\\_lcp=CgNpbWcQAzoECCMQJzoCCAA6BQgAEIMBOgQIABBDOgQIABAeOgYIABAIEB5QhpgBWKaqAWCwqwFoAHAAeACAAXWIAaQMkgEEMTkuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=gk2LXtWfAcfr\\_QbaxKaQDA&bih=964&biw=1278&client=firefox-b-1-d](https://www.google.com/search?q=o%27really+programming&tbm=isch&ved=2ahUKEwjV6LS7kdToAhXHdd8KHVqiCcIQ2-cCegQIABAA&oq=o%27really+programming&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BQgAEIMBOgQIABBDOgQIABAeOgYIABAIEB5QhpgBWKaqAWCwqwFoAHAAeACAAXWIAaQMkgEEMTkuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=gk2LXtWfAcfr_QbaxKaQDA&bih=964&biw=1278&client=firefox-b-1-d)",
+            "score": 1,
+            "que": "What's the original book?"
+        },
+        {
+            "id": "fmnvmx5",
+            "parent": "t1_fmnvmf1",
+            "ans": "\nI see you've posted a GitHub link to a Jupyter Notebook! GitHub doesn't \nrender large Jupyter Notebooks, so just in case, here is an \n[nbviewer](https://nbviewer.jupyter.org/) link to the notebook:\n\nhttps://nbviewer.jupyter.org/url/github.com/geographybuff/Curve-fit/blob/master/Fitting%20an%20exponential%20curve%20to%20linear%20data.ipynb\n\nWant to run the code yourself? Here is a [binder](https://mybinder.org/) \nlink to start your own Jupyter server and try it out!\n\nhttps://mybinder.org/v2/gh/geographybuff/Curve-fit/master?filepath=Fitting%20an%20exponential%20curve%20to%20linear%20data.ipynb\n\n\n\n------\n\n^(I am a bot.) \n[^(Feedback)](https://www.reddit.com/message/compose/?to=jd_paton) ^(|) \n[^(GitHub)](https://github.com/JohnPaton/nbviewerbot) ^(|) \n[^(Author)](https://johnpaton.net/)",
+            "score": 2,
+            "que": "I tried it and it works.\n\n [https://github.com/geographybuff/Curve-fit/blob/master/Fitting%20an%20exponential%20curve%20to%20linear%20data.ipynb](https://github.com/geographybuff/Curve-fit/blob/master/Fitting%20an%20exponential%20curve%20to%20linear%20data.ipynb)"
+        },
+        {
+            "id": "fml9cnt",
+            "parent": "t1_fml7lcs",
+            "ans": "[The SIR and SEIR models](https://en.m.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are generally considered good starting points, they have exponential terms but importantly the coefficients are supposed to correspond to real-world measurable properties, so you can try estimating those directly (or at least see if the estimates you get from modeling are reasonable).",
+            "score": 14,
+            "que": "I know this was intended as a joke but that's exactly what I did in order to \"predict\" the number of reported cases of covid-19 in Switzerland:\nhttps://nbviewer.jupyter.org/github/grll/covid19-cases-prediction/blob/0.0.1/CasesPrediction.ipynb\n\nEven-though predictions / generalisation on future values are hard to make fitting exponential models to growth trend seems to be very common practice in this area, are there other approach ?"
+        },
+        {
+            "id": "fmnh5ym",
+            "parent": "t1_fml7lcs",
+            "ans": "Sigmoidal models. Exponential only makes sense in the short run.",
+            "score": 3,
+            "que": "I know this was intended as a joke but that's exactly what I did in order to \"predict\" the number of reported cases of covid-19 in Switzerland:\nhttps://nbviewer.jupyter.org/github/grll/covid19-cases-prediction/blob/0.0.1/CasesPrediction.ipynb\n\nEven-though predictions / generalisation on future values are hard to make fitting exponential models to growth trend seems to be very common practice in this area, are there other approach ?"
+        },
+        {
+            "id": "fml5g4z",
+            "parent": "t1_fml3m6z",
+            "ans": "https://youtu.be/sm7ArKlzHSM",
+            "score": 12,
+            "que": "Statistics show that ~~67~~87% of all statistics are made up on the spot"
+        },
+        {
+            "id": "fml4czc",
+            "parent": "t1_fml3m6z",
+            "ans": "93%",
+            "score": 4,
+            "que": "Statistics show that ~~67~~87% of all statistics are made up on the spot"
+        },
+        {
+            "id": "fmle7ky",
+            "parent": "t1_fml3m6z",
+            "ans": "But what is the 95% confidence interval?",
+            "score": 3,
+            "que": "Statistics show that ~~67~~87% of all statistics are made up on the spot"
+        },
+        {
+            "id": "fmm8oc6",
+            "parent": "t1_fml3m6z",
+            "ans": "Statstician's Blues\nhttps://youtu.be/IUK6zjtUj00",
+            "score": 2,
+            "que": "Statistics show that ~~67~~87% of all statistics are made up on the spot"
+        },
+        {
+            "id": "fmnuxls",
+            "parent": "t1_fml3m6z",
+            "ans": "Perfectly balanced",
+            "score": 1,
+            "que": "Statistics show that ~~67~~87% of all statistics are made up on the spot"
+        },
+        {
+            "id": "fmlj7lp",
+            "parent": "t1_fmlfytn",
+            "ans": "I prefer using b\u00e9zier curves and taylor/fourier expansions to model all of my data. Everything looks so smooth and the math looks so complex that it *must* be right.",
+            "score": 12,
+            "que": "May as well just always fit a skewed Guassian every time, assume everything's going to crash, every time"
+        },
+        {
+            "id": "fmltwgq",
+            "parent": "t1_fml9f1h",
+            "ans": "\"could correctly predict\" is my favorite string of letters.",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmm7wep",
+            "parent": "t1_fml9f1h",
+            "ans": "At April 1 kind of makes is sound like a joke. I'm not on Twitter to check though",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmlt8et",
+            "parent": "t1_fmlm53u",
+            "ans": "Big yikes",
+            "score": 2,
+            "que": "I actually saw this discussion play out on another sub between two non-data people playing in excel. They concluded polynomial regression was better than exponential, and far far better than linear, with all the models having r^2 of >0.95"
+        },
+        {
+            "id": "fmmgfgc",
+            "parent": "t1_fmlm53u",
+            "ans": "My eyes are bleeding",
+            "score": 2,
+            "que": "I actually saw this discussion play out on another sub between two non-data people playing in excel. They concluded polynomial regression was better than exponential, and far far better than linear, with all the models having r^2 of >0.95"
+        },
+        {
+            "id": "fmly8rs",
+            "parent": "t1_fmlm53u",
+            "ans": "Why is this inaccurate? I am a layman when it comes to statistics.",
+            "score": 3,
+            "que": "I actually saw this discussion play out on another sub between two non-data people playing in excel. They concluded polynomial regression was better than exponential, and far far better than linear, with all the models having r^2 of >0.95"
+        },
+        {
+            "id": "fnqr1fe",
+            "parent": "t1_fmlm53u",
+            "ans": "Wait till they discover Fast Fourier Transform",
+            "score": 1,
+            "que": "I actually saw this discussion play out on another sub between two non-data people playing in excel. They concluded polynomial regression was better than exponential, and far far better than linear, with all the models having r^2 of >0.95"
+        },
+        {
+            "id": "fml5mtq",
+            "parent": "t1_fmkyvns",
+            "ans": "Gotta use that adjusted R^2",
+            "score": 18,
+            "que": "I really don't get why people don't add all the variables and all the interactions possible to the model! Clearly the more you add the better since the R\\^2 gets closer to 1!\n\n  \n\n\n\\\\s"
+        },
+        {
+            "id": "fmlcc1u",
+            "parent": "t1_fmkyvns",
+            "ans": "Because the p-values are too high, obviously!",
+            "score": 6,
+            "que": "I really don't get why people don't add all the variables and all the interactions possible to the model! Clearly the more you add the better since the R\\^2 gets closer to 1!\n\n  \n\n\n\\\\s"
+        },
+        {
+            "id": "fmmkw7t",
+            "parent": "t1_fmm0qd1",
+            "ans": "Yes.  That was the joke.",
+            "score": 6,
+            "que": "Why would you even calculate R^(2) with anything but linear regression? Did I just /r/woosh? R^2 doesn't mean anything when not talking about linear regression does it?"
+        },
+        {
+            "id": "fmn1ezz",
+            "parent": "t1_fmm0qd1",
+            "ans": "the more parameters you add in multiple regression, the easier for R^2 to go up; really, people ought to be using other criteria when evaluating their model. AIC, for instance, penalizes the addition of more parameters in an attempt to limit complexity.",
+            "score": 2,
+            "que": "Why would you even calculate R^(2) with anything but linear regression? Did I just /r/woosh? R^2 doesn't mean anything when not talking about linear regression does it?"
+        },
+        {
+            "id": "fnqr7po",
+            "parent": "t1_fmm0qd1",
+            "ans": "R2 doesnt mean anything, in general.\n\nI mean, strictly mathematically it means, but in all cases it is referenced it is a rubbish metric to use.",
+            "score": 1,
+            "que": "Why would you even calculate R^(2) with anything but linear regression? Did I just /r/woosh? R^2 doesn't mean anything when not talking about linear regression does it?"
+        },
+        {
+            "id": "fmm0x28",
+            "parent": "t1_fmlxuyt",
+            "ans": "Neural networks aren't trying to maximise R^2 though, they're trying to minimise a loss function on the test set. Why would \"researchers\" even bother looking into something so silly as why R^2 wouldn't be maximised when they're not trying to maximise it?",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmlgsrf",
+            "parent": "t1_fmlfiwp",
+            "ans": "Knowing the basic underlying function is not enough. In exponential functions, small errors in your parameter estimates (such as R0) blow up into massive prediction errors over time - with even the most basic of models.\n\nEdit: whoops, meant to reply to the other guys, not you.",
+            "score": 14,
+            "que": "The models for infections due to viral spread are exponential assuming \"natural\" progression.  \n\nWith a strong understanding of the dynamics of viral transmission/spread in a population and carefully chosen interventions, you can manipulate the behavior to do just about whatever you want. The resulting data could look like almost anything. \n\nYou could have a discrete step function better model what's going on if you fully isolate cases and have the ability to intentionally cure/infect people strategically at will. I'm not proposing that, just illustrating that the data is relative to a process and the more we understand and are able control that process, the more we can manipulate what the data will look like (hopefully a nice no slope line around 0 cases eventually).\n\nTake newtonian mechanics. If I throw a ball in the air I have great well tested models that will predict its behaviors. Because I know all that information so well, I can introduce another ball and using the same model, make the balls intersect in the air in a way the primary ball has now skewed from it's natural progression that the initial model projected. A new holistic model now needs to account for the intervention of the balls. They may still use the same underlying mechanics but their interactions can result in behaviors you weren't initially accounting for because there was no sort of intervention before.\n\nExponential growth is not an absolute requirement."
+        },
+        {
+            "id": "fmm31j1",
+            "parent": "t1_fmlu3ss",
+            "ans": "At small numbers  (relative to population), the two are almost identical. They start diverging when the percent of people infected becomes a noticeable percentage of the population.",
+            "score": 1,
+            "que": "Except it's not, it's logistic. We don't have infinite people to infect."
+        },
+        {
+            "id": "fmko49a",
+            "parent": "t1_fmknivk",
+            "ans": "Happy Cake Day",
+            "score": 2,
+            "que": "it's just made up :-)"
+        },
+        {
+            "id": "fml2ym2",
+            "parent": "t1_fmkql4g",
+            "ans": "Windows Me Annoyances\nAsian Painted Frog (aka Chubby Frog)\ud83e\udd23",
+            "score": 2,
+            "que": "Had a quick look here but couldn\u2019t see any that did look like it.. but I like this page! https://www.oreilly.com/animals.csp"
+        },
+        {
+            "id": "fml9cy4",
+            "parent": "t1_fml9cnt",
+            "ans": "**Compartmental models in epidemiology**\n\nCompartmental models are a technique used to simplify the mathematical modelling of infectious disease. The population is divided into compartments, with the assumption that every individual in the same compartment has the same characteristics. Its origin is in the early 20th century, with an important early work being that of Kermack and McKendrick in 1927.The models are usually investigated through ordinary differential equations (which are deterministic), but can also be viewed in a stochastic framework, which is more realistic but also more complicated to analyze.\n\nCompartmental models may be used to predict properties of how a disease spreads, for example the prevalence (total number of infected) or the duration of an epidemic.\n\n***\n\n^([ )[^(PM)](https://www.reddit.com/message/compose?to=kittens_from_space)^( | )[^(Exclude me)](https://reddit.com/message/compose?to=WikiTextBot&message=Excludeme&subject=Excludeme)^( | )[^(Exclude from subreddit)](https://np.reddit.com/r/datascience/about/banned)^( | )[^(FAQ / Information)](https://np.reddit.com/r/WikiTextBot/wiki/index)^( | )[^(Source)](https://github.com/kittenswolf/WikiTextBot)^( ] Downvote to remove | v0.28)",
+            "score": 5,
+            "que": "[The SIR and SEIR models](https://en.m.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are generally considered good starting points, they have exponential terms but importantly the coefficients are supposed to correspond to real-world measurable properties, so you can try estimating those directly (or at least see if the estimates you get from modeling are reasonable)."
+        },
+        {
+            "id": "fmo56in",
+            "parent": "t1_fmnh5ym",
+            "ans": "Yes of course that's what I did, first an exponential fit on the first few values shows good fit but then since the increase rate start to decay the fit is bad so I used other model such as \"logistic growth\", \"Richard Growth equation\", \"logistic sigmoid growth\". But in essence all those models are just modified exponential to make them fit the data better...",
+            "score": 1,
+            "que": "Sigmoidal models. Exponential only makes sense in the short run."
+        },
+        {
+            "id": "fml961u",
+            "parent": "t1_fml4czc",
+            "ans": "[deleted]",
+            "score": 10,
+            "que": "93%"
+        },
+        {
+            "id": "fmnrut7",
+            "parent": "t1_fmle7ky",
+            "ans": "Since we're at least 95% confidence we're correct we don't have to state that because that's almost 100%",
+            "score": 3,
+            "que": "But what is the 95% confidence interval?"
+        },
+        {
+            "id": "fmlp60h",
+            "parent": "t1_fmlj7lp",
+            "ans": "Third order approximations can't possibly be wrong!",
+            "score": 7,
+            "que": "I prefer using b\u00e9zier curves and taylor/fourier expansions to model all of my data. Everything looks so smooth and the math looks so complex that it *must* be right."
+        },
+        {
+            "id": "fmm8t3v",
+            "parent": "t1_fmm7wep",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "At April 1 kind of makes is sound like a joke. I'm not on Twitter to check though"
+        },
+        {
+            "id": "fmlzlss",
+            "parent": "t1_fmly8rs",
+            "ans": "polynomial regression just draws a line through each point. obviously, if you draw a line through every single point, you will have a high r squared value.\n\nnow, how does that predict on new data? probably pretty bad.",
+            "score": 29,
+            "que": "Why is this inaccurate? I am a layman when it comes to statistics."
+        },
+        {
+            "id": "fmntw4j",
+            "parent": "t1_fmly8rs",
+            "ans": "You don't want to overfit your model to the data.  This can be explained through exploring the bias-variance trade off.\n\nHere is a great video that goes over it and explains it really well: https://youtu.be/EuBBz3bI-aA",
+            "score": 3,
+            "que": "Why is this inaccurate? I am a layman when it comes to statistics."
+        },
+        {
+            "id": "fmnbv8h",
+            "parent": "t1_fmn1ezz",
+            "ans": "I totally get that, but the OP said parameter interactions, which means it's no longer linear and using R^(2) no longer makes any sense.",
+            "score": 2,
+            "que": "the more parameters you add in multiple regression, the easier for R^2 to go up; really, people ought to be using other criteria when evaluating their model. AIC, for instance, penalizes the addition of more parameters in an attempt to limit complexity."
+        },
+        {
+            "id": "fmnc785",
+            "parent": "t1_fmm0x28",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Neural networks aren't trying to maximise R^2 though, they're trying to minimise a loss function on the test set. Why would \"researchers\" even bother looking into something so silly as why R^2 wouldn't be maximised when they're not trying to maximise it?"
+        },
+        {
+            "id": "fmlpq6p",
+            "parent": "t1_fmlgsrf",
+            "ans": "That's what the shaded \"Confidence Regions\" are for.",
+            "score": 3,
+            "que": "Knowing the basic underlying function is not enough. In exponential functions, small errors in your parameter estimates (such as R0) blow up into massive prediction errors over time - with even the most basic of models.\n\nEdit: whoops, meant to reply to the other guys, not you."
+        },
+        {
+            "id": "fmm4sc5",
+            "parent": "t1_fmm31j1",
+            "ans": "The whole challenge of epidemiological forecasting is predicting when the two models diverge.",
+            "score": 2,
+            "que": "At small numbers  (relative to population), the two are almost identical. They start diverging when the percent of people infected becomes a noticeable percentage of the population."
+        },
+        {
+            "id": "fmkoe9o",
+            "parent": "t1_fmko49a",
+            "ans": "Thank you!",
+            "score": 1,
+            "que": "Happy Cake Day"
+        },
+        {
+            "id": "fmlcfv1",
+            "parent": "t1_fml961u",
+            "ans": "SigFigs FTW",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmm7el4",
+            "parent": "t1_fmlp60h",
+            "ans": "if anyone criticizing you can't pronounce the model you're using, it means they can't tell you how you're wrong!",
+            "score": 8,
+            "que": "Third order approximations can't possibly be wrong!"
+        },
+        {
+            "id": "fmmkmp5",
+            "parent": "t1_fmlp60h",
+            "ans": "Why stop there?  With n terms you can fit n+1 points.",
+            "score": 4,
+            "que": "Third order approximations can't possibly be wrong!"
+        },
+        {
+            "id": "fmm92ve",
+            "parent": "t1_fmm8t3v",
+            "ans": "Thanks bro",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmm6kuv",
+            "parent": "t1_fmlzlss",
+            "ans": "> polynomial regression just draes a line through each point\n\nJust want to clarify op is vastly oversimplifying. This not what a polynomial regression does at all. Polynomial regressions is no different than a multiple regression. A high a degree polynomial can explain all of the variation in your observed data including random noise. Meaning you are effectively modeling an instance of randomness. Obviously random things dont stay the same. It kind of like observing a coin toss of HT... and concluding that all coin tosess start with heads. Kind of...\n\nIn any case you should be using multiple adjusted R^2 for any multiple regression. This is just bad stats.",
+            "score": 15,
+            "que": "polynomial regression just draws a line through each point. obviously, if you draw a line through every single point, you will have a high r squared value.\n\nnow, how does that predict on new data? probably pretty bad."
+        },
+        {
+            "id": "fmm9wc8",
+            "parent": "t1_fmlzlss",
+            "ans": "Only true if the number of samples is equal to number of coefficients. Least squares solutions in case of more samples generally do not go through every point (aka interpolation) as long as the true function is not a polynomial with the same basis.\nEdit: Grammar",
+            "score": 3,
+            "que": "polynomial regression just draws a line through each point. obviously, if you draw a line through every single point, you will have a high r squared value.\n\nnow, how does that predict on new data? probably pretty bad."
+        },
+        {
+            "id": "fmncku1",
+            "parent": "t1_fmnc785",
+            "ans": "If you think I disagreed with you because you think I was the one that downvoted you, I wasn't.\n\nI just didn't understand why researchers would be trying to figure out why parameters and parameter interactions would increase \"R^(2)\" for neural networks whatever the interpretation of \"R^(2)\" would mean in that circumstance. What could possibly be the reason anyone would research that? Why is it remarkable that it doesn't work with neural networks?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmm0uw8",
+            "parent": "t1_fmlpq6p",
+            "ans": "True, confidence bands provide good context for the model. In an exponential situation though, the confidence regions explode in size. If your model says, \"between 100,000 and 2,000,000 deaths\" that's a giant range and doesn't tell you much information, other than that you should be freaking out. But did you really need a model to tell you that?",
+            "score": 6,
+            "que": "That's what the shaded \"Confidence Regions\" are for."
+        },
+        {
+            "id": "fmnrwxk",
+            "parent": "t1_fmmkmp5",
+            "ans": "My model fits the universe throughout all of history.  Not sure about tomorrow though.",
+            "score": 7,
+            "que": "Why stop there?  With n terms you can fit n+1 points."
+        },
+        {
+            "id": "fmmbn3g",
+            "parent": "t1_fmm6kuv",
+            "ans": "right, i don't mean to imply that polynomial regression isn't an extension of multiple regression. the coefficients remain linear. well, in any case, r squared is just another metric that's usually misapplied.",
+            "score": 2,
+            "que": "> polynomial regression just draes a line through each point\n\nJust want to clarify op is vastly oversimplifying. This not what a polynomial regression does at all. Polynomial regressions is no different than a multiple regression. A high a degree polynomial can explain all of the variation in your observed data including random noise. Meaning you are effectively modeling an instance of randomness. Obviously random things dont stay the same. It kind of like observing a coin toss of HT... and concluding that all coin tosess start with heads. Kind of...\n\nIn any case you should be using multiple adjusted R^2 for any multiple regression. This is just bad stats."
+        },
+        {
+            "id": "fmngh1c",
+            "parent": "t1_fmm9wc8",
+            "ans": "I can probably do it with n-1 parameters",
+            "score": 2,
+            "que": "Only true if the number of samples is equal to number of coefficients. Least squares solutions in case of more samples generally do not go through every point (aka interpolation) as long as the true function is not a polynomial with the same basis.\nEdit: Grammar"
+        },
+        {
+            "id": "fmmc17u",
+            "parent": "t1_fmm9wc8",
+            "ans": "well, my guess is that if they were looking at rsquared exclusively, they probably thought \"wow, the r squared keeps increasing if we keep adding coefficients\".",
+            "score": 1,
+            "que": "Only true if the number of samples is equal to number of coefficients. Least squares solutions in case of more samples generally do not go through every point (aka interpolation) as long as the true function is not a polynomial with the same basis.\nEdit: Grammar"
+        },
+        {
+            "id": "fmnct24",
+            "parent": "t1_fmncku1",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "If you think I disagreed with you because you think I was the one that downvoted you, I wasn't.\n\nI just didn't understand why researchers would be trying to figure out why parameters and parameter interactions would increase \"R^(2)\" for neural networks whatever the interpretation of \"R^(2)\" would mean in that circumstance. What could possibly be the reason anyone would research that? Why is it remarkable that it doesn't work with neural networks?"
+        },
+        {
+            "id": "fmm1jfd",
+            "parent": "t1_fmm0uw8",
+            "ans": ">But did you really need a model to tell you that?\n\nI can't tell if I needed to add /s to my post or not.",
+            "score": 1,
+            "que": "True, confidence bands provide good context for the model. In an exponential situation though, the confidence regions explode in size. If your model says, \"between 100,000 and 2,000,000 deaths\" that's a giant range and doesn't tell you much information, other than that you should be freaking out. But did you really need a model to tell you that?"
+        },
+        {
+            "id": "fmmcmu0",
+            "parent": "t1_fmmc17u",
+            "ans": "Probably. Although i dislike the software, [this article](https://blog.minitab.com/blog/adventures-in-statistics-2/why-is-there-no-r-squared-for-nonlinear-regression) is quite well written on that topic and i especially suggest reading the linked paper.",
+            "score": 1,
+            "que": "well, my guess is that if they were looking at rsquared exclusively, they probably thought \"wow, the r squared keeps increasing if we keep adding coefficients\"."
+        },
+        {
+            "id": "fmndde4",
+            "parent": "t1_fmnct24",
+            "ans": "I'm not asking what the research question is. I'm asking why they're asking that specific research question. What relevance does it have to anything else? R^(2) has an interpretation in linear regression, and you can extend that interpretation to multilinear regression. Beyond that it really doesn't have an interpretation as far as I'm aware.\n\nWhy do they care what some random value that has no interpretation takes?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fmmxhch",
+            "parent": "t1_fmm1jfd",
+            "ans": "Ha, that last bit was 500% tongue in cheek. Though I totally missed your sarcasm!",
+            "score": 3,
+            "que": ">But did you really need a model to tell you that?\n\nI can't tell if I needed to add /s to my post or not."
+        }
+    ]
+}

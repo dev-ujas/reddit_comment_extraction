@@ -1,0 +1,554 @@
+{
+    "title": "Thoughts?",
+    "id": "10y2rrx",
+    "create_at": 1675968872.0,
+    "score": 1725,
+    "comments": [
+        {
+            "id": "j7wcleq",
+            "parent": "t1_j7vwph1",
+            "ans": "I feel this.",
+            "score": 50,
+            "que": "Ome of my teachers used to say: \"if you get nothing but praise from non technical management with good results, you definitely have to double check your work\""
+        },
+        {
+            "id": "j7y7qyo",
+            "parent": "t1_j7vwph1",
+            "ans": "Omg yes. I feel like if my results aren't criticized at least a little, stakeholders didn't even think about them. Also for larger projects, false positives in a PoC can waste a lot of money.",
+            "score": 21,
+            "que": "Ome of my teachers used to say: \"if you get nothing but praise from non technical management with good results, you definitely have to double check your work\""
+        },
+        {
+            "id": "j7z4at5",
+            "parent": "t1_j7vwph1",
+            "ans": "I've heard people trust pretty/clean graphs and distrust ugly/busy ones regardless of what the data says. So true!",
+            "score": 14,
+            "que": "Ome of my teachers used to say: \"if you get nothing but praise from non technical management with good results, you definitely have to double check your work\""
+        },
+        {
+            "id": "j7z3tau",
+            "parent": "t1_j7vwph1",
+            "ans": "Also remember you're the first one under the bus when reality finally shows up. Maybe in a court room with a team of weasels asking pointed questions.",
+            "score": 7,
+            "que": "Ome of my teachers used to say: \"if you get nothing but praise from non technical management with good results, you definitely have to double check your work\""
+        },
+        {
+            "id": "j7yivoz",
+            "parent": "t1_j7vwph1",
+            "ans": "Wow!! On point..",
+            "score": 2,
+            "que": "Ome of my teachers used to say: \"if you get nothing but praise from non technical management with good results, you definitely have to double check your work\""
+        },
+        {
+            "id": "jas25ss",
+            "parent": "t1_j7vwph1",
+            "ans": "Hey man, Im so sorry Im replying to another comment but can you please help me if possible? You seem to be really knowledgeable and would love to know how you would go about my problem. This is the link to the reddit post. \n\nhttps://www.reddit.com/r/datascience/comments/11h6d4v/data\\_scientists\\_of\\_redditi\\_need\\_help\\_to\\_analyze\\_a/",
+            "score": 2,
+            "que": "Ome of my teachers used to say: \"if you get nothing but praise from non technical management with good results, you definitely have to double check your work\""
+        },
+        {
+            "id": "j7wmu61",
+            "parent": "t1_j7vvfz0",
+            "ans": "I\u2019m a weather forecaster for the Air Force studying Data Science for when I separate and it is like that for weather forecasting too. You give someone a great outlook for their flight and they have zero questions. But if I\u2019m giving bad news I have to come with a stack of receipts that would make a tax auditor sad.",
+            "score": 92,
+            "que": "Bad news is definitely a lot more challenging\n\nI'll report the results faithfully, but the moment I realize it's bad news I am like ah shit, I gotta have all my bases covered now"
+        },
+        {
+            "id": "j7xan1n",
+            "parent": "t1_j7vvfz0",
+            "ans": "Yeah, its kind of natural that when you report something *unexpected* it will be under more scrutiny.  So I'd expect to have to answer more questions about methodology in cases like this.  However if the organization is good, in the end, data analysis that shows bad news will still be utilized in order to fix problems.",
+            "score": 29,
+            "que": "Bad news is definitely a lot more challenging\n\nI'll report the results faithfully, but the moment I realize it's bad news I am like ah shit, I gotta have all my bases covered now"
+        },
+        {
+            "id": "j7y381h",
+            "parent": "t1_j7vvfz0",
+            "ans": "even worse, scientifically proven, the bringer of bad news get \"negative points\" for doing so even if it is not his fault or in his power to change it.\n\nProbably better to just burry this news but yeah wouldn0t want to work at such a place were this would become necessary.",
+            "score": 6,
+            "que": "Bad news is definitely a lot more challenging\n\nI'll report the results faithfully, but the moment I realize it's bad news I am like ah shit, I gotta have all my bases covered now"
+        },
+        {
+            "id": "j7x28fj",
+            "parent": "t1_j7vp9nv",
+            "ans": "I've heard about confirmation bias too, so this sounds right to me",
+            "score": 126,
+            "que": "Confirmation bias is a very real thing. Wouldn't doubt it for a second. It happens in all areas. Look up the file drawer effect. Scary stuff."
+        },
+        {
+            "id": "j7xqo2g",
+            "parent": "t1_j7vp9nv",
+            "ans": "I tried to explain this to some \u201cscience worshippers\u201d, but they just couldn\u2019t get it through their heads. \u201cthey\u2019re numbers! Facts! How could they be wrong?\u201d Oh my sweet summer child.",
+            "score": 20,
+            "que": "Confirmation bias is a very real thing. Wouldn't doubt it for a second. It happens in all areas. Look up the file drawer effect. Scary stuff."
+        },
+        {
+            "id": "j81oszg",
+            "parent": "t1_j7vp9nv",
+            "ans": ">Confirmation bias is a very real thing. Wouldn't doubt it for a second.\n\nConfirmation bias confirmed! :)",
+            "score": 2,
+            "que": "Confirmation bias is a very real thing. Wouldn't doubt it for a second. It happens in all areas. Look up the file drawer effect. Scary stuff."
+        },
+        {
+            "id": "j7wzr1g",
+            "parent": "t1_j7w6c8g",
+            "ans": "This is very true. However, could you rephrase it in frequentist terms?",
+            "score": 63,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7wtk4q",
+            "parent": "t1_j7w6c8g",
+            "ans": "Should be top answer.",
+            "score": 11,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7wmnao",
+            "parent": "t1_j7w6c8g",
+            "ans": "This 100%",
+            "score": 20,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7xbof2",
+            "parent": "t1_j7w6c8g",
+            "ans": "Alas you\u2019ve built the baby boomer business executive model from scratch.",
+            "score": 11,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7y1alw",
+            "parent": "t1_j7w6c8g",
+            "ans": "I mean, at the end of the day, we\u2019re all Bayesian- at least informally.",
+            "score": 4,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7ywjeh",
+            "parent": "t1_j7w6c8g",
+            "ans": "Isn't the point of Bayesian reasoning to update your priors?\n\nIt seems like the opposite of what Bayesian reasoning is trying to achieve.",
+            "score": 3,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7y0ee6",
+            "parent": "t1_j7w6c8g",
+            "ans": "So in other words, there\u2019s a term to justify, rationalize, and make confirmation bias seem reasonable.. called \u201cBayeson Reasoning\u201d\u2026 how ridiculous \ud83d\ude02",
+            "score": -7,
+            "que": "They're just describing Bayesian reasoning. \n\nManagement has priors. Even a weak analysis that confirms their priors strengthens them. \n\nEvidence that goes against management's priors won't change their priors unless it's particularly strong, so management has to make sure the evidence is strong."
+        },
+        {
+            "id": "j7y36n1",
+            "parent": "t1_j7wmstx",
+            "ans": "High-quality post right here. I've never been deliberate about doing what you've laid out here, but in retrospect, the most success I've had are the times that resembled it. \n\nIn fact, I can think of a couple times when the situation resolved itself because the leadership heard about my data from so many vectors that they came to my recommended conclusion on their own!",
+            "score": 9,
+            "que": "The problem with only providing data driven confirmation of management is they can easily question whether data driven analytics is needed.\n\nAfter finding and double checking insights that challenge the status quo, I search for a \"champion\" in the management side to broach my initial results with - the higher up the better, with C-Suite being the best. If my stats and data can back up the research, I can at least *germinate* the challenging idea in their minds. The strategy here is to not drop a bombshell on management but slowly disseminate information to them, preferably from someone inside management. This allows me to present my challenging findings sandwiched between more digestible insights. Doesn't always work out but it's better to coach people to expect bad/challenging news rather than surprising them with it.\n\nFinally, its a numbers game. Can you really expect 100% of your data driven insights to be actioned upon without question? It's possible that your insights themselves are driven by limited data or knowledge or both."
+        },
+        {
+            "id": "j7zz54a",
+            "parent": "t1_j7wmstx",
+            "ans": "Ahh, the boiling frog theory.",
+            "score": 3,
+            "que": "The problem with only providing data driven confirmation of management is they can easily question whether data driven analytics is needed.\n\nAfter finding and double checking insights that challenge the status quo, I search for a \"champion\" in the management side to broach my initial results with - the higher up the better, with C-Suite being the best. If my stats and data can back up the research, I can at least *germinate* the challenging idea in their minds. The strategy here is to not drop a bombshell on management but slowly disseminate information to them, preferably from someone inside management. This allows me to present my challenging findings sandwiched between more digestible insights. Doesn't always work out but it's better to coach people to expect bad/challenging news rather than surprising them with it.\n\nFinally, its a numbers game. Can you really expect 100% of your data driven insights to be actioned upon without question? It's possible that your insights themselves are driven by limited data or knowledge or both."
+        },
+        {
+            "id": "j823yze",
+            "parent": "t1_j7wmstx",
+            "ans": "My management has mastered giving no credit for innovation. 2-3 months after a profitable new finding is delivered, managers act as if \u201cwe knew that all along\u201d. Justifying their bias that they don\u2019t need to pay for technical staff. \n\nAlso makes year end rankings a real bummer.",
+            "score": 1,
+            "que": "The problem with only providing data driven confirmation of management is they can easily question whether data driven analytics is needed.\n\nAfter finding and double checking insights that challenge the status quo, I search for a \"champion\" in the management side to broach my initial results with - the higher up the better, with C-Suite being the best. If my stats and data can back up the research, I can at least *germinate* the challenging idea in their minds. The strategy here is to not drop a bombshell on management but slowly disseminate information to them, preferably from someone inside management. This allows me to present my challenging findings sandwiched between more digestible insights. Doesn't always work out but it's better to coach people to expect bad/challenging news rather than surprising them with it.\n\nFinally, its a numbers game. Can you really expect 100% of your data driven insights to be actioned upon without question? It's possible that your insights themselves are driven by limited data or knowledge or both."
+        },
+        {
+            "id": "j7vw0c0",
+            "parent": "t1_j7vtr9c",
+            "ans": "And understand the data / story behind it.",
+            "score": 43,
+            "que": "Not necessarily, but you must become good at comunicating bad news and proposing quality alternatives."
+        },
+        {
+            "id": "j7wiysa",
+            "parent": "t1_j7vtr9c",
+            "ans": "A lot hinges on company culture too\n\nThere are some places where you can't be anything other than a glorified yes-man... find a place where it's ok to go against the grain and you'll have a much better time (if you enjoy being able to challenge ideas, etc)",
+            "score": 24,
+            "que": "Not necessarily, but you must become good at comunicating bad news and proposing quality alternatives."
+        },
+        {
+            "id": "j824gpb",
+            "parent": "t1_j7w00fr",
+            "ans": "Most c-suites I\u2019ve worked with want whatever answer allows them to maximize share buybacks before year end. \n\nIn this system, VP\u2019s and Directors become firefighters lacking agency. Many of their emails are forwarded nastygrams from c-suite asking why we\u2019re chasing value as opposed to whatever dilutive metric investor relations promised the street that quarter.",
+            "score": 2,
+            "que": "This depends entirely on what level of management and the decisions involved post-analysis. Most C level execs that I\u2019ve worked with want what\u2019s best for the company, regardless if the analysis supports their \u201cgut feeling\u201d. \n\nVP level is typically where the headache is, I\u2019ve seen analyses \u201credirected\u201d once it doesn\u2019t go their way. Something along the lines of \u201cThis seems a bit wrong, maybe we should look at it from this angle.\u201d And that happens until we arrive somewhere that an obscure and complex KPI is formulated for future use that they\u2019re able to explain how well they\u2019re doing. It\u2019s funny because I\u2019ve never seen this actually work once it is reviewed by the C-Level. They shoot holes in it until the KPI is removed from production (maybe that\u2019s the goal?). \n\nDirectors don\u2019t really care one way or the other and the stuff I work on is above the level of first line managers pay grade to care about, they\u2019re too busy putting out daily fires."
+        },
+        {
+            "id": "j7wk4pq",
+            "parent": "t1_j7w0rxb",
+            "ans": "I'm stealing the Case quote. Thanks \ud83d\udc4d",
+            "score": 2,
+            "que": "Data Mining, noun: \"An unethical econometric practice of massaging and manipulating the data to obtain the desired results.\"\n-- W. S. Brown (Introducing Econometrics)\n\nIf you torture the data enough, it will confess to anything.\n-- Ronald H. Coase"
+        },
+        {
+            "id": "j7yd5du",
+            "parent": "t1_j7w0rxb",
+            "ans": "A friend of mine who is doing a Ph.D. program gave me the same quote. But yeah, information given under duress is notoriously inaccurate.",
+            "score": 2,
+            "que": "Data Mining, noun: \"An unethical econometric practice of massaging and manipulating the data to obtain the desired results.\"\n-- W. S. Brown (Introducing Econometrics)\n\nIf you torture the data enough, it will confess to anything.\n-- Ronald H. Coase"
+        },
+        {
+            "id": "j7z0d8c",
+            "parent": "t1_j7w0rxb",
+            "ans": "I have been using the Coase quote to people for years, it\u2019s still one of my favorites to use given how often situations like these pop up.",
+            "score": 1,
+            "que": "Data Mining, noun: \"An unethical econometric practice of massaging and manipulating the data to obtain the desired results.\"\n-- W. S. Brown (Introducing Econometrics)\n\nIf you torture the data enough, it will confess to anything.\n-- Ronald H. Coase"
+        },
+        {
+            "id": "j83uvk5",
+            "parent": "t1_j7w0rxb",
+            "ans": "It's Thai massaging?",
+            "score": 1,
+            "que": "Data Mining, noun: \"An unethical econometric practice of massaging and manipulating the data to obtain the desired results.\"\n-- W. S. Brown (Introducing Econometrics)\n\nIf you torture the data enough, it will confess to anything.\n-- Ronald H. Coase"
+        },
+        {
+            "id": "j7z54si",
+            "parent": "t1_j7wgt5e",
+            "ans": "\u201cUpper management executives does not like being called out in the open\u201d - 100% When I discover something undesirable I meet with my immediate stakeholders in private on what is going on to craft a narrative that still makes our team look good and that may mean discarding insights, although ideally we go for \u201cit\u2019s bad\u2026 but not that bad, or\u2026 not because of us\u201d.",
+            "score": 1,
+            "que": "This has existed long before data scientists were even a thing.\n\nUpper management has always had these traits in a lot of companies and there have always existed Yesmen who stoke their egos.\n\nAs a data scientist, you have the unique skill sets to prove or disprove assumptions using concrete data. But you have to be smart about how you approach these issues. No one likes a smart ass, especially not highly paid executives.\n\nUpper management executives does not like being called out in the open. You have to take people into confidence and share your findings, making considerable effort to not present it as an refutation of their ideas. \n\nYeah this can really suck and can be quite emotionally draining on a day-to-day basis. \n\nThere will always exist egomaniacs who cannot fathom being wrong.\n\nThe choice we usually have it suck it up or walk away. There is always a better opportunity around the corner."
+        },
+        {
+            "id": "j7z6jdg",
+            "parent": "t1_j7xqckh",
+            "ans": "100% - we have to read between the lines here.  Asssumingly, OP (like me tbf) works in advising decisions without much consequence. I work in marketing tech in entertainment and the decisions we are making are not important enough for me to make a big case if their vision is wrong. The alternatives are all fine. When they are likely wrong, I express more uncertainty or express sofly there might be beter options they could consider to cover myself. \n\nIn your case, ethics are at play and you need to be able to sleep at night. I would rather have my analysis hated and even be fired than to validate an insight that would hurt anyone. I purposely pick jobs with low stakes because now I know that there is always some subjectivity in data analysis, knowingly or not, and I need to be able to disconnect from work.",
+            "score": 3,
+            "que": "It just depends on where you work. I work at a biotech company, and management definitely understands that pursuing the wrong science will eventually result in disaster, so while some results are definitely seen as a \u201cbummer\u201d, it\u2019s also recognized that you may have helped the team dodge a bullet.\n\nI read posts like this one and it literally makes me sad to know that people have to waste their talents essentially lying extremely convincingly for a living. It\u2019s like they say, \u201cthere are three kinds of lies: lies, damned lies, and statistics.\u201d"
+        },
+        {
+            "id": "j7wduie",
+            "parent": "t1_j7w5aos",
+            "ans": "Not sure what you\u2019re trying to implicate here. Dr. Fauci is a medical professional with almost 40 years of experience, not a business executive with an agenda.",
+            "score": 3,
+            "que": "But yeah let's all believe the \"experts\"\n\nI cried laughing when Fauci said \"I represent the science.\""
+        },
+        {
+            "id": "j7xyllt",
+            "parent": "t1_j7witet",
+            "ans": "Thanks for the share. I\u2019m going to read up on this.",
+            "score": 1,
+            "que": "I've found that whether you're doing [Potemkin data science](https://mcorrell.medium.com/potemkin-data-science-fba2b5ba5cc6) varies a lot depending on who you work with, including in the same organization.  If you have to deliver bad news and you're not dealing with Potemkin data science, then it's best to more evidence than if it supports what they think.  If it's a big enough claim then you're in \"extraordinary claims require extraordinary evidence\" territory."
+        },
+        {
+            "id": "j7z714q",
+            "parent": "t1_j7yeki4",
+            "ans": "That usually means the data person is looking to validate their own insights, unknowingly as a bias, by picking up validating insights and ignoring anything else.\n\nIn this case the data person is aware of the situation but needs to actively pick and choose insights that support/help stakeholders make their point.",
+            "score": 1,
+            "que": "Yes, it's called \"confirmation bias\", pretty sure it's mentioned in any stats/ds 101 textbook."
+        },
+        {
+            "id": "jas2dfk",
+            "parent": "t1_j7z4at5",
+            "ans": "Hey man, Im so sorry Im replying to another comment but can you please help me if possible? You seem to be really knowledgeable and would love to know how you would go about my problem. This is the link to the reddit post.   \nhttps://www.reddit.com/r/datascience/comments/11h6d4v/data\\_scientists\\_of\\_redditi\\_need\\_help\\_to\\_analyze\\_a/",
+            "score": 1,
+            "que": "I've heard people trust pretty/clean graphs and distrust ugly/busy ones regardless of what the data says. So true!"
+        },
+        {
+            "id": "j80kan5",
+            "parent": "t1_j7z3tau",
+            "ans": "they're turning you into the scapegoat of their mismanagement.",
+            "score": 3,
+            "que": "Also remember you're the first one under the bus when reality finally shows up. Maybe in a court room with a team of weasels asking pointed questions."
+        },
+        {
+            "id": "jasfg09",
+            "parent": "t1_jas25ss",
+            "ans": "Sure I'll can take a peak, but the post seems to be removed, DM me with the question if ya want.",
+            "score": 1,
+            "que": "Hey man, Im so sorry Im replying to another comment but can you please help me if possible? You seem to be really knowledgeable and would love to know how you would go about my problem. This is the link to the reddit post. \n\nhttps://www.reddit.com/r/datascience/comments/11h6d4v/data\\_scientists\\_of\\_redditi\\_need\\_help\\_to\\_analyze\\_a/"
+        },
+        {
+            "id": "j7xw10d",
+            "parent": "t1_j7wmu61",
+            "ans": "[deleted]",
+            "score": 24,
+            "que": "I\u2019m a weather forecaster for the Air Force studying Data Science for when I separate and it is like that for weather forecasting too. You give someone a great outlook for their flight and they have zero questions. But if I\u2019m giving bad news I have to come with a stack of receipts that would make a tax auditor sad."
+        },
+        {
+            "id": "j7x5ya4",
+            "parent": "t1_j7x28fj",
+            "ans": "Ahaaa, I see what ya did there buddy. Nice one",
+            "score": 19,
+            "que": "I've heard about confirmation bias too, so this sounds right to me"
+        },
+        {
+            "id": "j7ybu42",
+            "parent": "t1_j7x28fj",
+            "ans": "You're funny.",
+            "score": 1,
+            "que": "I've heard about confirmation bias too, so this sounds right to me"
+        },
+        {
+            "id": "j7yddlb",
+            "parent": "t1_j7x28fj",
+            "ans": "Nah, that's the anchoring effect.",
+            "score": -1,
+            "que": "I've heard about confirmation bias too, so this sounds right to me"
+        },
+        {
+            "id": "j80kmtk",
+            "parent": "t1_j7xqo2g",
+            "ans": "context please?",
+            "score": 3,
+            "que": "I tried to explain this to some \u201cscience worshippers\u201d, but they just couldn\u2019t get it through their heads. \u201cthey\u2019re numbers! Facts! How could they be wrong?\u201d Oh my sweet summer child."
+        },
+        {
+            "id": "j81rilj",
+            "parent": "t1_j81oszg",
+            "ans": "Confirmation bias inception? \ud83d\udc80",
+            "score": 2,
+            "que": ">Confirmation bias is a very real thing. Wouldn't doubt it for a second.\n\nConfirmation bias confirmed! :)"
+        },
+        {
+            "id": "j7wzzry",
+            "parent": "t1_j7wzr1g",
+            "ans": "Sure.\n\n\"Herpa derpa p-values go brrrr\"\n\nHope that helps.",
+            "score": 227,
+            "que": "This is very true. However, could you rephrase it in frequentist terms?"
+        },
+        {
+            "id": "j7y1pxv",
+            "parent": "t1_j7y1alw",
+            "ans": "True, though there's a certain breed of data scientist that seems to forget that.",
+            "score": 2,
+            "que": "I mean, at the end of the day, we\u2019re all Bayesian- at least informally."
+        },
+        {
+            "id": "j7z0t72",
+            "parent": "t1_j7ywjeh",
+            "ans": "But that's exactly what they're doing. Good news updates their priors to make it stronger. Bad news updates their priors to make it weaker, but it might not be enough to flip it from positive to negative. That's why they try to find out how strong the evidence is. \n\nGoing from 80% confident to 60% confident does not change the decision.",
+            "score": 8,
+            "que": "Isn't the point of Bayesian reasoning to update your priors?\n\nIt seems like the opposite of what Bayesian reasoning is trying to achieve."
+        },
+        {
+            "id": "j7y0wal",
+            "parent": "t1_j7y0ee6",
+            "ans": "And you're pretending to be a tabula rasa about everything? Horses are equally likely to zebras when you hear hoofbeats in America?",
+            "score": 6,
+            "que": "So in other words, there\u2019s a term to justify, rationalize, and make confirmation bias seem reasonable.. called \u201cBayeson Reasoning\u201d\u2026 how ridiculous \ud83d\ude02"
+        },
+        {
+            "id": "j7w7e44",
+            "parent": "t1_j7vw0c0",
+            "ans": "Yea, give a better story. Tons of soft power in data",
+            "score": 31,
+            "que": "And understand the data / story behind it."
+        },
+        {
+            "id": "j7xbw2x",
+            "parent": "t1_j7wiysa",
+            "ans": "I will add to that in my experiences, the older the company is (eg 50+ years) the more this effect is seen/felt",
+            "score": 3,
+            "que": "A lot hinges on company culture too\n\nThere are some places where you can't be anything other than a glorified yes-man... find a place where it's ok to go against the grain and you'll have a much better time (if you enjoy being able to challenge ideas, etc)"
+        },
+        {
+            "id": "j7wgpqu",
+            "parent": "t1_j7wduie",
+            "ans": "Oh shit was I to vague?\n\nHere I will clear that up.\n\n\"Dr.\" Fauci is a prolific mass murder who did it all for the money.\n\nEvery study coming out of his organizations surrounding the vaccines are deliberately skewed to look good.\n\nNot to his bosses because he's the boss, more likely his investors.\n\nHe also funded the research done by the institute of virology.\n\nSomething he doesn't hide, he also covers for the chinese government because he is in their pocket.\n\nBelieve what you want, Fauci's own colleges have criticized him as a political TV doctor, closer to Mimet Oz or Doctor Phil.\n\nThey all say as far as his actual contributions he has done almost nothing.\n\nHe is at the top because he is awesome at lying, pandering and brown nosing.",
+            "score": -3,
+            "que": "Not sure what you\u2019re trying to implicate here. Dr. Fauci is a medical professional with almost 40 years of experience, not a business executive with an agenda."
+        },
+        {
+            "id": "jasfrep",
+            "parent": "t1_jasfg09",
+            "ans": "surely thank you so much. kindly check dm",
+            "score": 1,
+            "que": "Sure I'll can take a peak, but the post seems to be removed, DM me with the question if ya want."
+        },
+        {
+            "id": "j7zimmn",
+            "parent": "t1_j7xw10d",
+            "ans": "Damn, i never knew that. I'm going to start using this to sound smart",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j81cuvs",
+            "parent": "t1_j80kmtk",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "context please?"
+        },
+        {
+            "id": "j7x1t35",
+            "parent": "t1_j7wzzry",
+            "ans": "Lovely",
+            "score": 45,
+            "que": "Sure.\n\n\"Herpa derpa p-values go brrrr\"\n\nHope that helps."
+        },
+        {
+            "id": "j7x9bz7",
+            "parent": "t1_j7wzzry",
+            "ans": "Perfection.",
+            "score": 20,
+            "que": "Sure.\n\n\"Herpa derpa p-values go brrrr\"\n\nHope that helps."
+        },
+        {
+            "id": "j7xcgjg",
+            "parent": "t1_j7wzzry",
+            "ans": "Thanks thats all I needed",
+            "score": 14,
+            "que": "Sure.\n\n\"Herpa derpa p-values go brrrr\"\n\nHope that helps."
+        },
+        {
+            "id": "j81oluz",
+            "parent": "t1_j7wzzry",
+            "ans": "But your analysis still needs p values for management to care. Even with beautiful confidence intervals and effect size analysis. Its infuriating.",
+            "score": 2,
+            "que": "Sure.\n\n\"Herpa derpa p-values go brrrr\"\n\nHope that helps."
+        },
+        {
+            "id": "j83ugm2",
+            "parent": "t1_j7wzzry",
+            "ans": "*Hispa",
+            "score": 1,
+            "que": "Sure.\n\n\"Herpa derpa p-values go brrrr\"\n\nHope that helps."
+        },
+        {
+            "id": "j7z8rm3",
+            "parent": "t1_j7z0t72",
+            "ans": "Bayesian priors are supposed to update your priors in a rational, correct way.\n\nIt's not supposed to be more skeptical to evidence that disproves your priors and enthusiastically accept evidence that supports it.\n\nIf the evidence kills your prior, Bayes will reflect that.\n\nIf the evidence only weakly supports it, Bayes won't be over enthusiastic.\n\nThe original comment made it sound like Bayes is biased to evidence which supports your priors and doesn't want evidence which goes against your priors unless it's particularly strong.\n\nI think that's a misleading way to put it. Bayes updates your priors objectively, rationally and fairly. Its not harsher against disproving evidence.",
+            "score": -2,
+            "que": "But that's exactly what they're doing. Good news updates their priors to make it stronger. Bad news updates their priors to make it weaker, but it might not be enough to flip it from positive to negative. That's why they try to find out how strong the evidence is. \n\nGoing from 80% confident to 60% confident does not change the decision."
+        },
+        {
+            "id": "j7y2las",
+            "parent": "t1_j7y0wal",
+            "ans": "No, I\u2019m just saying the idea of \u201cpriors\u201d is flawed. It matters the quality of the priors. If it\u2019s just based on their intuition or their feelings, should the burden be on the data scientist to un-convince them?\n\nThere needs to be some kind of grounding. A basis for what is most correct right now (based on \u201cprior\u201d information). And then accordingly, how the new information may change the judgment.\n\nIs the management\u2019s priors of a higher quality or a lower quality than the information the data scientist is coming forward with?\n\nIf it\u2019s of a lower quality, then they should defer to the info given by the data scientist until further evidence calls it into question or disproves it entirely.\n\nIf it\u2019s of a higher quality, then your statement is exactly correct. But the framing of the original OP just about implies that the upper management\u2019s \u201cprior\u201d judgments are based on little more than their feelings and intuitions. Which isn\u2019t nothing but certainly should not cause them to feel in a position that the data scientist must have the burden of overcoming their authoritative priors position.\n\nIn this case, it seems fair to say that both parties should come to the table with an open mind with as little confirmation or \u201cpriors\u201d bias as possible\u2026",
+            "score": 3,
+            "que": "And you're pretending to be a tabula rasa about everything? Horses are equally likely to zebras when you hear hoofbeats in America?"
+        },
+        {
+            "id": "j7y2w1g",
+            "parent": "t1_j7y0wal",
+            "ans": "In other words, I\u2019ve experienced far too many people claiming Bayeson Reasoning in order to subtly put themselves in a power position, making it so that the other person has to prove their position wrong\u2026 rather than starting with a clean slate where no position is assumed to be more right or wrong than the other\u2026",
+            "score": 2,
+            "que": "And you're pretending to be a tabula rasa about everything? Horses are equally likely to zebras when you hear hoofbeats in America?"
+        },
+        {
+            "id": "j7x3rau",
+            "parent": "t1_j7wgpqu",
+            "ans": "I\u2019m guessing you got all of your information by doing a systematic meta analysis of every publication he\u2019s ever produced and come to the conclusion that he\u2019s faking his data? \n\nOh\u2026no? Then I\u2019m not sure where your assumptions are coming from. \n\nI recommend thoroughly reading through some of his publications, replicating the studies, and if they aren\u2019t generalizable or reproducible, maybe you\u2019re right. Until then I\u2019m not sure what else to say. What is your area of subject expertise in anyways?",
+            "score": 1,
+            "que": "Oh shit was I to vague?\n\nHere I will clear that up.\n\n\"Dr.\" Fauci is a prolific mass murder who did it all for the money.\n\nEvery study coming out of his organizations surrounding the vaccines are deliberately skewed to look good.\n\nNot to his bosses because he's the boss, more likely his investors.\n\nHe also funded the research done by the institute of virology.\n\nSomething he doesn't hide, he also covers for the chinese government because he is in their pocket.\n\nBelieve what you want, Fauci's own colleges have criticized him as a political TV doctor, closer to Mimet Oz or Doctor Phil.\n\nThey all say as far as his actual contributions he has done almost nothing.\n\nHe is at the top because he is awesome at lying, pandering and brown nosing."
+        },
+        {
+            "id": "j81euls",
+            "parent": "t1_j81cuvs",
+            "ans": "ikr?\n\n\"worship\" implies \"faith\"\n\nyet science doesn't require faith.\n\nfaith implies belief without proof, unlike science which requires impeccable proof before belief.\n\ntheories and hypothesis are not like gospels or dogmas elavated beyond scrutiny via supposed sanctity. \n\nrather it's the opposite, science encourages scrutiny.\n\nblind faith and worship is anathema to science.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j7z9l9o",
+            "parent": "t1_j7z8rm3",
+            "ans": "You're pretending that the strength of the evidence is static and somehow exists in a plane of pure rationality. This has no basis in reality, as described in the OP.\n\nIf evidence reinforces your prior, it's a waste of time to dig deeper into it to make sure it's strong evidence. Either you find out that the evidence is even stronger than you thought, so you update your priors *harder*, leading to no change in your decision, or you find out that the decision is flawed, leading to no change in your priors, and no change in your decision.\n\nStrength of supporting evidence that confirms your priors is irrelevant.\n\nOn the other hand, if the evidence is something you don't expect, you need to evaluate the strength of the evidence. If it's weak evidence, the decision won't change, so you need to dig into it to make sure it's strong enough to reverse your prior (really, to take it below 50%). \n\nThat is exactly the behavior described in the OP.",
+            "score": 11,
+            "que": "Bayesian priors are supposed to update your priors in a rational, correct way.\n\nIt's not supposed to be more skeptical to evidence that disproves your priors and enthusiastically accept evidence that supports it.\n\nIf the evidence kills your prior, Bayes will reflect that.\n\nIf the evidence only weakly supports it, Bayes won't be over enthusiastic.\n\nThe original comment made it sound like Bayes is biased to evidence which supports your priors and doesn't want evidence which goes against your priors unless it's particularly strong.\n\nI think that's a misleading way to put it. Bayes updates your priors objectively, rationally and fairly. Its not harsher against disproving evidence."
+        },
+        {
+            "id": "j7y7bsq",
+            "parent": "t1_j7y2las",
+            "ans": "This is a good explanation. Management has \"priors\" in many cases when they absolutely should not. Traditionally trained scientists understand this at a fundamental level because experiments often surprise them, and they also understand the dangers of confirmation bias. Management, on the other hand, is often as far from science and reason as you can get, so their hopes and dreams are where they place all of their bets.\n\nManagement being stubbornly wrong should not be justified with specious arguments.",
+            "score": 6,
+            "que": "No, I\u2019m just saying the idea of \u201cpriors\u201d is flawed. It matters the quality of the priors. If it\u2019s just based on their intuition or their feelings, should the burden be on the data scientist to un-convince them?\n\nThere needs to be some kind of grounding. A basis for what is most correct right now (based on \u201cprior\u201d information). And then accordingly, how the new information may change the judgment.\n\nIs the management\u2019s priors of a higher quality or a lower quality than the information the data scientist is coming forward with?\n\nIf it\u2019s of a lower quality, then they should defer to the info given by the data scientist until further evidence calls it into question or disproves it entirely.\n\nIf it\u2019s of a higher quality, then your statement is exactly correct. But the framing of the original OP just about implies that the upper management\u2019s \u201cprior\u201d judgments are based on little more than their feelings and intuitions. Which isn\u2019t nothing but certainly should not cause them to feel in a position that the data scientist must have the burden of overcoming their authoritative priors position.\n\nIn this case, it seems fair to say that both parties should come to the table with an open mind with as little confirmation or \u201cpriors\u201d bias as possible\u2026"
+        },
+        {
+            "id": "j7z1d7b",
+            "parent": "t1_j7y2las",
+            "ans": "Feelings and intuitions are generally guided by decades of experience, and I don't think you're giving that enough credit. \n\nIf one thing has worked for 25 years, it's going to take more than one report to reverse course unless that report is really strong.",
+            "score": 0,
+            "que": "No, I\u2019m just saying the idea of \u201cpriors\u201d is flawed. It matters the quality of the priors. If it\u2019s just based on their intuition or their feelings, should the burden be on the data scientist to un-convince them?\n\nThere needs to be some kind of grounding. A basis for what is most correct right now (based on \u201cprior\u201d information). And then accordingly, how the new information may change the judgment.\n\nIs the management\u2019s priors of a higher quality or a lower quality than the information the data scientist is coming forward with?\n\nIf it\u2019s of a lower quality, then they should defer to the info given by the data scientist until further evidence calls it into question or disproves it entirely.\n\nIf it\u2019s of a higher quality, then your statement is exactly correct. But the framing of the original OP just about implies that the upper management\u2019s \u201cprior\u201d judgments are based on little more than their feelings and intuitions. Which isn\u2019t nothing but certainly should not cause them to feel in a position that the data scientist must have the burden of overcoming their authoritative priors position.\n\nIn this case, it seems fair to say that both parties should come to the table with an open mind with as little confirmation or \u201cpriors\u201d bias as possible\u2026"
+        },
+        {
+            "id": "j7z1nip",
+            "parent": "t1_j7y2w1g",
+            "ans": "Starting with a clean slate about everything is ridiculous and inefficient. \n\nIf I shot you in the foot, would it hurt? Well, we've never tried it before, so lets start with a clean slate and run the experiment. We'll need to do it at least 30 times for a big enough sample size.",
+            "score": 1,
+            "que": "In other words, I\u2019ve experienced far too many people claiming Bayeson Reasoning in order to subtly put themselves in a power position, making it so that the other person has to prove their position wrong\u2026 rather than starting with a clean slate where no position is assumed to be more right or wrong than the other\u2026"
+        },
+        {
+            "id": "j7x7d5c",
+            "parent": "t1_j7x3rau",
+            "ans": "I'm guessing you understand that you are making an argument from a position of authority and that you understand that people lie regardless of who they are.\n\nPeople want money regardless of who they are.\n\nYou are saying \"oh only the most credentialed people can have a say.\"\n\nRecognizing they are humans not machines, built with their own bias, their own motivations and ambitions.\n\nThat what you want to do here is say I can't have a say because I am not a doctor with decades of experience that was able to meticulously look through four decades of studies.\n\nWith the credentialed knowledge to scrutinize his work.\n\nTo which I say, poppycock, I reject the entire premise.\n\nI can have an opinion about anything, I can also watch Fauci admit he did fund the Wuhan lab of Virology.\n\nWhen in a senate hearing with Rand Paul he initially lied and said he had nothing to do with the organization.\n\nHe later retracted that when a paper trail was found between his organization and the lab.\n\nHe then admitted it.\n\nWhen asked if the research was gain of function he said no (it was)\n\nWhat I have established from that is that he is a liar, and if he lied about that, he is cover something up.\n\nI watched it live on television, you can tell me my eyes deceive me the emperor does have clothes, but fortunately for me I am not fool enough to believe that\n\nI can listen to the testimony of actual Dr. Robert Malone who invented and still holds the patents on the origin of MRNA technology I have read them with my own eyes.\n\nI can listen to him scream \"THESE THINGS NEED MORE TESTING.\"\n\nFunny, he won't even talk about Robert, the man who's work he took to China to avoid patent violation.\n\nThere is a truck load of evidence suggesting he was complicit.\n\nIf all of that wasn't enough, he is narcissistic.\n\n\"I represent the science.\"\n\nWhat an arrogant thing to say.\n\nScience is a method.\n\nYa know, Hypothesis, prediction, experiment, result?\n\nYou can't represent that, if he meant he represents the data outcome of his experiment I would have to scrutinize his model and see how he came to that conclusion.\n\nOnce again that was done, and I found it lacking, I found that especially when gone over with Robert Malone the inventor of MRNA tech, with his unique expertise explaining it.\n\nAs well as Heather Heying and Bret Weinstein.\n\nWhere Robert explained how it was obvious they would come to the conclusion the vaccine is perfectly safe and effective with no side effects.\n\nBecause they willfully structured the model of the experiment to ask all of the most convenient questions.\n\nBasically the experiment itself was structured to lie, just like in the original post, which was the connection to the first post.\n\nThis isn't even to speak of his mishandling of the aids epidemic.",
+            "score": 1,
+            "que": "I\u2019m guessing you got all of your information by doing a systematic meta analysis of every publication he\u2019s ever produced and come to the conclusion that he\u2019s faking his data? \n\nOh\u2026no? Then I\u2019m not sure where your assumptions are coming from. \n\nI recommend thoroughly reading through some of his publications, replicating the studies, and if they aren\u2019t generalizable or reproducible, maybe you\u2019re right. Until then I\u2019m not sure what else to say. What is your area of subject expertise in anyways?"
+        },
+        {
+            "id": "j88z4pd",
+            "parent": "t1_j7y7bsq",
+            "ans": "Well put :)",
+            "score": 1,
+            "que": "This is a good explanation. Management has \"priors\" in many cases when they absolutely should not. Traditionally trained scientists understand this at a fundamental level because experiments often surprise them, and they also understand the dangers of confirmation bias. Management, on the other hand, is often as far from science and reason as you can get, so their hopes and dreams are where they place all of their bets.\n\nManagement being stubbornly wrong should not be justified with specious arguments."
+        },
+        {
+            "id": "j88zv16",
+            "parent": "t1_j7z1d7b",
+            "ans": "Yes IFF one thing has worked 100% of the time for 25 years. But much of the time conventional wisdom is not based on a statistical analysis of how good things are working.\n\nI\u2019ve run into many people in my life who believe something works based on their own intuition only to show them that their experience is an anomaly and that thing doesn\u2019t actually work that way the majority of the time.\n\nIntuitions and feelings should be a starting point and then they should be tested and held up to scrutiny.\n\nThey shouldn\u2019t be considered the de facto truth without going through the same testing that contending ideas have to go through to supplant them\u2026",
+            "score": 1,
+            "que": "Feelings and intuitions are generally guided by decades of experience, and I don't think you're giving that enough credit. \n\nIf one thing has worked for 25 years, it's going to take more than one report to reverse course unless that report is really strong."
+        },
+        {
+            "id": "j890ex1",
+            "parent": "t1_j7z1nip",
+            "ans": "Shooting in the foot has a lot of evidence of all kinds to back it up.\n\nI\u2019m talking about when there is uncertainty or disagreement, starting with a clean slate is good.\n\nFor example, should we forbid romance between certain employees? There may be arguments in both directions. \n\nOn should not stubbornly claim their argument is superior when it isn\u2019t.\n\nThe argument that when someone gets shot in the foot, it hurts.. is well established by thousands if not millions of experiments already\u2026 and I imagine there is no ir very little debate.\n\nFor example, I doubt anyone is like, \u201cWell if someone comes in late to work, they should be shot in the foot. I know some say that would hurt, but that isn\u2019t proven yet so I believe I have a valid point\u2026\u201d \ud83d\ude02",
+            "score": 0,
+            "que": "Starting with a clean slate about everything is ridiculous and inefficient. \n\nIf I shot you in the foot, would it hurt? Well, we've never tried it before, so lets start with a clean slate and run the experiment. We'll need to do it at least 30 times for a big enough sample size."
+        },
+        {
+            "id": "j7xizeg",
+            "parent": "t1_j7x7d5c",
+            "ans": "So far all you\u2019ve done is attempt to substantiate your claims with circumstantial evidence and \u201che said she said\u201d. You\u2019re absolutely correct, you can hold whatever opinion you want. The only difference is that if you want your opinion to hold weight you have to be able to back it up with evidence. \n\nAlso, you don\u2019t have to be a doctor to do a comprehensive meta analysis. Will it help you understand things? Of course. But it\u2019s not necessary. \n\nIf you are as sure as you seem about your opinions, I urge you to do some hard research using credible sources and find points on either side of the argument. It might widen your worldview\u2026heck\u2026it might even change your mind. What do I mean by credible sources? Perhaps peer reviewed journal articles, unbiased journalism agencies (that one will be hard), etc.",
+            "score": 1,
+            "que": "I'm guessing you understand that you are making an argument from a position of authority and that you understand that people lie regardless of who they are.\n\nPeople want money regardless of who they are.\n\nYou are saying \"oh only the most credentialed people can have a say.\"\n\nRecognizing they are humans not machines, built with their own bias, their own motivations and ambitions.\n\nThat what you want to do here is say I can't have a say because I am not a doctor with decades of experience that was able to meticulously look through four decades of studies.\n\nWith the credentialed knowledge to scrutinize his work.\n\nTo which I say, poppycock, I reject the entire premise.\n\nI can have an opinion about anything, I can also watch Fauci admit he did fund the Wuhan lab of Virology.\n\nWhen in a senate hearing with Rand Paul he initially lied and said he had nothing to do with the organization.\n\nHe later retracted that when a paper trail was found between his organization and the lab.\n\nHe then admitted it.\n\nWhen asked if the research was gain of function he said no (it was)\n\nWhat I have established from that is that he is a liar, and if he lied about that, he is cover something up.\n\nI watched it live on television, you can tell me my eyes deceive me the emperor does have clothes, but fortunately for me I am not fool enough to believe that\n\nI can listen to the testimony of actual Dr. Robert Malone who invented and still holds the patents on the origin of MRNA technology I have read them with my own eyes.\n\nI can listen to him scream \"THESE THINGS NEED MORE TESTING.\"\n\nFunny, he won't even talk about Robert, the man who's work he took to China to avoid patent violation.\n\nThere is a truck load of evidence suggesting he was complicit.\n\nIf all of that wasn't enough, he is narcissistic.\n\n\"I represent the science.\"\n\nWhat an arrogant thing to say.\n\nScience is a method.\n\nYa know, Hypothesis, prediction, experiment, result?\n\nYou can't represent that, if he meant he represents the data outcome of his experiment I would have to scrutinize his model and see how he came to that conclusion.\n\nOnce again that was done, and I found it lacking, I found that especially when gone over with Robert Malone the inventor of MRNA tech, with his unique expertise explaining it.\n\nAs well as Heather Heying and Bret Weinstein.\n\nWhere Robert explained how it was obvious they would come to the conclusion the vaccine is perfectly safe and effective with no side effects.\n\nBecause they willfully structured the model of the experiment to ask all of the most convenient questions.\n\nBasically the experiment itself was structured to lie, just like in the original post, which was the connection to the first post.\n\nThis isn't even to speak of his mishandling of the aids epidemic."
+        },
+        {
+            "id": "j7xk2t2",
+            "parent": "t1_j7xizeg",
+            "ans": "I have actually cited people, credentialed people like doctor Robert Malone, you have provided absolutely nothing at all.\n\nHere hold on.\n\nhttps://open.spotify.com/episode/5Qyhu8A4wuCPkvCXM0KLut?si=KRiByrXYRt-U3p8BPxFmSw&utm_source=copy-link&t=0\n\nThere is a video where he talks about HIS OWN DISCOVERY IN LENGTH, bet cash you don't watch two fucking seconds of it and come up with some more horse shit.\n\nHad to.get the video from spotify, couldn't find it on youtube because they censor.\n\nI can also link the patents he holds for the MRNA tech, as well proving unequivocally that he is their inventor.\n\nSo he is more than qualified to speak on the subject.\n\nOh I will also link the video compilation where Fauci contradicts himself.\n\nI would prefer the live video, but it already happened live.\n\nBut you and I both know it wouldn't matter, because you are completely brainwashed.\n\nOr rather, Fauci is so deep down your throat it's poking your brain and making you stupid.",
+            "score": 1,
+            "que": "So far all you\u2019ve done is attempt to substantiate your claims with circumstantial evidence and \u201che said she said\u201d. You\u2019re absolutely correct, you can hold whatever opinion you want. The only difference is that if you want your opinion to hold weight you have to be able to back it up with evidence. \n\nAlso, you don\u2019t have to be a doctor to do a comprehensive meta analysis. Will it help you understand things? Of course. But it\u2019s not necessary. \n\nIf you are as sure as you seem about your opinions, I urge you to do some hard research using credible sources and find points on either side of the argument. It might widen your worldview\u2026heck\u2026it might even change your mind. What do I mean by credible sources? Perhaps peer reviewed journal articles, unbiased journalism agencies (that one will be hard), etc."
+        },
+        {
+            "id": "j7xooga",
+            "parent": "t1_j7xizeg",
+            "ans": "I also think you missed the ENTIRE point of the original post, first of all, there are no unbiased journalists, they are all shills.\n\nSecond the entire point of the post is that you can't trust the peers, the peers are not angels or gods so stop acting like they are.\n\nThey are humans, just like us, they are susceptible to corruption, they will take bribes, they will take money.\n\nThey will deliberately tell us all the wrong thing for money.\n\nHave you ever heard the saying \"power corrupts, absolute power corrupts absolutely.\"?\n\nThere is no clause in there that says \"unless they are an \"expert\" or \"scientist\" they are incapable of lying for huge sums of cash, they can't be bought.\"\n\nYou honestly believe scientists are just like starving artists \"anything for the science.\"\n\nThey aren't, if studies aren't paying the bills, you restructure the fucking experiment and get some smiles from the people paying you.\n\nOr you don't feed your family, you are nothing to them, not a face, not a name, they never have to see what they did to you.",
+            "score": 1,
+            "que": "So far all you\u2019ve done is attempt to substantiate your claims with circumstantial evidence and \u201che said she said\u201d. You\u2019re absolutely correct, you can hold whatever opinion you want. The only difference is that if you want your opinion to hold weight you have to be able to back it up with evidence. \n\nAlso, you don\u2019t have to be a doctor to do a comprehensive meta analysis. Will it help you understand things? Of course. But it\u2019s not necessary. \n\nIf you are as sure as you seem about your opinions, I urge you to do some hard research using credible sources and find points on either side of the argument. It might widen your worldview\u2026heck\u2026it might even change your mind. What do I mean by credible sources? Perhaps peer reviewed journal articles, unbiased journalism agencies (that one will be hard), etc."
+        },
+        {
+            "id": "j7y2dhh",
+            "parent": "t1_j7xooga",
+            "ans": "Speaking in absolutes has never worked in anyone\u2019s favor. Think about what you just stated. \u201cThere are no unbiased journalists\u201d. How do you know that for sure? There are a few things that make good hypotheses. One is that the hypothesis has to be testable. The second is that is must be falsifiable. So let\u2019s look at your example one more time. Is it testable? Sure, we can evaluate every journalist we come across and determine their level of bias. But is it falsifiable? No. Why you might ask? Because we are unable to test EVERY journalist. It\u2019s impossible. So to speak in absolutes and say \u201call\u201d journalists are biased is just bad practice. I\u2019m trying to point out a common fallacy here - our mind likes to create stories based on information that is readily available and we have been exposed to often. I encourage you to look up what an availability heuristic is. \n\nI think you misunderstand what I mean by peer reviewed journal articles. By \u201cpeer\u201d it evaluates to those who are subject matter experts in their field and heavily scrutinize the work of other scientists in order to lead to more generalizable, comparable, and accurate study models. Rarely ever is a study published without revisions. \n\nI\u2019m curious to know why you think they can\u2019t be trusted. Keep in mind practically every single breakthrough whether it be clinical or technological in nature to this day has been evaluated in depth by subject matter experts. The fact that our mortality rates have plummeted over the past 150 years is because one man was brave enough to establish that washing your hands more frequently leads to better health. Everybody thought he was a hack, but guess what - he was right. And study after study after study has proven this. So my question to you is - if they can\u2019t be trusted, that is, subject matter experts, how do we evaluate the information as lay people? I certainly would not want to be in charge of evaluating the accuracy of a fusion reactor or the stability of a rocket engine, would you? \n\nI think you\u2019re also unaware of how funding for studies is garnered. Funding for studies occurs before the study begins, regardless of the outcome. Of course we want good results, but that doesn\u2019t necessarily mean we always get them. Think about the billions of dollars invested in cancer research every year. Is there a cure yet? Nope - because we are unable to find an answer. \n\nI think you also overestimate how much money these scientists are making. Most professional scientists barely clear 6 figures, if that with decades of experience. Of course it is industry dependent, but research isn\u2019t known for being a highly lucrative path in terms of monetary gain.",
+            "score": 1,
+            "que": "I also think you missed the ENTIRE point of the original post, first of all, there are no unbiased journalists, they are all shills.\n\nSecond the entire point of the post is that you can't trust the peers, the peers are not angels or gods so stop acting like they are.\n\nThey are humans, just like us, they are susceptible to corruption, they will take bribes, they will take money.\n\nThey will deliberately tell us all the wrong thing for money.\n\nHave you ever heard the saying \"power corrupts, absolute power corrupts absolutely.\"?\n\nThere is no clause in there that says \"unless they are an \"expert\" or \"scientist\" they are incapable of lying for huge sums of cash, they can't be bought.\"\n\nYou honestly believe scientists are just like starving artists \"anything for the science.\"\n\nThey aren't, if studies aren't paying the bills, you restructure the fucking experiment and get some smiles from the people paying you.\n\nOr you don't feed your family, you are nothing to them, not a face, not a name, they never have to see what they did to you."
+        },
+        {
+            "id": "j7ytv3x",
+            "parent": "t1_j7y2dhh",
+            "ans": "Man you really don't get it, I am actually talking to a person who doesn't understand the definition if the word corruption.\n\nDo you think I am saying the scientists do a corrupt and unethical thing they can get in massive trouble for, and their employer pays them more on their paycheck so there is a paper trail to their corruption?\n\nNo, that would never be how that worked, it is called an under the table payment, and it is a method commonly used to pay someone in cash or to launder money through multiple channels.\n\nWhat you said actually lent validity to my point by admitting they make very little on their actual work.\n\nThat is all the more incentive to take a bribe and deliberately compromise their experimental model in order to make more money.\n\nYou also don't seem to understand that I am not going to spend the rest of my life pouring over every bit of work from every journalist.\n\nI am not going to do that for those \"experts\" either, it is far easier for me instead of looking over millions of papers worth of work from the \"journalists\" and \"experts\"\n\nIn an attempt to discern who is trust worthy, which by the way is an absolutely unreasonable thing to ask for, I am not doing it, it is far easier for me to just assume they are all liars.\n\nI barely Trust Robert but I do because I vetted him, I looked into his past, but honestly I am just done talking to you.\n\nAll of your arguments are nonsensical, mostly have nothing to do with what I am talking about, by ignoring everything I am saying.\n\nYou never address anything I provide because you have no argument and your are stalling and throwing bullshit,  you are disingenuous, and I don't like arguing with liars.\n\nKeep running defense for Fauci, you aren't good at it, but at least you have a hobby.\n\nI am just going to ignore you now.",
+            "score": 0,
+            "que": "Speaking in absolutes has never worked in anyone\u2019s favor. Think about what you just stated. \u201cThere are no unbiased journalists\u201d. How do you know that for sure? There are a few things that make good hypotheses. One is that the hypothesis has to be testable. The second is that is must be falsifiable. So let\u2019s look at your example one more time. Is it testable? Sure, we can evaluate every journalist we come across and determine their level of bias. But is it falsifiable? No. Why you might ask? Because we are unable to test EVERY journalist. It\u2019s impossible. So to speak in absolutes and say \u201call\u201d journalists are biased is just bad practice. I\u2019m trying to point out a common fallacy here - our mind likes to create stories based on information that is readily available and we have been exposed to often. I encourage you to look up what an availability heuristic is. \n\nI think you misunderstand what I mean by peer reviewed journal articles. By \u201cpeer\u201d it evaluates to those who are subject matter experts in their field and heavily scrutinize the work of other scientists in order to lead to more generalizable, comparable, and accurate study models. Rarely ever is a study published without revisions. \n\nI\u2019m curious to know why you think they can\u2019t be trusted. Keep in mind practically every single breakthrough whether it be clinical or technological in nature to this day has been evaluated in depth by subject matter experts. The fact that our mortality rates have plummeted over the past 150 years is because one man was brave enough to establish that washing your hands more frequently leads to better health. Everybody thought he was a hack, but guess what - he was right. And study after study after study has proven this. So my question to you is - if they can\u2019t be trusted, that is, subject matter experts, how do we evaluate the information as lay people? I certainly would not want to be in charge of evaluating the accuracy of a fusion reactor or the stability of a rocket engine, would you? \n\nI think you\u2019re also unaware of how funding for studies is garnered. Funding for studies occurs before the study begins, regardless of the outcome. Of course we want good results, but that doesn\u2019t necessarily mean we always get them. Think about the billions of dollars invested in cancer research every year. Is there a cure yet? Nope - because we are unable to find an answer. \n\nI think you also overestimate how much money these scientists are making. Most professional scientists barely clear 6 figures, if that with decades of experience. Of course it is industry dependent, but research isn\u2019t known for being a highly lucrative path in terms of monetary gain."
+        },
+        {
+            "id": "j7yxk41",
+            "parent": "t1_j7ytv3x",
+            "ans": "Sir this is a Wendy\u2019s",
+            "score": 1,
+            "que": "Man you really don't get it, I am actually talking to a person who doesn't understand the definition if the word corruption.\n\nDo you think I am saying the scientists do a corrupt and unethical thing they can get in massive trouble for, and their employer pays them more on their paycheck so there is a paper trail to their corruption?\n\nNo, that would never be how that worked, it is called an under the table payment, and it is a method commonly used to pay someone in cash or to launder money through multiple channels.\n\nWhat you said actually lent validity to my point by admitting they make very little on their actual work.\n\nThat is all the more incentive to take a bribe and deliberately compromise their experimental model in order to make more money.\n\nYou also don't seem to understand that I am not going to spend the rest of my life pouring over every bit of work from every journalist.\n\nI am not going to do that for those \"experts\" either, it is far easier for me instead of looking over millions of papers worth of work from the \"journalists\" and \"experts\"\n\nIn an attempt to discern who is trust worthy, which by the way is an absolutely unreasonable thing to ask for, I am not doing it, it is far easier for me to just assume they are all liars.\n\nI barely Trust Robert but I do because I vetted him, I looked into his past, but honestly I am just done talking to you.\n\nAll of your arguments are nonsensical, mostly have nothing to do with what I am talking about, by ignoring everything I am saying.\n\nYou never address anything I provide because you have no argument and your are stalling and throwing bullshit,  you are disingenuous, and I don't like arguing with liars.\n\nKeep running defense for Fauci, you aren't good at it, but at least you have a hobby.\n\nI am just going to ignore you now."
+        },
+        {
+            "id": "j7yyf86",
+            "parent": "t1_j7yxk41",
+            "ans": "The Reddit servers are hosted in a Wendy's?\n\nMy god.",
+            "score": 1,
+            "que": "Sir this is a Wendy\u2019s"
+        }
+    ]
+}

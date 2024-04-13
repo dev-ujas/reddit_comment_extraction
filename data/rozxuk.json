@@ -1,0 +1,232 @@
+{
+    "title": "What Companies think AI looks like vs What Actually it is",
+    "id": "rozxuk",
+    "create_at": 1640535235.0,
+    "score": 2177,
+    "comments": [
+        {
+            "id": "hq1jh7c",
+            "parent": "t1_hq1f6a5",
+            "ans": "Half is an understatement. More like 75%",
+            "score": 100,
+            "que": "I think the data cleaning is at least half of the center box by itself."
+        },
+        {
+            "id": "hq5cwec",
+            "parent": "t1_hq1f6a5",
+            "ans": "Yeah if these boxes were proportional to the amount of capacity each step required it would be a shitton of cleaning and sourcing, then just everything else crammed into tiny little slices so small you cannot read the text.",
+            "score": 4,
+            "que": "I think the data cleaning is at least half of the center box by itself."
+        },
+        {
+            "id": "hq27xwk",
+            "parent": "t1_hq1p7gs",
+            "ans": "Looping",
+            "score": 25,
+            "que": "What\u2019s missing from this are the arrows pointing backwards for when things don\u2019t work quite right."
+        },
+        {
+            "id": "hqce1hp",
+            "parent": "t1_hq1p7gs",
+            "ans": "That and stakeholder input are really what's missing.  Execs and stakeholders shouldn't need to be familiar with all of those mid-level details.",
+            "score": 1,
+            "que": "What\u2019s missing from this are the arrows pointing backwards for when things don\u2019t work quite right."
+        },
+        {
+            "id": "hq2n7bu",
+            "parent": "t1_hq1m5yd",
+            "ans": "Yeah exactly. I wouldnt expect Executives to understand how IT infrastructure works, or ERM systems. Thats what we are paid the money for right?",
+            "score": 22,
+            "que": "If you think about it tho they aren\u2019t wrong. It\u2019s a level out but it summarizes what\u2019s happening. It\u2019s our job to make it happen and explain it like the above flow."
+        },
+        {
+            "id": "hq4v88e",
+            "parent": "t1_hq1x4ve",
+            "ans": "That's 99 percent of the posts here. This one is the straw leading me to the unsubscribe button.",
+            "score": 7,
+            "que": "Hahahaha! Company dumb, you smart. Classic!"
+        },
+        {
+            "id": "hq5he5m",
+            "parent": "t1_hq1x4ve",
+            "ans": "And in this case, the result is OP is dumb and doesn\u2019t know the level of granularity the \u2018company\u2019 needs.  Rule 1, know your audience",
+            "score": 1,
+            "que": "Hahahaha! Company dumb, you smart. Classic!"
+        },
+        {
+            "id": "hq3x851",
+            "parent": "t1_hq1rgd2",
+            "ans": "Personally I enjoyed the post. It\u2019s not about making fun of the business, it\u2019s about helping contextualize the work we do when explaining it to the higher ups. As someone in my early years of management, I spend a lot of time explaining data science to my peers. I\u2019m probably going to throw this into one of my decks and hang onto it for when someone asks me to summarize what we do.",
+            "score": 10,
+            "que": "[removed]"
+        },
+        {
+            "id": "hq6cmv3",
+            "parent": "t1_hq347ej",
+            "ans": "Artificial intelligence simply means intelligent decisions that are rendered by anything other than a human. AI is generally a misnomer since intelligence derived via living organisms is just as \u201cnatural\u201d as intelligence derived via any other way. But humans are biased to think they are the center of the universe, so of course this is where we are.",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hq7l8rf",
+            "parent": "t1_hq4l7dt",
+            "ans": "I'm middle management, so I sit right between the folks going \"Execs don't get it\" and \"Engineers are being pricks\".\n\nI agree that the tone of this post is a little dismissive. Try not to take it as a personal attack though. There are definitely high level managers who couldn't differentiate a clustering algorithm from a hole in the ground. There are also smart ones, who *could* understand and articulate the nuances of different statistical methods if they needed to.\n\nI'm actually saving the image OP posted to show our CTO. Not to rib him and tease him about \"not getting it\" (he's smart and has a math background; totally could if he needed to). But to help give a \"whole iceberg\" view of the process and help him set the right expectations as we embark on a handful of \"AI\" projects.\n\n**tldr:** Some managers suck. Good managers can still benefit from visual aids.",
+            "score": 2,
+            "que": "I'm in senior management, relying on data scientists. I've put the effort in to understand the basics of data science well enough for my role, I think.\n\nWhen new people come in, it takes quite some time before we can get past the senior-managers-are-idiots perception. This post going for a false dichotomy to try to feed the prejudice is a good example of the culture.\n\nI don't think the beautiful field of data science benefits from feeding the narrative of them-and-us, and most people don't like to work with people whose default mode is to look down upon them. \n\nAnd yes, I get that many management teams are a pain, technology is misunderstood and overrated. There's push for solutions, where the problem isn't understood well. And yes, people can know just enough to screw things up. \n\nBut hey, can't we just all get along?"
+        },
+        {
+            "id": "hq22l5b",
+            "parent": "t1_hq1jh7c",
+            "ans": "Maybe like 80%, training and tuning the model really isn't as tedious as the data cleaning process.",
+            "score": 55,
+            "que": "Half is an understatement. More like 75%"
+        },
+        {
+            "id": "hq3rom7",
+            "parent": "t1_hq1jh7c",
+            "ans": "I\u2019ve made a (young) career of it. Most projects have data mapping and cleaning as the biggest bottleneck and are willing to pay a nice sum to get it out of the way.",
+            "score": 8,
+            "que": "Half is an understatement. More like 75%"
+        },
+        {
+            "id": "hq5gs5f",
+            "parent": "t1_hq1jh7c",
+            "ans": "For me last time, it was 99%. No kidding.",
+            "score": 1,
+            "que": "Half is an understatement. More like 75%"
+        },
+        {
+            "id": "hq5h5gz",
+            "parent": "t1_hq5cwec",
+            "ans": "Hopefully you get some good value out of it too\u2026",
+            "score": 1,
+            "que": "Yeah if these boxes were proportional to the amount of capacity each step required it would be a shitton of cleaning and sourcing, then just everything else crammed into tiny little slices so small you cannot read the text."
+        },
+        {
+            "id": "hq2at56",
+            "parent": "t1_hq27xwk",
+            "ans": "Iterating",
+            "score": 31,
+            "que": "Looping"
+        },
+        {
+            "id": "hq2p9g7",
+            "parent": "t1_hq2n7bu",
+            "ans": "On the flip side, it's good for the people doing the work to realize that executives don't understand or need to care about the details unless it involves a decision that needs to be made on their org layer.  \"Business need to know\"\n\nIf you start explaining something complicated to them and they only understand 20% of it, you may get unwanted and misguided interference in what you're doing.  That's my experience anyway.  I could be missing something important in my thinking.",
+            "score": 17,
+            "que": "Yeah exactly. I wouldnt expect Executives to understand how IT infrastructure works, or ERM systems. Thats what we are paid the money for right?"
+        },
+        {
+            "id": "hq2o3v8",
+            "parent": "t1_hq2n7bu",
+            "ans": "Right! They are paid to lead, not read!",
+            "score": 5,
+            "que": "Yeah exactly. I wouldnt expect Executives to understand how IT infrastructure works, or ERM systems. Thats what we are paid the money for right?"
+        },
+        {
+            "id": "hq7me7k",
+            "parent": "t1_hq6cmv3",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Artificial intelligence simply means intelligent decisions that are rendered by anything other than a human. AI is generally a misnomer since intelligence derived via living organisms is just as \u201cnatural\u201d as intelligence derived via any other way. But humans are biased to think they are the center of the universe, so of course this is where we are."
+        },
+        {
+            "id": "hq2geau",
+            "parent": "t1_hq22l5b",
+            "ans": "It should be 95% data cleaning, 5% modelling, and then no deployment.",
+            "score": 95,
+            "que": "Maybe like 80%, training and tuning the model really isn't as tedious as the data cleaning process."
+        },
+        {
+            "id": "hq5ksta",
+            "parent": "t1_hq5h5gz",
+            "ans": "Hahahahahahahhahaahhahahahahahahahahahahahahahahahhahahahahaha",
+            "score": 3,
+            "que": "Hopefully you get some good value out of it too\u2026"
+        },
+        {
+            "id": "hq2gn0k",
+            "parent": "t1_hq2at56",
+            "ans": "\ud83d\ude4c\ud83c\udf08 AGILE \ud83c\udf08\ud83d\ude4c",
+            "score": 70,
+            "que": "Iterating"
+        },
+        {
+            "id": "hq2uhgg",
+            "parent": "t1_hq2p9g7",
+            "ans": "You\u2019re right. You have to know your audience. When I speak to exec and above it\u2019s always high level and to the point. Nothing is worse than confusing them and taking them down a rabbit hole they really don\u2019t care about. Impress them with your ability to solve their problems without having to explain every detail. For example, a lot of execs don\u2019t understand advanced statistics, relational data, programming, etc, snd there is no need to educate them when that\u2019s clearly not their goal.",
+            "score": 4,
+            "que": "On the flip side, it's good for the people doing the work to realize that executives don't understand or need to care about the details unless it involves a decision that needs to be made on their org layer.  \"Business need to know\"\n\nIf you start explaining something complicated to them and they only understand 20% of it, you may get unwanted and misguided interference in what you're doing.  That's my experience anyway.  I could be missing something important in my thinking."
+        },
+        {
+            "id": "hq6c5py",
+            "parent": "t1_hq2o3v8",
+            "ans": "As intelligent agents, leaders need data to base their decisions off of. You can\u2019t lead if you don\u2019t read.",
+            "score": 3,
+            "que": "Right! They are paid to lead, not read!"
+        },
+        {
+            "id": "hq7rkmv",
+            "parent": "t1_hq7me7k",
+            "ans": "That is what all intelligence is though. If we look closely at the events that occur to make a coin land on heads or tails, we can see that there were physical constraints that caused a coin to land one way or the other. If we look at any intelligence, all decisions are based on physical conditions that entirely cause the outcome of the intelligent decision. Even in humans, all decisions are derived and inevitable. So that kinda makes intelligence not as special as they make it out to be. It is impossible for intelligence to not have emerged in our universe. And it\u2019s looking like it\u2019s going to be impossible to stop the exponential advance of artificial intelligence. It kinda makes these conversations about it very unimportant because I\u2019m just a measly human.",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hq35caa",
+            "parent": "t1_hq2geau",
+            "ans": "Oof this hits way too close to home",
+            "score": 27,
+            "que": "It should be 95% data cleaning, 5% modelling, and then no deployment."
+        },
+        {
+            "id": "hq2jokj",
+            "parent": "t1_hq2gn0k",
+            "ans": "I can see you are a man of culture",
+            "score": 11,
+            "que": "\ud83d\ude4c\ud83c\udf08 AGILE \ud83c\udf08\ud83d\ude4c"
+        },
+        {
+            "id": "hq6bz5x",
+            "parent": "t1_hq2uhgg",
+            "ans": "I don\u2019t understand how anyone feels confident while reporting to people who are easily confused about anything. These are the people that ultimately control whether you have a job or not. They should be able to understand things better than the people that report to them.",
+            "score": 3,
+            "que": "You\u2019re right. You have to know your audience. When I speak to exec and above it\u2019s always high level and to the point. Nothing is worse than confusing them and taking them down a rabbit hole they really don\u2019t care about. Impress them with your ability to solve their problems without having to explain every detail. For example, a lot of execs don\u2019t understand advanced statistics, relational data, programming, etc, snd there is no need to educate them when that\u2019s clearly not their goal."
+        },
+        {
+            "id": "hq73nt2",
+            "parent": "t1_hq6c5py",
+            "ans": "Haha yea I was quoting the Simpsons movie. You\u2019re right.",
+            "score": 1,
+            "que": "As intelligent agents, leaders need data to base their decisions off of. You can\u2019t lead if you don\u2019t read."
+        },
+        {
+            "id": "hq73gxa",
+            "parent": "t1_hq6bz5x",
+            "ans": "I agree to an extent. If your reporting up through head of analytics then yes you\u2019re 100% correct.\nIf you\u2019re reporting to COO, CFO, CEO then their background may not be from the data sciences. You\u2019d be surprised how many marketing and finance folks work their way up to those spots.",
+            "score": 2,
+            "que": "I don\u2019t understand how anyone feels confident while reporting to people who are easily confused about anything. These are the people that ultimately control whether you have a job or not. They should be able to understand things better than the people that report to them."
+        },
+        {
+            "id": "hqfz1uv",
+            "parent": "t1_hq6bz5x",
+            "ans": "You do understand if you've ever made a major decision in your life - choosing a life partner, buying a car, deciding what major you want to study, etc.\n\nPick any one of these topics and you can find multiple PhD thesis on them that you will never be fully qualified in your expertise to understand and you can endlessly \"What-if\" the decision.  \n\nAt a certain point, given your time constraints, you have to narrow everything down to given X, then Yes/No, else....\n\nGiven the chaos and complexity of life, the best leaders can do (and you're a \"leader\" in your own life) in most circumstances amount to educated guesses that they've empowered others to do the in-depth diving into.  \n\nI have a lot of bones to pick with Black Swan, but I'll give it credit where it's due in really driving home point about how HARD it is to predict the future.",
+            "score": 2,
+            "que": "I don\u2019t understand how anyone feels confident while reporting to people who are easily confused about anything. These are the people that ultimately control whether you have a job or not. They should be able to understand things better than the people that report to them."
+        },
+        {
+            "id": "hq7f3ur",
+            "parent": "t1_hq73gxa",
+            "ans": "I am pretty much saying that the organizational structure and model with the CFO, CEO being in control is something we should probably consider getting rid of. A lot of people get into those positions because of cronyism. The fact that very unqualified people are responsible for other people maintaining life sustaining jobs is very scary. It is bizarre how the people that can understand advanced and complex data concepts are ceding to individuals in leadership that can\u2019t even operate a spreadsheeting system.",
+            "score": 3,
+            "que": "I agree to an extent. If your reporting up through head of analytics then yes you\u2019re 100% correct.\nIf you\u2019re reporting to COO, CFO, CEO then their background may not be from the data sciences. You\u2019d be surprised how many marketing and finance folks work their way up to those spots."
+        },
+        {
+            "id": "hq7gbr0",
+            "parent": "t1_hq7f3ur",
+            "ans": "Lol this is true man. How do you think I feel too when I hear sales guys get to go to Hawaii because they had a good year? \u201cPresident\u2019s Club\u201d is a way for marketing to pat marketing on the back. The non technical and non-data type also refer to me as a nerd or geek too, and pretty openly, like it\u2019s a compliment. I am 250lbs and train in combat sports, just bc I\u2019m in data science doesn\u2019t mean I can\u2019t beat your ass. Anyways I agree with you.",
+            "score": 2,
+            "que": "I am pretty much saying that the organizational structure and model with the CFO, CEO being in control is something we should probably consider getting rid of. A lot of people get into those positions because of cronyism. The fact that very unqualified people are responsible for other people maintaining life sustaining jobs is very scary. It is bizarre how the people that can understand advanced and complex data concepts are ceding to individuals in leadership that can\u2019t even operate a spreadsheeting system."
+        }
+    ]
+}

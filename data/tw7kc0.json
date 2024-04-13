@@ -1,0 +1,1352 @@
+{
+    "title": "Me trying to switch careers after getting a Master\u2019s degree in Data Science",
+    "id": "tw7kc0",
+    "create_at": 1649092885.0,
+    "score": 2486,
+    "comments": [
+        {
+            "id": "i3g9tgk",
+            "parent": "t1_i3dmmxi",
+            "ans": "I hate this so much\n\nI feel like we're in a position where we make applications juuuuuust hard enough to take a good 5-10 minutes per application and hiring managers can just ignore them\n\nI hope either applications somehow get harder so hiring managers will be forced to look at all of them, or alternatively maybe like just let me fill out my information once and let me apply to a ton of jobs at once",
+            "score": 94,
+            "que": "Most applications never got a set of human eyes to read them."
+        },
+        {
+            "id": "i3glnrr",
+            "parent": "t1_i3dmmxi",
+            "ans": "Sad part and the truth",
+            "score": 7,
+            "que": "Most applications never got a set of human eyes to read them."
+        },
+        {
+            "id": "i3joe6o",
+            "parent": "t1_i3dmmxi",
+            "ans": "HAving seen that resume, I disagree. ATS auto-reject mostly on basic stuff, like big gaps and employment. This resume was just not great, I don't think ATSs was the problem.",
+            "score": 3,
+            "que": "Most applications never got a set of human eyes to read them."
+        },
+        {
+            "id": "i3k4csy",
+            "parent": "t1_i3dmmxi",
+            "ans": "Isn't this is what a good data scientist is for though? Having a computer process applications is so much faster for the company",
+            "score": 1,
+            "que": "Most applications never got a set of human eyes to read them."
+        },
+        {
+            "id": "i3dt2pi",
+            "parent": "t1_i3do88e",
+            "ans": "DS hiring manager as well to chime in and say yeah resume is probably the problem. \n\nFor the most recent position I hired for we had 130 resumes. There's an overwhelming amount of folks interested in entry level DS, such that most companies can't afford to have a hiring manager sift through all of the resumes, they have to use automatic screening as a first pass.",
+            "score": 208,
+            "que": "Hiring manager here. Looking at this data and some other comments you made, I think your resume needs work. If you DM me your resume I'd be happy to take a look. \n\nOther than that, it's not terrible data. My last job search was similarly painful. MY advice would be to focus on the positive - try to see people that reject you or ghost you as 'their loss' which is ultimately how you should look at things."
+        },
+        {
+            "id": "i3gjuru",
+            "parent": "t1_i3do88e",
+            "ans": "Yeah send u/fraudulenthack all your info op!",
+            "score": 6,
+            "que": "Hiring manager here. Looking at this data and some other comments you made, I think your resume needs work. If you DM me your resume I'd be happy to take a look. \n\nOther than that, it's not terrible data. My last job search was similarly painful. MY advice would be to focus on the positive - try to see people that reject you or ghost you as 'their loss' which is ultimately how you should look at things."
+        },
+        {
+            "id": "i3dywuv",
+            "parent": "t1_i3do88e",
+            "ans": "I like to state to the recruiters who didn't consider me that I request them to delete my information as is my right and their obligation due to GDPR (I'm in Europe). Feels a bit of a revenge that someone still has to do something because they rejected me.\n\nAt least I have the final move.",
+            "score": 2,
+            "que": "Hiring manager here. Looking at this data and some other comments you made, I think your resume needs work. If you DM me your resume I'd be happy to take a look. \n\nOther than that, it's not terrible data. My last job search was similarly painful. MY advice would be to focus on the positive - try to see people that reject you or ghost you as 'their loss' which is ultimately how you should look at things."
+        },
+        {
+            "id": "i3e6hyy",
+            "parent": "t1_i3do88e",
+            "ans": "Any chance I could send over my resume as well if you have a spare minute?",
+            "score": 2,
+            "que": "Hiring manager here. Looking at this data and some other comments you made, I think your resume needs work. If you DM me your resume I'd be happy to take a look. \n\nOther than that, it's not terrible data. My last job search was similarly painful. MY advice would be to focus on the positive - try to see people that reject you or ghost you as 'their loss' which is ultimately how you should look at things."
+        },
+        {
+            "id": "i3hyzjm",
+            "parent": "t1_i3do88e",
+            "ans": "Hey! Im currently in my Master's, and I would greatly appreciate if you could critique my resume! Could I DM you? Thanks!",
+            "score": 1,
+            "que": "Hiring manager here. Looking at this data and some other comments you made, I think your resume needs work. If you DM me your resume I'd be happy to take a look. \n\nOther than that, it's not terrible data. My last job search was similarly painful. MY advice would be to focus on the positive - try to see people that reject you or ghost you as 'their loss' which is ultimately how you should look at things."
+        },
+        {
+            "id": "i3ih8rx",
+            "parent": "t1_i3do88e",
+            "ans": "Would you care to look over my resume also? I tried messaging but there's no option unfortunately. \n\nI make my .pdfs in latex and I have a suspicion that the automated readers aren't yanking info off the .pdf properly... I've put in lots of apps and no response so far :(",
+            "score": 1,
+            "que": "Hiring manager here. Looking at this data and some other comments you made, I think your resume needs work. If you DM me your resume I'd be happy to take a look. \n\nOther than that, it's not terrible data. My last job search was similarly painful. MY advice would be to focus on the positive - try to see people that reject you or ghost you as 'their loss' which is ultimately how you should look at things."
+        },
+        {
+            "id": "i3dqm58",
+            "parent": "t1_i3dnohc",
+            "ans": "I hate how applying for a job has become a part/full-time job in itself.",
+            "score": 134,
+            "que": "If such a high percentage of applications are getting no response, I'd suggest it's an issue with getting past ATS. Keywords and keyphrases from the job description must appear in the resume in order to meet the ATS parameters.\n\nIf candidates can make it past the ATS nightmare, then they have to deal with HR/\"talent acquisition\" screeners who often don't know much (if anything) about the roles they source. The next hoop to jump through is dealing with hiring managers who expect a perfect unicorn candidate to plop down in their lap. It's a broken process with many layers of problems.\n\nAll that said, if you have 5 years of analytics experience, it's probably best to avoid anything that specifically states that it's \"entry level,\" but also keep in mind that in many cases the people posting the jobs don't always properly categorize them, so the default categories remain unchanged."
+        },
+        {
+            "id": "i3dvibp",
+            "parent": "t1_i3dnohc",
+            "ans": "I think this is the real problem here. A 3% conversion rate is insanely low, and the resume is likely the crux of this. Personally I see about a 50% conversion rate - although I am very selective about what I apply to. Lots of it as pointed out is having enough/the right words in there for the ATS, and then its also worthwhile doing the extra steps - finding the recruiter for the position, making contact with someone at the company, etc... to at least get you out of the resume review black box.",
+            "score": 46,
+            "que": "If such a high percentage of applications are getting no response, I'd suggest it's an issue with getting past ATS. Keywords and keyphrases from the job description must appear in the resume in order to meet the ATS parameters.\n\nIf candidates can make it past the ATS nightmare, then they have to deal with HR/\"talent acquisition\" screeners who often don't know much (if anything) about the roles they source. The next hoop to jump through is dealing with hiring managers who expect a perfect unicorn candidate to plop down in their lap. It's a broken process with many layers of problems.\n\nAll that said, if you have 5 years of analytics experience, it's probably best to avoid anything that specifically states that it's \"entry level,\" but also keep in mind that in many cases the people posting the jobs don't always properly categorize them, so the default categories remain unchanged."
+        },
+        {
+            "id": "i3hzjvk",
+            "parent": "t1_i3dnohc",
+            "ans": "DS from Europe here and I\u2019m moving to the US for personal circumstance.\n\n I am looking for a DS role and I have applied around 30 jobs but didn\u2019t really get that many response. I know 30 jobs are not too many but how people talked about it was really like recruiters easily spam your LinkedIn messages if you have 3+ years exp (which I have and I don\u2019t need a visa) \n\nJust wondering, does the location of the company I currently work in matter? Could it be a reason not passing the ATS? Thanks so much!",
+            "score": 1,
+            "que": "If such a high percentage of applications are getting no response, I'd suggest it's an issue with getting past ATS. Keywords and keyphrases from the job description must appear in the resume in order to meet the ATS parameters.\n\nIf candidates can make it past the ATS nightmare, then they have to deal with HR/\"talent acquisition\" screeners who often don't know much (if anything) about the roles they source. The next hoop to jump through is dealing with hiring managers who expect a perfect unicorn candidate to plop down in their lap. It's a broken process with many layers of problems.\n\nAll that said, if you have 5 years of analytics experience, it's probably best to avoid anything that specifically states that it's \"entry level,\" but also keep in mind that in many cases the people posting the jobs don't always properly categorize them, so the default categories remain unchanged."
+        },
+        {
+            "id": "i3dmbhi",
+            "parent": "t1_i3dkdq5",
+            "ans": "This is surprising with the amount of experience you have. Where are you located? What type of companies are you applying to? How optimized is your LinkedIn profile? \n\nDo you think it\u2019s an issue of being overqualified? What happens when you go after senior analyst roles? Or mid-level DS roles?",
+            "score": 57,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3dwrfp",
+            "parent": "t1_i3dkdq5",
+            "ans": "I graduated w a MS in business and analytics in 2019, still haven\u2019t been able to nail a true entry level data analyst role, worked the first year in a diff field, then a systems analyst role for little over half a year, then what was supposed to be a data analyst role but was product support analyst, and now my current role which is a data analyst title but it\u2019s basically data engineering.",
+            "score": 13,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3dq1ux",
+            "parent": "t1_i3dkdq5",
+            "ans": "[deleted]",
+            "score": 19,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3eu49r",
+            "parent": "t1_i3dkdq5",
+            "ans": "This is WAY too many applications in 3 months. Ur gonna go insane :/. Stick to double digits? Quality over quantity. \n\nYour clearly an ideal candidate with all of that experience.  Don't give up!",
+            "score": 3,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3fm0h0",
+            "parent": "t1_i3dkdq5",
+            "ans": "Are you doing bioinformatics or more like 'specimen processing'?",
+            "score": 2,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3dm4mp",
+            "parent": "t1_i3dkdq5",
+            "ans": "I don't know that this is a \"you\" issue, but a \"them being assholes\" issue. The r/antiwork sub is full of stories about recruiters, HR, and businesses being \"less than professional\" (the politest way I can say it) during the recruitment process.",
+            "score": 7,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3fro6g",
+            "parent": "t1_i3dkdq5",
+            "ans": "It is not you man it is them! And their loss..",
+            "score": 1,
+            "que": "Mostly Data Analyst positions and entry level Data Scientist positions. I also have 5 years of experience working in an analytical position in Healthcare and still just constantly getting ghosted.\n\nEdit: this is over the course of only 3 months"
+        },
+        {
+            "id": "i3do799",
+            "parent": "t1_i3dl76w",
+            "ans": "After updating my resume to highlight my analytical projects and education two months ago, I received a lot more replies. I have not been given ANY feedback other than \u201cwe decided to move on with someone who has more experience\u201d",
+            "score": 20,
+            "que": "As someone working on pivoting careers, this definitely has me worried. Have you had your resume reviewed or received any feedback from the interviews?"
+        },
+        {
+            "id": "i3fhccq",
+            "parent": "t1_i3dojcj",
+            "ans": "I'll +1 that last point as well, not making it past those initial interviews (are those including HR/Recruiter screens?) might be a sign of interviewing technique and that is certainly in your power to improve.",
+            "score": 4,
+            "que": "Best way to get interviews is through referrals.\n\nGo on LinkedIn to see if anyone from your past universities can give you a referral when you apply.\n\nTry to target a few specific industries and tailor your resumes for them. Work on projects for your portfolio that are relevant to hiring managers in those industries. This also helps to get past ATS.\n\nGet your resume looked at by a professional.\n\nGo to your university's career center to see if they can connect you with any companies who are hiring analytics professionals.\n\nLast point, if you weren't able to convert 1 of those 14+ interviews into a job offer, that's definitely something to look into. You can hire a DS professional to do a mock interview with you. I'd definitely ask yourself where you feel like you could've performed better and also try to reach out to the hiring managers who interviewed you (not the HR person) to see if they could give you any feedback, off the record."
+        },
+        {
+            "id": "i3go8jw",
+            "parent": "t1_i3e6zkm",
+            "ans": "lol",
+            "score": 3,
+            "que": "Might wanna try some A/B testing on your resume."
+        },
+        {
+            "id": "i3dnvxs",
+            "parent": "t1_i3dkwr7",
+            "ans": "Located in Pittsburgh PA",
+            "score": 6,
+            "que": "That\u2019s surprising. Where are you located?"
+        },
+        {
+            "id": "i3hkce1",
+            "parent": "t1_i3eg8h6",
+            "ans": "Yes I worked full time while getting it online",
+            "score": 2,
+            "que": "Did you work a job during your master's degree?\n\nI had to have 4ish years of analyst experience just to get a data science'y role. \n\nAt the right company, an entry level analyst role can give you the experience in and access to the data you need to be noticed.\n\nI know, I know, no one comes here for the, \"put in the time\" argument but hey the right story can sell a career."
+        },
+        {
+            "id": "i3o1g2z",
+            "parent": "t1_i3e5s8y",
+            "ans": "Could you tell me more about getting a data engineering job? I am starting an MS in DS and Analytics soon to switch careers but really want to work in data engineering even more than DS. I want to maximize my likeliness of getting a good job while I work on the degree.",
+            "score": 4,
+            "que": "Come over to the data engieering team. We've got jobs coming out of the wazoo."
+        },
+        {
+            "id": "i3eaeda",
+            "parent": "t1_i3e5s8y",
+            "ans": "Just had an interview for one last Friday",
+            "score": 2,
+            "que": "Come over to the data engieering team. We've got jobs coming out of the wazoo."
+        },
+        {
+            "id": "i3euyq0",
+            "parent": "t1_i3e5s8y",
+            "ans": "Everyone and they're mama is finally moving to the cloud warehousing formats. Quite frankly I'd be useless without them",
+            "score": 1,
+            "que": "Come over to the data engieering team. We've got jobs coming out of the wazoo."
+        },
+        {
+            "id": "i3h8w4q",
+            "parent": "t1_i3e5s8y",
+            "ans": "I'm a data analyst, but a lot of what  I do could be considered data engineering (on a small scale) I guess. I really enjoy it.  I'm definitely considering moving in that direction.",
+            "score": 1,
+            "que": "Come over to the data engieering team. We've got jobs coming out of the wazoo."
+        },
+        {
+            "id": "i3irs3g",
+            "parent": "t1_i3e91c7",
+            "ans": "I think it depends a lot also on how well connected your program is. I'm graduating with an MS in May and our employment rate is over 90%. Companies recruit internally with my school so most students have no need to look externally for roles.\n\nThe median salary from my program was something like $115k.",
+            "score": 4,
+            "que": "All this scaremongering and shit talking about MSDS in here does not represent reality. I graduated this September from a MSDS in the UK and had three offers, two for ds and one da, before I actually graduate.  Out of ten people who were close to me from my cohort, nine are already working in DS, DA, product analysts roles and only one is still struggling ( he has only been on the job hunting for one month though). OP, don't get disheartened, just give it some time and maybe improve your resume and you'll land something for sure."
+        },
+        {
+            "id": "i3eq8fc",
+            "parent": "t1_i3dxyur",
+            "ans": "I doubt you submitted almost 500 applications though, OP likely has a shit resume if the response rate is that low. For my first internship term in university for software engineering, I submitted about 70 applications and got no response for about half, and a rejection for a bit less than half, 3 interviews and 1 offer that I accepted. Funnily enough I also applied to work at a job posting at my own school but they were one of the ones that ghosted me.",
+            "score": 2,
+            "que": "I had to do internship on my own university because I couldn't get a job anywhere :/\n\nAt least is something, but isn't compared to real life companies, uni is going to understand your limits and treat you like a student. Very different from real life."
+        },
+        {
+            "id": "i3drrii",
+            "parent": "t1_i3dr210",
+            "ans": "Nah bro",
+            "score": -45,
+            "que": "post ur resume"
+        },
+        {
+            "id": "i3e5aya",
+            "parent": "t1_i3du7y7",
+            "ans": "My first job took around 300 applications, bear in mind though, allot of them are just one click applications on indeed or total jobs or whatever.",
+            "score": 14,
+            "que": "461 is crazy, is this a normal number for this sub?"
+        },
+        {
+            "id": "i3dyrru",
+            "parent": "t1_i3du7y7",
+            "ans": "That's not an incredibly high number for a job search in a lot of industries",
+            "score": 9,
+            "que": "461 is crazy, is this a normal number for this sub?"
+        },
+        {
+            "id": "i3eb65g",
+            "parent": "t1_i3du7y7",
+            "ans": "I simply don't believe that people are submitting 461 actual applications. Just clicking send on Ziprecruiter doesn't count.",
+            "score": 8,
+            "que": "461 is crazy, is this a normal number for this sub?"
+        },
+        {
+            "id": "i3e2xpv",
+            "parent": "t1_i3du7y7",
+            "ans": "For entry level, no",
+            "score": 5,
+            "que": "461 is crazy, is this a normal number for this sub?"
+        },
+        {
+            "id": "i3hzta8",
+            "parent": "t1_i3du7y7",
+            "ans": "My first job search out of grad school consisted of 4 applications and 2 of them resulted in offers. I see this kind of stuff all the time and I just wonder what the fuck these people are actually doing.",
+            "score": 2,
+            "que": "461 is crazy, is this a normal number for this sub?"
+        },
+        {
+            "id": "i3e3dv0",
+            "parent": "t1_i3dz87l",
+            "ans": "The hot market is for experienced folks. Most companies are still building out their data practice and need experienced folks for that. Those folks are still trying to prove value and don\u2019t have the capacity to mentor junior folks. Most entry level DS roles are at big tech companies with huge mature data teams, and they get significantly more applications than they have open positions. \n\nIf you have 3-5+ years of solid analytics/DS experience, it\u2019s not nearly this hard. You just need a good LinkedIn profile, recruiters reach out to you, don\u2019t even need to proactively apply.",
+            "score": 3,
+            "que": "Looking for myself after 20 years in another field that is high in statistics requirements. Just getting started and getting alot of nos so far.  Had resume and deliverables reviewed by professional career coaches.  \n\nIt is not intuitive to me to see 'hot market' and at same time get screened out so early and hear that employers can't find good people. Are we getting screened out by a crappy Workforce model?  Confusing why so hard for someone working professionally to do the work and still not get opportunity to even discuss?"
+        },
+        {
+            "id": "i3eeqxp",
+            "parent": "t1_i3dxwc7",
+            "ans": "I don\u2019t think all MS DS/analytics are that bad. Yes, there are some suspect one (especially the ones that are partnerships with EdX and Trilogy), but there are plenty of programs that are actually specialized MSCS programs that were rebranded MSDS, that are taught by experienced faculty with PhDs in CS, stats, math, and dig into a good mix of math, theory, programming, etc, and not just showing you how to use scikit learn.",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3kuqbf",
+            "parent": "t1_i3dxwc7",
+            "ans": "All master's where you pay tuition are cash cows by definition. A MSCS program is a huge revenue source for many CS departments around the country, so it's not just a MS in Data Science thing. I find that most criticism people here have of MS in Data Science, you can also apply to MS CS.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3e1byw",
+            "parent": "t1_i3dnihk",
+            "ans": "Internal connections are only helpful if you have internal connections.",
+            "score": 11,
+            "que": "Are all of these just applying through a website? Have you ever applied through having an internal connection?\n\nWith numbers like yours, I would be inclined to consider [changing my approach.](https://getpocket.com/explore/item/your-resume-is-a-waste-of-time-8-better-ways-to-get-hired-for-the-job-you-want)"
+        },
+        {
+            "id": "i3ob3s8",
+            "parent": "t1_i3gffuu",
+            "ans": "Hi, I have 2 + years work experience with CRMs as a sales engineer, my background is in mechanical engineering, and I\u2019m currently halfway done with a MSDS program from a top 20 school. Interested to hear more about this role if you\u2019d be kind enough to chat via pm! \ud83d\ude4f\ud83c\udffd",
+            "score": 1,
+            "que": "A lot of great feedback here. The core 3 for me:\n\na. Leverage personal networks/recruiters over cold applies. I\u2019ve almost exclusively been placed rather than hired from a cold apply in my career. Success rate is extremely high for me when working with a recruiter who has a vested interest in placing me.\nb. Don\u2019t be afraid of a good internship. Pay might not be the glamorous promised starting wage at $100k but you can quickly grow a portfolio and get promoted to a full data science role. My experience tells me it\u2019s much easier to find a job while employed than unemployed.\nc. You might not have a lot of experience, but what you need is a portfolio. When I look at young analyst/data science hires I look for passion for the field. How you can demonstrate that to me is you having done several projects on your own set of interests and applied your data viz/analytics/data science knowledge to irl projects.\n\nLastly, I\u2019m hiring for a crm analyst role. Not quite data science, but in the space and I can teach you a lot. Hit me up if interested:) \n\nGood luck!"
+        },
+        {
+            "id": "i3edwz2",
+            "parent": "t1_i3dpt8u",
+            "ans": "Hi stranger,\n\nChiming in to say I'm writing this comment from a job that my google data analysis certificate helped me land (paired with like 3 years of admin experience in an engineering department prior and a worthless BA).\n\nI believe in you!!! It might not be glamorous but you'll get that title (my company is small and has a system that's basically excel sheets designed to feed into a clunky db interface maintained by some out of house dev...and I do like 10 actual hours of analysis a week..lol). There's tons of smaller businesses starting to realize they have too much data for a single person to work with.",
+            "score": 10,
+            "que": "Same here. I don\u2019t even have the master\u2019s degree, just a data analytics certificate. Hopefully someone will take a chance and hire us."
+        },
+        {
+            "id": "i3drqlh",
+            "parent": "t1_i3dplcm",
+            "ans": "Nope",
+            "score": 2,
+            "que": "Do you need sponsorship I.e work visas? Curious because the rates for need vs don\u2019t need sponsorship tend to look very different"
+        },
+        {
+            "id": "i3h883k",
+            "parent": "t1_i3dyrk6",
+            "ans": "My advice is to do a tonne of side-projects to build your experience. You can also refer to those projects in the interview and it really helps you stand out.\n\nMost people who do a masters of DS assume they can just go to class, do some assignments and walk into a job, while in reality they are not even close to having the skills that would make them employable.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3kvi5x",
+            "parent": "t1_i3dyrk6",
+            "ans": "I don't know about Canada but here is what I will tell you. That first job out of school is difficult for everyone, unless you went to a very well-connected school with lots of on-campus recruiting, or a school like Stanford, Harvard, CMU, etc, where the name just speaks for itself.\n\nThe criticism that people have here for MS DS programs are really no different than MS CS or MS Stats programs. People just feel threatened by MS DS because it's new, and people here like to gate-keep (sometimes there's a little bit of r/iamverysmart vibes here, too). \n\nThe trick to making the job search easier is to make side projects, build connections, and don't be too picky in applying to companies. Your first job out of school will not be your ideal job, but that's okay, as long as you can build the skills and experience there that will help you towards your ideal job. And of course, interview prep.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3fmnha",
+            "parent": "t1_i3edrkw",
+            "ans": "Sankey",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "i3obnr3",
+            "parent": "t1_i3h28p6",
+            "ans": "This is interesting\u2026 can I PM you about this? Currently in a MSDS as well and seeing firsthand how the market is for interns haha",
+            "score": 1,
+            "que": "I am a fresh grad Masters in DS as well. I applied to 1000 jobs in a time frame of 3 months. I landed a handful offers that are above entry level. 0 entry level offers. One thing I can say that the job search for an entry level DS is definitely the most difficult and depressing experience. My advice would be to forget the \u201centry level\u201d and go straight for the \u201cactual\u201d roles for DS. Pays a lot more too!"
+        },
+        {
+            "id": "i3gydoj",
+            "parent": "t1_i3env6r",
+            "ans": "Sample size is 1 and we know nothing about OP. Can you really make such a conclusion on this",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3dl48v",
+            "parent": "t1_i3dk6jb",
+            "ans": "Third interview is a subset of second interview. 2 out of 3 second interviews led to third interviews, followed by ghosting. 1 out of 3 second interviews went straight to ghosting.",
+            "score": 11,
+            "que": "Wait the second interview and third interview both lead to ghosted but numbers dont add up. What happened to the other two where you weren't ghosted?"
+        },
+        {
+            "id": "i3garkh",
+            "parent": "t1_i3e5v05",
+            "ans": "I got a masters degree in Sociology and work as a data scientist, but never had much trouble landing a job. The market for data scientists may have become more saturated over the past few years and Sociology certainly isn't a great background, but I landed a junior role as a data analyst anyway and had even less problems progressing in my career from there. There's a lot of tried and true advice that helps more than just applying a whole bunch of times and hoping for the best, I think. \n\n- select the job openings that fit best with your skills and achievements. You may not tick every box and the job may not offer everything you look for, but try to find the best match.\n- tailor your application to the role.\n- try to get in direct contact with the organisation to get a foot in the door. Ask details that are not in the job posting but helpful to know. Basically, make a good impression regardless of an interview taking place. But there's a fine line between showing interest and being too pushy, so tread carefully. \n\nBasically, sniping the best opportunities always worked well for me. Hiring managers have a good intuition for cookie cutter applications and will be triggered by an application that stands out from the rest. This assumes your application is read in the first place and you're not one in hundred applicants for a position. For me, that has always been the case because I look for the openings where I stand a good chance, anyway.",
+            "score": 4,
+            "que": "This is concerning, I am a year away from my masters degree in DS, with $65K in tuition spent by graduation. At least I didn\u2019t get a masters in sociology or arts or something"
+        },
+        {
+            "id": "i3hzh55",
+            "parent": "t1_i3fzl8m",
+            "ans": "Would you recommend a different masters degree? I\u2019m a year away from an MSDS degree and personally felt I learned a lot but was expensive to complete. I took these courses: Python for DS, applied stats with R, practical machine learning with Python, database systems with SQL, finite math and calculus, currently taking decision analytics with a broad range - Python, excel, R; and next courses will be AI, NLP, and financial machine learning",
+            "score": 1,
+            "que": "when can people realize data science (non phd level) is a scam"
+        },
+        {
+            "id": "i3gwv8v",
+            "parent": "t1_i3f8l4a",
+            "ans": "Well, they're trying to getting some fucking experience and we haven't seen their resume. But fair, maybe they should have applied for at least 500 jobs...",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "i3eqq10",
+            "parent": "t1_i3e1cjg",
+            "ans": "I really doubt it, more than likely a problem with OP's resume which they refuse to post. I've had friends with mediocre GPAs graduated from mediocre universities with little to no work experience and less applications get offers in the same field.",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3h8jl0",
+            "parent": "t1_i3facnx",
+            "ans": "Definitely agree about the personal projects point.\n\nIt's also a very tough market for entry-level DS roles - while there is a lot of demand for experienced data scientists, the market is absolutely flooded with DS masters grads at the moment.",
+            "score": 1,
+            "que": "If you have a masters in data science, barely getting interviews and getting ghosted, most likely you\u2019re doing something wrong with resume or not having any personal projects to show I would think"
+        },
+        {
+            "id": "i3ha4f4",
+            "parent": "t1_i3gy9gx",
+            "ans": "Thats incredible.  I love how you are so casual about it.",
+            "score": 1,
+            "que": "Just for lurkers, this thread blew up due to how extreme it is. Let me be the counter example. 3 years DS experience. Maybe 6 job interviews and 5 acceptances. Working at FAANG now. A non stem undergrad degree with no further education. I\u2019ve never struggled to find jobs and the market is so hot people move at least once a year to receive a healthy pay rise. I don\u2019t know what OP wrote with Comic Sans on his CV to get such a cold reception. This is not normal"
+        },
+        {
+            "id": "i3mycxg",
+            "parent": "t1_i3gy9gx",
+            "ans": "I will be graduating soon with a graduate certificate in Earth Data Analytics from CU Boulder. It's a bit more specialized of a certification. In the past three months I've applied to eleven jobs (some data analyst, some business analyst, some GIS analyst) and THAT feels like a lot. But I'm adjusting my resume and cover letter for EACH position. I cannot conceive of a world where someone applied to 500-1000 jobs and is doing the due diligence of catering their application materials to every position they're applying for. I'd personally much rather spend an hour/application and target a dozen or so companies and positions I'm genuinely interested in than mass apply to hundreds hoping to get an interview. No job yet, but I've had a couple of interviews and understand that some jobs won't happen because of my lack of experience.",
+            "score": 1,
+            "que": "Just for lurkers, this thread blew up due to how extreme it is. Let me be the counter example. 3 years DS experience. Maybe 6 job interviews and 5 acceptances. Working at FAANG now. A non stem undergrad degree with no further education. I\u2019ve never struggled to find jobs and the market is so hot people move at least once a year to receive a healthy pay rise. I don\u2019t know what OP wrote with Comic Sans on his CV to get such a cold reception. This is not normal"
+        },
+        {
+            "id": "i3i4epp",
+            "parent": "t1_i3g9tgk",
+            "ans": "This isn't new. The only way to reasonably get a job in any field is not through random applications but by getting recommended by a connection. Doing application hell is a waste of time.",
+            "score": 19,
+            "que": "I hate this so much\n\nI feel like we're in a position where we make applications juuuuuust hard enough to take a good 5-10 minutes per application and hiring managers can just ignore them\n\nI hope either applications somehow get harder so hiring managers will be forced to look at all of them, or alternatively maybe like just let me fill out my information once and let me apply to a ton of jobs at once"
+        },
+        {
+            "id": "i5s4zy0",
+            "parent": "t1_i3g9tgk",
+            "ans": "I\u2019m just going to list a fake job posting for a few months and cycle it out for the same role after a week lull but throw Google Ads all over the application site just to make money off of \u201cdata science.\u201d Probably more lucrative than actually trying to get a job.",
+            "score": 10,
+            "que": "I hate this so much\n\nI feel like we're in a position where we make applications juuuuuust hard enough to take a good 5-10 minutes per application and hiring managers can just ignore them\n\nI hope either applications somehow get harder so hiring managers will be forced to look at all of them, or alternatively maybe like just let me fill out my information once and let me apply to a ton of jobs at once"
+        },
+        {
+            "id": "i3du62c",
+            "parent": "t1_i3dt2pi",
+            "ans": "Any suggestions on the best approach for entry level DS/analyst roles?",
+            "score": 42,
+            "que": "DS hiring manager as well to chime in and say yeah resume is probably the problem. \n\nFor the most recent position I hired for we had 130 resumes. There's an overwhelming amount of folks interested in entry level DS, such that most companies can't afford to have a hiring manager sift through all of the resumes, they have to use automatic screening as a first pass."
+        },
+        {
+            "id": "i3dv63w",
+            "parent": "t1_i3dt2pi",
+            "ans": "Having read thousands of resumes, I can tell you 130 is nothing. Not even worth using an automated system. However yes, you look for certain things fast, and if you don't see them, you bin.",
+            "score": 39,
+            "que": "DS hiring manager as well to chime in and say yeah resume is probably the problem. \n\nFor the most recent position I hired for we had 130 resumes. There's an overwhelming amount of folks interested in entry level DS, such that most companies can't afford to have a hiring manager sift through all of the resumes, they have to use automatic screening as a first pass."
+        },
+        {
+            "id": "i3du768",
+            "parent": "t1_i3dt2pi",
+            "ans": "Can you explain what automatic screening looks like? What are things that could make OP fail in the automatic screenings?",
+            "score": 8,
+            "que": "DS hiring manager as well to chime in and say yeah resume is probably the problem. \n\nFor the most recent position I hired for we had 130 resumes. There's an overwhelming amount of folks interested in entry level DS, such that most companies can't afford to have a hiring manager sift through all of the resumes, they have to use automatic screening as a first pass."
+        },
+        {
+            "id": "i3ef9nt",
+            "parent": "t1_i3dt2pi",
+            "ans": "At your company it possible for no MS at all to get through the first pass? OPs data makes a recent bootcamp grad with no MS or experience feel a bit hopeless\u2026 haha!",
+            "score": 3,
+            "que": "DS hiring manager as well to chime in and say yeah resume is probably the problem. \n\nFor the most recent position I hired for we had 130 resumes. There's an overwhelming amount of folks interested in entry level DS, such that most companies can't afford to have a hiring manager sift through all of the resumes, they have to use automatic screening as a first pass."
+        },
+        {
+            "id": "i3duki7",
+            "parent": "t1_i3dt2pi",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "DS hiring manager as well to chime in and say yeah resume is probably the problem. \n\nFor the most recent position I hired for we had 130 resumes. There's an overwhelming amount of folks interested in entry level DS, such that most companies can't afford to have a hiring manager sift through all of the resumes, they have to use automatic screening as a first pass."
+        },
+        {
+            "id": "i3ee0v3",
+            "parent": "t1_i3dywuv",
+            "ans": "If that makes you feel better, it's fine, but I think this illustrates the struggles you're going through with being rejected.\n\nImagine you're looking for a plumber: you have kept two ads from two plumbers, Mike and Josh. \n\nYou call them, they both seem good, but Mike was a little more responsive and it felt like he understood your problem better. At the end of the day, you give your business to Mike. Josh calls back to followup, you tell him that you went with someone else. He was really nice about it, and told you 'good luck'. \n\nNow imagine 6 months later you have another issue. Mike is on vacation, so you call Josh and throw business his way this time. \n\nPerfect, the two plumbers have made some business. \n\nNow imagine that Josh had said 'Oh you're not hiring me? Then please don't call again, lose my number, and throw away any prospectus I might have sent to your house. \n\nClearly at this point you're thinking, gosh this guy is a complete lunatic, you dodged a massive bullet going with Mike. \n\n\\-------------- \n\nOf course, the two are not exactly comparable, but really they are. There's nothing wrong with a company rejecting candidates. They're just doing their job. One day if you have your own company, or you're hiring for your team, you WILL have 200 candidates for one position, so you WILL have to send 199 rejection letters. Does it make you an asshole? \n\nThere's nothing wrong with asking companies to lose your information. But I think this little anecdote you share tells a story about how hard it feels to be rejected. In truth, you should be proud for applying. Personally I have framed some of my rejection letters, because after years of struggling with depression I was so proud to even have had the courage to apply in the first place.",
+            "score": 50,
+            "que": "I like to state to the recruiters who didn't consider me that I request them to delete my information as is my right and their obligation due to GDPR (I'm in Europe). Feels a bit of a revenge that someone still has to do something because they rejected me.\n\nAt least I have the final move."
+        },
+        {
+            "id": "i3el86z",
+            "parent": "t1_i3e6hyy",
+            "ans": "I can take a look. I'm getting a lot of interview. Fresh graduate here",
+            "score": 2,
+            "que": "Any chance I could send over my resume as well if you have a spare minute?"
+        },
+        {
+            "id": "i3enctl",
+            "parent": "t1_i3dqm58",
+            "ans": "Looking for a new job has always been a full time job.\n\nI created spreadsheets trackers, did course work, went to interview practices, career fairs, etc. I got a $12/hr gig in less than 1 afternoon but my stepdad asked the question \"is it really the best use of your time?\" That's how it goes.",
+            "score": 31,
+            "que": "I hate how applying for a job has become a part/full-time job in itself."
+        },
+        {
+            "id": "i3ef0ak",
+            "parent": "t1_i3dvibp",
+            "ans": "Look at this guy and his serviceable conversation rate jeez",
+            "score": 11,
+            "que": "I think this is the real problem here. A 3% conversion rate is insanely low, and the resume is likely the crux of this. Personally I see about a 50% conversion rate - although I am very selective about what I apply to. Lots of it as pointed out is having enough/the right words in there for the ATS, and then its also worthwhile doing the extra steps - finding the recruiter for the position, making contact with someone at the company, etc... to at least get you out of the resume review black box."
+        },
+        {
+            "id": "i3fyi9i",
+            "parent": "t1_i3dvibp",
+            "ans": "To be fair, you already *have* data science experience. It's a sad joke that employers post even junior DS jobs where they say they want 2-5 years of experience as a data scientist. Once you've crossed that threshold and actually have the job title on your r\u00e9sum\u00e9, you've eliminated the single greatest obstacle to getting DS work.\n\nFor people trying to get their first data scientist job, the legwork required is much, much more substantial.",
+            "score": 9,
+            "que": "I think this is the real problem here. A 3% conversion rate is insanely low, and the resume is likely the crux of this. Personally I see about a 50% conversion rate - although I am very selective about what I apply to. Lots of it as pointed out is having enough/the right words in there for the ATS, and then its also worthwhile doing the extra steps - finding the recruiter for the position, making contact with someone at the company, etc... to at least get you out of the resume review black box."
+        },
+        {
+            "id": "i3i4r2p",
+            "parent": "t1_i3hzjvk",
+            "ans": "It's difficult to know all the context of your particular situation, but you're right, 30 applications is not a large number. On average, I would suggest applying to at least 15 jobs per week. Also consider branching out the keywords in your search to include \"analyst,\" \"senior analyst,\" and even tangential titles like \"solutions architect,\" \"platform engineer,\" \"analytics engineer,\" etc.\n\nLocation could be a parameter in some ATS, but that depends on the company. Try focusing on remote positions if possible.",
+            "score": 2,
+            "que": "DS from Europe here and I\u2019m moving to the US for personal circumstance.\n\n I am looking for a DS role and I have applied around 30 jobs but didn\u2019t really get that many response. I know 30 jobs are not too many but how people talked about it was really like recruiters easily spam your LinkedIn messages if you have 3+ years exp (which I have and I don\u2019t need a visa) \n\nJust wondering, does the location of the company I currently work in matter? Could it be a reason not passing the ATS? Thanks so much!"
+        },
+        {
+            "id": "i3dmnh9",
+            "parent": "t1_i3dmbhi",
+            "ans": "Perhaps I\u2019m being broad with saying I\u2019m currently working in an analytical position. I work in a clinical laboratory. Whenever I do get feedback, they just say I don\u2019t have enough actual work experience. I\u2019ve had a couple \u201csenior analyst\u201d role interviews and I\u2019m just ghosted on those. Maybe I\u2019m not saying what they want in the interview",
+            "score": 36,
+            "que": "This is surprising with the amount of experience you have. Where are you located? What type of companies are you applying to? How optimized is your LinkedIn profile? \n\nDo you think it\u2019s an issue of being overqualified? What happens when you go after senior analyst roles? Or mid-level DS roles?"
+        },
+        {
+            "id": "i3e8ezw",
+            "parent": "t1_i3dwrfp",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "I graduated w a MS in business and analytics in 2019, still haven\u2019t been able to nail a true entry level data analyst role, worked the first year in a diff field, then a systems analyst role for little over half a year, then what was supposed to be a data analyst role but was product support analyst, and now my current role which is a data analyst title but it\u2019s basically data engineering."
+        },
+        {
+            "id": "i3dsyan",
+            "parent": "t1_i3dq1ux",
+            "ans": "Oof. I'm nearly done with OMSA with an engineering bachelors and 5 years in a lab and had considered looking for DS or Data Analyst roles.  \nHow difficult was it for you getting the Analyst role?",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3e9yuq",
+            "parent": "t1_i3dq1ux",
+            "ans": "Georgia Techs OMSA?",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3drqxc",
+            "parent": "t1_i3dm4mp",
+            "ans": "HR departments aren't perfect but if OP's getting about 10 interviews for 500 applications then it's a problem with OP. Maybe they're not remotely qualified, maybe their grades from their degree are poor, maybe they have no relevant experience, or maybe their CV just isn't a good representation of themselves.\n\nThat must be the case because the alternative just can't be true. The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. The DS department of these companies would be dying, they'd be escalating the issue like crazy saying \"we're getting no applicants!\". That just can't be the case.",
+            "score": 45,
+            "que": "I don't know that this is a \"you\" issue, but a \"them being assholes\" issue. The r/antiwork sub is full of stories about recruiters, HR, and businesses being \"less than professional\" (the politest way I can say it) during the recruitment process."
+        },
+        {
+            "id": "i3glauw",
+            "parent": "t1_i3dm4mp",
+            "ans": "After roughly 20 phone screenings with recruiters over the past 3 months I've decided that's it's really only about 99% of recruiters that give the rest a bad name.",
+            "score": 8,
+            "que": "I don't know that this is a \"you\" issue, but a \"them being assholes\" issue. The r/antiwork sub is full of stories about recruiters, HR, and businesses being \"less than professional\" (the politest way I can say it) during the recruitment process."
+        },
+        {
+            "id": "i3dnh8e",
+            "parent": "t1_i3dm4mp",
+            "ans": "Unfortunately the old saying of \"it's who you know not what you know\" drives hiring. \n\nNew staff you don't know are a risk not matter what, you don't know if you will work well with them. \n\nThis visulization based quantification of networking efforts would be interesting.",
+            "score": 17,
+            "que": "I don't know that this is a \"you\" issue, but a \"them being assholes\" issue. The r/antiwork sub is full of stories about recruiters, HR, and businesses being \"less than professional\" (the politest way I can say it) during the recruitment process."
+        },
+        {
+            "id": "i3dodry",
+            "parent": "t1_i3dm4mp",
+            "ans": "I\u2019m not sure either. That\u2019s why I wanted to see what this sub had to say about my process",
+            "score": 6,
+            "que": "I don't know that this is a \"you\" issue, but a \"them being assholes\" issue. The r/antiwork sub is full of stories about recruiters, HR, and businesses being \"less than professional\" (the politest way I can say it) during the recruitment process."
+        },
+        {
+            "id": "i3e88bm",
+            "parent": "t1_i3dm4mp",
+            "ans": "I would say it's companies being dysfunctional rather than being assholes. Ideally there would be some automated system that sends an email to all applicants that got rejected (or prompts HR to do it). But a lot of times nice processes like that don't exist and things just fall through the cracks.",
+            "score": 4,
+            "que": "I don't know that this is a \"you\" issue, but a \"them being assholes\" issue. The r/antiwork sub is full of stories about recruiters, HR, and businesses being \"less than professional\" (the politest way I can say it) during the recruitment process."
+        },
+        {
+            "id": "i3fmj22",
+            "parent": "t1_i3do799",
+            "ans": "Isn't that just the worst?",
+            "score": 4,
+            "que": "After updating my resume to highlight my analytical projects and education two months ago, I received a lot more replies. I have not been given ANY feedback other than \u201cwe decided to move on with someone who has more experience\u201d"
+        },
+        {
+            "id": "i3gtaaj",
+            "parent": "t1_i3do799",
+            "ans": "Most of the time they avoid a true critique to avoid any trouble because some people could get offended",
+            "score": 1,
+            "que": "After updating my resume to highlight my analytical projects and education two months ago, I received a lot more replies. I have not been given ANY feedback other than \u201cwe decided to move on with someone who has more experience\u201d"
+        },
+        {
+            "id": "i3e7czf",
+            "parent": "t1_i3dnvxs",
+            "ans": "Now this is extra interesting because there are definitely jobs there",
+            "score": 11,
+            "que": "Located in Pittsburgh PA"
+        },
+        {
+            "id": "j0hqdp4",
+            "parent": "t1_i3hkce1",
+            "ans": "Did you get a job now? Where did you do the online course from?",
+            "score": 1,
+            "que": "Yes I worked full time while getting it online"
+        },
+        {
+            "id": "i3o4wlp",
+            "parent": "t1_i3o1g2z",
+            "ans": "I can't tell you how to get a data engineering job, but I can tell you how I got mine: started out in a real backwater company working in first line IT support, they were only just getting started with databasing really, I learned SQL myself, helped them set up their first ever SQL server database / DNS server. Then, I went to work for another real backwater e-commerce company as their sole developer, I did SQL, VBA macros and Magento 2 support (website development). \n\nThen, I worked as a freelancer for a bit, did a few gigs on Upwork, made fuck all money doing it, but did a few Azure database migrations, got lots of exposure to power bi, made a few dashboards. Then I got picked up by a start-up consultancy, consultancy was basically what made my career, worked for some huge names, and learned python proper etc. All started in backwater companies though, real small, local businesses that just wanted someone nearby who could \"use the computers\". I think my first official job title was \"computer operator\".",
+            "score": 3,
+            "que": "Could you tell me more about getting a data engineering job? I am starting an MS in DS and Analytics soon to switch careers but really want to work in data engineering even more than DS. I want to maximize my likeliness of getting a good job while I work on the degree."
+        },
+        {
+            "id": "i3ku97z",
+            "parent": "t1_i3irs3g",
+            "ans": "I have MS in stats, but my dept did offer MS in DS so I knew a lot of peeps with a MS in DS. Very few of them had trouble getting a decent offer. The vast majority of the DS students got at least 1 offer before graduation. But we had good companies come recruit, too, though.",
+            "score": 3,
+            "que": "I think it depends a lot also on how well connected your program is. I'm graduating with an MS in May and our employment rate is over 90%. Companies recruit internally with my school so most students have no need to look externally for roles.\n\nThe median salary from my program was something like $115k."
+        },
+        {
+            "id": "i6sm5w1",
+            "parent": "t1_i3irs3g",
+            "ans": "Which school?",
+            "score": 1,
+            "que": "I think it depends a lot also on how well connected your program is. I'm graduating with an MS in May and our employment rate is over 90%. Companies recruit internally with my school so most students have no need to look externally for roles.\n\nThe median salary from my program was something like $115k."
+        },
+        {
+            "id": "i3erjci",
+            "parent": "t1_i3eq8fc",
+            "ans": "Oh no, not nearly. Probably about 90 of the ones that were close to my house. Just two interviews, for the one I'm at now, it sucked, they did a test to see what I was capable of and I got too nervous. The other one was with the CEO and he didn't like that I didn't had any certs. \nStill, completely out of luck, I got the one I'm at now.",
+            "score": 1,
+            "que": "I doubt you submitted almost 500 applications though, OP likely has a shit resume if the response rate is that low. For my first internship term in university for software engineering, I submitted about 70 applications and got no response for about half, and a rejection for a bit less than half, 3 interviews and 1 offer that I accepted. Funnily enough I also applied to work at a job posting at my own school but they were one of the ones that ghosted me."
+        },
+        {
+            "id": "i3dt3kx",
+            "parent": "t1_i3drrii",
+            "ans": "Resume likely needs work. Your experience in healthcare analytics should be giving you a much higher response rate than what you\u2019ve shown. Good news is that a resume is pretty easy to fix.",
+            "score": 28,
+            "que": "Nah bro"
+        },
+        {
+            "id": "i3dts6i",
+            "parent": "t1_i3drrii",
+            "ans": "I\u2019m thinking it\u2019s your resume. Have you had someone in tech look at it? \n\nI did the entry level ds/da job search recently as well and was struggling until I had mine critiqued.",
+            "score": 8,
+            "que": "Nah bro"
+        },
+        {
+            "id": "i3edxw1",
+            "parent": "t1_i3drrii",
+            "ans": "What about an anonymized version without your name or company names?\n\nIt\u2019s really hard to give helpful advice without knowing how you\u2019re presenting yourself. Especially since it sounds like the resume is the issue since you aren\u2019t getting interviews.",
+            "score": 7,
+            "que": "Nah bro"
+        },
+        {
+            "id": "i3fduzb",
+            "parent": "t1_i3drrii",
+            "ans": "Post it but redact any personal info. Remove name email address & generalize comapny info. E.g F500 healthcare company or regional healthcare company.",
+            "score": 3,
+            "que": "Nah bro"
+        },
+        {
+            "id": "i3e7inn",
+            "parent": "t1_i3e5aya",
+            "ans": "Yeah I wouldn\u2019t even consider those as real applications",
+            "score": 8,
+            "que": "My first job took around 300 applications, bear in mind though, allot of them are just one click applications on indeed or total jobs or whatever."
+        },
+        {
+            "id": "i3kujdk",
+            "parent": "t1_i3e5aya",
+            "ans": ">allot of them are just one click applications on indeed or total jobs or whatever.\n\nThis is why I intentionally seek out Workday and other shitty career portals lol. Less competition. I would literally set aside a couple hours just submitting resumes via Workday/Taleo/<some other outdated shitty HR site>",
+            "score": 1,
+            "que": "My first job took around 300 applications, bear in mind though, allot of them are just one click applications on indeed or total jobs or whatever."
+        },
+        {
+            "id": "i3eqjv7",
+            "parent": "t1_i3eb65g",
+            "ans": "People seriously spam Linkedin easy apply and then act surprised when it doesn't work lol. Blows my mind",
+            "score": 3,
+            "que": "I simply don't believe that people are submitting 461 actual applications. Just clicking send on Ziprecruiter doesn't count."
+        },
+        {
+            "id": "i6vufx5",
+            "parent": "t1_i3eb65g",
+            "ans": "Yeah that's crazy, think I never ever wrote more than 10 whenever I was interviewing. But those were usually always tailored for the job",
+            "score": 1,
+            "que": "I simply don't believe that people are submitting 461 actual applications. Just clicking send on Ziprecruiter doesn't count."
+        },
+        {
+            "id": "i3e609p",
+            "parent": "t1_i3e3dv0",
+            "ans": "Makes sense, if not a role with the title 'Data Scientist or Data Analyst', would something like a 6 month to a year program like Springboard + personal projects and GitHub work?  I feel like the lack of that title is the main disqualifier.  What could a person possibly do for 1 year 10-20 hours a week in a program like this? Or is it just 3 additional  years of a person doing personal projects at home with full stack of skills and saying 'Im a data scientist' and making up a title?",
+            "score": 1,
+            "que": "The hot market is for experienced folks. Most companies are still building out their data practice and need experienced folks for that. Those folks are still trying to prove value and don\u2019t have the capacity to mentor junior folks. Most entry level DS roles are at big tech companies with huge mature data teams, and they get significantly more applications than they have open positions. \n\nIf you have 3-5+ years of solid analytics/DS experience, it\u2019s not nearly this hard. You just need a good LinkedIn profile, recruiters reach out to you, don\u2019t even need to proactively apply."
+        },
+        {
+            "id": "i3e1xa7",
+            "parent": "t1_i3e1byw",
+            "ans": "The answer, then, is to try and make some. \n\nThe methods in the linked article certainly sound like they are worth a try...and they will prove the \"independent go-getter\" description that so many job posts have anyways much better than anything you could type in your resume.",
+            "score": 5,
+            "que": "Internal connections are only helpful if you have internal connections."
+        },
+        {
+            "id": "i3e2je7",
+            "parent": "t1_i3e1byw",
+            "ans": "Literally anyone can build a network though if they\u2019re willing to put in the time. It always baffles me that folks have no problem spending hours developing their tech skills and doing projects, but won\u2019t do any networking. Literally spending 1-2 hours attending one interactive event per week (in person or virtual) and 30 minutes every day engaging in Slack/Discord communities can have a significant payoff over time.",
+            "score": 2,
+            "que": "Internal connections are only helpful if you have internal connections."
+        },
+        {
+            "id": "i3efkow",
+            "parent": "t1_i3edwz2",
+            "ans": "I appreciate the encouragement and outlook. I\u2019m  sure the OP, @malmcb does too.",
+            "score": 2,
+            "que": "Hi stranger,\n\nChiming in to say I'm writing this comment from a job that my google data analysis certificate helped me land (paired with like 3 years of admin experience in an engineering department prior and a worthless BA).\n\nI believe in you!!! It might not be glamorous but you'll get that title (my company is small and has a system that's basically excel sheets designed to feed into a clunky db interface maintained by some out of house dev...and I do like 10 actual hours of analysis a week..lol). There's tons of smaller businesses starting to realize they have too much data for a single person to work with."
+        },
+        {
+            "id": "i3hjxs7",
+            "parent": "t1_i3h883k",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "My advice is to do a tonne of side-projects to build your experience. You can also refer to those projects in the interview and it really helps you stand out.\n\nMost people who do a masters of DS assume they can just go to class, do some assignments and walk into a job, while in reality they are not even close to having the skills that would make them employable."
+        },
+        {
+            "id": "i3fmcy3",
+            "parent": "t1_i3dl48v",
+            "ans": "But wouldn\u2019t \u201cno-shows\u201d for the first interview also fall under \u201cghosted\u201d then?",
+            "score": 1,
+            "que": "Third interview is a subset of second interview. 2 out of 3 second interviews led to third interviews, followed by ghosting. 1 out of 3 second interviews went straight to ghosting."
+        },
+        {
+            "id": "i3ikb8d",
+            "parent": "t1_i3hzh55",
+            "ans": "Depends on what you want to do. If you're fine with DA positions I guess MSDS is good enough.",
+            "score": 1,
+            "que": "Would you recommend a different masters degree? I\u2019m a year away from an MSDS degree and personally felt I learned a lot but was expensive to complete. I took these courses: Python for DS, applied stats with R, practical machine learning with Python, database systems with SQL, finite math and calculus, currently taking decision analytics with a broad range - Python, excel, R; and next courses will be AI, NLP, and financial machine learning"
+        },
+        {
+            "id": "i6kvpkq",
+            "parent": "t1_i3i4epp",
+            "ans": "Or go to an elite university.",
+            "score": 3,
+            "que": "This isn't new. The only way to reasonably get a job in any field is not through random applications but by getting recommended by a connection. Doing application hell is a waste of time."
+        },
+        {
+            "id": "ifgqnk2",
+            "parent": "t1_i5s4zy0",
+            "ans": "\ud83e\udd2fbrilliant",
+            "score": 1,
+            "que": "I\u2019m just going to list a fake job posting for a few months and cycle it out for the same role after a week lull but throw Google Ads all over the application site just to make money off of \u201cdata science.\u201d Probably more lucrative than actually trying to get a job."
+        },
+        {
+            "id": "i3dvlke",
+            "parent": "t1_i3du62c",
+            "ans": "Depends on the hiring manager mostly. For example I put more weight in an MS stats than an MS data science. I also put a lot of weight in domain experience, whether that's business function (marketing, finance, etc) or industry (insurance, healthcare, etc). Communication is a possible differentiator, but if your modeling experience isn't there the communication doesn't matter.",
+            "score": 90,
+            "que": "Any suggestions on the best approach for entry level DS/analyst roles?"
+        },
+        {
+            "id": "i3er6nx",
+            "parent": "t1_i3du62c",
+            "ans": "Have some experience :)",
+            "score": 0,
+            "que": "Any suggestions on the best approach for entry level DS/analyst roles?"
+        },
+        {
+            "id": "i3dwa64",
+            "parent": "t1_i3du768",
+            "ans": "If you have a bunch of text boxes or a fancy resume builder sometimes it doesn't parse well. Usually though it looks for keywords and flags which ones are likely to match. It's typically not built by the company, it'd be a part of the hiring software by some other third party vendor, so I don't know the exact secret sauce they use.",
+            "score": 18,
+            "que": "Can you explain what automatic screening looks like? What are things that could make OP fail in the automatic screenings?"
+        },
+        {
+            "id": "i3fmg2g",
+            "parent": "t1_i3ef9nt",
+            "ans": "[deleted]",
+            "score": 15,
+            "que": "At your company it possible for no MS at all to get through the first pass? OPs data makes a recent bootcamp grad with no MS or experience feel a bit hopeless\u2026 haha!"
+        },
+        {
+            "id": "i3esiqt",
+            "parent": "t1_i3ef9nt",
+            "ans": "Yes, it's possible to get through the automated screening without a masters. To actually get an interview from there might be hard though. You have to really stand out with projects or domain expertise. Every DS job posting is going to have an applicant with a masters degree. In my experience, more than half have masters degrees, and about 10% have PhDs.",
+            "score": 5,
+            "que": "At your company it possible for no MS at all to get through the first pass? OPs data makes a recent bootcamp grad with no MS or experience feel a bit hopeless\u2026 haha!"
+        },
+        {
+            "id": "i3gmkfk",
+            "parent": "t1_i3ef9nt",
+            "ans": "His resume left a lot to be desired. Please don't give up, at least not before having given it everything you got. \n\nReach out if there's anything I can do.",
+            "score": 1,
+            "que": "At your company it possible for no MS at all to get through the first pass? OPs data makes a recent bootcamp grad with no MS or experience feel a bit hopeless\u2026 haha!"
+        },
+        {
+            "id": "i3dw14v",
+            "parent": "t1_i3duki7",
+            "ans": "Put the keywords in the job description in your resume where applicable. Make sure a computer can parse it easily, so don't use a bunch of text boxes or fancy resume builders if youre having trouble getting past the screen. Email the recruiter or hiring manager and express how excited you are, why you're qualified, etc.",
+            "score": 18,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3fqlaz",
+            "parent": "t1_i3duki7",
+            "ans": "We had a guy hide keywords in white text/tiny font at the bottom of his resume. I\u2019m assuming our automated system picked those up. Our director noticed it up when he did a select all on the page. \n\nI\u2019m not saying do this, but definitely adjust the wording of your experience to include keywords from the posting.",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3eiy4e",
+            "parent": "t1_i3ee0v3",
+            "ans": "Beautify explained and framed (wordplay right here :). I\u2019m still in college but God knows how much I think about applying for my first real job after graduating.\n\nYour message comforted me. Thank you stranger and wish you the best in life !",
+            "score": 7,
+            "que": "If that makes you feel better, it's fine, but I think this illustrates the struggles you're going through with being rejected.\n\nImagine you're looking for a plumber: you have kept two ads from two plumbers, Mike and Josh. \n\nYou call them, they both seem good, but Mike was a little more responsive and it felt like he understood your problem better. At the end of the day, you give your business to Mike. Josh calls back to followup, you tell him that you went with someone else. He was really nice about it, and told you 'good luck'. \n\nNow imagine 6 months later you have another issue. Mike is on vacation, so you call Josh and throw business his way this time. \n\nPerfect, the two plumbers have made some business. \n\nNow imagine that Josh had said 'Oh you're not hiring me? Then please don't call again, lose my number, and throw away any prospectus I might have sent to your house. \n\nClearly at this point you're thinking, gosh this guy is a complete lunatic, you dodged a massive bullet going with Mike. \n\n\\-------------- \n\nOf course, the two are not exactly comparable, but really they are. There's nothing wrong with a company rejecting candidates. They're just doing their job. One day if you have your own company, or you're hiring for your team, you WILL have 200 candidates for one position, so you WILL have to send 199 rejection letters. Does it make you an asshole? \n\nThere's nothing wrong with asking companies to lose your information. But I think this little anecdote you share tells a story about how hard it feels to be rejected. In truth, you should be proud for applying. Personally I have framed some of my rejection letters, because after years of struggling with depression I was so proud to even have had the courage to apply in the first place."
+        },
+        {
+            "id": "i3ej4ed",
+            "parent": "t1_i3ee0v3",
+            "ans": "I know they are doing just their job and I don't blame for them. However, I'm just executing my right to have them to delete my info and it's simply their job to comply. I'm not asshole about it but I don't want them to have it. \n\nAnd maybe I gave you a wrong picture of my status. I'm already employed, paid well and I get once a week a call from a head hunter. I don't have problems with rejections and if I applied to somewhere there is about 50% chance to land on an interview.\n\nI just thought maybe someone could relate how good it feels to have a slight revenge (without being an asshole) to a recruiter. Deleting your information should be a non-issue for them if they are a company who respect candidates' rights. By being able to have the final say is something that may help to relieve the pain of constant rejection. I still remember how frustrating it was to send 30 applications without no response and then losing an opportunity due to being overqualified.",
+            "score": -10,
+            "que": "If that makes you feel better, it's fine, but I think this illustrates the struggles you're going through with being rejected.\n\nImagine you're looking for a plumber: you have kept two ads from two plumbers, Mike and Josh. \n\nYou call them, they both seem good, but Mike was a little more responsive and it felt like he understood your problem better. At the end of the day, you give your business to Mike. Josh calls back to followup, you tell him that you went with someone else. He was really nice about it, and told you 'good luck'. \n\nNow imagine 6 months later you have another issue. Mike is on vacation, so you call Josh and throw business his way this time. \n\nPerfect, the two plumbers have made some business. \n\nNow imagine that Josh had said 'Oh you're not hiring me? Then please don't call again, lose my number, and throw away any prospectus I might have sent to your house. \n\nClearly at this point you're thinking, gosh this guy is a complete lunatic, you dodged a massive bullet going with Mike. \n\n\\-------------- \n\nOf course, the two are not exactly comparable, but really they are. There's nothing wrong with a company rejecting candidates. They're just doing their job. One day if you have your own company, or you're hiring for your team, you WILL have 200 candidates for one position, so you WILL have to send 199 rejection letters. Does it make you an asshole? \n\nThere's nothing wrong with asking companies to lose your information. But I think this little anecdote you share tells a story about how hard it feels to be rejected. In truth, you should be proud for applying. Personally I have framed some of my rejection letters, because after years of struggling with depression I was so proud to even have had the courage to apply in the first place."
+        },
+        {
+            "id": "i3ej6zm",
+            "parent": "t1_i3ef0ak",
+            "ans": "Unfortunately I'm such an unlikable person I never make it out of first rounds.",
+            "score": 13,
+            "que": "Look at this guy and his serviceable conversation rate jeez"
+        },
+        {
+            "id": "i3fyxvc",
+            "parent": "t1_i3fyi9i",
+            "ans": "Valid point. I guess its not a perfect apples to apples comparison. I still do think 3% is very low though, especially in this market.",
+            "score": 2,
+            "que": "To be fair, you already *have* data science experience. It's a sad joke that employers post even junior DS jobs where they say they want 2-5 years of experience as a data scientist. Once you've crossed that threshold and actually have the job title on your r\u00e9sum\u00e9, you've eliminated the single greatest obstacle to getting DS work.\n\nFor people trying to get their first data scientist job, the legwork required is much, much more substantial."
+        },
+        {
+            "id": "i3e3yar",
+            "parent": "t1_i3dmnh9",
+            "ans": "What kind of analysis tools are you using in your current role? Have you done any projects at work where you provide business value with data? (Or could you if you haven\u2019t?) Also have you been going after data roles in the same industry you\u2019re currently in? \n\nI was a career changer as well and I\u2019m finishing up an MSDS. I was able to land my first analytics role by capitalizing on my domain knowledge/industry experience even though my tech skills were very junior. I looked for any and all opportunities in my previous role to analyze data even though that wasn\u2019t necessarily my job. Eventually I built up enough experience via these sporadic projects to get a dedicated analytics position.",
+            "score": 19,
+            "que": "Perhaps I\u2019m being broad with saying I\u2019m currently working in an analytical position. I work in a clinical laboratory. Whenever I do get feedback, they just say I don\u2019t have enough actual work experience. I\u2019ve had a couple \u201csenior analyst\u201d role interviews and I\u2019m just ghosted on those. Maybe I\u2019m not saying what they want in the interview"
+        },
+        {
+            "id": "i3gabff",
+            "parent": "t1_i3dmnh9",
+            "ans": "The term analyst is incredibly vague. Some roles advertised as analysts never train a single model. I talked to a friend who has an analyst role and he reviews business cash flows and he calculates lending limits in excel using a deterministic formula. He's was an accountant.\n\nDid you mention the programming languages / machine learning packages you used in your projects in your 5 years as an analyst? If you can show them you trained, tested, and monitored robust predictive models on the job it would come a long way.",
+            "score": 6,
+            "que": "Perhaps I\u2019m being broad with saying I\u2019m currently working in an analytical position. I work in a clinical laboratory. Whenever I do get feedback, they just say I don\u2019t have enough actual work experience. I\u2019ve had a couple \u201csenior analyst\u201d role interviews and I\u2019m just ghosted on those. Maybe I\u2019m not saying what they want in the interview"
+        },
+        {
+            "id": "i3eilfz",
+            "parent": "t1_i3e8ezw",
+            "ans": "When I graduated I first applied to a bunch of data analyst roles in Austin, had no luck. Since I started looking for these roles again as the pandemic started I\u2019ve only looked for remote roles. I\u2019ve gotten decently far with a lot of companies but just no offers due to lack of experience even though I\u2019ve done part time data analytics work, have a portfolio, etc",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3h8hc2",
+            "parent": "t1_i3dsyan",
+            "ans": "I think you'll be fine.  My bachelors was in mech eng, and I graduated at 37.  A year of sitting around 'learning' and then I did a bootcamp over pandemic.  I had a job 6 months after finishing.  \n\nJust get your presentation correct.  There is a website called [resumeworded.com](https://resumeworded.com).  You can enter you resume and linkedin as a pdf and it will score them for you.  Once I got my scores to 80, recruiters were hitting me up.  I lazy applied to jobs smashing that easy apply button on linkedin, but ultimately it was a recruiter who reached out to me.  \n\nThere is also a youtube channel called careervidz.  WATCH THESE GODDAMN VIDEOS AND TAKE NOTES.  THis guy will get you through the soft skills behaviorla stuff.  Using this guys suggstions and approach worked wonders for me.  When I iterviewed for my current role by the time I was sitting in front of the director for the 3rd interview, I had a momnet where I thought to myself, \"Shit, this guy is trying to sell *me\"*\n\nI also had basically no work experience to draw upon.  I spent my 20's as a weed trafficker, went back to school at 30, took 7 years to get engineering degree (undiagnosed adhd, which is now diagnosed).  In fact, I try my best to hide my background, or fill it with half-truths.  \n\nWhen you get interviews, resaerch the shit out of the company and the people interviewing you, and try to throw in little tags lines from the website that the interviewer would recognize, but dont do it is a cheesy way) Demonstrate that you are interested in the company.  Learn what they do and try and think of ways you wuld be a benefit to the team.",
+            "score": 3,
+            "que": "Oof. I'm nearly done with OMSA with an engineering bachelors and 5 years in a lab and had considered looking for DS or Data Analyst roles.  \nHow difficult was it for you getting the Analyst role?"
+        },
+        {
+            "id": "i3dz7ix",
+            "parent": "t1_i3drqxc",
+            "ans": "It could also just be a market issue. There are too many applicants to data science jobs with little-to-no experience. So no matter what OP does, he/she will still have long odds.",
+            "score": 18,
+            "que": "HR departments aren't perfect but if OP's getting about 10 interviews for 500 applications then it's a problem with OP. Maybe they're not remotely qualified, maybe their grades from their degree are poor, maybe they have no relevant experience, or maybe their CV just isn't a good representation of themselves.\n\nThat must be the case because the alternative just can't be true. The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. The DS department of these companies would be dying, they'd be escalating the issue like crazy saying \"we're getting no applicants!\". That just can't be the case."
+        },
+        {
+            "id": "i3ed6sy",
+            "parent": "t1_i3drqxc",
+            "ans": "I didn't want to assume OP wasn't doing their due diligence in aligning their cover letter, resume, and other materials with the job descriptions/notices. However, it did cross my mind and, if there isn't an alignment between the application materials and the job notices, then this is on OP. \n\nu/malmcb it might be worth it to sit down with another data scientist/data person to do a cross-walk of your application materials and the job notices. The closer aligned those two sets of materials are, the more likely your applications will make it through the AI filters and HR reviews. And, let's face it, HR folks generally don't know the alternative terms for subject matter terms, so HR is generally reviewing the applications for the buzzwords that were included in the job notice.",
+            "score": 7,
+            "que": "HR departments aren't perfect but if OP's getting about 10 interviews for 500 applications then it's a problem with OP. Maybe they're not remotely qualified, maybe their grades from their degree are poor, maybe they have no relevant experience, or maybe their CV just isn't a good representation of themselves.\n\nThat must be the case because the alternative just can't be true. The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. The DS department of these companies would be dying, they'd be escalating the issue like crazy saying \"we're getting no applicants!\". That just can't be the case."
+        },
+        {
+            "id": "i3e233q",
+            "parent": "t1_i3drqxc",
+            "ans": "> The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. \n\nI would absolutely believe that for entry level roles, tech companies (especially the recognizable names) and probably F500.",
+            "score": 5,
+            "que": "HR departments aren't perfect but if OP's getting about 10 interviews for 500 applications then it's a problem with OP. Maybe they're not remotely qualified, maybe their grades from their degree are poor, maybe they have no relevant experience, or maybe their CV just isn't a good representation of themselves.\n\nThat must be the case because the alternative just can't be true. The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. The DS department of these companies would be dying, they'd be escalating the issue like crazy saying \"we're getting no applicants!\". That just can't be the case."
+        },
+        {
+            "id": "i3e72wp",
+            "parent": "t1_i3drqxc",
+            "ans": "The alternative is true. HR gets paid more if they screen 500 applicants and take ages to fill positions and invent ever more intensive hiring processes. That money goes to HR who hires more HR to do the extra tasks.",
+            "score": -6,
+            "que": "HR departments aren't perfect but if OP's getting about 10 interviews for 500 applications then it's a problem with OP. Maybe they're not remotely qualified, maybe their grades from their degree are poor, maybe they have no relevant experience, or maybe their CV just isn't a good representation of themselves.\n\nThat must be the case because the alternative just can't be true. The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. The DS department of these companies would be dying, they'd be escalating the issue like crazy saying \"we're getting no applicants!\". That just can't be the case."
+        },
+        {
+            "id": "i3gkonf",
+            "parent": "t1_i3drqxc",
+            "ans": "They aren't missing 490/500 qualified applicants. 500 different companies missed 1 or more qualified applicant for a data scientist/analyst position in OP's experience. Assuming OP is qualified. We don't know how many people applied for each of those positions.",
+            "score": 1,
+            "que": "HR departments aren't perfect but if OP's getting about 10 interviews for 500 applications then it's a problem with OP. Maybe they're not remotely qualified, maybe their grades from their degree are poor, maybe they have no relevant experience, or maybe their CV just isn't a good representation of themselves.\n\nThat must be the case because the alternative just can't be true. The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. The DS department of these companies would be dying, they'd be escalating the issue like crazy saying \"we're getting no applicants!\". That just can't be the case."
+        },
+        {
+            "id": "i3f5zwt",
+            "parent": "t1_i3dodry",
+            "ans": "Post your resume with out your personal details",
+            "score": 1,
+            "que": "I\u2019m not sure either. That\u2019s why I wanted to see what this sub had to say about my process"
+        },
+        {
+            "id": "j0ijl7v",
+            "parent": "t1_j0hqdp4",
+            "ans": "Yup. Eastern University",
+            "score": 1,
+            "que": "Did you get a job now? Where did you do the online course from?"
+        },
+        {
+            "id": "i3o5cqi",
+            "parent": "t1_i3o4wlp",
+            "ans": "Oh that\u2019s super cool, I kinda wanna do the same thing and start off working for smaller local places that can \u201cuse me\u201d effectively and work my way up while learning more skills by myself. Thanks for the insight.",
+            "score": 2,
+            "que": "I can't tell you how to get a data engineering job, but I can tell you how I got mine: started out in a real backwater company working in first line IT support, they were only just getting started with databasing really, I learned SQL myself, helped them set up their first ever SQL server database / DNS server. Then, I went to work for another real backwater e-commerce company as their sole developer, I did SQL, VBA macros and Magento 2 support (website development). \n\nThen, I worked as a freelancer for a bit, did a few gigs on Upwork, made fuck all money doing it, but did a few Azure database migrations, got lots of exposure to power bi, made a few dashboards. Then I got picked up by a start-up consultancy, consultancy was basically what made my career, worked for some huge names, and learned python proper etc. All started in backwater companies though, real small, local businesses that just wanted someone nearby who could \"use the computers\". I think my first official job title was \"computer operator\"."
+        },
+        {
+            "id": "i7qffh0",
+            "parent": "t1_i3ku97z",
+            "ans": "Which school is this?",
+            "score": 1,
+            "que": "I have MS in stats, but my dept did offer MS in DS so I knew a lot of peeps with a MS in DS. Very few of them had trouble getting a decent offer. The vast majority of the DS students got at least 1 offer before graduation. But we had good companies come recruit, too, though."
+        },
+        {
+            "id": "i3edros",
+            "parent": "t1_i3e7inn",
+            "ans": "What get's me job is usually cover letter, even on one click om linkedin I upload pdf with CV and add cover letter in it.\n\n\nEverybody likes personalized touch and enthusiasm.",
+            "score": 3,
+            "que": "Yeah I wouldn\u2019t even consider those as real applications"
+        },
+        {
+            "id": "i3ffn0l",
+            "parent": "t1_i3eqjv7",
+            "ans": "It's not a bad ROI. It takes almost no time to click the button, and occasionally you'll get an interview.",
+            "score": 4,
+            "que": "People seriously spam Linkedin easy apply and then act surprised when it doesn't work lol. Blows my mind"
+        },
+        {
+            "id": "i3erfu1",
+            "parent": "t1_i3eqjv7",
+            "ans": "Where do you suggest? On the company career page as well?",
+            "score": 2,
+            "que": "People seriously spam Linkedin easy apply and then act surprised when it doesn't work lol. Blows my mind"
+        },
+        {
+            "id": "i3edi5o",
+            "parent": "t1_i3e609p",
+            "ans": "If you have other work experience, depending on what it is and what type of job you\u2019re targeting, you might not need any kind of credential (honestly certificates hold no weight with hiring managers). It\u2019s really going to vary depending on your background and your goals. But lots of folks were able to pivot from something else without a degree or certificate/bootcamp.",
+            "score": 2,
+            "que": "Makes sense, if not a role with the title 'Data Scientist or Data Analyst', would something like a 6 month to a year program like Springboard + personal projects and GitHub work?  I feel like the lack of that title is the main disqualifier.  What could a person possibly do for 1 year 10-20 hours a week in a program like this? Or is it just 3 additional  years of a person doing personal projects at home with full stack of skills and saying 'Im a data scientist' and making up a title?"
+        },
+        {
+            "id": "i3k3y0b",
+            "parent": "t1_i3hjxs7",
+            "ans": "Have you had a crack at breaking in without the masters? Honestly you sound far more qualified already than 90% of the DS masters I've come across.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3oc57r",
+            "parent": "t1_i3ikb8d",
+            "ans": "Are you implying that MSDS grads will be limited to only data analyst roles?",
+            "score": 1,
+            "que": "Depends on what you want to do. If you're fine with DA positions I guess MSDS is good enough."
+        },
+        {
+            "id": "i6mjjqt",
+            "parent": "t1_i6kvpkq",
+            "ans": "Even then. All the elite university is giving you are better connections, it's still the connections that get you the job.",
+            "score": 5,
+            "que": "Or go to an elite university."
+        },
+        {
+            "id": "i3edocs",
+            "parent": "t1_i3dvlke",
+            "ans": "What's your (and maybe /u/FraudulentHack 's) view on people entering the field from outside? Say, STEM PhD, currently working in some kind of technical role (like a scientist) but not in data science. Should they/we apply for entry level or straight to mid level, and any tips & tricks to try to get the application read by an actual human?",
+            "score": 22,
+            "que": "Depends on the hiring manager mostly. For example I put more weight in an MS stats than an MS data science. I also put a lot of weight in domain experience, whether that's business function (marketing, finance, etc) or industry (insurance, healthcare, etc). Communication is a possible differentiator, but if your modeling experience isn't there the communication doesn't matter."
+        },
+        {
+            "id": "i3ejxfw",
+            "parent": "t1_i3dvlke",
+            "ans": "how do you view an ms in CS? I have a bachelors in math/stat and am currently getting a masters in CS",
+            "score": 3,
+            "que": "Depends on the hiring manager mostly. For example I put more weight in an MS stats than an MS data science. I also put a lot of weight in domain experience, whether that's business function (marketing, finance, etc) or industry (insurance, healthcare, etc). Communication is a possible differentiator, but if your modeling experience isn't there the communication doesn't matter."
+        },
+        {
+            "id": "i3f9u9q",
+            "parent": "t1_i3dvlke",
+            "ans": "How can entry-level applicants best demonstrate modeling experience?",
+            "score": 4,
+            "que": "Depends on the hiring manager mostly. For example I put more weight in an MS stats than an MS data science. I also put a lot of weight in domain experience, whether that's business function (marketing, finance, etc) or industry (insurance, healthcare, etc). Communication is a possible differentiator, but if your modeling experience isn't there the communication doesn't matter."
+        },
+        {
+            "id": "i3f9ttc",
+            "parent": "t1_i3dvlke",
+            "ans": "How can entry-level applicants best demonstrate modeling experience?",
+            "score": 1,
+            "que": "Depends on the hiring manager mostly. For example I put more weight in an MS stats than an MS data science. I also put a lot of weight in domain experience, whether that's business function (marketing, finance, etc) or industry (insurance, healthcare, etc). Communication is a possible differentiator, but if your modeling experience isn't there the communication doesn't matter."
+        },
+        {
+            "id": "i3ecg0m",
+            "parent": "t1_i3dwa64",
+            "ans": "Ty!",
+            "score": 1,
+            "que": "If you have a bunch of text boxes or a fancy resume builder sometimes it doesn't parse well. Usually though it looks for keywords and flags which ones are likely to match. It's typically not built by the company, it'd be a part of the hiring software by some other third party vendor, so I don't know the exact secret sauce they use."
+        },
+        {
+            "id": "i3frapf",
+            "parent": "t1_i3fmg2g",
+            "ans": "Very impressive. See commonalities with background as well. What can you suggest to a person who wants to specialize in NLP? Not sure what models being utilized in the real world scenarios.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3jdfbq",
+            "parent": "t1_i3fmg2g",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3el8wm",
+            "parent": "t1_i3eiy4e",
+            "ans": "The trick is, don't think of it negatively. Think of it like something exciting, like playing Zelda or Dark Souls. It can be very exciting to fail repeatedly at beating a hard boss. \n\nIt's a mindset. Noone says applying to job HAS to be dreadful and depressive. We make it that way through our fears and insecurities.",
+            "score": 5,
+            "que": "Beautify explained and framed (wordplay right here :). I\u2019m still in college but God knows how much I think about applying for my first real job after graduating.\n\nYour message comforted me. Thank you stranger and wish you the best in life !"
+        },
+        {
+            "id": "i3elnpk",
+            "parent": "t1_i3ej4ed",
+            "ans": "I don't know what to think about what you wrote. You start off saying I got the wrong impression and end it by confirming everything I surmised.",
+            "score": 9,
+            "que": "I know they are doing just their job and I don't blame for them. However, I'm just executing my right to have them to delete my info and it's simply their job to comply. I'm not asshole about it but I don't want them to have it. \n\nAnd maybe I gave you a wrong picture of my status. I'm already employed, paid well and I get once a week a call from a head hunter. I don't have problems with rejections and if I applied to somewhere there is about 50% chance to land on an interview.\n\nI just thought maybe someone could relate how good it feels to have a slight revenge (without being an asshole) to a recruiter. Deleting your information should be a non-issue for them if they are a company who respect candidates' rights. By being able to have the final say is something that may help to relieve the pain of constant rejection. I still remember how frustrating it was to send 30 applications without no response and then losing an opportunity due to being overqualified."
+        },
+        {
+            "id": "i3eolhb",
+            "parent": "t1_i3e3yar",
+            "ans": "I got my new Data Analyst job because I worked largely in SAS/SQL the year before and that's what they needed.\n\n50% of employee fit is if they can demonstrate familiarity with the tools.",
+            "score": 11,
+            "que": "What kind of analysis tools are you using in your current role? Have you done any projects at work where you provide business value with data? (Or could you if you haven\u2019t?) Also have you been going after data roles in the same industry you\u2019re currently in? \n\nI was a career changer as well and I\u2019m finishing up an MSDS. I was able to land my first analytics role by capitalizing on my domain knowledge/industry experience even though my tech skills were very junior. I looked for any and all opportunities in my previous role to analyze data even though that wasn\u2019t necessarily my job. Eventually I built up enough experience via these sporadic projects to get a dedicated analytics position."
+        },
+        {
+            "id": "i3gk8a0",
+            "parent": "t1_i3dz7ix",
+            "ans": "Check out entry level data analyst positions on LinkedIn or Indeed. It's not uncommon to see jobs with 250  - 1200 applicants.",
+            "score": 4,
+            "que": "It could also just be a market issue. There are too many applicants to data science jobs with little-to-no experience. So no matter what OP does, he/she will still have long odds."
+        },
+        {
+            "id": "i3e4awk",
+            "parent": "t1_i3e233q",
+            "ans": "I'd believe competitive companies screen 490/500 applicants but not 490/500 *qualified* applicants.\n\nPlus OP's applied to 500 different roles. They can't all be extremely selective.",
+            "score": 9,
+            "que": "> The alternative is that the HR departments of these places are screening so badly that 490 of every 500 qualified applicants don't get an interview. \n\nI would absolutely believe that for entry level roles, tech companies (especially the recognizable names) and probably F500."
+        },
+        {
+            "id": "i3eabsq",
+            "parent": "t1_i3e72wp",
+            "ans": "> The alternative is true. HR gets paid more if they screen 500 applicants and take ages to fill positions and invent ever more intensive hiring processes. That money goes to HR who hires more HR to do the extra tasks.\n\nI get the sentiment, but this really isn't how most HR departments work. \n\nIf internal recruiters are having such a problem as to fill a role after screening 500 applicants by hand, then generally a talent search would be initiated between a recruiting agency to fill the role - as it'd be flagged as needing a more hands-on approach with better marketing to get talent in the door. \n\nInternal recruiters most of the time work on salary, so it doesn't matter how many applicants they screen - 1 or many - they get paid the same. \n\nAgency recruiters generally work off of commission and won't see the money for their hire until after they've been placed and the new placement has lasted through their probationary period - so it behooves them to find the right candidate for the role that they think will both make it through the interview process and that can do the job. Otherwise, they're working for free and it's money out of their pocket. \n\nThe recruiting process is shit not for a single reason, but for a myriad of reasons that can become present at a company. Recruiters take the brunt of it from the public because they're front-line, but often the individual recruiter has very minimal power in the actual things that cause a shitty hiring process.",
+            "score": 8,
+            "que": "The alternative is true. HR gets paid more if they screen 500 applicants and take ages to fill positions and invent ever more intensive hiring processes. That money goes to HR who hires more HR to do the extra tasks."
+        },
+        {
+            "id": "i3ecuh9",
+            "parent": "t1_i3e72wp",
+            "ans": "External recruiters don't get paid unless they fill roles so they aren't failing to put forward candidates that have a chance.\n\nInternal recruiters are subject to performance reviews like any department. If the DS team can't fill roles because it takes 500 qualified applicants to get a few interviews, HR aren't \"making more money\", people are getting fired.",
+            "score": 3,
+            "que": "The alternative is true. HR gets paid more if they screen 500 applicants and take ages to fill positions and invent ever more intensive hiring processes. That money goes to HR who hires more HR to do the extra tasks."
+        },
+        {
+            "id": "i3gs63s",
+            "parent": "t1_i3gkonf",
+            "ans": "Yes but you can infer the interview rate of an average DS employer under the assumption OP is a perfectly normal candidate. If OP is qualified and has an interview rate of 1/50 then the interview rate of your average DS employer must also be about 1/50.",
+            "score": 1,
+            "que": "They aren't missing 490/500 qualified applicants. 500 different companies missed 1 or more qualified applicant for a data scientist/analyst position in OP's experience. Assuming OP is qualified. We don't know how many people applied for each of those positions."
+        },
+        {
+            "id": "i3ohf26",
+            "parent": "t1_i3o5cqi",
+            "ans": "Big businesses are parasites on the rest of the industry when it comes to skills. People on here after FAANG jobs, but these guys have 'entry level' requirements that far surpass even senior developers. Local businesses is where it starts, you'll be of value just because you're around the corner and to old school employers, it's still really important. Bonus points if you know the interviewer's auntie of some nonsense! It does have an effect.",
+            "score": 3,
+            "que": "Oh that\u2019s super cool, I kinda wanna do the same thing and start off working for smaller local places that can \u201cuse me\u201d effectively and work my way up while learning more skills by myself. Thanks for the insight."
+        },
+        {
+            "id": "i3gmjdo",
+            "parent": "t1_i3ffn0l",
+            "ans": "But if you want the job surely you want to spend a bit of time tailoring your CV to it? Not to brag but I recently changed jobs - applied for 2 and got 1. I spent ages on both, researching the company, tailoring my CV etc.  I think people just bulk apply for stuff thinking that's the best method because 'surely if I apply for 100 I'll get one' and it ends up like this guy who is clearly doing something wrong but blaming it on the job market",
+            "score": 3,
+            "que": "It's not a bad ROI. It takes almost no time to click the button, and occasionally you'll get an interview."
+        },
+        {
+            "id": "i3escqg",
+            "parent": "t1_i3erfu1",
+            "ans": "Company's website, yes, or through a recruiter that you are personally talking to/working with. Edit resume to include key things the posting is asking for. If you can \"optionally\" attach a cover letter, you should see that as 100% mandatory.",
+            "score": 0,
+            "que": "Where do you suggest? On the company career page as well?"
+        },
+        {
+            "id": "i3ehc5t",
+            "parent": "t1_i3edi5o",
+            "ans": "Good insight thanks for FB will keep plugging away",
+            "score": 1,
+            "que": "If you have other work experience, depending on what it is and what type of job you\u2019re targeting, you might not need any kind of credential (honestly certificates hold no weight with hiring managers). It\u2019s really going to vary depending on your background and your goals. But lots of folks were able to pivot from something else without a degree or certificate/bootcamp."
+        },
+        {
+            "id": "i3k5bih",
+            "parent": "t1_i3k3y0b",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Have you had a crack at breaking in without the masters? Honestly you sound far more qualified already than 90% of the DS masters I've come across."
+        },
+        {
+            "id": "i6rwar6",
+            "parent": "t1_i6mjjqt",
+            "ans": "I disagree, I went to a UK elite university and got my job with no handouts or connections. (Before you say mummy and daddy I come from the UK care system and went to a state school).\n\nGetting my first bit of internship experience was awful with no connections, applied \\~100 places and got three interviews.\n\nHowever with experience, almost anywhere I applied invited me to interview.\n\nFor context, I study physics and applied for mainly quant finance roles.",
+            "score": 2,
+            "que": "Even then. All the elite university is giving you are better connections, it's still the connections that get you the job."
+        },
+        {
+            "id": "i3eeujk",
+            "parent": "t1_i3edocs",
+            "ans": "Take a hard look at your skills and see how they apply to the data science roles that you're targeting. What you describe is too vague.\n\nIn my book, if you want to change careers, take everything you can get. Entry-level, contracts, pro bono work, personal projects. You will get back to your previous level fast, but transitions are always delicate.",
+            "score": 39,
+            "que": "What's your (and maybe /u/FraudulentHack 's) view on people entering the field from outside? Say, STEM PhD, currently working in some kind of technical role (like a scientist) but not in data science. Should they/we apply for entry level or straight to mid level, and any tips & tricks to try to get the application read by an actual human?"
+        },
+        {
+            "id": "i3etkze",
+            "parent": "t1_i3edocs",
+            "ans": "I agree with u/fraudulentHack , and will add it's going to be dependent upon the team too. I have a team with someone with a PhD, so that academic mindset isn't as valuable the next time I need to hire someone, maybe instead I'll look for someone with domain knowledge regardless of if they have a masters or PhD. It won't be in the job posting unfortunately, but you'll want to find a team that could use a more academic perspective for their problems, because that's where you can add the most value (and slide in as mid or senior level, instead of entry level)",
+            "score": 9,
+            "que": "What's your (and maybe /u/FraudulentHack 's) view on people entering the field from outside? Say, STEM PhD, currently working in some kind of technical role (like a scientist) but not in data science. Should they/we apply for entry level or straight to mid level, and any tips & tricks to try to get the application read by an actual human?"
+        },
+        {
+            "id": "i3f93b8",
+            "parent": "t1_i3edocs",
+            "ans": "I\u2019m in the same boat. Going to graduate with my PhD in CogSci in a couple of months. As someone planning on going into industry, I find good information on: how to pitch myself, what I should make sure to work on before hitting the market, what even counts as intermediate vs advanced computational and statistical skills, to be very hard to get.",
+            "score": 2,
+            "que": "What's your (and maybe /u/FraudulentHack 's) view on people entering the field from outside? Say, STEM PhD, currently working in some kind of technical role (like a scientist) but not in data science. Should they/we apply for entry level or straight to mid level, and any tips & tricks to try to get the application read by an actual human?"
+        },
+        {
+            "id": "i3h6eth",
+            "parent": "t1_i3edocs",
+            "ans": "There is a good program that helps people with PHDs tranfer into DS/ML, its called Insight.  I know a few people that have gone through it and they are goddamn crazy smart.  I would look into it if you are serious abut the switch.  I only hear good things.",
+            "score": 1,
+            "que": "What's your (and maybe /u/FraudulentHack 's) view on people entering the field from outside? Say, STEM PhD, currently working in some kind of technical role (like a scientist) but not in data science. Should they/we apply for entry level or straight to mid level, and any tips & tricks to try to get the application read by an actual human?"
+        },
+        {
+            "id": "i3eu1gp",
+            "parent": "t1_i3ejxfw",
+            "ans": "To be honest I've not had much experience working with CS folks. That combo passes the first hurdle of \"can they build an informed model?\", so I'd look for signs of strong collaboration, business domain knowledge, communication, etc. Those are the things that would really differentiate someone with strong technical and statistical skills.",
+            "score": 5,
+            "que": "how do you view an ms in CS? I have a bachelors in math/stat and am currently getting a masters in CS"
+        },
+        {
+            "id": "i3hkrwo",
+            "parent": "t1_i3ejxfw",
+            "ans": "Rock-solid technical foundation. I took a look at the LinkedIn profiles of some team members to get a breakdown of experience. We're a bit top-heavy experience wise because we're a newer company so take this with a grain of salt.\n\nData Engineering: MS CS (2), PhD Physical Chem, MS Engineering Management. Everyone has a CS or engineering undergrad.\n\nData Scientists: PhD Particle Physics, PhD Biostats, PhD Neuroscience\n\nAnalysts: BS Physics, MS Applied Math\n\nI'll echo u/DataDrivenPirate in add some domain knowledge and you'll fit right in. I will say data science is a little fuzzy and can vary in definition from company to company. Pick an industry/company, and check out what their requirements for various roles are like.",
+            "score": 3,
+            "que": "how do you view an ms in CS? I have a bachelors in math/stat and am currently getting a masters in CS"
+        },
+        {
+            "id": "i3faok6",
+            "parent": "t1_i3f9u9q",
+            "ans": "Two ways. Start as a data analyst and implement models when you see opportunities. This is by far preferred, as a hiring manager. The other is build a portfolio of projects, make a personal website or GitHub and showcase them there.\n\nA middle option that I did when I was getting started is take on consulting projects for small companies for free. It takes a ton of time, but it shows you can communicate well with stakeholders, and bonus you build connections. To get started you pretty much just cold email a bunch of places. Local non profits love to have volunteers who do long term work other than painting fences or stocking shelves, and you'll make a bigger impact on their mission.",
+            "score": 12,
+            "que": "How can entry-level applicants best demonstrate modeling experience?"
+        },
+        {
+            "id": "i3h5x5f",
+            "parent": "t1_i3frapf",
+            "ans": "A lot of models can be used for NLP.  For instance, I built a recommender system for one of my bootcamp projects.  I used sci-kit learns implementation of non-negative matrix factorization.  As it turns out, that algo can also be used for topic modeling with text documents.  \n\nIf you want to specialize in NLP, I would put the algos to the side for a moment and get really good at cleaning unstructured data.  Learn the shit out of regex, and get compfrtable with other string manipulation tools.  Learn how to do stuff like extract text from images or pdfs, and learn web scraping. Before you can model anything you need to get the data.  The last project I did, we started out analyzing titles and abstracts for a large set of papers (for which we could obtain the text).  Then I was asked to run the analysis on the full texts on a subset of those papers, but i needed to extract the text first, which I did;nt know how.  Little things like this an fuck you if you are on a tight deadline.\n\nLearn the basics first, bag of words models, tf-idf, text cleaning ect, and then look into transformers and transfer learning.\n\nI  will say for certain, i\"ve learned more on the job in 7 months than I studyling DS and learning to code over 2 years.  Those things gave me the foundation, but you learn so much when you get some actual playing time and put those skills to use",
+            "score": 4,
+            "que": "Very impressive. See commonalities with background as well. What can you suggest to a person who wants to specialize in NLP? Not sure what models being utilized in the real world scenarios."
+        },
+        {
+            "id": "i3jibud",
+            "parent": "t1_i3jdfbq",
+            "ans": "I did Sprinboards data science and machine learning bootcamp.  They have a job guarantee (must have a bachelors in anything).  I did a deferred payment option where I put down 700 (of 10k) and only began maikng payments on an interest free loan after I got a job.  \n\nThe career coaching and weekly mentor calls is what really helped.  You have to put in the work.  For me it worked.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3elif3",
+            "parent": "t1_i3el8wm",
+            "ans": "So true man ! You\u2019re absolutely right. All events are interpreted by our brains first and we chose how we want to perceive them.\n\nNow I know the theory. I just need to practice",
+            "score": 1,
+            "que": "The trick is, don't think of it negatively. Think of it like something exciting, like playing Zelda or Dark Souls. It can be very exciting to fail repeatedly at beating a hard boss. \n\nIt's a mindset. Noone says applying to job HAS to be dreadful and depressive. We make it that way through our fears and insecurities."
+        },
+        {
+            "id": "i3fz0r2",
+            "parent": "t1_i3el8wm",
+            "ans": "just got through my 5 month long job search and landed a job that I'm super excited about. I won't say the stress was for nothing, but I'm very happy with the position I got and at the end of the day, in 5,10, or 15 years, those 5 months won't mean anything",
+            "score": 1,
+            "que": "The trick is, don't think of it negatively. Think of it like something exciting, like playing Zelda or Dark Souls. It can be very exciting to fail repeatedly at beating a hard boss. \n\nIt's a mindset. Noone says applying to job HAS to be dreadful and depressive. We make it that way through our fears and insecurities."
+        },
+        {
+            "id": "i3gj4tm",
+            "parent": "t1_i3el8wm",
+            "ans": "Thank you!\n\nThat helps me as well.",
+            "score": 1,
+            "que": "The trick is, don't think of it negatively. Think of it like something exciting, like playing Zelda or Dark Souls. It can be very exciting to fail repeatedly at beating a hard boss. \n\nIt's a mindset. Noone says applying to job HAS to be dreadful and depressive. We make it that way through our fears and insecurities."
+        },
+        {
+            "id": "i3eqp9g",
+            "parent": "t1_i3elnpk",
+            "ans": "You sounded like you were lecturing me how I should not ask them to delete my information as I may lose opportunities and how I should embrace the rejection. I simply stated I'm really not lacking opportunities and I'm in a position that I don't need to care. You seemed to get this bit wrong.\n\nAnd it seemed you thought one is an asshole if they asked a recruit to delete their information. I don't think so and I explained why. Even if you felt it was a revenge, it should be a non-issue to the company.\n\nI'm not really sure about what you are aiming at if it was not those points. And I'm not really sure what I confirmed in your points. That job seeking can be tough? Good if I did but I'm not really following.",
+            "score": -3,
+            "que": "I don't know what to think about what you wrote. You start off saying I got the wrong impression and end it by confirming everything I surmised."
+        },
+        {
+            "id": "i3hbtvt",
+            "parent": "t1_i3gmjdo",
+            "ans": "I think both approaches have merit and both approaches have worked for me. Especially when I was less qualified/experienced, I have definitely spent many hours tailoring applications just to get no response at all.\n\nI think strong applicants are better served with a tailored approach. But if your technical skills and experience is just average, then it's too soul crushing writing custom cover letters just to not get responses 90+% of the time.\n\nWhat I like about the shotgun approach is you apply to say 25 companies in a week, and get maybe 2 or 3 interviews. Then you invest your resources in preparing for those few companies that are definitely at least interested in you.",
+            "score": 1,
+            "que": "But if you want the job surely you want to spend a bit of time tailoring your CV to it? Not to brag but I recently changed jobs - applied for 2 and got 1. I spent ages on both, researching the company, tailoring my CV etc.  I think people just bulk apply for stuff thinking that's the best method because 'surely if I apply for 100 I'll get one' and it ends up like this guy who is clearly doing something wrong but blaming it on the job market"
+        },
+        {
+            "id": "i3katxw",
+            "parent": "t1_i3k5bih",
+            "ans": "The trick I found was to turn research project into a story and take the interviewer on the journey with you - you want them to remember you and to recognise your passion and drive.\n\nSo I would really sell the physics problem that you were working on - how did you translate that into a question you could answer with code and data? Doing this is basically like saying \"hey I've worked on some super hard problems that require deep domain expertise and technical skills - if you hire me I'll be able to take that drive and capability to solve your problems\".",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3fah1n",
+            "parent": "t1_i3eeujk",
+            "ans": "What if you aren\u2019t targeting specific jobs yet? Do you have any general recommendations for how to approach the transition? What things do you look for in a stem PhD that makes them an attractive data science candidate?",
+            "score": 5,
+            "que": "Take a hard look at your skills and see how they apply to the data science roles that you're targeting. What you describe is too vague.\n\nIn my book, if you want to change careers, take everything you can get. Entry-level, contracts, pro bono work, personal projects. You will get back to your previous level fast, but transitions are always delicate."
+        },
+        {
+            "id": "i3fqwzx",
+            "parent": "t1_i3eeujk",
+            "ans": "Do the same thing apply for people with two masters level degrees in social sciences? Should we just share the bachelor\u2019s degree? Which is also unrelated in my case..",
+            "score": 4,
+            "que": "Take a hard look at your skills and see how they apply to the data science roles that you're targeting. What you describe is too vague.\n\nIn my book, if you want to change careers, take everything you can get. Entry-level, contracts, pro bono work, personal projects. You will get back to your previous level fast, but transitions are always delicate."
+        },
+        {
+            "id": "i3fan81",
+            "parent": "t1_i3etkze",
+            "ans": "Do you have any recommendations on how to identify job listings like that from the outside?",
+            "score": 2,
+            "que": "I agree with u/fraudulentHack , and will add it's going to be dependent upon the team too. I have a team with someone with a PhD, so that academic mindset isn't as valuable the next time I need to hire someone, maybe instead I'll look for someone with domain knowledge regardless of if they have a masters or PhD. It won't be in the job posting unfortunately, but you'll want to find a team that could use a more academic perspective for their problems, because that's where you can add the most value (and slide in as mid or senior level, instead of entry level)"
+        },
+        {
+            "id": "i3fans5",
+            "parent": "t1_i3etkze",
+            "ans": "Do you have any recommendations on how to identify job listings like that from the outside?",
+            "score": 1,
+            "que": "I agree with u/fraudulentHack , and will add it's going to be dependent upon the team too. I have a team with someone with a PhD, so that academic mindset isn't as valuable the next time I need to hire someone, maybe instead I'll look for someone with domain knowledge regardless of if they have a masters or PhD. It won't be in the job posting unfortunately, but you'll want to find a team that could use a more academic perspective for their problems, because that's where you can add the most value (and slide in as mid or senior level, instead of entry level)"
+        },
+        {
+            "id": "i5s6yw1",
+            "parent": "t1_i3faok6",
+            "ans": "The challenges that concern me with this approach is whether or not these organizations even have the foundation to work with them. I\u2019ve considered volunteering with local ecology organizations around my city just for something to do and to enrich my experience. If these non profits and charities are anything like my not-for-profit employer, it\u2019s just going to be years of waiting for them to get some budget to even buy some kind of compute infrastructure to host a database and endless manual flat file shuffling from disparate silos and vendor supplied crapware.\n\nAt some point, my weekend hour or two of volunteering is not going to be enough to build an entire data platform and provide insights or modeling that generates value. I\u2019m barely keeping my head above water at work doing that full time.",
+            "score": 1,
+            "que": "Two ways. Start as a data analyst and implement models when you see opportunities. This is by far preferred, as a hiring manager. The other is build a portfolio of projects, make a personal website or GitHub and showcase them there.\n\nA middle option that I did when I was getting started is take on consulting projects for small companies for free. It takes a ton of time, but it shows you can communicate well with stakeholders, and bonus you build connections. To get started you pretty much just cold email a bunch of places. Local non profits love to have volunteers who do long term work other than painting fences or stocking shelves, and you'll make a bigger impact on their mission."
+        },
+        {
+            "id": "i3hj36p",
+            "parent": "t1_i3h5x5f",
+            "ans": "That\u2019s how i am thinking/applying my learnings. The thing is it is not easy to get in.. but really useful advise. Thank you!!",
+            "score": 2,
+            "que": "A lot of models can be used for NLP.  For instance, I built a recommender system for one of my bootcamp projects.  I used sci-kit learns implementation of non-negative matrix factorization.  As it turns out, that algo can also be used for topic modeling with text documents.  \n\nIf you want to specialize in NLP, I would put the algos to the side for a moment and get really good at cleaning unstructured data.  Learn the shit out of regex, and get compfrtable with other string manipulation tools.  Learn how to do stuff like extract text from images or pdfs, and learn web scraping. Before you can model anything you need to get the data.  The last project I did, we started out analyzing titles and abstracts for a large set of papers (for which we could obtain the text).  Then I was asked to run the analysis on the full texts on a subset of those papers, but i needed to extract the text first, which I did;nt know how.  Little things like this an fuck you if you are on a tight deadline.\n\nLearn the basics first, bag of words models, tf-idf, text cleaning ect, and then look into transformers and transfer learning.\n\nI  will say for certain, i\"ve learned more on the job in 7 months than I studyling DS and learning to code over 2 years.  Those things gave me the foundation, but you learn so much when you get some actual playing time and put those skills to use"
+        },
+        {
+            "id": "i3jjjr0",
+            "parent": "t1_i3jibud",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I did Sprinboards data science and machine learning bootcamp.  They have a job guarantee (must have a bachelors in anything).  I did a deferred payment option where I put down 700 (of 10k) and only began maikng payments on an interest free loan after I got a job.  \n\nThe career coaching and weekly mentor calls is what really helped.  You have to put in the work.  For me it worked."
+        },
+        {
+            "id": "i3emw6q",
+            "parent": "t1_i3elif3",
+            "ans": "Right on!",
+            "score": 1,
+            "que": "So true man ! You\u2019re absolutely right. All events are interpreted by our brains first and we chose how we want to perceive them.\n\nNow I know the theory. I just need to practice"
+        },
+        {
+            "id": "i3evgh2",
+            "parent": "t1_i3eqp9g",
+            "ans": "The point of my painfully transparent parable is this:\n\n1. yes, rejection is painful, but it's inevitable, whether in business, love, friendships, anything.\n2. The truth is, people who are able to handle rejection the best will always outperform their peers that cannot (everything else equal). They will go on more dates, have healthier relationships, more and healthier friendships, better paying jobs, etc. Simply because they will take more risks and put themselves out there more. (Jia Jiang wrote about this in 'rejection proof')\n3. asking companies to delete your application as (partly) a 'revenge' for them to reject you is (to me) a potential red flag that you have issues with rejection. Your words: \"***Feels a bit of a revenge \\[...\\] because they rejected me***.\" that doesn't sound healthy. That sounds like something an incel would say.\n\nBut I'm just a random internet stranger. You don't need to care about anything I write :) It was just a personal thought.",
+            "score": 5,
+            "que": "You sounded like you were lecturing me how I should not ask them to delete my information as I may lose opportunities and how I should embrace the rejection. I simply stated I'm really not lacking opportunities and I'm in a position that I don't need to care. You seemed to get this bit wrong.\n\nAnd it seemed you thought one is an asshole if they asked a recruit to delete their information. I don't think so and I explained why. Even if you felt it was a revenge, it should be a non-issue to the company.\n\nI'm not really sure about what you are aiming at if it was not those points. And I'm not really sure what I confirmed in your points. That job seeking can be tough? Good if I did but I'm not really following."
+        },
+        {
+            "id": "i3fczq9",
+            "parent": "t1_i3fah1n",
+            "ans": "no, you need to target a specific job, as early as possible. Honestly, finding the right class of roles to apply is 50% of the battle, if not more. \n\ntransitioning to another industry or role is difficult enough - I recommend zeroing early on on a specific role, and build everything around it. resume, classes, projects, volunteering opportunities, networking, personal research (books), research of interview process and question, interview prep, etc. \n\nin some fields, just the interview prep can take 6-9 months (e.g. webdeb/leetcode). \n\nhot take on the blanket resume advice, since you asked for it: trash everything that's not related to the job. Common mistake I see is people adding stuff that they think helps but really is a distraction. \"yeah but I worked for months or years on that CPA certification/law degree/PhD\" \"doesnt matter, trash it\"\n\n(of course, a PhD almost always helps in data science, so that's the exception. but for a webdev role Id trash it, or hide it someplace on the resume)",
+            "score": 27,
+            "que": "What if you aren\u2019t targeting specific jobs yet? Do you have any general recommendations for how to approach the transition? What things do you look for in a stem PhD that makes them an attractive data science candidate?"
+        },
+        {
+            "id": "i3k0c51",
+            "parent": "t1_i3jjjr0",
+            "ans": "It seems it has changed a but since I enrolled at the beginning of the pandemic from the website\n\n'How it works  \nPay a $700 upfront deposit to start your course with no payments until after you start your new job. You'll then make 36 monthly payments on the remaining tuition (excluding your deposit) plus interest. If you pay it off sooner, there's no pre-payment penalty and you'll pay less.\n\nSo, the new plan has you pay 450 for 36 months (plus interest).  When I enrolled it was 700 up front, and then 12 payments of 793 a month (interest free)  \nIf you meet all our job search requirements and milestones and still don't land a new job within 6 months of graduation, the course will be completely free.  Be mindful that to be eligible, you must hold a bachelors (in any major) and complete all the requirements. I think eligible job at the time was full-time job with a minimum base salary of 50K.  I did the data sciene machine learning bootcamp, but took a job as an analyst.  I figured the odds of finding something would be better.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i3fu5lj",
+            "parent": "t1_i3evgh2",
+            "ans": ">asking companies to delete your application as (partly) a 'revenge' for them to reject you is (to me) a potential red flag that you have issues with rejection. Your words: \"Feels a bit of a revenge [...] because they rejected me.\" that doesn't sound healthy. That sounds like something an incel would say.\n\nWhat if you don't like someone having your info in a database, and as a small payback for someone having you go through all that work without a payoff, you get them to do their due diligence too? Seems extreme to assume everyone who wants their resume deleted after an unsuccessful job application must be a mentally unstable lunatic struggling with rejection sensitivity.",
+            "score": 0,
+            "que": "The point of my painfully transparent parable is this:\n\n1. yes, rejection is painful, but it's inevitable, whether in business, love, friendships, anything.\n2. The truth is, people who are able to handle rejection the best will always outperform their peers that cannot (everything else equal). They will go on more dates, have healthier relationships, more and healthier friendships, better paying jobs, etc. Simply because they will take more risks and put themselves out there more. (Jia Jiang wrote about this in 'rejection proof')\n3. asking companies to delete your application as (partly) a 'revenge' for them to reject you is (to me) a potential red flag that you have issues with rejection. Your words: \"***Feels a bit of a revenge \\[...\\] because they rejected me***.\" that doesn't sound healthy. That sounds like something an incel would say.\n\nBut I'm just a random internet stranger. You don't need to care about anything I write :) It was just a personal thought."
+        },
+        {
+            "id": "i3fogu4",
+            "parent": "t1_i3fczq9",
+            "ans": "By particular job do you mean a specific job listing at a specific company? It seems strange to me to do whole new projects on the hope that a get a specific job rather than doing projects that are more general. Is that just my inexperience with the non academic job market or am I misunderstanding what you mean by zeroing in on a particular role?",
+            "score": 3,
+            "que": "no, you need to target a specific job, as early as possible. Honestly, finding the right class of roles to apply is 50% of the battle, if not more. \n\ntransitioning to another industry or role is difficult enough - I recommend zeroing early on on a specific role, and build everything around it. resume, classes, projects, volunteering opportunities, networking, personal research (books), research of interview process and question, interview prep, etc. \n\nin some fields, just the interview prep can take 6-9 months (e.g. webdeb/leetcode). \n\nhot take on the blanket resume advice, since you asked for it: trash everything that's not related to the job. Common mistake I see is people adding stuff that they think helps but really is a distraction. \"yeah but I worked for months or years on that CPA certification/law degree/PhD\" \"doesnt matter, trash it\"\n\n(of course, a PhD almost always helps in data science, so that's the exception. but for a webdev role Id trash it, or hide it someplace on the resume)"
+        },
+        {
+            "id": "i3fh53g",
+            "parent": "t1_i3fczq9",
+            "ans": "\n>hot take on the blanket resume advice, since you asked for it: trash everything that's not related to the job. Common mistake I see is people adding stuff that they think helps but really is a distraction. \"yeah but I worked for months or years on that CPA certification/law degree/PhD\" \"doesnt matter, trash it\"\n\nYes I had DS recruiters telling me to remove my PhD in organic chemistry from the resume since it wasn't related to DS. Not all PhDs are equal.",
+            "score": 1,
+            "que": "no, you need to target a specific job, as early as possible. Honestly, finding the right class of roles to apply is 50% of the battle, if not more. \n\ntransitioning to another industry or role is difficult enough - I recommend zeroing early on on a specific role, and build everything around it. resume, classes, projects, volunteering opportunities, networking, personal research (books), research of interview process and question, interview prep, etc. \n\nin some fields, just the interview prep can take 6-9 months (e.g. webdeb/leetcode). \n\nhot take on the blanket resume advice, since you asked for it: trash everything that's not related to the job. Common mistake I see is people adding stuff that they think helps but really is a distraction. \"yeah but I worked for months or years on that CPA certification/law degree/PhD\" \"doesnt matter, trash it\"\n\n(of course, a PhD almost always helps in data science, so that's the exception. but for a webdev role Id trash it, or hide it someplace on the resume)"
+        },
+        {
+            "id": "i3fnpp8",
+            "parent": "t1_i3fczq9",
+            "ans": "Thanks that\u2019s very helpful!",
+            "score": 1,
+            "que": "no, you need to target a specific job, as early as possible. Honestly, finding the right class of roles to apply is 50% of the battle, if not more. \n\ntransitioning to another industry or role is difficult enough - I recommend zeroing early on on a specific role, and build everything around it. resume, classes, projects, volunteering opportunities, networking, personal research (books), research of interview process and question, interview prep, etc. \n\nin some fields, just the interview prep can take 6-9 months (e.g. webdeb/leetcode). \n\nhot take on the blanket resume advice, since you asked for it: trash everything that's not related to the job. Common mistake I see is people adding stuff that they think helps but really is a distraction. \"yeah but I worked for months or years on that CPA certification/law degree/PhD\" \"doesnt matter, trash it\"\n\n(of course, a PhD almost always helps in data science, so that's the exception. but for a webdev role Id trash it, or hide it someplace on the resume)"
+        },
+        {
+            "id": "jfovfph",
+            "parent": "t1_i3fu5lj",
+            "ans": "But you yourself said you do it as revenge, so now don't try to spin it as you caring about your data privacy ...\n\n>Seems extreme to assume everyone who wants their resume deleted after an unsuccessful job application must be a mentally unstable lunatic struggling with rejection sensitivity.\n\nSeeking revenge for being rejected totally shows that you are.",
+            "score": 1,
+            "que": ">asking companies to delete your application as (partly) a 'revenge' for them to reject you is (to me) a potential red flag that you have issues with rejection. Your words: \"Feels a bit of a revenge [...] because they rejected me.\" that doesn't sound healthy. That sounds like something an incel would say.\n\nWhat if you don't like someone having your info in a database, and as a small payback for someone having you go through all that work without a payoff, you get them to do their due diligence too? Seems extreme to assume everyone who wants their resume deleted after an unsuccessful job application must be a mentally unstable lunatic struggling with rejection sensitivity."
+        },
+        {
+            "id": "i3fnv3e",
+            "parent": "t1_i3fh53g",
+            "ans": "So what do you put on a resume if you don\u2019t have previous ds jobs because you\u2019re coming from academia?",
+            "score": 4,
+            "que": "\n>hot take on the blanket resume advice, since you asked for it: trash everything that's not related to the job. Common mistake I see is people adding stuff that they think helps but really is a distraction. \"yeah but I worked for months or years on that CPA certification/law degree/PhD\" \"doesnt matter, trash it\"\n\nYes I had DS recruiters telling me to remove my PhD in organic chemistry from the resume since it wasn't related to DS. Not all PhDs are equal."
+        },
+        {
+            "id": "i4eerj5",
+            "parent": "t1_i3fnv3e",
+            "ans": "I had the same question, and it's quite demoralizing to see your past work considered to be just \"unrelated\". \n\nProbably making your own ds projects stand out is a valid alternative, they are searching for experience after all.",
+            "score": 3,
+            "que": "So what do you put on a resume if you don\u2019t have previous ds jobs because you\u2019re coming from academia?"
+        },
+        {
+            "id": "i4ej9xx",
+            "parent": "t1_i4eerj5",
+            "ans": "That\u2019s the conclusion I\u2019ve come to too. Maybe just put the analyses we\u2019ve run on the resume instead? Although it feels to me like stats analysis instead of ml is also not as desirable.",
+            "score": 1,
+            "que": "I had the same question, and it's quite demoralizing to see your past work considered to be just \"unrelated\". \n\nProbably making your own ds projects stand out is a valid alternative, they are searching for experience after all."
+        },
+        {
+            "id": "i4f2f98",
+            "parent": "t1_i4ej9xx",
+            "ans": "Better than nothing. But still, showing how you use those analyses in a real-world problem is more valuable, I guess.",
+            "score": 1,
+            "que": "That\u2019s the conclusion I\u2019ve come to too. Maybe just put the analyses we\u2019ve run on the resume instead? Although it feels to me like stats analysis instead of ml is also not as desirable."
+        }
+    ]
+}

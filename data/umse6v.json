@@ -1,0 +1,1730 @@
+{
+    "title": "I got 4 Data Science job offers with salaries between $100k - $150k in a single week, and I have a degree in English Literature",
+    "id": "umse6v",
+    "create_at": 1652215748.0,
+    "score": 1854,
+    "comments": [
+        {
+            "id": "i844l9p",
+            "parent": "t1_i83t9z6",
+            "ans": "Mostly, yeah, I'd say so \n\nPeople sneeze at phony Data Scientist jobs, but they're a great step toward getting a non-phony Data Scientist job",
+            "score": 276,
+            "que": "Were the jobs really BI analyst or Data Engineering but with the title 'Data Scientist'?"
+        },
+        {
+            "id": "i84hqtb",
+            "parent": "t1_i83z9xj",
+            "ans": "And you can only use Excel + VBA",
+            "score": 175,
+            "que": "Wait until they drop a bunch of dirty data on your desktop and expect to you have a recommendation engine built by the end of the week \ud83d\ude02"
+        },
+        {
+            "id": "i854mfr",
+            "parent": "t1_i83z9xj",
+            "ans": "This was my thought, what good is a job offer if you have absolutely no idea what you're doing. It's not like you can fake it till you make it... Especially if the team is like you or you and 2 other people lol.",
+            "score": 13,
+            "que": "Wait until they drop a bunch of dirty data on your desktop and expect to you have a recommendation engine built by the end of the week \ud83d\ude02"
+        },
+        {
+            "id": "i873zpm",
+            "parent": "t1_i83z9xj",
+            "ans": "This is why I\u2019m considering doing a phd in statistics in a few years and slaving away in academia. I can\u2019t stand this shit anymore",
+            "score": 4,
+            "que": "Wait until they drop a bunch of dirty data on your desktop and expect to you have a recommendation engine built by the end of the week \ud83d\ude02"
+        },
+        {
+            "id": "i84hh5b",
+            "parent": "t1_i83z9xj",
+            "ans": "If that\u2019s what they needed, they likely would screen for that in the interviews",
+            "score": 5,
+            "que": "Wait until they drop a bunch of dirty data on your desktop and expect to you have a recommendation engine built by the end of the week \ud83d\ude02"
+        },
+        {
+            "id": "i84h11y",
+            "parent": "t1_i83z9xj",
+            "ans": "LmAooo",
+            "score": 2,
+            "que": "Wait until they drop a bunch of dirty data on your desktop and expect to you have a recommendation engine built by the end of the week \ud83d\ude02"
+        },
+        {
+            "id": "i878c3n",
+            "parent": "t1_i83z9xj",
+            "ans": "$100k-$150k salaries for DS roles are common at startups (and the higher end is common at FAANG/unicorns). the expectations aren't unreasonable. no one will be asking for a recommendation engine in a week with messy data or anything.\n\ni did the same as OP. ~3 years at a F1000 company doing analytics/DS work, then jumped to a company headquartered in the bay area for $160k base + equity. i only have an undergrad degree (in business) and i've been here 2 years and doing well. the work is focused on product analytics and A/B testing.",
+            "score": 1,
+            "que": "Wait until they drop a bunch of dirty data on your desktop and expect to you have a recommendation engine built by the end of the week \ud83d\ude02"
+        },
+        {
+            "id": "i85isf1",
+            "parent": "t1_i841r1y",
+            "ans": "My company doesn't do leetcode. We're EU though, and still hiring only candidates with our local language. Hopefully soon we'll drop that requirement. We are hiring.",
+            "score": 5,
+            "que": "cries in software engineer who needs to grind leetcode"
+        },
+        {
+            "id": "i853nam",
+            "parent": "t1_i841r1y",
+            "ans": "but grinding leetcode is fun.",
+            "score": 2,
+            "que": "cries in software engineer who needs to grind leetcode"
+        },
+        {
+            "id": "i842rn5",
+            "parent": "t1_i83mu5f",
+            "ans": "also interested in this, commenting to track the reply",
+            "score": 20,
+            "que": "What online Data Science program did you complete?"
+        },
+        {
+            "id": "i8445tb",
+            "parent": "t1_i83mu5f",
+            "ans": "HarvardX, or, as I call it on my resume, \"Harvard\".",
+            "score": 298,
+            "que": "What online Data Science program did you complete?"
+        },
+        {
+            "id": "i841i4t",
+            "parent": "t1_i83mu5f",
+            "ans": "Yeah I'm curious too, was it the google data analysis certificate?",
+            "score": 8,
+            "que": "What online Data Science program did you complete?"
+        },
+        {
+            "id": "i844baf",
+            "parent": "t1_i83mamk",
+            "ans": "All jobs full remote in the USA.\n\nIndustry varies wildly, but Square was probably the closest thing to a \"FAANG\" company.",
+            "score": 67,
+            "que": "Nice, can you breakdown the offers by industry and geographic location (if they're different)?\n\nHow many rounds of interviews did you have with each of them?\n\nWere any of the jobs full remote?"
+        },
+        {
+            "id": "i83t36w",
+            "parent": "t1_i83ohok",
+            "ans": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers.",
+            "score": 39,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83z2tn",
+            "parent": "t1_i83ohok",
+            "ans": "My impression is that in Europe it just begins while in the US it's already old again.\nCouple years ago when I switched to an US company here in Austria I never found more than 5-6 jobs mentioning machine learning or similar. In the whole country. And then usually mostly academia.\nNow last time I checked there were suddenly 400-500 at a time (compare to a term like Java also not much more than 1-2k positions)\n\nQuickly checked one of the bigger portals - data science around 400 jobs, react 200",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i847x2w",
+            "parent": "t1_i83ohok",
+            "ans": "lol see you in 2 weeks, hope you don\u2019t get whiplash from the recession",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i84uyc1",
+            "parent": "t1_i83ohok",
+            "ans": "Very jealous- I\u2019m a data analytics lead (with a degree in liberal arts and 3 years experience in analytics) and have been applying to jobs for 5 months now. I\u2019ve had 6 final round interviews and 0 offers- it\u2019s so defeating to go though all the rounds, do all the take homes and SQL tests and then nothing.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83udj1",
+            "parent": "t1_i83qxln",
+            "ans": "> HOWEVER\u2026.. How did you land a DS titled job without talking about machine learning processes or AI type shit?\n\nI don't think anything about OP's post indicated that they didn't talk about ML or AI-type shit.  Just how they sold themself.\nI bet that was a nice benefit of OP's English Literature degree, since it helped them with communicating and understanding what people actually need.  One of the best PMs I ever worked with had a humanities background and that was one of the reasons he was so good.",
+            "score": 24,
+            "que": "Totally agree with this. \n\nHOWEVER\u2026.. How did you land a DS titled job without talking about machine learning processes or AI type shit? \n\nI\u2019m a data analyst too btw"
+        },
+        {
+            "id": "i83xxyg",
+            "parent": "t1_i83qxln",
+            "ans": "Keep in mind there are a ton of DS titles (especially on the product side) that don't require a ton of ML knowledge, as oftentimes it's rarely utilized in the role (focus is more on asking the right questions rather than needing a complex solution)\n\nThose roles you usually have to at least be able to talk about ML at a high level (liked discussion of what type of model you might use to solve a problem in a case study, and talk through a some details), but it's not particularly intensive.",
+            "score": 10,
+            "que": "Totally agree with this. \n\nHOWEVER\u2026.. How did you land a DS titled job without talking about machine learning processes or AI type shit? \n\nI\u2019m a data analyst too btw"
+        },
+        {
+            "id": "i83s981",
+            "parent": "t1_i83qxln",
+            "ans": "They probably did but the packaged it as solving their problem. Which is how machine learning should be spoken about, a means to an end.",
+            "score": 19,
+            "que": "Totally agree with this. \n\nHOWEVER\u2026.. How did you land a DS titled job without talking about machine learning processes or AI type shit? \n\nI\u2019m a data analyst too btw"
+        },
+        {
+            "id": "i86dqg5",
+            "parent": "t1_i83qxln",
+            "ans": "Lots of companies are using the DS title for advanced analytics roles. I have a DS title and I\u2019m on an analytics team. I do a lot of hypothesis and other statistical tests, and occasionally use predictive or clustering models for analysis, but I also do a lot of reporting. \n\nOur \u201creal\u201d DS team uses Machine Learning in their titles.",
+            "score": 3,
+            "que": "Totally agree with this. \n\nHOWEVER\u2026.. How did you land a DS titled job without talking about machine learning processes or AI type shit? \n\nI\u2019m a data analyst too btw"
+        },
+        {
+            "id": "i83qqk3",
+            "parent": "t1_i83q2fo",
+            "ans": "It turns out there's a lot of those and they're hiring :)",
+            "score": 105,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83zp4l",
+            "parent": "t1_i83q2fo",
+            "ans": "Meh you can always jump over DS and be a manager of DS without any actual DS experience though lol. Due to the shortage of DS's as well, many companies are hiring analysts then pairing them up with DS's or senior DSs as junior DS roles and moving them up in 2-3 years. Degrees matter less and less in tech, they really only show that you can dedicate time and effort to learn something, but well roundedness versus being an educated expert in one area goes a lot further. \n\nI have Analytics, Data Privacy, information Security, Business Systems Engineering, and data management experience and got tossed offers left and right for managing data science programs, governance programs, privacy programs, and Analytics programs. I do have experience in Python,SQL, and Java though. \n\nMeanwhile my buddy has been a DS for 4 years, has a PhD, and has a huge portfolio of projects he's publically done. He gets offered senior DS roles but not management.",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83v6t5",
+            "parent": "t1_i83q2fo",
+            "ans": "[deleted]",
+            "score": -13,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i8gjr6u",
+            "parent": "t1_i83q2fo",
+            "ans": "As it is, these are the majority of companies. People on here get caught up in the sexy tech and finance industries, forgetting that most companies in the Fortune 1000 and even smaller are not in those industries and don\u2019t have close to the same level of strict hiring requirements. My org located middle America hands out DS titles to Business majors who tell their managers they are interested in Analytics. Granted they are internal hires being repositioned rather than external hires, but the point is the same. We have half a dozen BI and Analytics departments, many of whom are doing a whole lot of nothing, but at least their employees are getting experience and resume boosters. It\u2019s very easy to get the title you want as long as you look beyond the sexy places.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i845jum",
+            "parent": "t1_i83rql5",
+            "ans": "A ton.\n\nI think the worst was 3 separate assessments for 1 job.\n\nMy impression, though, was that interviews with managers mattered more than assessment performance. Most companies seemed to just ask for a \"thumbs up / thumbs down\" from the test-givers and really just use them to filter out people that failed.\n\nI panicked an absolutely bombed one early on, but still got an offer because the executive liked me.",
+            "score": 24,
+            "que": "How many coding assessments did you have you take?"
+        },
+        {
+            "id": "i842xne",
+            "parent": "t1_i83rql5",
+            "ans": "I'm curious too",
+            "score": 1,
+            "que": "How many coding assessments did you have you take?"
+        },
+        {
+            "id": "i86e2r1",
+            "parent": "t1_i85fgnh",
+            "ans": "Because that\u2019s what the actual job is like. You\u2019re working with stakeholders who either don\u2019t know exactly what problem they need solved, or they think they know but it\u2019s the wrong thing. A big part of this job is not just solving the problem but often identifying the real problem in the first place.",
+            "score": 6,
+            "que": "I just don\u2019t understand why the whole interview is such a performance in finding out what the role is and what they want? Why must I try and show that I could sniff out exactly what their problems are that need solving from a short paragraph of skills requirements on the job listing before the interview, and if I don\u2019t then Im somehow incompetent and have failed the interview already? \nWhy can\u2019t they just say what their problem is at the start of the interview and I\u2019ll say oh yes I\u2019ve come across something similar and I\u2019ve handled it this way. Cool. Done."
+        },
+        {
+            "id": "i85sgt8",
+            "parent": "t1_i85fgnh",
+            "ans": "Because people want to make things difficult for the sake of making it difficult and because they can. The more you think about it, the more crazy you get. Just keep applying and you only lose when you quit.",
+            "score": 2,
+            "que": "I just don\u2019t understand why the whole interview is such a performance in finding out what the role is and what they want? Why must I try and show that I could sniff out exactly what their problems are that need solving from a short paragraph of skills requirements on the job listing before the interview, and if I don\u2019t then Im somehow incompetent and have failed the interview already? \nWhy can\u2019t they just say what their problem is at the start of the interview and I\u2019ll say oh yes I\u2019ve come across something similar and I\u2019ve handled it this way. Cool. Done."
+        },
+        {
+            "id": "i85you8",
+            "parent": "t1_i85fgnh",
+            "ans": "Because they want to see if you can find solve multiple problems.",
+            "score": 1,
+            "que": "I just don\u2019t understand why the whole interview is such a performance in finding out what the role is and what they want? Why must I try and show that I could sniff out exactly what their problems are that need solving from a short paragraph of skills requirements on the job listing before the interview, and if I don\u2019t then Im somehow incompetent and have failed the interview already? \nWhy can\u2019t they just say what their problem is at the start of the interview and I\u2019ll say oh yes I\u2019ve come across something similar and I\u2019ve handled it this way. Cool. Done."
+        },
+        {
+            "id": "jfdit2g",
+            "parent": "t1_i83orh7",
+            "ans": "Answering on OP's behalf, he took a harvardX course and he is working remotely(US)",
+            "score": 3,
+            "que": "Seconding the above questions for more detail. \nWhat was the online program / cert? \n\nWhat geographic area where the offers were made / firms are located?"
+        },
+        {
+            "id": "i84lm3c",
+            "parent": "t1_i847xav",
+            "ans": "Where does new DA observation come in? He has three years of experience and he presents himself as a consultant solving the business\u2019s problem. If he can\u2019t present himself solving the problem during the interview he fails and doesn\u2019t get an offer.\n\nI really don\u2019t see this as fake it until you make it.",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i8433zp",
+            "parent": "t1_i83v3ly",
+            "ans": "If I may ask, which online program did you do and how did you get that industry experience without any prior experience or related degree?",
+            "score": 4,
+            "que": "I'm also a DS with an unusual degree (Journalism) and got a job and grew quickly at the role without too much fuss after an online program+some industry experience. Happy to answer questions people may have. I live in work in LATAM but I have received competitive offers in the US as well."
+        },
+        {
+            "id": "i858e42",
+            "parent": "t1_i83v3ly",
+            "ans": " Could I ask how you did that? I\u2019m currently in the same situation and have been trying to break into tech with little experience",
+            "score": 1,
+            "que": "I'm also a DS with an unusual degree (Journalism) and got a job and grew quickly at the role without too much fuss after an online program+some industry experience. Happy to answer questions people may have. I live in work in LATAM but I have received competitive offers in the US as well."
+        },
+        {
+            "id": "i86ahur",
+            "parent": "t1_i83v3ly",
+            "ans": "I am also from Latam, how does a US Company would prefer someone from Latam instead of US citizen as it brings more bureaucracy? Is it because they can also pay less?",
+            "score": 1,
+            "que": "I'm also a DS with an unusual degree (Journalism) and got a job and grew quickly at the role without too much fuss after an online program+some industry experience. Happy to answer questions people may have. I live in work in LATAM but I have received competitive offers in the US as well."
+        },
+        {
+            "id": "i843asm",
+            "parent": "t1_i83wceu",
+            "ans": "What sort of skills would you be looking for in this DS position?\n\nDo you require any experience or education level?",
+            "score": 2,
+            "que": "I am hiring for a DS now, PM me resumes if anyone likes. You can redact names, etc. if you like before you actually have to apply with the company website. US persons only."
+        },
+        {
+            "id": "i845lt6",
+            "parent": "t1_i83wceu",
+            "ans": "Can you post the listing?",
+            "score": 2,
+            "que": "I am hiring for a DS now, PM me resumes if anyone likes. You can redact names, etc. if you like before you actually have to apply with the company website. US persons only."
+        },
+        {
+            "id": "i86ek53",
+            "parent": "t1_i8613c2",
+            "ans": "I got multiple 6 figure offers 3 years ago when I only had 2 years of analytics experience, a liberal arts degree, and had finished only a few courses for my MSDS. So basically a similar background as OP.",
+            "score": 1,
+            "que": "Too good to be true or OP is extremely lucky, since he does not have a proper background or has a very limited work experience for the mentioned salaries. \n\nAbove average companies have STEM or work experience as criterion in their applicant tracking system. It is very difficult for OP's background to pass them (approx. 5%). Since OP does not mention any specific project or experience, I do not see any reason to pay him this much. Even if I am gonna pay these amounts, I would go for a fresh and bright graduate from a STEM program."
+        },
+        {
+            "id": "i8ey3d3",
+            "parent": "t1_i8ey181",
+            "ans": "I will be messaging you in 1 year on [**2023-06-13 04:52:50 UTC**](http://www.wolframalpha.com/input/?i=2023-06-13%2004:52:50%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/datascience/comments/umse6v/i_got_4_data_science_job_offers_with_salaries/i8ey181/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fdatascience%2Fcomments%2Fumse6v%2Fi_got_4_data_science_job_offers_with_salaries%2Fi8ey181%2F%5D%0A%0ARemindMe%21%202023-06-13%2004%3A52%3A50%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20umse6v)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "score": 1,
+            "que": "!RemindMe! 13 months"
+        },
+        {
+            "id": "i84cp3x",
+            "parent": "t1_i84c0n1",
+            "ans": "What do you mean?",
+            "score": 2,
+            "que": "The joys of being American."
+        },
+        {
+            "id": "i86eb13",
+            "parent": "t1_i8451ne",
+            "ans": "I work with multiple people who are in DS/ML roles and have degrees in physics and chemistry",
+            "score": 1,
+            "que": "Ahh yes and someone who has a degree in a math/programming field like physics has no chance of landing such a job. Just goes to show how little they care about academic backgrounds."
+        },
+        {
+            "id": "i86wd90",
+            "parent": "t1_i8451ne",
+            "ans": "I'm in banking and we only hire people with math/stats/CS/engr (mostly graduate) degrees for data engineer/scientist, AI and model validation positions (except for a few rare cases of internal promotions).",
+            "score": 1,
+            "que": "Ahh yes and someone who has a degree in a math/programming field like physics has no chance of landing such a job. Just goes to show how little they care about academic backgrounds."
+        },
+        {
+            "id": "i83v67t",
+            "parent": "t1_i83ua0d",
+            "ans": "The average data scientist makes just over 100k. What are you smoking?",
+            "score": 18,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83v7t4",
+            "parent": "t1_i83thl5",
+            "ans": "Reading documentation and Linear Algebra.",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i84hc4h",
+            "parent": "t1_i844l9p",
+            "ans": "And for up to $150k, does it really matter what the title is??",
+            "score": 257,
+            "que": "Mostly, yeah, I'd say so \n\nPeople sneeze at phony Data Scientist jobs, but they're a great step toward getting a non-phony Data Scientist job"
+        },
+        {
+            "id": "i86y6na",
+            "parent": "t1_i844l9p",
+            "ans": "There are a lot fewer \"phony\" data science jobs than people think. There is a lot of data science gatekeeping. As someone who has been a machine learning engineer, a data scientist, and a computational linguist, I can say with some certainty that your skills, interests, and values are vastly more important than your title.",
+            "score": 20,
+            "que": "Mostly, yeah, I'd say so \n\nPeople sneeze at phony Data Scientist jobs, but they're a great step toward getting a non-phony Data Scientist job"
+        },
+        {
+            "id": "i850awx",
+            "parent": "t1_i84hqtb",
+            "ans": "And your data is sent in a series of PDFs and screenshots",
+            "score": 188,
+            "que": "And you can only use Excel + VBA"
+        },
+        {
+            "id": "i854drv",
+            "parent": "t1_i84hqtb",
+            "ans": "Excel 2010, 8GB RAM, with 20GB of total disk space left on your hard drive.",
+            "score": 50,
+            "que": "And you can only use Excel + VBA"
+        },
+        {
+            "id": "i860wt9",
+            "parent": "t1_i84hh5b",
+            "ans": "You would think so...",
+            "score": 3,
+            "que": "If that\u2019s what they needed, they likely would screen for that in the interviews"
+        },
+        {
+            "id": "i85ztgk",
+            "parent": "t1_i85isf1",
+            "ans": "What country is your company in, if I may ask you",
+            "score": 3,
+            "que": "My company doesn't do leetcode. We're EU though, and still hiring only candidates with our local language. Hopefully soon we'll drop that requirement. We are hiring."
+        },
+        {
+            "id": "i868vc1",
+            "parent": "t1_i853nam",
+            "ans": "Man are you a masochist hahaha",
+            "score": 18,
+            "que": "but grinding leetcode is fun."
+        },
+        {
+            "id": "jgqs86d",
+            "parent": "t1_i853nam",
+            "ans": "I agree. Upvoted.",
+            "score": 1,
+            "que": "but grinding leetcode is fun."
+        },
+        {
+            "id": "i846nl8",
+            "parent": "t1_i8445tb",
+            "ans": "Wait you call it straight up Harvard or say Harvard Certificate ?",
+            "score": 94,
+            "que": "HarvardX, or, as I call it on my resume, \"Harvard\"."
+        },
+        {
+            "id": "i845nsn",
+            "parent": "t1_i8445tb",
+            "ans": "That\u2019s pretty duplicitous tbh.",
+            "score": 30,
+            "que": "HarvardX, or, as I call it on my resume, \"Harvard\"."
+        },
+        {
+            "id": "i84ccco",
+            "parent": "t1_i8445tb",
+            "ans": "Thank you for the reply! Through EDX, okay, I'll look into it. I guess my biggest worry is if you pay for the whole package and start a course but don't get through it in time is if you have to rebuy the course to get into the next session of it. Do you happen to know about that?",
+            "score": 1,
+            "que": "HarvardX, or, as I call it on my resume, \"Harvard\"."
+        },
+        {
+            "id": "i85tjdr",
+            "parent": "t1_i8445tb",
+            "ans": "CS50? Or is there a larger programme available?",
+            "score": 1,
+            "que": "HarvardX, or, as I call it on my resume, \"Harvard\"."
+        },
+        {
+            "id": "i86118w",
+            "parent": "t1_i8445tb",
+            "ans": "Ahahah, Amazing!!! What a time to be alive!!!",
+            "score": 1,
+            "que": "HarvardX, or, as I call it on my resume, \"Harvard\"."
+        },
+        {
+            "id": "i84etrz",
+            "parent": "t1_i844baf",
+            "ans": "Good to know thanks",
+            "score": 6,
+            "que": "All jobs full remote in the USA.\n\nIndustry varies wildly, but Square was probably the closest thing to a \"FAANG\" company."
+        },
+        {
+            "id": "i86ytut",
+            "parent": "t1_i844baf",
+            "ans": "I interviewed at square once, did they still do the real time \"here's data and a blank Jupyter notebook, go\" interview?",
+            "score": 4,
+            "que": "All jobs full remote in the USA.\n\nIndustry varies wildly, but Square was probably the closest thing to a \"FAANG\" company."
+        },
+        {
+            "id": "i85h3d8",
+            "parent": "t1_i844baf",
+            "ans": "Umm... I would probably not post the company name.",
+            "score": 15,
+            "que": "All jobs full remote in the USA.\n\nIndustry varies wildly, but Square was probably the closest thing to a \"FAANG\" company."
+        },
+        {
+            "id": "i84iw6j",
+            "parent": "t1_i844baf",
+            "ans": "Full remote living in the US or would it be available for foreigners?",
+            "score": 1,
+            "que": "All jobs full remote in the USA.\n\nIndustry varies wildly, but Square was probably the closest thing to a \"FAANG\" company."
+        },
+        {
+            "id": "i872qnn",
+            "parent": "t1_i844baf",
+            "ans": "How did you sell the skill on your resume? Asking this to understand how were you shortlisted for the interview.",
+            "score": 1,
+            "que": "All jobs full remote in the USA.\n\nIndustry varies wildly, but Square was probably the closest thing to a \"FAANG\" company."
+        },
+        {
+            "id": "i83uzyr",
+            "parent": "t1_i83t36w",
+            "ans": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?",
+            "score": 29,
+            "que": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers."
+        },
+        {
+            "id": "i84xbxk",
+            "parent": "t1_i83t36w",
+            "ans": "EU comp is dogshit",
+            "score": 2,
+            "que": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers."
+        },
+        {
+            "id": "i83vayz",
+            "parent": "t1_i83t36w",
+            "ans": "US has way higher cost of living, housing, and goods compared to most EU locations and way fewer worker benefits. There's a reason salaries are (on average) higher there.",
+            "score": 3,
+            "que": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers."
+        },
+        {
+            "id": "i85fuct",
+            "parent": "t1_i83t36w",
+            "ans": "Rental prices and often food are much cheaper in EU though. It's like $3600/month for a 2 bedroom apartment in the Bay area. Probably $2000/month now in most other city areas. And as others have mentioned, working 45-50 hrs/week with like 2-3 weeks vacation is rather typical throughout professional office jobs. So yeah European workers make less (I live in the EU now myself), but they are relatively better off or at least equal in the end, in my estimation.",
+            "score": 0,
+            "que": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers."
+        },
+        {
+            "id": "i8485nq",
+            "parent": "t1_i83t36w",
+            "ans": "Well you're not in the US. The salaries and the advantages aren't the same",
+            "score": 1,
+            "que": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers."
+        },
+        {
+            "id": "i85o938",
+            "parent": "t1_i83t36w",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "What about the compensation though? I have a PhD in ML and have quite some exp both in consultancy and tech R&D but none of the offers outside of FAANG where I am now have ever come close to what US candidates start at. I see new grads with master degrees in EU earning less than US based help desk workers."
+        },
+        {
+            "id": "i8omtx4",
+            "parent": "t1_i84uyc1",
+            "ans": "Take OPs advice and treat the interview as selling a product. Show confidence and make sure your take home tests have correct \"optimised\" solutions.",
+            "score": 2,
+            "que": "Very jealous- I\u2019m a data analytics lead (with a degree in liberal arts and 3 years experience in analytics) and have been applying to jobs for 5 months now. I\u2019ve had 6 final round interviews and 0 offers- it\u2019s so defeating to go though all the rounds, do all the take homes and SQL tests and then nothing."
+        },
+        {
+            "id": "i849j9t",
+            "parent": "t1_i83udj1",
+            "ans": "PMs aren't technical roles, at least, that's what they tell me. Maybe as a cop out to not wanting to understand the projects that they're running. Also, not really sure what PMs are supposed to do even after researching and working with them. Sadge",
+            "score": 6,
+            "que": "> HOWEVER\u2026.. How did you land a DS titled job without talking about machine learning processes or AI type shit?\n\nI don't think anything about OP's post indicated that they didn't talk about ML or AI-type shit.  Just how they sold themself.\nI bet that was a nice benefit of OP's English Literature degree, since it helped them with communicating and understanding what people actually need.  One of the best PMs I ever worked with had a humanities background and that was one of the reasons he was so good."
+        },
+        {
+            "id": "ievzsy5",
+            "parent": "t1_i83xxyg",
+            "ans": "Does the kind of job you're describing have a more specific title/role than DS or is the DS title kind of a catch-all?",
+            "score": 1,
+            "que": "Keep in mind there are a ton of DS titles (especially on the product side) that don't require a ton of ML knowledge, as oftentimes it's rarely utilized in the role (focus is more on asking the right questions rather than needing a complex solution)\n\nThose roles you usually have to at least be able to talk about ML at a high level (liked discussion of what type of model you might use to solve a problem in a case study, and talk through a some details), but it's not particularly intensive."
+        },
+        {
+            "id": "if8znvp",
+            "parent": "t1_i86dqg5",
+            "ans": "If you're conducting hypothesis tests and implementing predictive models, you're either a statistician or a data scientist.  That's not data analyst level.  And if your bosses say it is, well....  Tell them I said no.",
+            "score": 1,
+            "que": "Lots of companies are using the DS title for advanced analytics roles. I have a DS title and I\u2019m on an analytics team. I do a lot of hypothesis and other statistical tests, and occasionally use predictive or clustering models for analysis, but I also do a lot of reporting. \n\nOur \u201creal\u201d DS team uses Machine Learning in their titles."
+        },
+        {
+            "id": "i83u5pw",
+            "parent": "t1_i83qqk3",
+            "ans": "[deleted]",
+            "score": 36,
+            "que": "It turns out there's a lot of those and they're hiring :)"
+        },
+        {
+            "id": "i841ou7",
+            "parent": "t1_i83qqk3",
+            "ans": "Exactly. Nobody should knock this \u2014 unless one has a time machine to go back to school, study the right things, and get years of experience in the field... this is the next best thing, and is a great way to slide into Data Science (even if imperfect for all companies).",
+            "score": 6,
+            "que": "It turns out there's a lot of those and they're hiring :)"
+        },
+        {
+            "id": "i84k5nj",
+            "parent": "t1_i83qqk3",
+            "ans": "I know right?  I\u2019ve never understood the mindset of not going for the most advantageous opportunity while it exists.  It\u2019s not prestigious XYZ company but the pay/benefits are the same for less hours and stress?  Sign me up. The job is what you make of it.  High paying job with DS title and only 30 hours of real work a week is a gift from Heaven.  Get a Masters on the job and build your portfolio.",
+            "score": 2,
+            "que": "It turns out there's a lot of those and they're hiring :)"
+        },
+        {
+            "id": "i83w5ci",
+            "parent": "t1_i83qqk3",
+            "ans": "How to make sure you're getting fired in the next bubble burst 101.\n\nYou'll also whither away if you had any skills, and will gain none, no free meals out there, everything has a cost.",
+            "score": 2,
+            "que": "It turns out there's a lot of those and they're hiring :)"
+        },
+        {
+            "id": "i84554v",
+            "parent": "t1_i83zp4l",
+            "ans": "[deleted]",
+            "score": 18,
+            "que": "Meh you can always jump over DS and be a manager of DS without any actual DS experience though lol. Due to the shortage of DS's as well, many companies are hiring analysts then pairing them up with DS's or senior DSs as junior DS roles and moving them up in 2-3 years. Degrees matter less and less in tech, they really only show that you can dedicate time and effort to learn something, but well roundedness versus being an educated expert in one area goes a lot further. \n\nI have Analytics, Data Privacy, information Security, Business Systems Engineering, and data management experience and got tossed offers left and right for managing data science programs, governance programs, privacy programs, and Analytics programs. I do have experience in Python,SQL, and Java though. \n\nMeanwhile my buddy has been a DS for 4 years, has a PhD, and has a huge portfolio of projects he's publically done. He gets offered senior DS roles but not management."
+        },
+        {
+            "id": "i83vof9",
+            "parent": "t1_i83v6t5",
+            "ans": ">A serious and genuine data science position typically requires a Ph.D. or a masters with significant related experience and pays 240k-385k. The two are not the same.\n\nYou're kidding, right? There are plenty of \"serious\" DS positions that pay less than 240k. Not every company is FAANG with massive RSU packages.",
+            "score": 24,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83vmzq",
+            "parent": "t1_i83v6t5",
+            "ans": "Stop trying to gatekeep a title. Data scientist isn't some standardized term and your response is virtually irrelevant to what they're saying.",
+            "score": 19,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i842s3z",
+            "parent": "t1_i83v6t5",
+            "ans": "Do you really think a genuine data science position requires a Ph. D or MSc if they already have significant related experience already?\n\nI'm asking as someone who wants to take this career path soon",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "jyitkwk",
+            "parent": "t1_i845jum",
+            "ans": "What were they like? Typical leetcode? Data structures? Or word problems?",
+            "score": 1,
+            "que": "A ton.\n\nI think the worst was 3 separate assessments for 1 job.\n\nMy impression, though, was that interviews with managers mattered more than assessment performance. Most companies seemed to just ask for a \"thumbs up / thumbs down\" from the test-givers and really just use them to filter out people that failed.\n\nI panicked an absolutely bombed one early on, but still got an offer because the executive liked me."
+        },
+        {
+            "id": "i84mqly",
+            "parent": "t1_i84lm3c",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "Where does new DA observation come in? He has three years of experience and he presents himself as a consultant solving the business\u2019s problem. If he can\u2019t present himself solving the problem during the interview he fails and doesn\u2019t get an offer.\n\nI really don\u2019t see this as fake it until you make it."
+        },
+        {
+            "id": "i86mt1l",
+            "parent": "t1_i8433zp",
+            "ans": "DS4A Latam, a partnership between Softbank and Correlation One. I wrote up a comment about it below if you're interested.",
+            "score": 1,
+            "que": "If I may ask, which online program did you do and how did you get that industry experience without any prior experience or related degree?"
+        },
+        {
+            "id": "i86mpuk",
+            "parent": "t1_i858e42",
+            "ans": "I got hired right out of college at a content role at an innovation hub researching startups in my country and writing reports about them. I was already tech-oriented and knew the basics of programming but really only the bare minimum. I started researching how to automate stuff I didn't like to do at my job (a lot of which involved research and data gathering from websites like LinkedIn) - the book Automate the Boring Stuff with Python was invaluable here.\n\nThis freed up a lot of my time to 1. study and 2. apply those studies at my role, which allowed me to spend more and more of my time building data pipelines to scale up what we were doing and analyze the data with more rigor. I asked leadership at the company if I could focus on that full-time and they said sure, because I had already made the entire process much richer and faster than it was when I joined on.\n\nI then found out about a program from a company called Correlation One in partnership with Softbank called DS4A Latam, which was aimed at people already familiar with Python, statistics and already in data roles, so I wasn't too hopeful of getting in as it was very competitive, but I did.\n\nThe program helped me put a name to a lot of the concepts I had already picked up by necessity at my role, but I realized I was doing a lot of stuff wrong - I had basically coded up my own shit version of Pandas using lists of dicts because I didn't know how it worked, for example. It also got me started with machine learning and working in practical projects in an industry context.\n\nIt was obviously not the be-all-end-all of data science knowledge I needed or will ever need, but it helped me get to a point where I was comfortable enough with the topics to study by myself and pick up new skills quickly.\n\nI quit my job at the other company at the tail end of the program to focus on my studies and job search, not expecting to find anything for a few months, but I was contacted by a recruiter from my current company (a fairly large hospitality startup in LATAM) right after it ended. I joined on as a Jr. Data Scientist and was promoted to DS and then DS Manager fairly quickly. The data team at my company is fairly big in proportion to the others, but we're obviously not doing FAANG-level research DS, mostly a lot of pipelines, automations, dashboards, analyses to answer specific questions and the occasional model or algorithm to solve a particularly thorny problem, most notably for pricing.\n\nI generally agree with the advice given in the main post. In my experience, both as an IC and manager, it's way more important to be able to understand what people need in practical terms and translate that into technical action than to be amazing at ML theory and advanced statistics which very rarely come up outside of fairly specialized roles and workloads. (This is where confusion around what DS means as a title also comes in, so it's important to know what you actually want to do and find a company that's aligned with that).",
+            "score": 5,
+            "que": " Could I ask how you did that? I\u2019m currently in the same situation and have been trying to break into tech with little experience"
+        },
+        {
+            "id": "i85qrz7",
+            "parent": "t1_i858e42",
+            "ans": ".",
+            "score": 1,
+            "que": " Could I ask how you did that? I\u2019m currently in the same situation and have been trying to break into tech with little experience"
+        },
+        {
+            "id": "i86n678",
+            "parent": "t1_i86ahur",
+            "ans": "I'm a US citizen which generally makes things much easier, as you mentioned. There are opportunities for LATAM professionals at US companies making good money, usually through intermediaries (Revelo/Andela here in Brazil, for example), but still generally less than an equivalent employee in the US. Some companies are truly global remote and don't mind where you're from and will pay you the same though. I know YNAB for example hires from anywhere and does not discriminate salary based on location.",
+            "score": 1,
+            "que": "I am also from Latam, how does a US Company would prefer someone from Latam instead of US citizen as it brings more bureaucracy? Is it because they can also pay less?"
+        },
+        {
+            "id": "i844vu4",
+            "parent": "t1_i843asm",
+            "ans": "The actual listing is 5 YOE with Bachelors+. But there is obviously some wiggle room for higher Ed. It\u2019s more machine learning engineer focused, so we like to see docker, AWS, databricks, or a little stronger coding background on top of the standard python, pandas, sklearn, pytorch that is common.",
+            "score": 3,
+            "que": "What sort of skills would you be looking for in this DS position?\n\nDo you require any experience or education level?"
+        },
+        {
+            "id": "i84fdcr",
+            "parent": "t1_i845lt6",
+            "ans": "If you PM I can send it there",
+            "score": 2,
+            "que": "Can you post the listing?"
+        },
+        {
+            "id": "i86ejmd",
+            "parent": "t1_i86eb13",
+            "ans": "Did they have any internships/work experience beforehand?",
+            "score": 1,
+            "que": "I work with multiple people who are in DS/ML roles and have degrees in physics and chemistry"
+        },
+        {
+            "id": "i86ybr5",
+            "parent": "t1_i86wd90",
+            "ans": "What's wrong with Bachelor degrees?",
+            "score": 1,
+            "que": "I'm in banking and we only hire people with math/stats/CS/engr (mostly graduate) degrees for data engineer/scientist, AI and model validation positions (except for a few rare cases of internal promotions)."
+        },
+        {
+            "id": "i840gh9",
+            "parent": "t1_i83v67t",
+            "ans": "> What are you smoking?\n\nYou don't get what you don't ask for. Hiring is tough on the hiring side so if they make an offer they aren't going to pull it just for negotiating. Another round of interviewing can waste thousands in employee time and end up with the same outcome.",
+            "score": 1,
+            "que": "The average data scientist makes just over 100k. What are you smoking?"
+        },
+        {
+            "id": "i83w9md",
+            "parent": "t1_i83v67t",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "The average data scientist makes just over 100k. What are you smoking?"
+        },
+        {
+            "id": "i841wqk",
+            "parent": "t1_i83v7t4",
+            "ans": "Okay now if you had to pick one word from that sentence, what would you pick? I'm pressed for time",
+            "score": 7,
+            "que": "Reading documentation and Linear Algebra."
+        },
+        {
+            "id": "i85snq5",
+            "parent": "t1_i83v7t4",
+            "ans": "and multi variables chain rules, multi variables derivatives and matrix algebra.",
+            "score": 2,
+            "que": "Reading documentation and Linear Algebra."
+        },
+        {
+            "id": "i84jyyf",
+            "parent": "t1_i84hc4h",
+            "ans": "I'll science whatever data you want me to for 150k as well.",
+            "score": 362,
+            "que": "And for up to $150k, does it really matter what the title is??"
+        },
+        {
+            "id": "i84n80h",
+            "parent": "t1_i84hc4h",
+            "ans": "The title doesn't matter as much as the career progression potential.",
+            "score": 26,
+            "que": "And for up to $150k, does it really matter what the title is??"
+        },
+        {
+            "id": "i86rdwb",
+            "parent": "t1_i84hc4h",
+            "ans": "I've changed role titles on my resumes lol. No one cares as long as you can properly explain what your job responsibilities were.",
+            "score": 8,
+            "que": "And for up to $150k, does it really matter what the title is??"
+        },
+        {
+            "id": "iddktv6",
+            "parent": "t1_i84hc4h",
+            "ans": "That's what I'm saying. Got dam",
+            "score": 1,
+            "que": "And for up to $150k, does it really matter what the title is??"
+        },
+        {
+            "id": "jz0bc62",
+            "parent": "t1_i86y6na",
+            "ans": "What does values mean",
+            "score": 1,
+            "que": "There are a lot fewer \"phony\" data science jobs than people think. There is a lot of data science gatekeeping. As someone who has been a machine learning engineer, a data scientist, and a computational linguist, I can say with some certainty that your skills, interests, and values are vastly more important than your title."
+        },
+        {
+            "id": "i859921",
+            "parent": "t1_i850awx",
+            "ans": "Better yet, PDFs of screenshots, aka the way my Mom likes to email photos.",
+            "score": 117,
+            "que": "And your data is sent in a series of PDFs and screenshots"
+        },
+        {
+            "id": "i8673is",
+            "parent": "t1_i850awx",
+            "ans": "Ugh giving me flashbacks to the time I was sent a 1000 page PDF exported from an access database. \"Here's the data you need!\"  For various political/internal reasons I was stuck with it that format. I believe I managed to figure out how to read it into excel somehow and then learned some VBA to automate cleaning that shit up into something useable. Total nightmare.",
+            "score": 8,
+            "que": "And your data is sent in a series of PDFs and screenshots"
+        },
+        {
+            "id": "i8557l4",
+            "parent": "t1_i854drv",
+            "ans": "Cuts too deep.",
+            "score": 19,
+            "que": "Excel 2010, 8GB RAM, with 20GB of total disk space left on your hard drive."
+        },
+        {
+            "id": "i8674av",
+            "parent": "t1_i854drv",
+            "ans": "TRIGGERED\n\nFor the current project I'm on I have to log in to a virtual desktop (as per the client's requirements) where I was originally allocated 8 GB of RAM and 70 GB of storage. I currently have 10 GB of disk space left, but at least I was able to get 16 GB of RAM (the max that can be allocated). Fortunately it appears like we're going to be getting them set up on the AWS ecosystem in the next couple of months but man it's been brutal.\n\nEdit: also conda seems to have been blocked recently, luckily I was able to install what I needed beforehand and pip still works",
+            "score": 5,
+            "que": "Excel 2010, 8GB RAM, with 20GB of total disk space left on your hard drive."
+        },
+        {
+            "id": "i87dzca",
+            "parent": "t1_i854drv",
+            "ans": "Ha my last job gave me a laptop with 8 gig ram and trying to get it upgraded was a bureaucratic was a bureaucratic quagmire. I ended up just buying another 8gb stick of ram for like $30 and shoved it in there. Wanted to swap out the HDD for an SSD, but wasn't able to clone the drive w/o admin privileges.",
+            "score": 3,
+            "que": "Excel 2010, 8GB RAM, with 20GB of total disk space left on your hard drive."
+        },
+        {
+            "id": "i867ao6",
+            "parent": "t1_i85ztgk",
+            "ans": "We're in Finland.",
+            "score": 2,
+            "que": "What country is your company in, if I may ask you"
+        },
+        {
+            "id": "i86jbec",
+            "parent": "t1_i868vc1",
+            "ans": "To me it feels like a puzzle game, and there's a lot of satisfaction when a tricky one \"clicks\" or when your first solution is slow and you make a few changes to refine it and make it faster.\n\nIf you really want a good time, I recommend the SQL section. Using SQL algorithmically is... weird. You can do non-SQL style stuff like CTEs and nested SELECTS, but if you want to make things fast you usually have to do odd things like join tables to themselves multiple times using an offset in the join statements. Totally mind-bending.",
+            "score": 16,
+            "que": "Man are you a masochist hahaha"
+        },
+        {
+            "id": "i87vy53",
+            "parent": "t1_i868vc1",
+            "ans": "It is fun when you are not being pressured to solve hard leetcode in under 30 minutes for an interview and can actually use external materials (like documentation) and an IDE.\n\nIt's the reason why competitive programming exists.",
+            "score": 2,
+            "que": "Man are you a masochist hahaha"
+        },
+        {
+            "id": "i8478y9",
+            "parent": "t1_i846nl8",
+            "ans": "God I hope it's the latter.",
+            "score": 94,
+            "que": "Wait you call it straight up Harvard or say Harvard Certificate ?"
+        },
+        {
+            "id": "i847mvb",
+            "parent": "t1_i846nl8",
+            "ans": "Online certificate. \n\nI'm mostly kidding, I'm very upfront about what it is and what it isn't.",
+            "score": 180,
+            "que": "Wait you call it straight up Harvard or say Harvard Certificate ?"
+        },
+        {
+            "id": "i84eyw2",
+            "parent": "t1_i846nl8",
+            "ans": "He definitely puts Harvard on his tinder profile though. He's making that good money now.",
+            "score": 33,
+            "que": "Wait you call it straight up Harvard or say Harvard Certificate ?"
+        },
+        {
+            "id": "i84ipj4",
+            "parent": "t1_i845nsn",
+            "ans": "The duplicitous part would be Harvard milking their name with an online course. He\u2019s just using what he paid for.",
+            "score": 73,
+            "que": "That\u2019s pretty duplicitous tbh."
+        },
+        {
+            "id": "i84s4ih",
+            "parent": "t1_i845nsn",
+            "ans": "The title is super misleading too. \"With a degree in English literature, oh yeah and also 3 YOE in data analysis and a data science program\"",
+            "score": 81,
+            "que": "That\u2019s pretty duplicitous tbh."
+        },
+        {
+            "id": "i84of5w",
+            "parent": "t1_i845nsn",
+            "ans": "Hoes dont need to know",
+            "score": 4,
+            "que": "That\u2019s pretty duplicitous tbh."
+        },
+        {
+            "id": "jyitb6e",
+            "parent": "t1_i845nsn",
+            "ans": "It\u2019s a job application, not a marriage proposal.",
+            "score": 1,
+            "que": "That\u2019s pretty duplicitous tbh."
+        },
+        {
+            "id": "i85y8ym",
+            "parent": "t1_i84ccco",
+            "ans": "You can ask EDX.",
+            "score": 2,
+            "que": "Thank you for the reply! Through EDX, okay, I'll look into it. I guess my biggest worry is if you pay for the whole package and start a course but don't get through it in time is if you have to rebuy the course to get into the next session of it. Do you happen to know about that?"
+        },
+        {
+            "id": "i86ysa4",
+            "parent": "t1_i85h3d8",
+            "ans": "Why is that a bad move? I feel like people drop company names all the time?",
+            "score": 8,
+            "que": "Umm... I would probably not post the company name."
+        },
+        {
+            "id": "i84mqmf",
+            "parent": "t1_i84iw6j",
+            "ans": "My job is supposed to be hybrid. Once to the office every 2 months. However, I was told by HHRR that due to tax reasons, I had to work on US territory. (It messed up with my plan to travel around the world).",
+            "score": 5,
+            "que": "Full remote living in the US or would it be available for foreigners?"
+        },
+        {
+            "id": "i83x99g",
+            "parent": "t1_i83uzyr",
+            "ans": "It\u2019s still much more lucrative to work as a DS in the US",
+            "score": 36,
+            "que": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?"
+        },
+        {
+            "id": "i83x5hq",
+            "parent": "t1_i83uzyr",
+            "ans": "That\u2019s the average, it\u2019s different across different fields.",
+            "score": 9,
+            "que": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?"
+        },
+        {
+            "id": "i84bwoy",
+            "parent": "t1_i83uzyr",
+            "ans": "Union jobs drastically shift that figure because their legal OT is limited. In IT where there's no unions within western Europe it is not at all uncommon to have unpaid overtime in tech or finance all the time. In consulting I worked well over 60 hours a week due to significant job site travel time not being considered working time. If you compare net income after tax, and with CoL in places like London not being drastically lower, your spend able income is significantly lower. This is also apparent in the living standards.\n\nMost people here drive no or very small cars and live comparably humble lives. Houses on average are very small even outside urban areas (detached home can easily cost a few million) and before working at FAANG ever hoping to own a basic home was impossible. Healthcare dents your income (unless in UK or Scandinavia) because no employers provide full coverage. The main advantage is that it is harder to fire you, but in tech is that really relevant at all?",
+            "score": 3,
+            "que": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?"
+        },
+        {
+            "id": "i84xgrx",
+            "parent": "t1_i83uzyr",
+            "ans": "Not as expansive as you think when you are remote",
+            "score": 1,
+            "que": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?"
+        },
+        {
+            "id": "i86d7jm",
+            "parent": "t1_i83uzyr",
+            "ans": "I work at a team split between the US and France. While the US works 40 hours/week and (I think) France works 35, and France gets more time off\u2026 I did the math and in the US we\u2019re only putting in 14% more hours total each year.",
+            "score": 1,
+            "que": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?"
+        },
+        {
+            "id": "i87jbnr",
+            "parent": "t1_i83uzyr",
+            "ans": "The work hours I agree with yes, but the cost of living argument I've never understood (having lived in cities in Europe and US).",
+            "score": 1,
+            "que": "You do realize that most people in the US work _at least_ 30% more hours per year compared to the EU average and that the expenses that they have there are enormous?"
+        },
+        {
+            "id": "i83z26r",
+            "parent": "t1_i83vayz",
+            "ans": "Who told you that? I lived in the States for a number of years and the cost of living was much lower that at least the UK and Canada.",
+            "score": 16,
+            "que": "US has way higher cost of living, housing, and goods compared to most EU locations and way fewer worker benefits. There's a reason salaries are (on average) higher there."
+        },
+        {
+            "id": "i86dezx",
+            "parent": "t1_i83vayz",
+            "ans": "Have you ever looked into the cost of living in London?\n\nAlso not everywhere in the US has the cost of living of SF or NYC.",
+            "score": 1,
+            "que": "US has way higher cost of living, housing, and goods compared to most EU locations and way fewer worker benefits. There's a reason salaries are (on average) higher there."
+        },
+        {
+            "id": "i849zt7",
+            "parent": "t1_i849j9t",
+            "ans": "They're not technical but every PM I've worked with has needed to understand enough about technical aspects of their product to establish requirements with technical folks, and then talk about them to business leaders above them.",
+            "score": 7,
+            "que": "PMs aren't technical roles, at least, that's what they tell me. Maybe as a cop out to not wanting to understand the projects that they're running. Also, not really sure what PMs are supposed to do even after researching and working with them. Sadge"
+        },
+        {
+            "id": "i86l2jb",
+            "parent": "t1_i849j9t",
+            "ans": "PMs do all the bureaucratic, planning, and communication bullshit you don\u2019t want to do so that you can do your job.",
+            "score": 1,
+            "que": "PMs aren't technical roles, at least, that's what they tell me. Maybe as a cop out to not wanting to understand the projects that they're running. Also, not really sure what PMs are supposed to do even after researching and working with them. Sadge"
+        },
+        {
+            "id": "iew1sqz",
+            "parent": "t1_ievzsy5",
+            "ans": "Varies across the industry but Product DS and Analytics DS are often used as titles",
+            "score": 1,
+            "que": "Does the kind of job you're describing have a more specific title/role than DS or is the DS title kind of a catch-all?"
+        },
+        {
+            "id": "if9423y",
+            "parent": "t1_if8znvp",
+            "ans": "I\u2019m doing that kind of work but also doing SQL/dashboards. But I do have the DS title although my pay could be more competitive but it\u2019s within market rates for my area. \n\nBut a lot of folks in this sub think that unless you\u2019re building ML models for production, you\u2019re not a \u201creal\u201d DS. (Although I\u2019d be curious how many folks with that mentality are still students.)",
+            "score": 1,
+            "que": "If you're conducting hypothesis tests and implementing predictive models, you're either a statistician or a data scientist.  That's not data analyst level.  And if your bosses say it is, well....  Tell them I said no."
+        },
+        {
+            "id": "i83xnyt",
+            "parent": "t1_i83u5pw",
+            "ans": "Your boss is an idiot. \n\nThe gal already has an MSc in stats, but your boss wanted to hire someone... who is in the process of getting an MSc... instead of her, who already has an MSc? Damn, stupidity at its finest.",
+            "score": 27,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i842doy",
+            "parent": "t1_i83u5pw",
+            "ans": "Just out of interest why is someone with a statistics degree gonna be better than someone with an MSc in Data science. \n\nAs an outsider I would of thought, someone with a degree in DS is gonna be way better in a DS role, even if I have to wait for them to graduate?",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83zahk",
+            "parent": "t1_i83u5pw",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i84sr62",
+            "parent": "t1_i83u5pw",
+            "ans": "Now that\u2019s a ds position worth 160k",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i847gbv",
+            "parent": "t1_i84554v",
+            "ans": "Rip. \n\nSee you still need to understand the fundamentals or at least be versed in those interactions and any associated algorithms & formulas and know why they work, and when to use each one. \n\nIt sounds like your manager has little to no experience in it honestly. For my roles it'd be more or less me driving the DS strategy and ways to qualify more data at the source/forcing the product teams to get their stuff together. You leave the exacts to the SMEs but you still need to know the functionality and purpose of each change, and fundamental. \n\nUpside, everyone larger is trying to move to a data mesh initiative which makes a DS's job a lot easier, since you only have to manage ELT processes and are responsible for sets around one product, and you can literally move anywhere at this point. The big issue is the amount of DSs in general in this current employment market aren't enough to fulfill mesh initiatives since you need 1-2 DSs dedicated per product team.\n\nSide note, that's a bad manager. If you're the SME it's his job to go to stakeholders as early as possible with what's needed to either get those additional points or explain what's possible currently. If your manager doesn't go to bat for you, it's not the right culture or fit.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i83xjsf",
+            "parent": "t1_i83vof9",
+            "ans": "And there are plenty of DS positions that don't meet his \"requirements\" that pay that high and solve important problems with data without needlessly focusing on technical complexity (see: product DS or analytics DS roles in FAANG and equivalent)",
+            "score": 9,
+            "que": ">A serious and genuine data science position typically requires a Ph.D. or a masters with significant related experience and pays 240k-385k. The two are not the same.\n\nYou're kidding, right? There are plenty of \"serious\" DS positions that pay less than 240k. Not every company is FAANG with massive RSU packages."
+        },
+        {
+            "id": "i83xszp",
+            "parent": "t1_i83vmzq",
+            "ans": "It's not gatekeeping when marketing managers at companies who literally brag about huffing cocaine and committing fraud go around renaming all their data analysts to data scientists in order to mislead customers about how they are now 'data driven' and have '7 full time data scientists'. No pay bump for employees or new hiring, of course.\n\nThis has happened with colleagues in the industry far too many times to be fun any more. How can you possibly support this trend and be honest?",
+            "score": -3,
+            "que": "Stop trying to gatekeep a title. Data scientist isn't some standardized term and your response is virtually irrelevant to what they're saying."
+        },
+        {
+            "id": "jyittv7",
+            "parent": "t1_i84mqly",
+            "ans": "if being good at the job is not necessary to receive a check in my bank account, then who the fuck cares?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i87jp9r",
+            "parent": "t1_i86mpuk",
+            "ans": "Wow thanks for typing that all out! I\u2019ll definitely look into similar roles and the book! I really appreciate it :)",
+            "score": 1,
+            "que": "I got hired right out of college at a content role at an innovation hub researching startups in my country and writing reports about them. I was already tech-oriented and knew the basics of programming but really only the bare minimum. I started researching how to automate stuff I didn't like to do at my job (a lot of which involved research and data gathering from websites like LinkedIn) - the book Automate the Boring Stuff with Python was invaluable here.\n\nThis freed up a lot of my time to 1. study and 2. apply those studies at my role, which allowed me to spend more and more of my time building data pipelines to scale up what we were doing and analyze the data with more rigor. I asked leadership at the company if I could focus on that full-time and they said sure, because I had already made the entire process much richer and faster than it was when I joined on.\n\nI then found out about a program from a company called Correlation One in partnership with Softbank called DS4A Latam, which was aimed at people already familiar with Python, statistics and already in data roles, so I wasn't too hopeful of getting in as it was very competitive, but I did.\n\nThe program helped me put a name to a lot of the concepts I had already picked up by necessity at my role, but I realized I was doing a lot of stuff wrong - I had basically coded up my own shit version of Pandas using lists of dicts because I didn't know how it worked, for example. It also got me started with machine learning and working in practical projects in an industry context.\n\nIt was obviously not the be-all-end-all of data science knowledge I needed or will ever need, but it helped me get to a point where I was comfortable enough with the topics to study by myself and pick up new skills quickly.\n\nI quit my job at the other company at the tail end of the program to focus on my studies and job search, not expecting to find anything for a few months, but I was contacted by a recruiter from my current company (a fairly large hospitality startup in LATAM) right after it ended. I joined on as a Jr. Data Scientist and was promoted to DS and then DS Manager fairly quickly. The data team at my company is fairly big in proportion to the others, but we're obviously not doing FAANG-level research DS, mostly a lot of pipelines, automations, dashboards, analyses to answer specific questions and the occasional model or algorithm to solve a particularly thorny problem, most notably for pricing.\n\nI generally agree with the advice given in the main post. In my experience, both as an IC and manager, it's way more important to be able to understand what people need in practical terms and translate that into technical action than to be amazing at ML theory and advanced statistics which very rarely come up outside of fairly specialized roles and workloads. (This is where confusion around what DS means as a title also comes in, so it's important to know what you actually want to do and find a company that's aligned with that)."
+        },
+        {
+            "id": "i86mr1x",
+            "parent": "t1_i85qrz7",
+            "ans": "Just replied to the other comment, if you're interested",
+            "score": 3,
+            "que": "."
+        },
+        {
+            "id": "i84ucfx",
+            "parent": "t1_i84fdcr",
+            "ans": "Done",
+            "score": 1,
+            "que": "If you PM I can send it there"
+        },
+        {
+            "id": "i86ex3t",
+            "parent": "t1_i86ejmd",
+            "ans": "They had research roles",
+            "score": 1,
+            "que": "Did they have any internships/work experience beforehand?"
+        },
+        {
+            "id": "i870wp0",
+            "parent": "t1_i86ybr5",
+            "ans": "Too much variability in terms of content unless your country has mostly public universities, in which case the curriculums are more uniform. Grad programs are much tougher/hands-on as well so there's usually a lesser need for hand-holding.\n\nYou can still get a job with a bachelors; I got hired as a DE with mine while finishing my masters. The pay is the same as DS but the work is less fun.",
+            "score": 1,
+            "que": "What's wrong with Bachelor degrees?"
+        },
+        {
+            "id": "i840oru",
+            "parent": "t1_i840gh9",
+            "ans": "150k for entry level. Again, I ask\u2026 what are you smoking?",
+            "score": 5,
+            "que": "> What are you smoking?\n\nYou don't get what you don't ask for. Hiring is tough on the hiring side so if they make an offer they aren't going to pull it just for negotiating. Another round of interviewing can waste thousands in employee time and end up with the same outcome."
+        },
+        {
+            "id": "i83x0ns",
+            "parent": "t1_i83w9md",
+            "ans": "I also live in one of the most expensive cities on the east coast and that is maybe 115k.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i844sim",
+            "parent": "t1_i841wqk",
+            "ans": "and",
+            "score": 11,
+            "que": "Okay now if you had to pick one word from that sentence, what would you pick? I'm pressed for time"
+        },
+        {
+            "id": "i867e1j",
+            "parent": "t1_i84jyyf",
+            "ans": "\"i'll even produce the results you want to see!\"",
+            "score": 64,
+            "que": "I'll science whatever data you want me to for 150k as well."
+        },
+        {
+            "id": "iixxv24",
+            "parent": "t1_i84jyyf",
+            "ans": "lmao",
+            "score": 1,
+            "que": "I'll science whatever data you want me to for 150k as well."
+        },
+        {
+            "id": "i86wlc0",
+            "parent": "t1_i84n80h",
+            "ans": "Sometimes the title *is* most of the career progression potential.",
+            "score": 10,
+            "que": "The title doesn't matter as much as the career progression potential."
+        },
+        {
+            "id": "i879mkr",
+            "parent": "t1_i86rdwb",
+            "ans": "My official job title has changed 3 times since I\u2019ve been in my current role. And in my previous role, it also changed 2-3 times. But the duties (and pay) were the same, so I use the one that is the most common on my resume/LinkedIn.",
+            "score": 1,
+            "que": "I've changed role titles on my resumes lol. No one cares as long as you can properly explain what your job responsibilities were."
+        },
+        {
+            "id": "jz260zr",
+            "parent": "t1_jz0bc62",
+            "ans": "Different for everyone. For me, a big one is working with people I can trust to do the right thing, on a personal level.",
+            "score": 1,
+            "que": "What does values mean"
+        },
+        {
+            "id": "i85elqe",
+            "parent": "t1_i859921",
+            "ans": "Please stop. I\u2019m already dead.",
+            "score": 78,
+            "que": "Better yet, PDFs of screenshots, aka the way my Mom likes to email photos."
+        },
+        {
+            "id": "i85gyzv",
+            "parent": "t1_i859921",
+            "ans": "I once got an email from one of my managers that was a screenshot of a screenshot of a screenshot of a pdf\u2026.it was deep fried and unreadable.",
+            "score": 27,
+            "que": "Better yet, PDFs of screenshots, aka the way my Mom likes to email photos."
+        },
+        {
+            "id": "i860he1",
+            "parent": "t1_i859921",
+            "ans": "no joke until she retired a couple years ago we had a lady that \"managed\" our utility billing by taking digital statements, printing them out, scanning them in to the copier, and then taking that result and filing it on a drive so that they could be named the way she wanted :D",
+            "score": 6,
+            "que": "Better yet, PDFs of screenshots, aka the way my Mom likes to email photos."
+        },
+        {
+            "id": "i874d2r",
+            "parent": "t1_i859921",
+            "ans": "honestly props to your mom for being able to make a PDF at all tbh",
+            "score": 4,
+            "que": "Better yet, PDFs of screenshots, aka the way my Mom likes to email photos."
+        },
+        {
+            "id": "i8bbo7m",
+            "parent": "t1_i859921",
+            "ans": "They do this to you guys? Am I the only manager who'd force the department to front OCR before even touching that with a 10 foot pole. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "score": 1,
+            "que": "Better yet, PDFs of screenshots, aka the way my Mom likes to email photos."
+        },
+        {
+            "id": "i85c5y9",
+            "parent": "t1_i8557l4",
+            "ans": "Yeah dude, not cool. You ever suck cock for an extra 8GB stick it RAM? CAUSE I HAVE.",
+            "score": 33,
+            "que": "Cuts too deep."
+        },
+        {
+            "id": "i8bbwh0",
+            "parent": "t1_i87dzca",
+            "ans": "I would've left that so fast if they wouldn't front $800-900 in tech to me.",
+            "score": 1,
+            "que": "Ha my last job gave me a laptop with 8 gig ram and trying to get it upgraded was a bureaucratic was a bureaucratic quagmire. I ended up just buying another 8gb stick of ram for like $30 and shoved it in there. Wanted to swap out the HDD for an SSD, but wasn't able to clone the drive w/o admin privileges."
+        },
+        {
+            "id": "i86l247",
+            "parent": "t1_i86jbec",
+            "ans": "Doing SQL leetcode I feel is at least more useful for a data scientist than regular leetcode is for software developers. \n\nOptimizing your cloud warehouse querying costs or making insanely slow queries fast can be done with some awesome SQL magic. Skills that definitely could translate from leetcode.",
+            "score": 6,
+            "que": "To me it feels like a puzzle game, and there's a lot of satisfaction when a tricky one \"clicks\" or when your first solution is slow and you make a few changes to refine it and make it faster.\n\nIf you really want a good time, I recommend the SQL section. Using SQL algorithmically is... weird. You can do non-SQL style stuff like CTEs and nested SELECTS, but if you want to make things fast you usually have to do odd things like join tables to themselves multiple times using an offset in the join statements. Totally mind-bending."
+        },
+        {
+            "id": "i87yim5",
+            "parent": "t1_i86jbec",
+            "ans": "I feel it has a lot to do with your level of competency. At least for me (and I suspect this isn\u2019t uncommon), when I started out I used to dread the time of the day I set aside for leetcode. Solving the easiest problems was next to impossible. It really made me feel like shit.\n\nNow with relatively more experience, if I don\u2019t \u2018get\u2019 a problem, I don\u2019t take it quite as badly. Helps that I can solve the easy stuff too. But in the beginning it\u2019s a horror show",
+            "score": 3,
+            "que": "To me it feels like a puzzle game, and there's a lot of satisfaction when a tricky one \"clicks\" or when your first solution is slow and you make a few changes to refine it and make it faster.\n\nIf you really want a good time, I recommend the SQL section. Using SQL algorithmically is... weird. You can do non-SQL style stuff like CTEs and nested SELECTS, but if you want to make things fast you usually have to do odd things like join tables to themselves multiple times using an offset in the join statements. Totally mind-bending."
+        },
+        {
+            "id": "i87rxhq",
+            "parent": "t1_i86jbec",
+            "ans": "Yeah tbh leetcode is fun if you go at a good pace. I got an interview out of no where for a big company so I went from 0 leetcode to cramming as much as I could in 3 weeks, and it was miserable and I did terrible on the OA and felt like I lost some years off my life with the stress \ud83d\ude02. But now that it\u2019s over with I\u2019ve been studying for about an hour or two a day and it is fun, you learn how to think better and really improve your critical thinking.",
+            "score": 1,
+            "que": "To me it feels like a puzzle game, and there's a lot of satisfaction when a tricky one \"clicks\" or when your first solution is slow and you make a few changes to refine it and make it faster.\n\nIf you really want a good time, I recommend the SQL section. Using SQL algorithmically is... weird. You can do non-SQL style stuff like CTEs and nested SELECTS, but if you want to make things fast you usually have to do odd things like join tables to themselves multiple times using an offset in the join statements. Totally mind-bending."
+        },
+        {
+            "id": "i847sny",
+            "parent": "t1_i8478y9",
+            "ans": "Same lol",
+            "score": 16,
+            "que": "God I hope it's the latter."
+        },
+        {
+            "id": "i848ugg",
+            "parent": "t1_i847mvb",
+            "ans": "Which HarvardX program did you do btw? I've been testing a couple of MOOCs to recommend to friends that haven't studied Data Science, but haven't tried the HarvardX one.",
+            "score": 32,
+            "que": "Online certificate. \n\nI'm mostly kidding, I'm very upfront about what it is and what it isn't."
+        },
+        {
+            "id": "i91bi4d",
+            "parent": "t1_i847mvb",
+            "ans": "Just wait until I finish that MIT Professional Education DS cert.  I mean, it only makes sense to lemmatize that bad boy down to \u201cMIT\u201d.",
+            "score": 1,
+            "que": "Online certificate. \n\nI'm mostly kidding, I'm very upfront about what it is and what it isn't."
+        },
+        {
+            "id": "i84k2hl",
+            "parent": "t1_i84ipj4",
+            "ans": "Has anyone aside from teachers and engineers actually ever had a job ask for their transcript? We should all start putting Harvard",
+            "score": 9,
+            "que": "The duplicitous part would be Harvard milking their name with an online course. He\u2019s just using what he paid for."
+        },
+        {
+            "id": "i84uxu1",
+            "parent": "t1_i84s4ih",
+            "ans": "Yeah, I thought that, too, but so many data science jobs say they require computer science or applied mathematics, and some want a Masters degree. I'm kind of surprised by this.",
+            "score": 24,
+            "que": "The title is super misleading too. \"With a degree in English literature, oh yeah and also 3 YOE in data analysis and a data science program\""
+        },
+        {
+            "id": "i84wax5",
+            "parent": "t1_i84s4ih",
+            "ans": ">The title is super misleading too. \"With a degree in English literature, oh yeah and also 3 YOE in data analysis and a data science program\"\n\ni mean ive had a tougher time than 4 job offers in a week with a relevant degree and multiple YOE finding a job in the bay area",
+            "score": 7,
+            "que": "The title is super misleading too. \"With a degree in English literature, oh yeah and also 3 YOE in data analysis and a data science program\""
+        },
+        {
+            "id": "i871g4q",
+            "parent": "t1_i86ysa4",
+            "ans": "*Assuming the company he mentioned is the one whose offer he accepted:*\n\nHe expressed doubts about his credentials (in a way that *could* be easily misinterpreted), he mentioned his company name, his qualifications, his experience, and the position he's been hired for. Relatively easy for the company to figure out who it is. At best, he could be under a microscope waiting for him to slip up. At worst, offer pulled. Also, his reddit account is possibly no longer anonymous, so there's that.",
+            "score": 12,
+            "que": "Why is that a bad move? I feel like people drop company names all the time?"
+        },
+        {
+            "id": "i83ynj3",
+            "parent": "t1_i83x99g",
+            "ans": "Yeah agree. I almost tripled my salary for fewer hours (fulltime to 25h) switching from Austria to US/Boston based.\nAnd CoL is not 3x. Tried to buy a house in the (mountainish) region of my parents in law in Austria and couldn't find anything reasonable below 700k\u20ac. Now building another floor for 400k.\nA co-worker just bought a huge house 40 mins outside Boston for much less. Sure, in the City itself it's insane (but try finding a \"real\" house in the middle of Salzburg... Or Munich or London or whatever, just as impossible).\n\nPeople are actually more chill as well and I don\u2019t need 4 signatures anymore to go to the toilet and full out 5 different time sheets. \nOnly the 5 weeks vacation are gone ;).",
+            "score": 19,
+            "que": "It\u2019s still much more lucrative to work as a DS in the US"
+        },
+        {
+            "id": "i85wjb7",
+            "parent": "t1_i83x99g",
+            "ans": "Lucrative on a pure financial sense? Yes. Considering the whole package of salary, company culture and quality of life? EU wins in my opinion.",
+            "score": 2,
+            "que": "It\u2019s still much more lucrative to work as a DS in the US"
+        },
+        {
+            "id": "i85u5sc",
+            "parent": "t1_i84bwoy",
+            "ans": "Consulting is not similar to working in-house. I've never seen *anyone* do a significant amount of unpaid leave in 5 years in UK finance/retail banking/insurance.\n\nEveryone who stays longer than 9-5 gets TOIL, and it's generally encouraged that you go home at 5.",
+            "score": 1,
+            "que": "Union jobs drastically shift that figure because their legal OT is limited. In IT where there's no unions within western Europe it is not at all uncommon to have unpaid overtime in tech or finance all the time. In consulting I worked well over 60 hours a week due to significant job site travel time not being considered working time. If you compare net income after tax, and with CoL in places like London not being drastically lower, your spend able income is significantly lower. This is also apparent in the living standards.\n\nMost people here drive no or very small cars and live comparably humble lives. Houses on average are very small even outside urban areas (detached home can easily cost a few million) and before working at FAANG ever hoping to own a basic home was impossible. Healthcare dents your income (unless in UK or Scandinavia) because no employers provide full coverage. The main advantage is that it is harder to fire you, but in tech is that really relevant at all?"
+        },
+        {
+            "id": "i87kq2p",
+            "parent": "t1_i87jbnr",
+            "ans": "If you're young and single and healthy, the cost of living difference is negligible. But when you add in things like childcare (subsidized in most of Europe, but not all) and healthcare, the difference becomes huge.",
+            "score": 1,
+            "que": "The work hours I agree with yes, but the cost of living argument I've never understood (having lived in cities in Europe and US)."
+        },
+        {
+            "id": "i84krzv",
+            "parent": "t1_i83z26r",
+            "ans": "Lower than Canada?? Mmmm comparing Michigan and Ontario. Michigan is relatively cheap.. but move to Cali, South Florida or New York.. that's expensive.",
+            "score": 3,
+            "que": "Who told you that? I lived in the States for a number of years and the cost of living was much lower that at least the UK and Canada."
+        },
+        {
+            "id": "i840a8c",
+            "parent": "t1_i83z26r",
+            "ans": "I lived in the EU (Germany/Croatia/Poland) and currently in the US and still have friends/relatives currently working and living in cities of both. Obviously depends on the exact location but Ceteris paribus EU's cost of living and housing are definitely cheaper than comparable US cities, this is especially more pronounced with the extreme inflation happening in the US right now.\n\nUK and Canada are not EU also (remember brexit lol)",
+            "score": 10,
+            "que": "Who told you that? I lived in the States for a number of years and the cost of living was much lower that at least the UK and Canada."
+        },
+        {
+            "id": "i86m7e1",
+            "parent": "t1_i86dezx",
+            "ans": "Yes, although UK is not EU. I live in the suburbs in what was previously a low to medium cost of living area in the US and the prices of goods and housing has skyrocketed especially in the past few years (about ~2000/month for a 1 bd flat, for example). Of course the big cities have it worse. But this was just to bring up that some US wages might be comparatively higher to make up for that difference, as well as the higher cost of Healthcare and fewer worker benefits.",
+            "score": 1,
+            "que": "Have you ever looked into the cost of living in London?\n\nAlso not everywhere in the US has the cost of living of SF or NYC."
+        },
+        {
+            "id": "i842rhd",
+            "parent": "t1_i842doy",
+            "ans": "In my experience interviewing the people with Data Science degrees are weaker on average. They have an incredibly shallow skillset compared to people with specialized degrees.",
+            "score": 12,
+            "que": "Just out of interest why is someone with a statistics degree gonna be better than someone with an MSc in Data science. \n\nAs an outsider I would of thought, someone with a degree in DS is gonna be way better in a DS role, even if I have to wait for them to graduate?"
+        },
+        {
+            "id": "i846jhn",
+            "parent": "t1_i83zahk",
+            "ans": "[deleted]",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i842l56",
+            "parent": "t1_i83zahk",
+            "ans": "How?",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i849j7z",
+            "parent": "t1_i847gbv",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "Rip. \n\nSee you still need to understand the fundamentals or at least be versed in those interactions and any associated algorithms & formulas and know why they work, and when to use each one. \n\nIt sounds like your manager has little to no experience in it honestly. For my roles it'd be more or less me driving the DS strategy and ways to qualify more data at the source/forcing the product teams to get their stuff together. You leave the exacts to the SMEs but you still need to know the functionality and purpose of each change, and fundamental. \n\nUpside, everyone larger is trying to move to a data mesh initiative which makes a DS's job a lot easier, since you only have to manage ELT processes and are responsible for sets around one product, and you can literally move anywhere at this point. The big issue is the amount of DSs in general in this current employment market aren't enough to fulfill mesh initiatives since you need 1-2 DSs dedicated per product team.\n\nSide note, that's a bad manager. If you're the SME it's his job to go to stakeholders as early as possible with what's needed to either get those additional points or explain what's possible currently. If your manager doesn't go to bat for you, it's not the right culture or fit."
+        },
+        {
+            "id": "i83xyrr",
+            "parent": "t1_i83xszp",
+            "ans": "lol",
+            "score": 2,
+            "que": "It's not gatekeeping when marketing managers at companies who literally brag about huffing cocaine and committing fraud go around renaming all their data analysts to data scientists in order to mislead customers about how they are now 'data driven' and have '7 full time data scientists'. No pay bump for employees or new hiring, of course.\n\nThis has happened with colleagues in the industry far too many times to be fun any more. How can you possibly support this trend and be honest?"
+        },
+        {
+            "id": "i86f2mo",
+            "parent": "t1_i86ex3t",
+            "ans": "Did they have just a Bachelor's in science?",
+            "score": 1,
+            "que": "They had research roles"
+        },
+        {
+            "id": "i871osc",
+            "parent": "t1_i870wp0",
+            "ans": "At my state university (UMass Amherst) I took computational physics, statistical physics, observational astronomy and physics labs. All of which used heavy statistics and data analyst skills.\nWould that be enough?",
+            "score": 1,
+            "que": "Too much variability in terms of content unless your country has mostly public universities, in which case the curriculums are more uniform. Grad programs are much tougher/hands-on as well so there's usually a lesser need for hand-holding.\n\nYou can still get a job with a bachelors; I got hired as a DE with mine while finishing my masters. The pay is the same as DS but the work is less fun."
+        },
+        {
+            "id": "i87t2k3",
+            "parent": "t1_i870wp0",
+            "ans": "If you go to a reputable school (even in Canada) there is no hand holding at the undergrad level.\n\nWhat you're describing is degree inflation, brought about by mostly immigrants to Canada who enroll in graduate programs as a way to immigrate. \n\nCanadian banks especially love that they can underpay immigrants and pretend that they are qualified more than Canadians, when really they just take less pay.",
+            "score": 1,
+            "que": "Too much variability in terms of content unless your country has mostly public universities, in which case the curriculums are more uniform. Grad programs are much tougher/hands-on as well so there's usually a lesser need for hand-holding.\n\nYou can still get a job with a bachelors; I got hired as a DE with mine while finishing my masters. The pay is the same as DS but the work is less fun."
+        },
+        {
+            "id": "i84nydm",
+            "parent": "t1_i840oru",
+            "ans": ">150k for entry level\n\nOP has 3 years experience as a data analyst and entry level is a lot more ill defined than you are making it out to be.\n\n>I have 3 years experience as a Data Analyst\n\n\"entry level\" isn't just out of college its more like early career , you can just see the thousands of job postings clarifying that by asking 0-3 years of experience for entry level.\n\n**This is all aside from the empirical fact that OP has 150k as within the range of the 4 offers. Pro-tip: having multiple offers helps with salary negotiations.**",
+            "score": 1,
+            "que": "150k for entry level. Again, I ask\u2026 what are you smoking?"
+        },
+        {
+            "id": "i8491fp",
+            "parent": "t1_i844sim",
+            "ans": "Oooh, shortest word, perfect",
+            "score": 7,
+            "que": "and"
+        },
+        {
+            "id": "i86r6i4",
+            "parent": "t1_i867e1j",
+            "ans": "print(\"Accuracy: 97%\")",
+            "score": 91,
+            "que": "\"i'll even produce the results you want to see!\""
+        },
+        {
+            "id": "i87a923",
+            "parent": "t1_i879mkr",
+            "ans": "I change it up depending on the role I'm applying to.",
+            "score": 1,
+            "que": "My official job title has changed 3 times since I\u2019ve been in my current role. And in my previous role, it also changed 2-3 times. But the duties (and pay) were the same, so I use the one that is the most common on my resume/LinkedIn."
+        },
+        {
+            "id": "i862yo0",
+            "parent": "t1_i85gyzv",
+            "ans": "i have reserved a graveyard next to yours!",
+            "score": 7,
+            "que": "I once got an email from one of my managers that was a screenshot of a screenshot of a screenshot of a pdf\u2026.it was deep fried and unreadable."
+        },
+        {
+            "id": "i8679ig",
+            "parent": "t1_i85c5y9",
+            "ans": "I don't want to talk about it",
+            "score": 7,
+            "que": "Yeah dude, not cool. You ever suck cock for an extra 8GB stick it RAM? CAUSE I HAVE."
+        },
+        {
+            "id": "i85yri3",
+            "parent": "t1_i85c5y9",
+            "ans": "Hey, a stick of ram is a stock of ram xD (does it feel dirty when I lowercase it? XD)",
+            "score": 2,
+            "que": "Yeah dude, not cool. You ever suck cock for an extra 8GB stick it RAM? CAUSE I HAVE."
+        },
+        {
+            "id": "i86z8e1",
+            "parent": "t1_i85c5y9",
+            "ans": "I can get RAM out of that? I\u2019ve been doing it for free all these years\u2026",
+            "score": 1,
+            "que": "Yeah dude, not cool. You ever suck cock for an extra 8GB stick it RAM? CAUSE I HAVE."
+        },
+        {
+            "id": "i8e7k55",
+            "parent": "t1_i8bbwh0",
+            "ans": "Furrealz. But this was a pandemic job and I had just come out of grad school. Didn't stay very long though, and I took my memory stick with me when I left.",
+            "score": 1,
+            "que": "I would've left that so fast if they wouldn't front $800-900 in tech to me."
+        },
+        {
+            "id": "i8gfjsg",
+            "parent": "t1_i87yim5",
+            "ans": "I take leetcode as solving fun puzzles. This makes me dread leetcode less.",
+            "score": 1,
+            "que": "I feel it has a lot to do with your level of competency. At least for me (and I suspect this isn\u2019t uncommon), when I started out I used to dread the time of the day I set aside for leetcode. Solving the easiest problems was next to impossible. It really made me feel like shit.\n\nNow with relatively more experience, if I don\u2019t \u2018get\u2019 a problem, I don\u2019t take it quite as badly. Helps that I can solve the easy stuff too. But in the beginning it\u2019s a horror show"
+        },
+        {
+            "id": "i84ebla",
+            "parent": "t1_i848ugg",
+            "ans": "Do it on Coursera, its cheaper.",
+            "score": 31,
+            "que": "Which HarvardX program did you do btw? I've been testing a couple of MOOCs to recommend to friends that haven't studied Data Science, but haven't tried the HarvardX one."
+        },
+        {
+            "id": "i84llsl",
+            "parent": "t1_i84k2hl",
+            "ans": "Consulting did. I know ibanks do as well some places",
+            "score": 13,
+            "que": "Has anyone aside from teachers and engineers actually ever had a job ask for their transcript? We should all start putting Harvard"
+        },
+        {
+            "id": "i84uhoh",
+            "parent": "t1_i84k2hl",
+            "ans": "Every job I\u2019ve had has asked for it but I work in science and engineering.",
+            "score": 7,
+            "que": "Has anyone aside from teachers and engineers actually ever had a job ask for their transcript? We should all start putting Harvard"
+        },
+        {
+            "id": "i85fmrs",
+            "parent": "t1_i84k2hl",
+            "ans": "Every engineering/research company/group I've ever worked for did ask for these documents. I know some of them did verify through outside verification services that your resume wasn't BS. But that's in the Aerospace industry...",
+            "score": 5,
+            "que": "Has anyone aside from teachers and engineers actually ever had a job ask for their transcript? We should all start putting Harvard"
+        },
+        {
+            "id": "i86clua",
+            "parent": "t1_i84k2hl",
+            "ans": "I assume that\u2019s verified when a company does the background check",
+            "score": 1,
+            "que": "Has anyone aside from teachers and engineers actually ever had a job ask for their transcript? We should all start putting Harvard"
+        },
+        {
+            "id": "i84vi69",
+            "parent": "t1_i84uxu1",
+            "ans": "Experience trumps education. Not to mention OP listed their online certificate in a way that probably got them past algorithmic filters.",
+            "score": 17,
+            "que": "Yeah, I thought that, too, but so many data science jobs say they require computer science or applied mathematics, and some want a Masters degree. I'm kind of surprised by this."
+        },
+        {
+            "id": "i841wax",
+            "parent": "t1_i83ynj3",
+            "ans": ">FAANG\n\nYou tripled your salary, thats pretty impressive.\n\nWhat kind kind of position did you move from and to, were they like for like\\`?",
+            "score": 3,
+            "que": "Yeah agree. I almost tripled my salary for fewer hours (fulltime to 25h) switching from Austria to US/Boston based.\nAnd CoL is not 3x. Tried to buy a house in the (mountainish) region of my parents in law in Austria and couldn't find anything reasonable below 700k\u20ac. Now building another floor for 400k.\nA co-worker just bought a huge house 40 mins outside Boston for much less. Sure, in the City itself it's insane (but try finding a \"real\" house in the middle of Salzburg... Or Munich or London or whatever, just as impossible).\n\nPeople are actually more chill as well and I don\u2019t need 4 signatures anymore to go to the toilet and full out 5 different time sheets. \nOnly the 5 weeks vacation are gone ;)."
+        },
+        {
+            "id": "i87hl07",
+            "parent": "t1_i85wjb7",
+            "ans": "why do you think EU generally has better company culture and quality of life?",
+            "score": 1,
+            "que": "Lucrative on a pure financial sense? Yes. Considering the whole package of salary, company culture and quality of life? EU wins in my opinion."
+        },
+        {
+            "id": "i87sk8k",
+            "parent": "t1_i87kq2p",
+            "ans": "Well that's why then.. I fall in the former. Thanks for the warning :)",
+            "score": 1,
+            "que": "If you're young and single and healthy, the cost of living difference is negligible. But when you add in things like childcare (subsidized in most of Europe, but not all) and healthcare, the difference becomes huge."
+        },
+        {
+            "id": "i84i731",
+            "parent": "t1_i846jhn",
+            "ans": "Just curious why you mentioned ethnicity or gender at all in your post above if neither was actually relevant to your point.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i84jw3t",
+            "parent": "t1_i846jhn",
+            "ans": "Okay then just sexist then",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i84bg0c",
+            "parent": "t1_i849j7z",
+            "ans": "Lol yeah that's ridiculous. It sounds like he has an ego issue around his own job security. \n\nSounds like a solid plan honestly.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i879fl2",
+            "parent": "t1_i86f2mo",
+            "ans": "No they had PhDs",
+            "score": 1,
+            "que": "Did they have just a Bachelor's in science?"
+        },
+        {
+            "id": "i8755fd",
+            "parent": "t1_i871osc",
+            "ans": "I'm sure it would be enough for DE, but I can only speak for my employer and I'm not in the US (Canada). It should also be enough for DA positions especially if you have previously done internships. I'd still recommend going for a MSc but I know it's expensive down South which really sucks...",
+            "score": 1,
+            "que": "At my state university (UMass Amherst) I took computational physics, statistical physics, observational astronomy and physics labs. All of which used heavy statistics and data analyst skills.\nWould that be enough?"
+        },
+        {
+            "id": "i87ust2",
+            "parent": "t1_i87t2k3",
+            "ans": "Hand-holding for new hires on the job... And lmao @ immigrants enrolling in grad programs as they have the same requirements as locals which are on the stricter side; people seeking an easy way in enroll in private colleges like Herzing offering bogus certifications. I am in no way, shape or form describing degree inflation... The difference between grad and undergrad is night and day unless you did something like a bachelors of maths/physics with honours.\n\nLastly, most of my team is made up of immigrants and I surely wouldn't label them as underpaid. Ffs, both my managers are from the middle-East and they earn 100k + 25% bonus. Gtfo dude.",
+            "score": 1,
+            "que": "If you go to a reputable school (even in Canada) there is no hand holding at the undergrad level.\n\nWhat you're describing is degree inflation, brought about by mostly immigrants to Canada who enroll in graduate programs as a way to immigrate. \n\nCanadian banks especially love that they can underpay immigrants and pretend that they are qualified more than Canadians, when really they just take less pay."
+        },
+        {
+            "id": "i879p5e",
+            "parent": "t1_i86r6i4",
+            "ans": "Return(\"hypothesis: validated\")",
+            "score": 31,
+            "que": "print(\"Accuracy: 97%\")"
+        },
+        {
+            "id": "i87bj4x",
+            "parent": "t1_i86r6i4",
+            "ans": "This guy got us up to 97! Someone give this man a raise!",
+            "score": 16,
+            "que": "print(\"Accuracy: 97%\")"
+        },
+        {
+            "id": "i87lqn2",
+            "parent": "t1_i862yo0",
+            "ans": "Thanks! See you there so we can dig our own graves in about two weeks then.",
+            "score": 2,
+            "que": "i have reserved a graveyard next to yours!"
+        },
+        {
+            "id": "i86lag6",
+            "parent": "t1_i85yri3",
+            "ans": "Mm yeah that talk makes me horn-y",
+            "score": 1,
+            "que": "Hey, a stick of ram is a stock of ram xD (does it feel dirty when I lowercase it? XD)"
+        },
+        {
+            "id": "i84ex2m",
+            "parent": "t1_i84ebla",
+            "ans": "Which one are you talking about?",
+            "score": 7,
+            "que": "Do it on Coursera, its cheaper."
+        },
+        {
+            "id": "i86deve",
+            "parent": "t1_i84llsl",
+            "ans": "In a former life in banking, I heard of someone who listed \"Harvard\" as their undergrad.\n\nIrony = guy got the job and was working there ~ 4 months before they inevitably found out he didn't attend, let alone graduate, from Harvard.  Suffice to say, they let him go.",
+            "score": 1,
+            "que": "Consulting did. I know ibanks do as well some places"
+        },
+        {
+            "id": "ifw160k",
+            "parent": "t1_i85fmrs",
+            "ans": "What are we doing here? fellow AE!",
+            "score": 2,
+            "que": "Every engineering/research company/group I've ever worked for did ask for these documents. I know some of them did verify through outside verification services that your resume wasn't BS. But that's in the Aerospace industry..."
+        },
+        {
+            "id": "i84vtat",
+            "parent": "t1_i84vi69",
+            "ans": "So with 15 years of experience, you're saying that I should not avoid these postings? I will be up late tonight! Thanks!",
+            "score": 9,
+            "que": "Experience trumps education. Not to mention OP listed their online certificate in a way that probably got them past algorithmic filters."
+        },
+        {
+            "id": "i84cavp",
+            "parent": "t1_i841wax",
+            "ans": "Tripling your salary is not rare when a foreigner finally manages to get a US job.\n\nI'd recommend going to Glassdoor and checking what Data Science salaries look like in Europe.",
+            "score": 13,
+            "que": ">FAANG\n\nYou tripled your salary, thats pretty impressive.\n\nWhat kind kind of position did you move from and to, were they like for like\\`?"
+        },
+        {
+            "id": "i85ogcp",
+            "parent": "t1_i841wax",
+            "ans": "My CV is a bit... mixed so hard to tell my YoE at that point ;)\nI worked a few years as freelance dev then went to university and during that time also did 20-30 hours a week as dev. Then a PhD.. And yeah here I capped out at around 3,7k\u20ac/month before taxes which is quite common if you don't switch to management or sales or so (or some specific domains like in banking). That's what I saw with friends as well. One even got only 3.7k at Siemens with PhD and a couple YoE.\nThere was this statistic that I found pretty accurate \nhttps://content.karriere.at/uploads/images/B2C/Gehalt-IT-Gehalt.png\n\nThe percentage of people over 4k\u20ac is about what they report that people taking the survey classifed themselves as management/lead. \nAlso old contracts were often much better with all kind of perks, paid overtime, 6 weeks vacation etc. while the new people mostly got all-in contracts and so on (5 weeks vacation is obviously still much better than what's common in the US). \n\nSeems it got a bit better with salaries since then, sometimes I get recruiter requests with good ones. But that's usually CTO or similar.\nEverytime they contact me with more \"regular\" jobs it's at best something like 5k. Honestly no idea how I should ever go back to a local job taking such a hit.\n\nAh I am fully remote btw. And yeah, the vacation culture  is really the only thing I miss compared to our local companies.\n\nEDIT: and just because I got my daily spam of Eastern Europe account managers - I freelanced for a lot of companies who nowadays just completely outsource to Romania, Ukraine, Estonia etc. (or have them come in, borders are close enough here). \nIf you frame yourself as consultant you can make much much more for the same work compared to employed code monkey ;). I did really simple cleanups, adding tests and docker files to a small python project for over 80\u20ac/hour, teaching for 110\u20ac/45 mins.",
+            "score": 1,
+            "que": ">FAANG\n\nYou tripled your salary, thats pretty impressive.\n\nWhat kind kind of position did you move from and to, were they like for like\\`?"
+        },
+        {
+            "id": "i85j5m5",
+            "parent": "t1_i84i731",
+            "ans": "I read it as though they were hiring her after finishing her degree in Vietnam. Is that not the case?",
+            "score": 1,
+            "que": "Just curious why you mentioned ethnicity or gender at all in your post above if neither was actually relevant to your point."
+        },
+        {
+            "id": "i84l88d",
+            "parent": "t1_i84jw3t",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Okay then just sexist then"
+        },
+        {
+            "id": "i87c38a",
+            "parent": "t1_i879fl2",
+            "ans": "Why not accept BS degrees?",
+            "score": 1,
+            "que": "No they had PhDs"
+        },
+        {
+            "id": "i878b04",
+            "parent": "t1_i8755fd",
+            "ans": "Not only that but I don't have the time to get my masters. Maybe 4 years ago but now I'm trying to get a DA within a couple months and without internship experience.",
+            "score": 1,
+            "que": "I'm sure it would be enough for DE, but I can only speak for my employer and I'm not in the US (Canada). It should also be enough for DA positions especially if you have previously done internships. I'd still recommend going for a MSc but I know it's expensive down South which really sucks..."
+        },
+        {
+            "id": "i87zw55",
+            "parent": "t1_i87ust2",
+            "ans": "Canada grants over 400K student visas per year, predominantly to mature people who otherwise would not qualify to immigrate on their merits. Meanwhile the US only grants about 80K student visas per year.\n\nAs for stricter qualifications for international students? Please. That b.s. was already been debunked by researchers already. [https://vancouversun.com/news/politics/foreign-students-at-ubc-squeezing-out-domestic-applicants-profs-paper-argues](https://vancouversun.com/news/politics/foreign-students-at-ubc-squeezing-out-domestic-applicants-profs-paper-argues). It's a fact that they're cash cows for schools because they pay more tuition, and as such get lower standards. You don't magically find over 40% more qualified international students while conveniently deciding that domestic applicants are simultaneously not qualified.  \n\nLet's not even get into the fact that Canadian banks like RBC have literally been replacing their Canadian workers with foreigners for years under the bogus guise that they can't find qualified Canadians. [https://winnipeg.ctvnews.ca/rbc-scrambles-to-explain-hiring-practices-to-canadians-after-contentious-report-1.1227904](https://winnipeg.ctvnews.ca/rbc-scrambles-to-explain-hiring-practices-to-canadians-after-contentious-report-1.1227904). Must be super essential to know Mandarin in a country where the official languages of business are English and French, right? \n\nDid RBC issue a public apology for something they didn't do? https://globalnews.ca/news/472919/rbc-makes-public-apology-for-outsourcing/\n\nIf you're looking at the top 7 schools in Canada, sorry there is literally no difference between a rigorous undergrad program and a non-thesis masters program that forms the glut of international admissions. \n\nWhy would you admit that your team is underpaid compared to their American counterparts? A manager level position with a graduate degree \"requirement\" in STEM earning $100K? That's a STEM undergrad starting salary in the US, buddy. $100K is literally what a facility manager (i.e. janitor supervisor) makes even at a very mediocre school like Ryerson. That's a position with zero post-secondary education, let alone a STEM graduate degree.\n\nThere's a reason UWaterloo undergrads head for the US as soon as they graduate, and it isn't because Canada pays them well, especially not in relation to the cost of living. [https://betterdwelling.com/lowest-american-employees-are-57-percent-more-expensive-than-canadians/](https://betterdwelling.com/lowest-american-employees-are-57-percent-more-expensive-than-canadians/)\n\nGTFO indeed!",
+            "score": 1,
+            "que": "Hand-holding for new hires on the job... And lmao @ immigrants enrolling in grad programs as they have the same requirements as locals which are on the stricter side; people seeking an easy way in enroll in private colleges like Herzing offering bogus certifications. I am in no way, shape or form describing degree inflation... The difference between grad and undergrad is night and day unless you did something like a bachelors of maths/physics with honours.\n\nLastly, most of my team is made up of immigrants and I surely wouldn't label them as underpaid. Ffs, both my managers are from the middle-East and they earn 100k + 25% bonus. Gtfo dude."
+        },
+        {
+            "id": "i87m0oy",
+            "parent": "t1_i87bj4x",
+            "ans": "import ai as ai  \nai.model\\_predict(data)  \nprint(\"Data validated. You are now AI.\")",
+            "score": 5,
+            "que": "This guy got us up to 97! Someone give this man a raise!"
+        },
+        {
+            "id": "i84lza5",
+            "parent": "t1_i84ex2m",
+            "ans": "Its IBM one. Professional certificate.",
+            "score": 25,
+            "que": "Which one are you talking about?"
+        },
+        {
+            "id": "i85b36n",
+            "parent": "t1_i84ex2m",
+            "ans": "I also liked the Google data analytics one on coursera",
+            "score": 17,
+            "que": "Which one are you talking about?"
+        },
+        {
+            "id": "i86l2q7",
+            "parent": "t1_i86deve",
+            "ans": "Something similar happened at a start up I worked for except the guy didn't even have a degree. He was enrolled in a community college just starting the basic background classes for the degree he said he had. They wondered how he could possibly be so clueless in the lab for months and only found out because he confessed.",
+            "score": 2,
+            "que": "In a former life in banking, I heard of someone who listed \"Harvard\" as their undergrad.\n\nIrony = guy got the job and was working there ~ 4 months before they inevitably found out he didn't attend, let alone graduate, from Harvard.  Suffice to say, they let him go."
+        },
+        {
+            "id": "ifwdokx",
+            "parent": "t1_ifw160k",
+            "ans": "Well, at least in my case trying to ride out on a Tech industry wave. :-)",
+            "score": 2,
+            "que": "What are we doing here? fellow AE!"
+        },
+        {
+            "id": "i84okna",
+            "parent": "t1_i84cavp",
+            "ans": "how does one break in?",
+            "score": 3,
+            "que": "Tripling your salary is not rare when a foreigner finally manages to get a US job.\n\nI'd recommend going to Glassdoor and checking what Data Science salaries look like in Europe."
+        },
+        {
+            "id": "i84ls9x",
+            "parent": "t1_i84l88d",
+            "ans": "Stand your ground. Over time he will see that you're right.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i87czll",
+            "parent": "t1_i87c38a",
+            "ans": "My team does, these particular candidates just happen to have PhDs. We care more about the actual skills and if you can demonstrate that you can solve problems with data.\n\nWhen I was hired, the only degree I had finished was a liberal arts bachelors.",
+            "score": 2,
+            "que": "Why not accept BS degrees?"
+        },
+        {
+            "id": "i888uai",
+            "parent": "t1_i87zw55",
+            "ans": "These 400k visas aren't all graduate ones, and grad degrees have both the F and C rules unless you're studying at a business school regardless of your citizenship status. I have a bachelors of maths w/ honours and my course-based masters is still much harder + has a 15 credits project. \n\nYes, the salary are higher in the US. So what? Nothing prevents you from moving there or finding remote US jobs. Good luck gettinf that 100k starting position, though. As for Canadian jobs requiring Mandarin, they've been around for a while in banking are represent a minuscule fraction of jobs opening. \n\nYou're just mad you couldn't find a job and/or get a grad degree. Keep wallowing in delusion you pathetic loser, and before you say anything: my family has been here for 4 centuries, my name is as French as it gets, I'm white and against multiculturalism. Cry more about iMmIgRaNtS sTeAlInG yOuR jOb.",
+            "score": 1,
+            "que": "Canada grants over 400K student visas per year, predominantly to mature people who otherwise would not qualify to immigrate on their merits. Meanwhile the US only grants about 80K student visas per year.\n\nAs for stricter qualifications for international students? Please. That b.s. was already been debunked by researchers already. [https://vancouversun.com/news/politics/foreign-students-at-ubc-squeezing-out-domestic-applicants-profs-paper-argues](https://vancouversun.com/news/politics/foreign-students-at-ubc-squeezing-out-domestic-applicants-profs-paper-argues). It's a fact that they're cash cows for schools because they pay more tuition, and as such get lower standards. You don't magically find over 40% more qualified international students while conveniently deciding that domestic applicants are simultaneously not qualified.  \n\nLet's not even get into the fact that Canadian banks like RBC have literally been replacing their Canadian workers with foreigners for years under the bogus guise that they can't find qualified Canadians. [https://winnipeg.ctvnews.ca/rbc-scrambles-to-explain-hiring-practices-to-canadians-after-contentious-report-1.1227904](https://winnipeg.ctvnews.ca/rbc-scrambles-to-explain-hiring-practices-to-canadians-after-contentious-report-1.1227904). Must be super essential to know Mandarin in a country where the official languages of business are English and French, right? \n\nDid RBC issue a public apology for something they didn't do? https://globalnews.ca/news/472919/rbc-makes-public-apology-for-outsourcing/\n\nIf you're looking at the top 7 schools in Canada, sorry there is literally no difference between a rigorous undergrad program and a non-thesis masters program that forms the glut of international admissions. \n\nWhy would you admit that your team is underpaid compared to their American counterparts? A manager level position with a graduate degree \"requirement\" in STEM earning $100K? That's a STEM undergrad starting salary in the US, buddy. $100K is literally what a facility manager (i.e. janitor supervisor) makes even at a very mediocre school like Ryerson. That's a position with zero post-secondary education, let alone a STEM graduate degree.\n\nThere's a reason UWaterloo undergrads head for the US as soon as they graduate, and it isn't because Canada pays them well, especially not in relation to the cost of living. [https://betterdwelling.com/lowest-american-employees-are-57-percent-more-expensive-than-canadians/](https://betterdwelling.com/lowest-american-employees-are-57-percent-more-expensive-than-canadians/)\n\nGTFO indeed!"
+        },
+        {
+            "id": "i87oved",
+            "parent": "t1_i87m0oy",
+            "ans": "Now we are using AI?! WHEE \n\nWait, when are you going to bring in that machine learning stuff I keep hearing about?",
+            "score": 3,
+            "que": "import ai as ai  \nai.model\\_predict(data)  \nprint(\"Data validated. You are now AI.\")"
+        },
+        {
+            "id": "i8rd2cg",
+            "parent": "t1_i84lza5",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Its IBM one. Professional certificate."
+        },
+        {
+            "id": "i85i5ih",
+            "parent": "t1_i85b36n",
+            "ans": "Beat I can describe it is cute. The bit about data visualization was useful, but technically I was beyond it. Amazing for someone who hasn't done a lot of analytics. \n\nI'm making it through the DataCamp Data Scientist track and have learned a fair amount.",
+            "score": 9,
+            "que": "I also liked the Google data analytics one on coursera"
+        },
+        {
+            "id": "ifwznjr",
+            "parent": "t1_ifwdokx",
+            "ans": "That makes the two of us \ud83d\ude05",
+            "score": 2,
+            "que": "Well, at least in my case trying to ride out on a Tech industry wave. :-)"
+        },
+        {
+            "id": "i85xg5m",
+            "parent": "t1_i84okna",
+            "ans": "haha, I'm imagining someone literally trying to break in through a border fence",
+            "score": 2,
+            "que": "how does one break in?"
+        },
+        {
+            "id": "i87duey",
+            "parent": "t1_i87czll",
+            "ans": "Ok so there's still hope for a bachelor's with no internship?\nAlso congrats on making it!",
+            "score": 1,
+            "que": "My team does, these particular candidates just happen to have PhDs. We care more about the actual skills and if you can demonstrate that you can solve problems with data.\n\nWhen I was hired, the only degree I had finished was a liberal arts bachelors."
+        },
+        {
+            "id": "i88bszs",
+            "parent": "t1_i888uai",
+            "ans": "Nothing quite like juvenile personal insults to demonstrate that you can back up your claims, eh?\n\nToo bad all that hand holding you received at your $100K+ bank job or education didn't teach you the basics of civil discourse or manners.",
+            "score": 1,
+            "que": "These 400k visas aren't all graduate ones, and grad degrees have both the F and C rules unless you're studying at a business school regardless of your citizenship status. I have a bachelors of maths w/ honours and my course-based masters is still much harder + has a 15 credits project. \n\nYes, the salary are higher in the US. So what? Nothing prevents you from moving there or finding remote US jobs. Good luck gettinf that 100k starting position, though. As for Canadian jobs requiring Mandarin, they've been around for a while in banking are represent a minuscule fraction of jobs opening. \n\nYou're just mad you couldn't find a job and/or get a grad degree. Keep wallowing in delusion you pathetic loser, and before you say anything: my family has been here for 4 centuries, my name is as French as it gets, I'm white and against multiculturalism. Cry more about iMmIgRaNtS sTeAlInG yOuR jOb."
+        },
+        {
+            "id": "icu36jh",
+            "parent": "t1_i8rd2cg",
+            "ans": "There\u2019s a \u201cdata science professional\u201d course set. 10 courses, intro is one",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i8rtf3y",
+            "parent": "t1_i8rd2cg",
+            "ans": "Not only but its a good starter.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i8955n9",
+            "parent": "t1_i85i5ih",
+            "ans": ">DataCamp Data Scientist track\n\nInteresting, I am planning (actually started) to finish Google Analytics Certificate then move on to  DataCamp Data Scientist track, you think it's a good plan?",
+            "score": 1,
+            "que": "Beat I can describe it is cute. The bit about data visualization was useful, but technically I was beyond it. Amazing for someone who hasn't done a lot of analytics. \n\nI'm making it through the DataCamp Data Scientist track and have learned a fair amount."
+        },
+        {
+            "id": "i86kwmr",
+            "parent": "t1_i85xg5m",
+            "ans": "Shut your face",
+            "score": 0,
+            "que": "haha, I'm imagining someone literally trying to break in through a border fence"
+        },
+        {
+            "id": "i87ig0e",
+            "parent": "t1_i87duey",
+            "ans": "Anything\u2019s possible. I didn\u2019t start my career in analytics though, I started in marketing and was able to get my hands on data and started doing analysis out of curiosity (and I saw an opportunity since no one else was really using the data effectively) and eventually that was recognized by my team leadership and I was moved into an analytics role. And I knew pretty quickly that I enjoyed analytics significantly more than marketing and wanted to follow a more quantitative path.",
+            "score": 1,
+            "que": "Ok so there's still hope for a bachelor's with no internship?\nAlso congrats on making it!"
+        },
+        {
+            "id": "i88jsqo",
+            "parent": "t1_i87duey",
+            "ans": "I don't think you need internships but if you really feel like you do, there's something called ORISE, where you could do short-term or 1-year long work at government agencies (I think you can do up to 3 years depending on funding and if your boss agrees). They have analytics positions and take people that have graduated (BS, MS, Ph.D.). You can look into applying to those if you need to buff up your resume.",
+            "score": 1,
+            "que": "Ok so there's still hope for a bachelor's with no internship?\nAlso congrats on making it!"
+        },
+        {
+            "id": "i88e7y1",
+            "parent": "t1_i88bszs",
+            "ans": "I don't need to be civil towards degenerates. Stay poor and don't forget your rent.",
+            "score": 1,
+            "que": "Nothing quite like juvenile personal insults to demonstrate that you can back up your claims, eh?\n\nToo bad all that hand holding you received at your $100K+ bank job or education didn't teach you the basics of civil discourse or manners."
+        },
+        {
+            "id": "i89aw9b",
+            "parent": "t1_i8955n9",
+            "ans": "There is a lot of Python in the DataCamp track. And it's a legitimate 90 hours, if not more. Probably more like 180 to fully grasp everything. Google DataAnalytics has almost no Python imo. The gamification of it makes it fun though.",
+            "score": 3,
+            "que": ">DataCamp Data Scientist track\n\nInteresting, I am planning (actually started) to finish Google Analytics Certificate then move on to  DataCamp Data Scientist track, you think it's a good plan?"
+        }
+    ]
+}

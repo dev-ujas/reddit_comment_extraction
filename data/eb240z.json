@@ -1,0 +1,365 @@
+{
+    "title": "When the boss doesn\u2019t like your charts",
+    "id": "eb240z",
+    "create_at": 1576432616.0,
+    "score": 2347,
+    "comments": [
+        {
+            "id": "fb2yo72",
+            "parent": "t1_fb1yk0r",
+            "ans": "A data scientist I work with argued in a presentation that her model was really accurate because the recall was 94%. But she didn't report any other metrics.\n\nThat's when I knew the modeling must have gone pretty poorly...",
+            "score": 35,
+            "que": "4 Steps to Success For Politically Correct Performance Analytics:\n\n1. Train the suits to look at 5-10 KPIs\n\n2. Cohorts -> Rows, KPIs -> Columns \n\n3. Proceed down columns sorting each descending\n\n4. Move most generous column to the front, tell story from there\n\nThe trick isn't to lie, it's to make the bad news sound good!"
+        },
+        {
+            "id": "fb295dy",
+            "parent": "t1_fb1yk0r",
+            "ans": "I like your methodology.",
+            "score": 15,
+            "que": "4 Steps to Success For Politically Correct Performance Analytics:\n\n1. Train the suits to look at 5-10 KPIs\n\n2. Cohorts -> Rows, KPIs -> Columns \n\n3. Proceed down columns sorting each descending\n\n4. Move most generous column to the front, tell story from there\n\nThe trick isn't to lie, it's to make the bad news sound good!"
+        },
+        {
+            "id": "fb3cb9i",
+            "parent": "t1_fb17hyx",
+            "ans": "What if the next Enron isn't actually fraud but instead is just a series of misleading charts and graphs?\ud83e\udd28",
+            "score": 34,
+            "que": ">> Thanks boss. Next time you want me to cook the numbers tell me beforehand, at least a week before you want my resignation notice."
+        },
+        {
+            "id": "fb1l11c",
+            "parent": "t1_fb15yiu",
+            "ans": "Happened to me Thursday! Like do you want me to analyze this or just plug the numbers you've already decided.",
+            "score": 50,
+            "que": "True story!"
+        },
+        {
+            "id": "fb1t74k",
+            "parent": "t1_fb15yiu",
+            "ans": "[deleted]",
+            "score": 31,
+            "que": "True story!"
+        },
+        {
+            "id": "fb2al5l",
+            "parent": "t1_fb25qdj",
+            "ans": "Me: \u201cWhere did you get this other data.\u201d\n\nBoss: \u201cUhhhhh don\u2019t worry about that.\u201d",
+            "score": 30,
+            "que": "Use Bayesian analysis, that way the boss can add in some priors."
+        },
+        {
+            "id": "fb3jabj",
+            "parent": "t1_fb25qdj",
+            "ans": "Use Bayes to co-opt.\n\nBy giving your boss a prior he feels like he's part of the process. He doesn't know that the prior will be washed out by the data because he doesn't want to hear about methods, but s/he still feels like their viewpoint became a part of the final outcome. This makes it more difficult for them to deny the outcome of the analysis outright.\n\nOr set up a full 'expert elicitation' program which will generate priors from the entire company. \n\nThis should keep you honest.",
+            "score": 11,
+            "que": "Use Bayesian analysis, that way the boss can add in some priors."
+        },
+        {
+            "id": "fb1ogy5",
+            "parent": "t1_fb1i3h3",
+            "ans": "Sounds way more badass than it really is.",
+            "score": 28,
+            "que": "Time to become a full-time p-hacker"
+        },
+        {
+            "id": "fb3hl75",
+            "parent": "t1_fb1i3h3",
+            "ans": "Drop the hyphen. Its just \"phacker\".",
+            "score": 3,
+            "que": "Time to become a full-time p-hacker"
+        },
+        {
+            "id": "fb455hh",
+            "parent": "t1_fb2gn1q",
+            "ans": "I know that feeling. I have prepared some analysis for our client in about 2 hours using internal tools. It is just a routine task, something that I do every day without any complaints. The client decided that the data must be wrong because it looks weird. I have spent another week around 5 hours a day doing several deeper analyses explaining why are the results as they are. I have explained one thing and they demanded another analysis, etc. In the end, they have told me that they still don't believe that data, but at least they stopped asking for deeper analysis :) \n\nI was at least happy that I could do something more interesting than my usual routine...",
+            "score": 5,
+            "que": "My firm has done analysis for this one project almost 10 times this year because our client doesn\u2019t like the result every time. This hurts so much lol"
+        },
+        {
+            "id": "fb1ofw5",
+            "parent": "t1_fb1n1p3",
+            "ans": "You win business jargon bingo.",
+            "score": 69,
+            "que": "Sounds like this boss needs a better perspective on delivery methodologies involving experimentation, business alignment, and understanding when to pivot based on validated learning."
+        },
+        {
+            "id": "fb3iqff",
+            "parent": "t1_fb1n1p3",
+            "ans": "Damn I\u2019m stealing this",
+            "score": 1,
+            "que": "Sounds like this boss needs a better perspective on delivery methodologies involving experimentation, business alignment, and understanding when to pivot based on validated learning."
+        },
+        {
+            "id": "fb2n9gt",
+            "parent": "t1_fb18lrl",
+            "ans": "But boss there are 42 slices, I think this is better represented in a bar chart. Boss: idc I like the pie, also can you put a legend?",
+            "score": 17,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb39ado",
+            "parent": "t1_fb18lrl",
+            "ans": "\" No graphs, just keep all the numbers in several pages of tables\" (to be precise 100 pages of numbers in tabular format)\n\nWhen I go why not?\n\n\" They dont believe in graphs, just in numbers\"",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb3hnk3",
+            "parent": "t1_fb32n0j",
+            "ans": "Marketing too. Pretty much everyone except Finance. Speaking from experience.",
+            "score": 1,
+            "que": "LOL sales team are super guilty of this"
+        },
+        {
+            "id": "fb4b95z",
+            "parent": "t1_fb2x1x0",
+            "ans": "Thanks for that.",
+            "score": 2,
+            "que": "Doesn\u2019t seem that real. A [Datasaurus](https://www.autodeskresearch.com/publications/samestats) can make data look like anything."
+        },
+        {
+            "id": "fb3nxps",
+            "parent": "t1_fb2x1x0",
+            "ans": "Thanks for sharing that! Now I have something more hilarious than Anscombe\u2019s quarter to show people why summary statistics, are well, summaries of data and shouldn\u2019t always be taken as is.",
+            "score": 2,
+            "que": "Doesn\u2019t seem that real. A [Datasaurus](https://www.autodeskresearch.com/publications/samestats) can make data look like anything."
+        },
+        {
+            "id": "fb37w2r",
+            "parent": "t1_fb36omg",
+            "ans": "1. Work like hell to try and change the company culture to show the ultimate gains from doing things correctly\n2. Leave for another company\n\nFrankly if the boss is happy to cook numbers, it's not so easy to change course. Once that becomes acceptable it's way more work than it's worth for you personally to make change happen, and the odds are against you.",
+            "score": 9,
+            "que": "What is a legitimate response to these types of conversations (student here so I feel like I'd say the wrong thing)."
+        },
+        {
+            "id": "fb4dr45",
+            "parent": "t1_fb36omg",
+            "ans": "When I was at a company: I did what they wanted me to do in a few days and showed them its wrong :3 as if I was expecting it to be the almighty suggestion I ever got from my boss. Then when they run out of ideas, I suggest mine \\*evilFace\\*.\n\nWhen I am with my adviser: Suggest it can go wrong with good math. If I cannot convince then I just do what he says. You know why? He will give Ph.D if he is happy lol. Ofcourse if his story is wrong and I am not getting any results then at one point he lets me do anything (what I want) to get the results. hahaha \n\n&#x200B;\n\nPS: If results look good then when you show to your boss, just so to inform you that it wont work under certain scenarios when you actually deploy it :D. Boss will be scared to boast about it as it will tarnish his image if deployed lmao. Works for me.",
+            "score": 3,
+            "que": "What is a legitimate response to these types of conversations (student here so I feel like I'd say the wrong thing)."
+        },
+        {
+            "id": "hlm5c72",
+            "parent": "t1_fb36omg",
+            "ans": "I started in data for the government and this sort of thing is even worse there than in the private sector. (At least from my experience). From that experience, I learned it is best to go slow.  Don't break people's world views all at once.  Also don't tell them what you found show them something that has some obvious follow up questions, so that when they ask those they can feel really smart and like they discovered the thing themselves.\n\nLet me give you an example.  I worked in hazardous waste.  The boomers thought the had done a great job reducing hazardous waste in our state.  Turns out all the heavy manufacturing had moved over seas.  You see before us millennials were arround all they saw was the top aggregate number.  \n\nWe wanted to give them a more accurate picture of the situationm So we made a stacked bar chart showing hazardous waste generation over time by site, with one or two very large heavy industrial sites in a bright color. \n\nBosses asked what's that bright one that stopped some time back. We said that's the big industrial site. The bosses then asked us what does it look like without  those old sites.  We said that is a great question we will make a new chart.  Turns out hazardous waste generation had been going up(if you took away large facilities that went over seas.) When they asked for the chart they never questioned it, but if we had tried to tell them that no amount of explanation would have convinced them that they had accomplished nothing over their careers.",
+            "score": 3,
+            "que": "What is a legitimate response to these types of conversations (student here so I feel like I'd say the wrong thing)."
+        },
+        {
+            "id": "fb49oi5",
+            "parent": "t1_fb2yo72",
+            "ans": "What\u2019s recall?",
+            "score": 3,
+            "que": "A data scientist I work with argued in a presentation that her model was really accurate because the recall was 94%. But she didn't report any other metrics.\n\nThat's when I knew the modeling must have gone pretty poorly..."
+        },
+        {
+            "id": "fb4hiqs",
+            "parent": "t1_fb2yo72",
+            "ans": "I mean, it completely depends on the problem.",
+            "score": 1,
+            "que": "A data scientist I work with argued in a presentation that her model was really accurate because the recall was 94%. But she didn't report any other metrics.\n\nThat's when I knew the modeling must have gone pretty poorly..."
+        },
+        {
+            "id": "fb50hqe",
+            "parent": "t1_fb3cb9i",
+            "ans": "Actually, that sounds like Enron.",
+            "score": 5,
+            "que": "What if the next Enron isn't actually fraud but instead is just a series of misleading charts and graphs?\ud83e\udd28"
+        },
+        {
+            "id": "fb5qd9y",
+            "parent": "t1_fb3cb9i",
+            "ans": "My defense is 'inference can always be wrong'. Boom",
+            "score": 2,
+            "que": "What if the next Enron isn't actually fraud but instead is just a series of misleading charts and graphs?\ud83e\udd28"
+        },
+        {
+            "id": "fb34dyz",
+            "parent": "t1_fb1l11c",
+            "ans": "[deleted]",
+            "score": 76,
+            "que": "Happened to me Thursday! Like do you want me to analyze this or just plug the numbers you've already decided."
+        },
+        {
+            "id": "fb1y68x",
+            "parent": "t1_fb1t74k",
+            "ans": "I work in a software performance engineering group -  and this is 100%.",
+            "score": 28,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb2xvf8",
+            "parent": "t1_fb1t74k",
+            "ans": "Also in SW project planning.\n\n\u201cIt will take 40 days to do all these features\u201d\n\n\u201cYou have 30 days\u201d \n\n\u201cHere\u2019s a detailed plan of what\u2019s required and time. What do you want to remove?\u201d\n\n\u201cNothing. Give me a plan that shows 30 days\u201d",
+            "score": 18,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb48uru",
+            "parent": "t1_fb1t74k",
+            "ans": "Squad!!\n\nI finally found you...\n\n...for a minute I thought this Island was empty. \ud83d\ude05",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb2oykp",
+            "parent": "t1_fb2al5l",
+            "ans": "Boss: \"domain expertise\"",
+            "score": 32,
+            "que": "Me: \u201cWhere did you get this other data.\u201d\n\nBoss: \u201cUhhhhh don\u2019t worry about that.\u201d"
+        },
+        {
+            "id": "fc32bi2",
+            "parent": "t1_fb1ogy5",
+            "ans": "The pee hacker. Yep",
+            "score": 1,
+            "que": "Sounds way more badass than it really is."
+        },
+        {
+            "id": "fb41ns6",
+            "parent": "t1_fb3hl75",
+            "ans": "What the phack",
+            "score": 3,
+            "que": "Drop the hyphen. Its just \"phacker\"."
+        },
+        {
+            "id": "fb2pyum",
+            "parent": "t1_fb2n9gt",
+            "ans": "[deleted]",
+            "score": 20,
+            "que": "But boss there are 42 slices, I think this is better represented in a bar chart. Boss: idc I like the pie, also can you put a legend?"
+        },
+        {
+            "id": "fb385e5",
+            "parent": "t1_fb37w2r",
+            "ans": "So basically try to advise against it but if they remain ignorant to follow orders or leave. \n\nSounds about right, but also from the look of this comment section it feels like this is a common issue which suggests a larger than one company cultural change is needed among the head of the snakes.",
+            "score": 3,
+            "que": "1. Work like hell to try and change the company culture to show the ultimate gains from doing things correctly\n2. Leave for another company\n\nFrankly if the boss is happy to cook numbers, it's not so easy to change course. Once that becomes acceptable it's way more work than it's worth for you personally to make change happen, and the odds are against you."
+        },
+        {
+            "id": "fb4dzo0",
+            "parent": "t1_fb49oi5",
+            "ans": "I don't know if you are being serious or sarcastic, but the actual definition of recall is the percentage of how much of the actual positives were found by the model. 90% recall means the model was able to pick up 90% of the positives and predict as positive from the total cohort.",
+            "score": 11,
+            "que": "What\u2019s recall?"
+        },
+        {
+            "id": "fb35cwl",
+            "parent": "t1_fb34dyz",
+            "ans": "I've never heard that before but I love it",
+            "score": 18,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb2kbns",
+            "parent": "t1_fb1y68x",
+            "ans": "Actually I'm gonna need you to make that 110% and resubmit it.",
+            "score": 22,
+            "que": "I work in a software performance engineering group -  and this is 100%."
+        },
+        {
+            "id": "fb32n4o",
+            "parent": "t1_fb2xvf8",
+            "ans": "Just pay triple time for any overtime, quad time on weekends, three weeks paid time off after rollout (successful or not), and resubmit the proposal to be completed in 30 days.",
+            "score": 7,
+            "que": "Also in SW project planning.\n\n\u201cIt will take 40 days to do all these features\u201d\n\n\u201cYou have 30 days\u201d \n\n\u201cHere\u2019s a detailed plan of what\u2019s required and time. What do you want to remove?\u201d\n\n\u201cNothing. Give me a plan that shows 30 days\u201d"
+        },
+        {
+            "id": "fb60t1b",
+            "parent": "t1_fb2xvf8",
+            "ans": "I'm honestly surprised these people last as managers or executives but they often do. They fundamentally don't understand natural trade-offs.\n\nFeatures, cost-effectiveness, or fast, pick two.",
+            "score": 2,
+            "que": "Also in SW project planning.\n\n\u201cIt will take 40 days to do all these features\u201d\n\n\u201cYou have 30 days\u201d \n\n\u201cHere\u2019s a detailed plan of what\u2019s required and time. What do you want to remove?\u201d\n\n\u201cNothing. Give me a plan that shows 30 days\u201d"
+        },
+        {
+            "id": "fb2tumq",
+            "parent": "t1_fb2pyum",
+            "ans": "I thoght I was the only one suffering with \"No Red Rule\".    \n\nI'm colorblind, it is really hard finding a seventh color.",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fb38rfq",
+            "parent": "t1_fb385e5",
+            "ans": "Using data to guide your strategy requires you to make hard choices, be humble, pivot away from things that don't work, and delay gratification. It requires a very particular set of overlapping skills to manage a company in such a way as to keep capitalists happy AND do the \"right\" thing. It means hiring the right people, firing the wrong people, forcing change, leaving your ego at the door, while still having to interact with snake-oil salesman that can capture the attention of people with money.\n\nHell is other people.",
+            "score": 10,
+            "que": "So basically try to advise against it but if they remain ignorant to follow orders or leave. \n\nSounds about right, but also from the look of this comment section it feels like this is a common issue which suggests a larger than one company cultural change is needed among the head of the snakes."
+        },
+        {
+            "id": "fb6190v",
+            "parent": "t1_fb385e5",
+            "ans": "Management is pretty divorced from accountability these days.",
+            "score": 2,
+            "que": "So basically try to advise against it but if they remain ignorant to follow orders or leave. \n\nSounds about right, but also from the look of this comment section it feels like this is a common issue which suggests a larger than one company cultural change is needed among the head of the snakes."
+        },
+        {
+            "id": "fb4epkq",
+            "parent": "t1_fb4dzo0",
+            "ans": "To add to this, high recall alone doesn't mean a whole lot (without say accuracy or precision or some other metric also being mentioned), because you can get 100% recall easily by just trivially and arbitrarily predicting \"True\" for every case without considering anything.\n\nThis guarantees you'll get every actually true case and mark it correctly, but you'll also turn every negative case into a false positive.",
+            "score": 8,
+            "que": "I don't know if you are being serious or sarcastic, but the actual definition of recall is the percentage of how much of the actual positives were found by the model. 90% recall means the model was able to pick up 90% of the positives and predict as positive from the total cohort."
+        },
+        {
+            "id": "fb4h2cm",
+            "parent": "t1_fb4dzo0",
+            "ans": "Thanks! Never learn if you don\u2019t ask!",
+            "score": 2,
+            "que": "I don't know if you are being serious or sarcastic, but the actual definition of recall is the percentage of how much of the actual positives were found by the model. 90% recall means the model was able to pick up 90% of the positives and predict as positive from the total cohort."
+        },
+        {
+            "id": "fb2mjj1",
+            "parent": "t1_fb2kbns",
+            "ans": "But that\u2019s not how data....never mind coming right up.",
+            "score": 13,
+            "que": "Actually I'm gonna need you to make that 110% and resubmit it."
+        },
+        {
+            "id": "fb3p7f5",
+            "parent": "t1_fb32n4o",
+            "ans": "You\u2019re just like one of my old managers, except with the offering extra pay bit.",
+            "score": 3,
+            "que": "Just pay triple time for any overtime, quad time on weekends, three weeks paid time off after rollout (successful or not), and resubmit the proposal to be completed in 30 days."
+        },
+        {
+            "id": "fb398ok",
+            "parent": "t1_fb38rfq",
+            "ans": "Honestly, I'm going to save this comment and look back on it when I feel frustrated because it couldn't have been said better.",
+            "score": 4,
+            "que": "Using data to guide your strategy requires you to make hard choices, be humble, pivot away from things that don't work, and delay gratification. It requires a very particular set of overlapping skills to manage a company in such a way as to keep capitalists happy AND do the \"right\" thing. It means hiring the right people, firing the wrong people, forcing change, leaving your ego at the door, while still having to interact with snake-oil salesman that can capture the attention of people with money.\n\nHell is other people."
+        },
+        {
+            "id": "fb4kwq6",
+            "parent": "t1_fb4epkq",
+            "ans": "Just to add a cherry on top, there's also the cost of prediction vs cost of false positives and false negatives. Cost considerations matter, specially in fields like medicine. Even when cost is not necessarily monetary, it should be considered when acting on the confusion matrix results.",
+            "score": 6,
+            "que": "To add to this, high recall alone doesn't mean a whole lot (without say accuracy or precision or some other metric also being mentioned), because you can get 100% recall easily by just trivially and arbitrarily predicting \"True\" for every case without considering anything.\n\nThis guarantees you'll get every actually true case and mark it correctly, but you'll also turn every negative case into a false positive."
+        },
+        {
+            "id": "fb2qqwb",
+            "parent": "t1_fb2mjj1",
+            "ans": "Don't listen to this guy. I'll do it 130%, and I'll deliver it 105% under budget.",
+            "score": 12,
+            "que": "But that\u2019s not how data....never mind coming right up."
+        },
+        {
+            "id": "fb7dtar",
+            "parent": "t1_fb4kwq6",
+            "ans": "Cost of prediction is a nice snazzy term for level of desire to prioritise the minority class, I love it",
+            "score": 2,
+            "que": "Just to add a cherry on top, there's also the cost of prediction vs cost of false positives and false negatives. Cost considerations matter, specially in fields like medicine. Even when cost is not necessarily monetary, it should be considered when acting on the confusion matrix results."
+        },
+        {
+            "id": "fb2sjk0",
+            "parent": "t1_fb2qqwb",
+            "ans": "You\u2019re hired. Clearly you are going places.",
+            "score": 10,
+            "que": "Don't listen to this guy. I'll do it 130%, and I'll deliver it 105% under budget."
+        },
+        {
+            "id": "fb35nd0",
+            "parent": "t1_fb2sjk0",
+            "ans": "*delivers paint image with \"success\" written on it*",
+            "score": 12,
+            "que": "You\u2019re hired. Clearly you are going places."
+        }
+    ]
+}

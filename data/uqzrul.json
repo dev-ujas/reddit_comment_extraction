@@ -1,0 +1,456 @@
+{
+    "title": "I want to be free of this pain.",
+    "id": "uqzrul",
+    "create_at": 1652718187.0,
+    "score": 2679,
+    "comments": [
+        {
+            "id": "i8u8kpx",
+            "parent": "t1_i8u7og3",
+            "ans": "SPEEDOMETER CHART",
+            "score": 166,
+            "que": "Management: Now. MOAR PIE CHARTS, peon! And also those little pie charts with the holes in the middle that I like so much. They pleeeeeease me."
+        },
+        {
+            "id": "i8ulqla",
+            "parent": "t1_i8u7og3",
+            "ans": "For my organization it's always bar charts, and STACKED bar charts at that even though other charts may make more sense. Ugh.",
+            "score": 41,
+            "que": "Management: Now. MOAR PIE CHARTS, peon! And also those little pie charts with the holes in the middle that I like so much. They pleeeeeease me."
+        },
+        {
+            "id": "i8v4ioa",
+            "parent": "t1_i8u7og3",
+            "ans": "SVP: no no that shouldn't be shown that way, those numbers shouldn't be side by side\n\nMe:.....\n\nMe:....oh ok, no problem I can take another look\n\nya know, like a pushover",
+            "score": 15,
+            "que": "Management: Now. MOAR PIE CHARTS, peon! And also those little pie charts with the holes in the middle that I like so much. They pleeeeeease me."
+        },
+        {
+            "id": "i8w1w3t",
+            "parent": "t1_i8u7og3",
+            "ans": "No no no pie charts, make them all donut charts. Then back to pie. Then back to donuts.",
+            "score": 3,
+            "que": "Management: Now. MOAR PIE CHARTS, peon! And also those little pie charts with the holes in the middle that I like so much. They pleeeeeease me."
+        },
+        {
+            "id": "i8v02ou",
+            "parent": "t1_i8u7og3",
+            "ans": "MOAR!!",
+            "score": 1,
+            "que": "Management: Now. MOAR PIE CHARTS, peon! And also those little pie charts with the holes in the middle that I like so much. They pleeeeeease me."
+        },
+        {
+            "id": "i8uuw2c",
+            "parent": "t1_i8uk64i",
+            "ans": "Customer \u201cthe power bi dashboard isn\u2019t helpful it doesn\u2019t show anything we need\u201d\nMe *looking at way too specific requirements demanded that are all present",
+            "score": 90,
+            "que": "Lmao literally me as I\u2019m building tableau dashboards"
+        },
+        {
+            "id": "i8uodla",
+            "parent": "t1_i8ukemi",
+            "ans": "What the company \"needs\" vs what the company needs am I right. \n\nBut for real if this is happening, check the dashboard for interesting trends on a regular base, share screenshots + link to dashboard and tell the story of the data. Keep doing that and eventually people will find their way, at least in my experience.",
+            "score": 59,
+            "que": "Your scheduled refresh has been paused. We\u2019ve paused schedule refresh for \u201csuper important and critical dashboard I spent four months on\u201d in accounting workspaces due to inactivity. \n\n\nNo one has viewed dashboards or reports built using this dataset in two months. To resume it, please cry softly by yourself in the corner and remind yourself you will still get paid, but what you do isn\u2019t important and we can prove it with math."
+        },
+        {
+            "id": "i8vygm3",
+            "parent": "t1_i8unhiq",
+            "ans": "I think I see me too but it\u2019s a bit zoomed out so it\u2019s hard to tell",
+            "score": 19,
+            "que": "I'm in this picture and I don't like it"
+        },
+        {
+            "id": "ibozswl",
+            "parent": "t1_i8w18je",
+            "ans": "And then I'm caught off guard when someone actually uses it and the group responsible for UAT didn't actually complete UAT and then everyone loses faith in the system.",
+            "score": 6,
+            "que": "So many times where I've made a Tableau dashboard and management just never uses it. \n\nI show them over zoom how it looks like and they're impressed and would love to use it in the future\n\nAnd then they just never actually use it ever"
+        },
+        {
+            "id": "i8w52x2",
+            "parent": "t1_i8uxoaz",
+            "ans": "I think what you have just described is actually harder than it sounds. Especially when \"clients\" have a flawed, preconceived conception of what that connection looks like.",
+            "score": 31,
+            "que": "You would be amazed at how many professionals lack the ability to connect data needs and project goals. If you can learn to speak that language you will be like liquid gold to your organization."
+        },
+        {
+            "id": "i8wuv47",
+            "parent": "t1_i8uxoaz",
+            "ans": "My boss after I learn to speak his language, become liquid gold, and then ask for a pay raise: \"Urine luck!\"",
+            "score": 8,
+            "que": "You would be amazed at how many professionals lack the ability to connect data needs and project goals. If you can learn to speak that language you will be like liquid gold to your organization."
+        },
+        {
+            "id": "i8uj26t",
+            "parent": "t1_i8ubfm4",
+            "ans": "\"Could you just summarize that for us in an e-mail? Thanks.\"",
+            "score": 62,
+            "que": "[removed]"
+        },
+        {
+            "id": "i8vtdfi",
+            "parent": "t1_i8ubfm4",
+            "ans": "Give me a button so I can dump it all to Excel\u2026",
+            "score": 15,
+            "que": "[removed]"
+        },
+        {
+            "id": "i8ux25m",
+            "parent": "t1_i8ubfm4",
+            "ans": "I was once in a strategic planning workshop for a large city. The consultant kept saying \"track everything, log all the data, inventory anything that's trackable.\"\n\nThat's like 99% of the problem - spending a lot of time tracking things that add no value",
+            "score": 27,
+            "que": "[removed]"
+        },
+        {
+            "id": "i8vmgvl",
+            "parent": "t1_i8ubfm4",
+            "ans": "When you go to data analysts, don\u2019t just give them the questions, give them context. I often end up answering questions that are very relevant, but that I wasn\u2019t asked, because someone didn\u2019t think we had the data for it.",
+            "score": 3,
+            "que": "[removed]"
+        },
+        {
+            "id": "i8w3w98",
+            "parent": "t1_i8ubfm4",
+            "ans": ">Don't ask \"What do you want on your dashboard?\"\n\nIn tech the approach is \u201cwhat can you dashboard\u201d ie \u201cdashboard all the things\u201d\n\n\u201cWhat do you want\u201d would be an improvement",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "i8vbmk7",
+            "parent": "t1_i8v9xj0",
+            "ans": "Please tell me that you don\u2019t provide your reddit username to recruiters/hiring managers.",
+            "score": 11,
+            "que": "Dashboards?\n\nDraw up a dashboard design on canva or figma or better just copy paste a dashboard template image on a powerpoint then show it in a meeting.\n\nTell the team to email their requests so you can provide more \"insights\" from the data *going beyond the dashboard*, then ignore their emails until they sent their 4th email or someone other than them tells you to give something. Then just put some numbers on a excel sheet and send it to them.\n\n---\n\nThis is a joke and if any recruiter see this, I want to you to know, I am a team player who likes seeing the story behind the numbers and assisting the non-engineering team in achieving greatness and glory.\n\nEdit: obligatory /s"
+        },
+        {
+            "id": "i8vvmpx",
+            "parent": "t1_i8ux9fo",
+            "ans": "What kind of revenue generation stuff did you focus on? My organization is all about dashboarding useless info to say that we have dashboards available anytime. Would be nice to hear how you broke that.",
+            "score": 5,
+            "que": "I essentially stopped the whole building useless dashboards so that we can actually focus on the revenue generation stuff. Just required a decent amount of pushback. We are all happy now and I'm just waiting until the true value generating work comes in."
+        },
+        {
+            "id": "i8ulbm2",
+            "parent": "t1_i8u8kpx",
+            "ans": "We use them in Salesforce dashboards with color breaks for the quarterly team's goals. It's not dynamic and needs to be changed manually each quarter. I hate it so much.",
+            "score": 178,
+            "que": "SPEEDOMETER CHART"
+        },
+        {
+            "id": "i8v8tai",
+            "parent": "t1_i8u8kpx",
+            "ans": "triggered",
+            "score": 4,
+            "que": "SPEEDOMETER CHART"
+        },
+        {
+            "id": "i8utqg8",
+            "parent": "t1_i8ulqla",
+            "ans": "Hey I envy you. Bar charts are at least useful in like 50% of applications. Pie charts are never useful.\n\nAlthough...some of the more perverse managerial minds get off on bar charts divided into subseries (i.e. put five charts in that chart). \n\nInsightsbane is what that poison is called.",
+            "score": 39,
+            "que": "For my organization it's always bar charts, and STACKED bar charts at that even though other charts may make more sense. Ugh."
+        },
+        {
+            "id": "i8v6mqs",
+            "parent": "t1_i8v4ioa",
+            "ans": "Leaders get uncomfortable when insights yield bad news. And then they try sooooo hard to request changes to vis without sounding like they just want to hide the bad news.\n\nLow key one of the perks of our job is watching that.\n\nOn the other hand, a leader who owns bad news and knows how to fix the problem is worth their weight in whatever is valuable at the time.",
+            "score": 30,
+            "que": "SVP: no no that shouldn't be shown that way, those numbers shouldn't be side by side\n\nMe:.....\n\nMe:....oh ok, no problem I can take another look\n\nya know, like a pushover"
+        },
+        {
+            "id": "i8wir6k",
+            "parent": "t1_i8w1w3t",
+            "ans": "And when I click on it, it should spin around and a smiley face should appear in the hole.\n\nYou know. Like Jerry does. Now Jerry is a data scientist. Always knows how to spinny and smiley.",
+            "score": 9,
+            "que": "No no no pie charts, make them all donut charts. Then back to pie. Then back to donuts."
+        },
+        {
+            "id": "i8w4ta7",
+            "parent": "t1_i8uuw2c",
+            "ans": "I learned to ignore what the client says and just make the exact same chart you\u2019ve made for all clients in the past. Even if they say they want something different, they have no idea what they want",
+            "score": 39,
+            "que": "Customer \u201cthe power bi dashboard isn\u2019t helpful it doesn\u2019t show anything we need\u201d\nMe *looking at way too specific requirements demanded that are all present"
+        },
+        {
+            "id": "i8vmsy8",
+            "parent": "t1_i8uuw2c",
+            "ans": "That\u2019s why it\u2019s not useful it\u2019s too busy fix it",
+            "score": 11,
+            "que": "Customer \u201cthe power bi dashboard isn\u2019t helpful it doesn\u2019t show anything we need\u201d\nMe *looking at way too specific requirements demanded that are all present"
+        },
+        {
+            "id": "i8wyf3w",
+            "parent": "t1_i8uodla",
+            "ans": "I love this comment",
+            "score": 7,
+            "que": "What the company \"needs\" vs what the company needs am I right. \n\nBut for real if this is happening, check the dashboard for interesting trends on a regular base, share screenshots + link to dashboard and tell the story of the data. Keep doing that and eventually people will find their way, at least in my experience."
+        },
+        {
+            "id": "i8w7zyd",
+            "parent": "t1_i8w52x2",
+            "ans": "Isn\u2019t this literally the point of agile",
+            "score": 11,
+            "que": "I think what you have just described is actually harder than it sounds. Especially when \"clients\" have a flawed, preconceived conception of what that connection looks like."
+        },
+        {
+            "id": "i8umlct",
+            "parent": "t1_i8uj26t",
+            "ans": "Send back a smiley face.",
+            "score": 17,
+            "que": "\"Could you just summarize that for us in an e-mail? Thanks.\""
+        },
+        {
+            "id": "i8wu6fj",
+            "parent": "t1_i8vtdfi",
+            "ans": "Every. Fucking. Time.",
+            "score": 5,
+            "que": "Give me a button so I can dump it all to Excel\u2026"
+        },
+        {
+            "id": "i8wuzln",
+            "parent": "t1_i8vtdfi",
+            "ans": "And then make pie charts",
+            "score": 5,
+            "que": "Give me a button so I can dump it all to Excel\u2026"
+        },
+        {
+            "id": "i8wa79n",
+            "parent": "t1_i8ux25m",
+            "ans": "You can collect extra data, and not display it. you can\u2019t display data you never collected. \n\nIn my experience it\u2019s more likely the thing they want to track on a dashboard is not even collected, instead of too much stuff being collected.",
+            "score": 15,
+            "que": "I was once in a strategic planning workshop for a large city. The consultant kept saying \"track everything, log all the data, inventory anything that's trackable.\"\n\nThat's like 99% of the problem - spending a lot of time tracking things that add no value"
+        },
+        {
+            "id": "i8vfgau",
+            "parent": "t1_i8vbmk7",
+            "ans": "Well....\n\nSometimes some recruiters find me on reddit first. It is better than my Twitter or LinkedIn accounts which I have no clue why some orgs even ask for that.\n\n I actually apply to customer success engineer or community manager (technical) roles so I guess I get some extra points for being in touch with the data community. Albeit not in a professional way.",
+            "score": 5,
+            "que": "Please tell me that you don\u2019t provide your reddit username to recruiters/hiring managers."
+        },
+        {
+            "id": "i8w1j4v",
+            "parent": "t1_i8vvmpx",
+            "ans": "Get a competent VP who knows data in sales, build it once after 5 alignment meetings and be done with it.",
+            "score": 2,
+            "que": "What kind of revenue generation stuff did you focus on? My organization is all about dashboarding useless info to say that we have dashboards available anytime. Would be nice to hear how you broke that."
+        },
+        {
+            "id": "i8w6u7y",
+            "parent": "t1_i8vvmpx",
+            "ans": "Any data that you don\u2019t need should be eliminated. Like, if it\u2019s not mandated by law and someone isn\u2019t using it to generate revenue or cut costs, it\u2019s information that could be a potential liability. Generating useless data could generate unnecessary mistakes that can make you look untrustworthy. Also, anyone that wants to pick a fight can use your data against you. Also, security is very important. The more things you are inputting into a system, the more vulnerable you become. Even if none of these things is entirely true, they can be accepted by the people at the top, because frankly, they don\u2019t want to have to deal with you. They just want a data team that lets them sit pretty so they can focus on the big money items to put under their belt.",
+            "score": 2,
+            "que": "What kind of revenue generation stuff did you focus on? My organization is all about dashboarding useless info to say that we have dashboards available anytime. Would be nice to hear how you broke that."
+        },
+        {
+            "id": "i8up6ol",
+            "parent": "t1_i8ulbm2",
+            "ans": "Have an upvote for your anguish. Today you, tomorrow me.",
+            "score": 58,
+            "que": "We use them in Salesforce dashboards with color breaks for the quarterly team's goals. It's not dynamic and needs to be changed manually each quarter. I hate it so much."
+        },
+        {
+            "id": "i8vt57h",
+            "parent": "t1_i8ulbm2",
+            "ans": "More like salesfarce amirite",
+            "score": 17,
+            "que": "We use them in Salesforce dashboards with color breaks for the quarterly team's goals. It's not dynamic and needs to be changed manually each quarter. I hate it so much."
+        },
+        {
+            "id": "i8v6dpt",
+            "parent": "t1_i8ulbm2",
+            "ans": "Only each quarter ? Lucky you",
+            "score": 22,
+            "que": "We use them in Salesforce dashboards with color breaks for the quarterly team's goals. It's not dynamic and needs to be changed manually each quarter. I hate it so much."
+        },
+        {
+            "id": "i8w127y",
+            "parent": "t1_i8ulbm2",
+            "ans": "I feel seen",
+            "score": 4,
+            "que": "We use them in Salesforce dashboards with color breaks for the quarterly team's goals. It's not dynamic and needs to be changed manually each quarter. I hate it so much."
+        },
+        {
+            "id": "i8xxgea",
+            "parent": "t1_i8ulbm2",
+            "ans": "Guess what? [Dynamic gauge charts](https://help.salesforce.com/s/articleView?id=release-notes.rn_rd_dashboards_dynamic_gauge_charts.htm&type=5&release=236) were shipped in the last release.\n\nStill not great, but better than nothing!",
+            "score": 4,
+            "que": "We use them in Salesforce dashboards with color breaks for the quarterly team's goals. It's not dynamic and needs to be changed manually each quarter. I hate it so much."
+        },
+        {
+            "id": "i8uvqcx",
+            "parent": "t1_i8utqg8",
+            "ans": "Pie charts can be useful, but in very limited circumstances with several constraints. I use it more as a tool to tell a story / sell a concept than for any kind of exploratory data analysis and certainly not continuous monitoring.",
+            "score": 27,
+            "que": "Hey I envy you. Bar charts are at least useful in like 50% of applications. Pie charts are never useful.\n\nAlthough...some of the more perverse managerial minds get off on bar charts divided into subseries (i.e. put five charts in that chart). \n\nInsightsbane is what that poison is called."
+        },
+        {
+            "id": "i8wuill",
+            "parent": "t1_i8utqg8",
+            "ans": "All the pie chart apologists in this thread.",
+            "score": 4,
+            "que": "Hey I envy you. Bar charts are at least useful in like 50% of applications. Pie charts are never useful.\n\nAlthough...some of the more perverse managerial minds get off on bar charts divided into subseries (i.e. put five charts in that chart). \n\nInsightsbane is what that poison is called."
+        },
+        {
+            "id": "i8vy661",
+            "parent": "t1_i8v6mqs",
+            "ans": "once I had to slice users so many times in so many categories so our churn wouldn\u2019t be 50% that at the end, out of 800 users we had 12. The  the churn was ~20% \ud83d\ude44",
+            "score": 8,
+            "que": "Leaders get uncomfortable when insights yield bad news. And then they try sooooo hard to request changes to vis without sounding like they just want to hide the bad news.\n\nLow key one of the perks of our job is watching that.\n\nOn the other hand, a leader who owns bad news and knows how to fix the problem is worth their weight in whatever is valuable at the time."
+        },
+        {
+            "id": "i8wojlj",
+            "parent": "t1_i8v6mqs",
+            "ans": ">On the other hand, a leader who ~~owns bad news~~ *takes ownership of literally anything* ~~and knows how to fix the problem~~ is worth their weight in whatever is valuable at the time.\n\nFTFY",
+            "score": 7,
+            "que": "Leaders get uncomfortable when insights yield bad news. And then they try sooooo hard to request changes to vis without sounding like they just want to hide the bad news.\n\nLow key one of the perks of our job is watching that.\n\nOn the other hand, a leader who owns bad news and knows how to fix the problem is worth their weight in whatever is valuable at the time."
+        },
+        {
+            "id": "i8wewlq",
+            "parent": "t1_i8w4ta7",
+            "ans": "Make sure they can export to excel.",
+            "score": 36,
+            "que": "I learned to ignore what the client says and just make the exact same chart you\u2019ve made for all clients in the past. Even if they say they want something different, they have no idea what they want"
+        },
+        {
+            "id": "i8w9p1a",
+            "parent": "t1_i8w7zyd",
+            "ans": "Wait, do you mean to say that buzz words originated from real, valuable concepts??",
+            "score": 15,
+            "que": "Isn\u2019t this literally the point of agile"
+        },
+        {
+            "id": "i8umom4",
+            "parent": "t1_i8umlct",
+            "ans": "But the backwards or upside down one, for subtext purposes.",
+            "score": 16,
+            "que": "Send back a smiley face."
+        },
+        {
+            "id": "i8xsp4q",
+            "parent": "t1_i8wuzln",
+            "ans": "In power BM",
+            "score": 1,
+            "que": "And then make pie charts"
+        },
+        {
+            "id": "i8wmagk",
+            "parent": "t1_i8wa79n",
+            "ans": "The thing that was missing from the conversation was a dialogue about goals and purpose. Sure, you can go to war with an aircraft carrier but without a strategy you're probably not gonna be successful",
+            "score": 5,
+            "que": "You can collect extra data, and not display it. you can\u2019t display data you never collected. \n\nIn my experience it\u2019s more likely the thing they want to track on a dashboard is not even collected, instead of too much stuff being collected."
+        },
+        {
+            "id": "i8vhi1y",
+            "parent": "t1_i8v6dpt",
+            "ans": "Lol that's a good point",
+            "score": 12,
+            "que": "Only each quarter ? Lucky you"
+        },
+        {
+            "id": "i8y0kdh",
+            "parent": "t1_i8xxgea",
+            "ans": "Yeah I noticed that the other day. Unfortunately, we don't maintain our goals in SF.\n\nEdit: Also, our org just went to Lightning at the beginning of this year. I don't hold my breath when it comes to being able to use new features.",
+            "score": 2,
+            "que": "Guess what? [Dynamic gauge charts](https://help.salesforce.com/s/articleView?id=release-notes.rn_rd_dashboards_dynamic_gauge_charts.htm&type=5&release=236) were shipped in the last release.\n\nStill not great, but better than nothing!"
+        },
+        {
+            "id": "i8uwjqs",
+            "parent": "t1_i8uvqcx",
+            "ans": "For demonstrating chartjunk at an edward tufte ted talk?",
+            "score": 17,
+            "que": "Pie charts can be useful, but in very limited circumstances with several constraints. I use it more as a tool to tell a story / sell a concept than for any kind of exploratory data analysis and certainly not continuous monitoring."
+        },
+        {
+            "id": "i8wew9u",
+            "parent": "t1_i8uvqcx",
+            "ans": "Yea pie charts definitely can be useful. My rule of thumb is If there are 4 or less categories (because those percentages are generally easy for everyone), or when one category is like 2/3rds of the pie or higher (as a story telling device that indicates that only one slice really matters). \n\nI always do donuts though,  because people like how \u201cmodern\u201d they feel, you can add a takeaway kpi in the hole, and in my mind donuts are just bent stacked bar charts, which are easier to comprehend.",
+            "score": 7,
+            "que": "Pie charts can be useful, but in very limited circumstances with several constraints. I use it more as a tool to tell a story / sell a concept than for any kind of exploratory data analysis and certainly not continuous monitoring."
+        },
+        {
+            "id": "i8x0j7c",
+            "parent": "t1_i8uvqcx",
+            "ans": "The only time I've ever seen pie charts be useful was in a staff survey where an external provider had written a reporting tool to allow you to see results from every question from org-level down to per-team area, around 50 questions had been converted from Likert to binary, the proportions were then shown in a donut chart containing the percentage positive, with every 10 questions or so being combined into different theme scores. The combination of just outright saying what the percentage \"good\" was with just enough visualisation to stop management from thinking it was actually a table was brilliant. \n\nI think the key success from a viz pov was restricting pie charts to two categories, where the human eye is *fantastic* at comparing proportions. Maybe I could be on board with 3 categories if the proportions were all different orders of magnitude or thereabouts, but as far as I'm concerned they get pretty useless pretty quick",
+            "score": 2,
+            "que": "Pie charts can be useful, but in very limited circumstances with several constraints. I use it more as a tool to tell a story / sell a concept than for any kind of exploratory data analysis and certainly not continuous monitoring."
+        },
+        {
+            "id": "i8xej6u",
+            "parent": "t1_i8wewlq",
+            "ans": "This, so much \ud83d\ude02 \n\n\"Can I export it to Excel\" is the go to question. At least they're using it somehow",
+            "score": 6,
+            "que": "Make sure they can export to excel."
+        },
+        {
+            "id": "i8wc04k",
+            "parent": "t1_i8w9p1a",
+            "ans": "No! Never. I misspoke.",
+            "score": 11,
+            "que": "Wait, do you mean to say that buzz words originated from real, valuable concepts??"
+        },
+        {
+            "id": "i8uz5z3",
+            "parent": "t1_i8umom4",
+            "ans": "\ud83d\ude18 \ud83e\uddb6",
+            "score": 5,
+            "que": "But the backwards or upside down one, for subtext purposes."
+        },
+        {
+            "id": "i8x4sxv",
+            "parent": "t1_i8umom4",
+            "ans": "Oh I love this",
+            "score": 2,
+            "que": "But the backwards or upside down one, for subtext purposes."
+        },
+        {
+            "id": "i8y13it",
+            "parent": "t1_i8y0kdh",
+            "ans": "Yowch. You\u2019ve got a long road ahead of you there.",
+            "score": 1,
+            "que": "Yeah I noticed that the other day. Unfortunately, we don't maintain our goals in SF.\n\nEdit: Also, our org just went to Lightning at the beginning of this year. I don't hold my breath when it comes to being able to use new features."
+        },
+        {
+            "id": "ibnvfk7",
+            "parent": "t1_i8y0kdh",
+            "ans": "Ugh lightning. thoughts and prayers",
+            "score": 1,
+            "que": "Yeah I noticed that the other day. Unfortunately, we don't maintain our goals in SF.\n\nEdit: Also, our org just went to Lightning at the beginning of this year. I don't hold my breath when it comes to being able to use new features."
+        },
+        {
+            "id": "i8v32ce",
+            "parent": "t1_i8uwjqs",
+            "ans": "Hey telling parts of a story in ways that make it a certainty that nobody is paying attention is also storytelling. Manager-approved storytelling.",
+            "score": 11,
+            "que": "For demonstrating chartjunk at an edward tufte ted talk?"
+        },
+        {
+            "id": "i8xyzoc",
+            "parent": "t1_i8uwjqs",
+            "ans": "Bring on the 3D pie chart with flashing font",
+            "score": 5,
+            "que": "For demonstrating chartjunk at an edward tufte ted talk?"
+        },
+        {
+            "id": "je8ly1t",
+            "parent": "t1_i8xej6u",
+            "ans": "Wait until they use your PowerBI data source to build the exact same thing in Excel and ask you to refresh the Excel everyday",
+            "score": 3,
+            "que": "This, so much \ud83d\ude02 \n\n\"Can I export it to Excel\" is the go to question. At least they're using it somehow"
+        },
+        {
+            "id": "ibozltf",
+            "parent": "t1_i8xej6u",
+            "ans": "\"Can I export it to Excel\" to then add extra data that won't be added to the CRM?",
+            "score": 2,
+            "que": "This, so much \ud83d\ude02 \n\n\"Can I export it to Excel\" is the go to question. At least they're using it somehow"
+        },
+        {
+            "id": "je8txsz",
+            "parent": "t1_je8ly1t",
+            "ans": "Please don't give me nightmares \ud83d\ude02",
+            "score": 1,
+            "que": "Wait until they use your PowerBI data source to build the exact same thing in Excel and ask you to refresh the Excel everyday"
+        }
+    ]
+}

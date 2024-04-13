@@ -1,0 +1,218 @@
+{
+    "title": "Add it to the training set, Walmart",
+    "id": "ylfpqx",
+    "create_at": 1667511110.0,
+    "score": 1701,
+    "comments": [
+        {
+            "id": "iuyowi8",
+            "parent": "t1_iuy9qom",
+            "ans": "Amazon on the other hand will blatantly offer you products with twice the price",
+            "score": 90,
+            "que": "All kidding aside, I guess this reveals that a key part of their substitution recommendations includes preserving total amount spent."
+        },
+        {
+            "id": "iuycygv",
+            "parent": "t1_iuy9qom",
+            "ans": "Probably includes image information as well.",
+            "score": 96,
+            "que": "All kidding aside, I guess this reveals that a key part of their substitution recommendations includes preserving total amount spent."
+        },
+        {
+            "id": "iv0745y",
+            "parent": "t1_iuy9qom",
+            "ans": "That's so weird. Here in the UK if they make a substitution, they'll sell it at the same price if it costs more. If it costs less they'll charge you the lower amount.",
+            "score": 15,
+            "que": "All kidding aside, I guess this reveals that a key part of their substitution recommendations includes preserving total amount spent."
+        },
+        {
+            "id": "iv03bhe",
+            "parent": "t1_iuy9qom",
+            "ans": "https://corporate.walmart.com/newsroom/2021/06/24/headline-how-walmart-is-using-a-i-to-make-smarter-substitutions-in-online-grocery-orders\n\nThey claimed to have a 95% substitute acceptance rate.\n\n\nhttps://www.quora.com/What-has-been-your-experience-with-substitutions-using-the-Walmart-grocery-pick-up-service/answer/Corrie-Samaniego-1?ch=15&oid=366638861&share=c8cc88a4&srid=uj8bH&target_type=answer\n\nSome Walmart employee commented about the system.\n\nhttps://www-yahoo-com.cdn.ampproject.org/v/s/www.yahoo.com/amphtml/lifestyle/walmart-changing-important-substitution-policy-163349967.html?amp_gsa=1&amp_js_v=a9&usqp=mq331AQKKAFQArABIIACAw%3D%3D#amp_ct=1667551706972&amp_tf=From%20%251%24s&aoh=16675516999907&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.yahoo.com%2Flifestyle%2Fwalmart-changing-important-substitution-policy-163349967.html\n\nApparently customers can save their substitute preferences now. I don't use it so I am not sure how easy it is to trick the system to make a recommendation like this.",
+            "score": 10,
+            "que": "All kidding aside, I guess this reveals that a key part of their substitution recommendations includes preserving total amount spent."
+        },
+        {
+            "id": "iv0uhfz",
+            "parent": "t1_iuy9qom",
+            "ans": "Hey good catch! I saw this yesterday and that never registered.",
+            "score": 1,
+            "que": "All kidding aside, I guess this reveals that a key part of their substitution recommendations includes preserving total amount spent."
+        },
+        {
+            "id": "iuyfg0l",
+            "parent": "t1_iuyd91r",
+            "ans": "Even though this is an error, it\u2019s really cool. It might imply that they are using models that have text features and image features.  Or it might be a pure coincidence and the recommendation was actually just price driven.",
+            "score": 67,
+            "que": "Tampax Pearl > Pearl Onions > Mushrooms ???\n\nthis is hilarious lol"
+        },
+        {
+            "id": "iuzd6gj",
+            "parent": "t1_iuyd91r",
+            "ans": "[deleted]",
+            "score": 8,
+            "que": "Tampax Pearl > Pearl Onions > Mushrooms ???\n\nthis is hilarious lol"
+        },
+        {
+            "id": "iv020zi",
+            "parent": "t1_iuykbfc",
+            "ans": "Don\u2019t judge a model by one screenshot",
+            "score": 20,
+            "que": "price parity too heavily weighted in the model"
+        },
+        {
+            "id": "iv1e2lw",
+            "parent": "t1_iuyjhjd",
+            "ans": "Lol marshmallows would be a better substitute than mushrooms",
+            "score": 3,
+            "que": "What a failure\u2026.\n\nIt was clearly marshmallows."
+        },
+        {
+            "id": "iuyzdjw",
+            "parent": "t1_iuyknnq",
+            "ans": "One day, Roko\u2019s basilisk will read your comment, and will be displeased. /s",
+            "score": 16,
+            "que": "Adding to my list of things to show people when they\u2019re concerned about AI overlords/etc lol"
+        },
+        {
+            "id": "iv1jcey",
+            "parent": "t1_iuz4uk4",
+            "ans": "\ud83d\ude02",
+            "score": 1,
+            "que": "Looks like someone trained on the \"price\" column on accident lmao"
+        },
+        {
+            "id": "iv0aj32",
+            "parent": "t1_iuzydxn",
+            "ans": "In my opinion, it's just as likely that they actually use data analytics and product categories here. For example, it could very well be that the product code for these mushrooms got misplaced into the wrong category. That happens all the time with the numerous product introductions & changes. \n\nEveryone is just jumping to a ML for the memes, but we have absolutely too little information to assume anything about the underlyign system.",
+            "score": 6,
+            "que": "Why wouldn't they just use product categories and pick the one with the closest price? Coming from a background in data analytics without too much experience in ML, ML does not seem like the best solution here"
+        },
+        {
+            "id": "iuz7ign",
+            "parent": "t1_iuyowi8",
+            "ans": "I'm just curious if Amazon will still recommend me brake pads for my car one week after I buy a set of brake pads for my car :/",
+            "score": 72,
+            "que": "Amazon on the other hand will blatantly offer you products with twice the price"
+        },
+        {
+            "id": "iuz4d4f",
+            "parent": "t1_iuyowi8",
+            "ans": "Upsell \ud83d\ude09",
+            "score": 6,
+            "que": "Amazon on the other hand will blatantly offer you products with twice the price"
+        },
+        {
+            "id": "iv0zwp8",
+            "parent": "t1_iuyowi8",
+            "ans": "Perhaps it\u2019s a genius technique to make the original product seem more attractive.",
+            "score": 1,
+            "que": "Amazon on the other hand will blatantly offer you products with twice the price"
+        },
+        {
+            "id": "iv0nq3e",
+            "parent": "t1_iv0745y",
+            "ans": "That's what Tesco does but Sainsbury's and Morrison have a different policy",
+            "score": 3,
+            "que": "That's so weird. Here in the UK if they make a substitution, they'll sell it at the same price if it costs more. If it costs less they'll charge you the lower amount."
+        },
+        {
+            "id": "iv0r8c0",
+            "parent": "t1_iv0745y",
+            "ans": "That's true here too, at Walmart.",
+            "score": 2,
+            "que": "That's so weird. Here in the UK if they make a substitution, they'll sell it at the same price if it costs more. If it costs less they'll charge you the lower amount."
+        },
+        {
+            "id": "iv1603v",
+            "parent": "t1_iv0745y",
+            "ans": "Kroger has done that here in the US as well, helps keep customers coming back and usually costs you very little",
+            "score": 2,
+            "que": "That's so weird. Here in the UK if they make a substitution, they'll sell it at the same price if it costs more. If it costs less they'll charge you the lower amount."
+        },
+        {
+            "id": "iv1kc28",
+            "parent": "t1_iv0745y",
+            "ans": "Exactly. So this is perfectly optimized.",
+            "score": 1,
+            "que": "That's so weird. Here in the UK if they make a substitution, they'll sell it at the same price if it costs more. If it costs less they'll charge you the lower amount."
+        },
+        {
+            "id": "iv2v4ia",
+            "parent": "t1_iuzd6gj",
+            "ans": "Interesting! Care to elaborate?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "iv0c6hj",
+            "parent": "t1_iv020zi",
+            "ans": "TOO LATE.",
+            "score": 22,
+            "que": "Don\u2019t judge a model by one screenshot"
+        },
+        {
+            "id": "iv1hrck",
+            "parent": "t1_iv1e2lw",
+            "ans": "I suppose a yeast infection would be easier to treat than a fungal one\u2026",
+            "score": 3,
+            "que": "Lol marshmallows would be a better substitute than mushrooms"
+        },
+        {
+            "id": "iuzlrm5",
+            "parent": "t1_iuz7ign",
+            "ans": "Yes",
+            "score": 23,
+            "que": "I'm just curious if Amazon will still recommend me brake pads for my car one week after I buy a set of brake pads for my car :/"
+        },
+        {
+            "id": "iv11k5r",
+            "parent": "t1_iuz7ign",
+            "ans": "It's just in case you break pads.",
+            "score": 16,
+            "que": "I'm just curious if Amazon will still recommend me brake pads for my car one week after I buy a set of brake pads for my car :/"
+        },
+        {
+            "id": "iv1n44v",
+            "parent": "t1_iuz7ign",
+            "ans": "Sure. They just assume that you just started building a collection.",
+            "score": 6,
+            "que": "I'm just curious if Amazon will still recommend me brake pads for my car one week after I buy a set of brake pads for my car :/"
+        },
+        {
+            "id": "iv0y757",
+            "parent": "t1_iv0r8c0",
+            "ans": "Not any longer: https://www.google.com/amp/s/www.winsightgrocerybusiness.com/amp/walmart/walmart-will-now-charge-order-substitutions",
+            "score": 3,
+            "que": "That's true here too, at Walmart."
+        },
+        {
+            "id": "iv0d2fy",
+            "parent": "t1_iv0c6hj",
+            "ans": "XD",
+            "score": 2,
+            "que": "TOO LATE."
+        },
+        {
+            "id": "iv1kgmr",
+            "parent": "t1_iv1hrck",
+            "ans": "Yeasts are single cell fungi!",
+            "score": 5,
+            "que": "I suppose a yeast infection would be easier to treat than a fungal one\u2026"
+        },
+        {
+            "id": "iv11w52",
+            "parent": "t1_iv0y757",
+            "ans": "That makes sense. Sometimes I would get some crazy deals that way.",
+            "score": 3,
+            "que": "Not any longer: https://www.google.com/amp/s/www.winsightgrocerybusiness.com/amp/walmart/walmart-will-now-charge-order-substitutions"
+        },
+        {
+            "id": "iv1z3ht",
+            "parent": "t1_iv1kgmr",
+            "ans": "Damn i couldn\u2019t remember if yeast were also fungi \ud83d\ude02!",
+            "score": 2,
+            "que": "Yeasts are single cell fungi!"
+        }
+    ]
+}

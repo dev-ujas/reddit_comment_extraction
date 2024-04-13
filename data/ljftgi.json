@@ -1,0 +1,295 @@
+{
+    "title": "I created a four-page Data Science Cheatsheet to assist with exam reviews, interview prep, and anything in-between",
+    "id": "ljftgi",
+    "create_at": 1613271603.0,
+    "score": 2776,
+    "comments": [
+        {
+            "id": "gncuo23",
+            "parent": "t1_gnctk5s",
+            "ans": "Wow, that's a great reference - thanks for sharing!",
+            "score": 20,
+            "que": "Nice work! Maybe consider adding another page with most used libraries, which are bound to appear in exams and interviews. That way the prospective data scientist can go and look for them to investigate further. Also if you think you are missing something important, I like [this website](https://blog.datasciencedojo.com/machine-learning-algorithms/) a lot."
+        },
+        {
+            "id": "gngv9yt",
+            "parent": "t1_gnctk5s",
+            "ans": ">this website\n\ngus\\_morales ... thankssss soooo much for this",
+            "score": 5,
+            "que": "Nice work! Maybe consider adding another page with most used libraries, which are bound to appear in exams and interviews. That way the prospective data scientist can go and look for them to investigate further. Also if you think you are missing something important, I like [this website](https://blog.datasciencedojo.com/machine-learning-algorithms/) a lot."
+        },
+        {
+            "id": "hxwfh72",
+            "parent": "t1_gnctk5s",
+            "ans": "I am interested in pursuing career in Data Science. but I have zero experience with data. Although I graduated as Mathematics Major I don't remember any fundamentals of Probabilities or Algebra or anything I also don't know any coding language. So I see myself in a challenging path if I choose to go on it. My problem is I am much of a hands-on kind of person who would learn faster if I get to use what I am studying. So how do I go about it? Can you provide any guidance on that?",
+            "score": 3,
+            "que": "Nice work! Maybe consider adding another page with most used libraries, which are bound to appear in exams and interviews. That way the prospective data scientist can go and look for them to investigate further. Also if you think you are missing something important, I like [this website](https://blog.datasciencedojo.com/machine-learning-algorithms/) a lot."
+        },
+        {
+            "id": "gnd0qzy",
+            "parent": "t1_gncwj3i",
+            "ans": "Happy to help!",
+            "score": 6,
+            "que": "Doing the Lord\u2019s work out here. Thank you so much! \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb"
+        },
+        {
+            "id": "gncejuk",
+            "parent": "t1_gncec62",
+            "ans": "Glad you found it helpful!",
+            "score": 14,
+            "que": "This is incredibly useful. Cheers mate."
+        },
+        {
+            "id": "gncyzao",
+            "parent": "t1_gncyi7r",
+            "ans": "Awesome to hear feedback like this :) Glad you found it helpful!",
+            "score": 3,
+            "que": "Oh man, I have a test coming up in data analytics and this is SO concise and well put together. Thanks a million for sharing!"
+        },
+        {
+            "id": "gncyjfg",
+            "parent": "t1_gncyi7r",
+            "ans": "You're welcome.",
+            "score": 0,
+            "que": "Oh man, I have a test coming up in data analytics and this is SO concise and well put together. Thanks a million for sharing!"
+        },
+        {
+            "id": "gnchiwf",
+            "parent": "t1_gncgkj7",
+            "ans": "Glad you like it!",
+            "score": 3,
+            "que": "Super cool! Thanks!"
+        },
+        {
+            "id": "gncglix",
+            "parent": "t1_gncgkj7",
+            "ans": "You're welcome.",
+            "score": 2,
+            "que": "Super cool! Thanks!"
+        },
+        {
+            "id": "gncsmxq",
+            "parent": "t1_gncrri5",
+            "ans": "No problem, happy to help!",
+            "score": 2,
+            "que": "Gonna have to echo everyone else\u2019s sentiment \u2014 this is pretty awesome, I appreciate you sharing!"
+        },
+        {
+            "id": "gncjc3f",
+            "parent": "t1_gnchgf7",
+            "ans": "Yep!",
+            "score": 1,
+            "que": "Thank you!"
+        },
+        {
+            "id": "gncsnp8",
+            "parent": "t1_gncscc9",
+            "ans": "Awesome to hear!",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "gndjw3u",
+            "parent": "t1_gnctdbu",
+            "ans": "Try out overleaf! It's easy to get templates etc and try them all out.\n\nLatex has a short, steep learning curve and after that you won't regret knowing it.",
+            "score": 5,
+            "que": "Nicely done!\n\nI wish latex was easy to use. Always wanted to make good looking notes that wasn't handwritten."
+        },
+        {
+            "id": "gncui8t",
+            "parent": "t1_gnctdbu",
+            "ans": "Yeah, this was my first LaTeX project, but it was actually easier to learn that I thought. I'd recommend giving it a try - the basics can be learned in under an hour and the results are really great!",
+            "score": 5,
+            "que": "Nicely done!\n\nI wish latex was easy to use. Always wanted to make good looking notes that wasn't handwritten."
+        },
+        {
+            "id": "gnchhcd",
+            "parent": "t1_gncgefm",
+            "ans": "Thanks! I purposely strayed away from specific interview questions/coding cases, as these vary for each company. The existing resources online also probably do a lot better job covering technical questions than I could lol",
+            "score": 8,
+            "que": "Can you post some real coding question asked in data science during interview? By the way, your notes/cheatsheet are really good."
+        },
+        {
+            "id": "gndrg3q",
+            "parent": "t1_gndks4t",
+            "ans": "KS is nonparametric, meaning you cannot apply population inference unlike a t- or z-test. If you don't care about generalization then nonparametric tests might be a good choice. But in a lot of applications, especially in science, generalization is useful. If your data is nonnormal you should rather think about why that is and first see if you can still use a t-test rather than immediately using nonparametric alternatives.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "gncm7fy",
+            "parent": "t1_gncm1sa",
+            "ans": "Awesome, happy you found it helpful!",
+            "score": 1,
+            "que": "This is a huge help!\nThank you so much!"
+        },
+        {
+            "id": "gncprey",
+            "parent": "t1_gncovc3",
+            "ans": "No problem, glad you found it helpful",
+            "score": 1,
+            "que": "Woah! This is awesome! Thanks so much!"
+        },
+        {
+            "id": "gndb2ba",
+            "parent": "t1_gndb14t",
+            "ans": "You're welcome.",
+            "score": 1,
+            "que": "Superb, thanks you"
+        },
+        {
+            "id": "gnezw3i",
+            "parent": "t1_gndkpbf",
+            "ans": "Glad you found it helpful :)",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "gnf0v9d",
+            "parent": "t1_gndlja4",
+            "ans": "Absolutely, I envisioned it to be helpful anytime for a quick review :)",
+            "score": 1,
+            "que": "Oh wow this would have been an absolute lifesaver if I was still in university.... Nonetheless looks like it could still be incredibly useful at times for a quick refresher. Thanks a bunch!!!"
+        },
+        {
+            "id": "gnf0ogo",
+            "parent": "t1_gndodse",
+            "ans": "No problem, glad you found it helpful!",
+            "score": 1,
+            "que": "You are an angel doing God's work. THANK U"
+        },
+        {
+            "id": "gndtk4q",
+            "parent": "t1_gndtjh6",
+            "ans": "You're welcome.",
+            "score": 1,
+            "que": "This is incredible helpful. Thanks for your sharing pro"
+        },
+        {
+            "id": "gnfhpxd",
+            "parent": "t1_gnfhno9",
+            "ans": "You're welcome.",
+            "score": 1,
+            "que": "Awesome references! Thanks for sharing."
+        },
+        {
+            "id": "gnfk5mq",
+            "parent": "t1_gnfjjqp",
+            "ans": "This was created in LaTeX through Overleaf. Def recommend taking a look into the language, as its pretty easy to learn and leads to nice results!",
+            "score": 1,
+            "que": "This is great, thank you so much!  Btw how do you create something like this? Microsoft word?"
+        },
+        {
+            "id": "gngpjqj",
+            "parent": "t1_gngpdgt",
+            "ans": "That's awesome to hear - lots of really cool stuff to learn in the DS/ML space, have fun!",
+            "score": 1,
+            "que": "I just started to learn and found this treasure. Thank u, hope it helps me a lot."
+        },
+        {
+            "id": "gnh9kyv",
+            "parent": "t1_gnh9k7i",
+            "ans": "You're welcome.",
+            "score": 1,
+            "que": "thanks man!"
+        },
+        {
+            "id": "go0dbo0",
+            "parent": "t1_gnz7071",
+            "ans": "Thank you!",
+            "score": 1,
+            "que": "This is pure gold !"
+        },
+        {
+            "id": "go8cldu",
+            "parent": "t1_go7ngb4",
+            "ans": "Glad you found it helpful!",
+            "score": 1,
+            "que": "Wow, Great post with some great comments. Thank you"
+        },
+        {
+            "id": "h2jea1f",
+            "parent": "t1_h2jbeis",
+            "ans": "Try hands on projects, I did a few during past summers and learned a lot!",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hom1jir",
+            "parent": "t1_hom1gyj",
+            "ans": "I will be messaging you in 1 year on [**2022-12-15 05:44:42 UTC**](http://www.wolframalpha.com/input/?i=2022-12-15%2005:44:42%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/hom1gyj/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fdatascience%2Fcomments%2Fljftgi%2Fi_created_a_fourpage_data_science_cheatsheet_to%2Fhom1gyj%2F%5D%0A%0ARemindMe%21%202022-12-15%2005%3A44%3A42%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20ljftgi)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+            "score": 1,
+            "que": "RemindMe! 1 year"
+        },
+        {
+            "id": "gngvar2",
+            "parent": "t1_gngv9yt",
+            "ans": "You're welcome.",
+            "score": 0,
+            "que": ">this website\n\ngus\\_morales ... thankssss soooo much for this"
+        },
+        {
+            "id": "hxwfrhi",
+            "parent": "t1_gncyzao",
+            "ans": "I am interested in pursuing career in Data Science. but I have zero experience with data. Although I graduated as Mathematics Major I don't remember any fundamentals of Probabilities or Algebra or anything I also don't know any coding language. So I see myself in a challenging path if I choose to go on it. My problem is I am much of a hands-on kind of person who would learn faster if I get to use what I am studying. So how do I go about it? Can you provide any guidance on that?",
+            "score": 2,
+            "que": "Awesome to hear feedback like this :) Glad you found it helpful!"
+        },
+        {
+            "id": "gndgukk",
+            "parent": "t1_gncui8t",
+            "ans": "I understood some basic syntax but I found using any packages to be hard.",
+            "score": 1,
+            "que": "Yeah, this was my first LaTeX project, but it was actually easier to learn that I thought. I'd recommend giving it a try - the basics can be learned in under an hour and the results are really great!"
+        },
+        {
+            "id": "gncoln5",
+            "parent": "t1_gnchhcd",
+            "ans": "This could also get you in trouble with the companies in question/get you blacklisted.",
+            "score": 3,
+            "que": "Thanks! I purposely strayed away from specific interview questions/coding cases, as these vary for each company. The existing resources online also probably do a lot better job covering technical questions than I could lol"
+        },
+        {
+            "id": "gndmpma",
+            "parent": "t1_gnchhcd",
+            "ans": "Oh sorry, I didn't know about that.",
+            "score": 2,
+            "que": "Thanks! I purposely strayed away from specific interview questions/coding cases, as these vary for each company. The existing resources online also probably do a lot better job covering technical questions than I could lol"
+        },
+        {
+            "id": "gncnyzc",
+            "parent": "t1_gnchhcd",
+            "ans": "I agree, there's no need to add such stuff in a cheat sheet.",
+            "score": 1,
+            "que": "Thanks! I purposely strayed away from specific interview questions/coding cases, as these vary for each company. The existing resources online also probably do a lot better job covering technical questions than I could lol"
+        },
+        {
+            "id": "gnfmpv3",
+            "parent": "t1_gnfk5mq",
+            "ans": "Oh nice!  Yea I used latex back in college for several math classes, but was a long time ago and prob would need to re-learn it lol.  Overleaf looks like a big upgrade from whatever software we used.  Thanks for the tip!",
+            "score": 1,
+            "que": "This was created in LaTeX through Overleaf. Def recommend taking a look into the language, as its pretty easy to learn and leads to nice results!"
+        },
+        {
+            "id": "igsq3za",
+            "parent": "t1_hxwfrhi",
+            "ans": "You're already on the right path, given you're a math guy and a hands-on person. As far as guidance or resources, for paid one coursera is a pretty good platform to get started, or joining a ds bootcamp, but if you are like me who don't like paying for stuff online, freecodecamp and YouTube are perfect.",
+            "score": 1,
+            "que": "I am interested in pursuing career in Data Science. but I have zero experience with data. Although I graduated as Mathematics Major I don't remember any fundamentals of Probabilities or Algebra or anything I also don't know any coding language. So I see myself in a challenging path if I choose to go on it. My problem is I am much of a hands-on kind of person who would learn faster if I get to use what I am studying. So how do I go about it? Can you provide any guidance on that?"
+        },
+        {
+            "id": "ih7k1z3",
+            "parent": "t1_hxwfrhi",
+            "ans": "Read hands on machine learning, and grokking machine learning. \n\n&#x200B;\n\nEnroll in a data science boot camp, or take coursera specializations.",
+            "score": 1,
+            "que": "I am interested in pursuing career in Data Science. but I have zero experience with data. Although I graduated as Mathematics Major I don't remember any fundamentals of Probabilities or Algebra or anything I also don't know any coding language. So I see myself in a challenging path if I choose to go on it. My problem is I am much of a hands-on kind of person who would learn faster if I get to use what I am studying. So how do I go about it? Can you provide any guidance on that?"
+        },
+        {
+            "id": "gne07qy",
+            "parent": "t1_gndgukk",
+            "ans": "Go for Markdown with Pandoc and export to LaTeX in case doing things in LaTeX seem too hard / time consuming.",
+            "score": 1,
+            "que": "I understood some basic syntax but I found using any packages to be hard."
+        }
+    ]
+}

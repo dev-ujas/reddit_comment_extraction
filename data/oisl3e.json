@@ -1,0 +1,708 @@
+{
+    "title": "how about that data integrity yo",
+    "id": "oisl3e",
+    "create_at": 1626100778.0,
+    "score": 3325,
+    "comments": [
+        {
+            "id": "h4yvmvs",
+            "parent": "t1_h4xgosf",
+            "ans": "*for you",
+            "score": -141,
+            "que": "If you find a good data engineer, you do everything in your power as a data scientist to keep them working with you. Lol"
+        },
+        {
+            "id": "h4y2nro",
+            "parent": "t1_h4y1s4p",
+            "ans": "Data Scientists perform analysis, and design applications for the data, Data Engineers build pipelines, data warehouses, etc and are more concerned with managing and optimizing the flow of the data",
+            "score": 184,
+            "que": "What are some examples of differences between the two roles? (sorry for a beginner question)"
+        },
+        {
+            "id": "h4y2kyo",
+            "parent": "t1_h4y1s4p",
+            "ans": "Data engineer controls how the data gets collected, organised, transformed and stored but they don't necessarily analyse it or derive any insight from it.",
+            "score": 21,
+            "que": "What are some examples of differences between the two roles? (sorry for a beginner question)"
+        },
+        {
+            "id": "h4y5gwl",
+            "parent": "t1_h4xh1se",
+            "ans": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer.",
+            "score": 89,
+            "que": "It's the other way around. Data scientists kneeling down waiting for data engineers to give them clean data because you're screwed otherwise."
+        },
+        {
+            "id": "h4y9cyj",
+            "parent": "t1_h4xyon0",
+            "ans": "Yeah, this graphic is pretty presumptuous. Hmmm, I wonder if it\u2019s creator is a DS or a DE\u2026",
+            "score": 20,
+            "que": "The meme should be reversed imo. I have an over abundence of data scientist and not enough engineers"
+        },
+        {
+            "id": "h4ygp27",
+            "parent": "t1_h4xyon0",
+            "ans": "Totally. Also, it's not just the cleaning, but the infrastructure necessary to store and  move data around. I mean, SQL/pandas querying is not that big of a deal (it might be in some cases, of course), but setting up and maintaining clusters with data running smoothly is a different level of expertise.",
+            "score": 6,
+            "que": "The meme should be reversed imo. I have an over abundence of data scientist and not enough engineers"
+        },
+        {
+            "id": "h5527r3",
+            "parent": "t1_h4xyon0",
+            "ans": "I got rid of data scientists altogether. Data engineers and ML engineers only. All of them can do end-to-end stuff so don't need to bother each other for small things.",
+            "score": 2,
+            "que": "The meme should be reversed imo. I have an over abundence of data scientist and not enough engineers"
+        },
+        {
+            "id": "h4yzp56",
+            "parent": "t1_h4xyon0",
+            "ans": "If that were true, data engineers would be paid more than data scientists.",
+            "score": 2,
+            "que": "The meme should be reversed imo. I have an over abundence of data scientist and not enough engineers"
+        },
+        {
+            "id": "h4z8alt",
+            "parent": "t1_h4yf4fp",
+            "ans": "Me too exactly",
+            "score": 2,
+            "que": "I mean as a data scientist in the clinical world most of what I do is data cleaning/normalization mapping etc. probably 5% of my time is spent on model development...."
+        },
+        {
+            "id": "h4yg0z0",
+            "parent": "t1_h4y9mmt",
+            "ans": "Exactly, a data scientist doesn't wait for a data engineer to start working. A data engineer doesn't care about what the data scientist needs on his on his/her plate. If someone is working in a company where 'data scientist' can only work if 'data engineer', provides him/her data.\n\nThen:\n\n1. You company doesn't have a real data scientist. \n\n2. Your company thinks the data scientists job is to produce something magical from the data.\n\n3. Your company doesn't know what data engineering is.",
+            "score": 24,
+            "que": "If you're relying on the engineer to tee up a perfect data set for you, im a little curious what you actually *do* as a data scientist. Sounds like the DE is about one random forest away from taking your job as well."
+        },
+        {
+            "id": "h4yc13f",
+            "parent": "t1_h4y9mmt",
+            "ans": "I dont think the divison is so crazy though. There are a lot of companies with quite a insane amount of possibilities to gather data. Im not surprised you want an extra set of developers to do the actual \"yak shaving\" to get the data to the decision makers or analysts could be a good idea. For smaller groups do I kinda agree.",
+            "score": 8,
+            "que": "If you're relying on the engineer to tee up a perfect data set for you, im a little curious what you actually *do* as a data scientist. Sounds like the DE is about one random forest away from taking your job as well."
+        },
+        {
+            "id": "h4zlkjz",
+            "parent": "t1_h4y9mmt",
+            "ans": "Data Science is much more than just throwing an algorithm at data and hoping it works. You really need to study the math and functions that go into all the various algorithms if you want to be effective at prediction, be able to statistically dissect the data, and be able to meet all the business requirements without the business knowing what those requirements are.",
+            "score": 2,
+            "que": "If you're relying on the engineer to tee up a perfect data set for you, im a little curious what you actually *do* as a data scientist. Sounds like the DE is about one random forest away from taking your job as well."
+        },
+        {
+            "id": "h4z5dcr",
+            "parent": "t1_h4yl4fv",
+            "ans": "Came here to say this",
+            "score": 4,
+            "que": "Data governance would like a word"
+        },
+        {
+            "id": "h4zuz7v",
+            "parent": "t1_h4yl4fv",
+            "ans": "LOL I\u2019ve NEVER actually seen an organization that has pulled off data governance. Lots of sound and fury, signifying nothing. Every source system has their own reasons for doing things they\u2019re own way, which changing would cripple their workflow, and no one has the ability or power to change it. You need perfect governance from the beginning, backed in and strictly enforced, or it doesn\u2019t happen.\n\nAnd if you actually do\u2026 I want to work there. \ud83d\ude01",
+            "score": 2,
+            "que": "Data governance would like a word"
+        },
+        {
+            "id": "h4zewa2",
+            "parent": "t1_h4yop13",
+            "ans": "I wouldn't worry about the prospects of either, they are both lucrative roles and will continue to be so.\n\nYou should try to see which role is more interesting to you though.",
+            "score": 9,
+            "que": "Hi , I will joining a software firm as a data engineer ( I am fresher , hence I am assigned to this team I have no background in data engineering only a CS degree )\nSo please let me know about the future in data engineering , should I start working towards being a data scientist ( given how lucrative and competitive it is ) ? Rarely I have seen posts , guidance on how to become a data engineer but seen loads on how to become data scientist ..."
+        },
+        {
+            "id": "h4znazv",
+            "parent": "t1_h4yop13",
+            "ans": "Imo depend on what is your job desc as data engineer, if that firm doesnt have good solution for data architecture yet then you are good, the engineer with technical understanding of big data architecture is and will be a hot commodity\n\nHowever if your firm already have established big data solution or just surrendering the development into third party, and you just relegated to be a data \"janitor\"/drag and click ops guy then i would suggest to stay around for a while to get the architecture knowledge then move on quickly",
+            "score": 3,
+            "que": "Hi , I will joining a software firm as a data engineer ( I am fresher , hence I am assigned to this team I have no background in data engineering only a CS degree )\nSo please let me know about the future in data engineering , should I start working towards being a data scientist ( given how lucrative and competitive it is ) ? Rarely I have seen posts , guidance on how to become a data engineer but seen loads on how to become data scientist ..."
+        },
+        {
+            "id": "h4yvqsd",
+            "parent": "t1_h4yvmvs",
+            "ans": "No, \"with you\".",
+            "score": 152,
+            "que": "*for you"
+        },
+        {
+            "id": "h4ym1oe",
+            "parent": "t1_h4y2nro",
+            "ans": "What about the differences between Data Scientists and Machine Learning Engineers?",
+            "score": 49,
+            "que": "Data Scientists perform analysis, and design applications for the data, Data Engineers build pipelines, data warehouses, etc and are more concerned with managing and optimizing the flow of the data"
+        },
+        {
+            "id": "h4z55v3",
+            "parent": "t1_h4y2nro",
+            "ans": "So like a statistician",
+            "score": 1,
+            "que": "Data Scientists perform analysis, and design applications for the data, Data Engineers build pipelines, data warehouses, etc and are more concerned with managing and optimizing the flow of the data"
+        },
+        {
+            "id": "h50flgb",
+            "parent": "t1_h4y2nro",
+            "ans": "[deleted]",
+            "score": -3,
+            "que": "Data Scientists perform analysis, and design applications for the data, Data Engineers build pipelines, data warehouses, etc and are more concerned with managing and optimizing the flow of the data"
+        },
+        {
+            "id": "h517kh0",
+            "parent": "t1_h4y2nro",
+            "ans": "Are they though?\n\n*Are they...*\n\nBecause *\"I got a lotta problems with you people!!\"*",
+            "score": 1,
+            "que": "Data Scientists perform analysis, and design applications for the data, Data Engineers build pipelines, data warehouses, etc and are more concerned with managing and optimizing the flow of the data"
+        },
+        {
+            "id": "h4ybq4z",
+            "parent": "t1_h4y5gwl",
+            "ans": "I think it depends a lot on the role really. I mean some data scientists end up in roles more similar to data analysts using pre-built software and do quite routine work on the engineer provided material anyways.",
+            "score": 29,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h4znvic",
+            "parent": "t1_h4y5gwl",
+            "ans": "There's a big difference between cleaning data and building a reliable ETL in a production setting. If you have a live model that is core to your product running each day, you are going to need that ETL to consistently spit out data in the format your model expects. It's a full time job to focus on that shit and that is where a data engineer comes in.",
+            "score": 22,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h4yf8tq",
+            "parent": "t1_h4y5gwl",
+            "ans": "[deleted]",
+            "score": 24,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h4y97pp",
+            "parent": "t1_h4y5gwl",
+            "ans": "This. \"Just give me the table names, I'll do it myself.\"",
+            "score": 8,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h4zc74r",
+            "parent": "t1_h4y5gwl",
+            "ans": "It's a slightly different skillet when you're streaming 50 million records per minute",
+            "score": 9,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h501ato",
+            "parent": "t1_h4y5gwl",
+            "ans": "I think a lot of DS kind of deal with the same shit that sales reps deal with in regards to marketing. \n\n\"Why would we need marketing? We have a sales team!\"\n\n\"Why would we need a DE? We have a DS\"\n\nThat's what happens when society lets these boomers fail upwards.",
+            "score": 3,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h515jbw",
+            "parent": "t1_h4y5gwl",
+            "ans": "After close to 10 years in data science and data analytics I started running into junior people that are ready to quit if they have to deal with data cleaning. As if the world lied to them that their work will be all about making models and pretty visualizations.",
+            "score": 3,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h53k8il",
+            "parent": "t1_h4y5gwl",
+            "ans": "Alternatively, having data engineers allow your high-salaried data scientists focus on their most valuable work, rather than cleaning data.",
+            "score": 2,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h50mcde",
+            "parent": "t1_h4y5gwl",
+            "ans": "Data scientists generally only clean data that already exists. That's a very useful skill. A data engineer can often hook in new data sources. Hence being able to hand you clean data to a larger degree than just cleaning dirty existing data.\n\nRare is the person who can do both DS and DE robustly.",
+            "score": 1,
+            "que": "I think most Data Scientists learned to clean data by themselves rather than waiting to be saved by a Data Engineer."
+        },
+        {
+            "id": "h4ybqbi",
+            "parent": "t1_h4y9cyj",
+            "ans": "For every hour of DS work we do we probably put in 2 hours of UX design, 10 hours of database development/upkeep, and an infinite amount of end user training it seems. DS is only as good as the people entering your data and only god knows how they interpret fields for data entry.",
+            "score": 19,
+            "que": "Yeah, this graphic is pretty presumptuous. Hmmm, I wonder if it\u2019s creator is a DS or a DE\u2026"
+        },
+        {
+            "id": "h4yhpgp",
+            "parent": "t1_h4ygp27",
+            "ans": "Can't forget security either! Once a organization moves over to digital storage you incur orders of magnitude more responsibility for data security. \n\nThe easier  it is for you to do work with the data the easier it is for someone to steal it.\n\n Ain't no one got manpower to steal  physical  files or dig though an unorganized share drive. But a small or medium sized company transitioning  to a digital infastrctire that's a black hats jack pot. \n\nI'm not versed in the arcane arts of data security but I know that I have to pay a crap tone of money to people who are haha.",
+            "score": 6,
+            "que": "Totally. Also, it's not just the cleaning, but the infrastructure necessary to store and  move data around. I mean, SQL/pandas querying is not that big of a deal (it might be in some cases, of course), but setting up and maintaining clusters with data running smoothly is a different level of expertise."
+        },
+        {
+            "id": "h4zefwf",
+            "parent": "t1_h4yzp56",
+            "ans": "That gap is quickly narrowing tbh because businesses are starting to understand the value in investing in a robust data infrastructure BEFORE getting data scientists.\n\nI recently got hired as a data engineer (with minimal experience in it, my experience is mostly in BI) and, good god, interviews were falling from the sky.",
+            "score": 9,
+            "que": "If that were true, data engineers would be paid more than data scientists."
+        },
+        {
+            "id": "h4z3emi",
+            "parent": "t1_h4yzp56",
+            "ans": "Because you generally need fewer of them. But I would not mistake specialization with importance. I may be much more specialized in my ability to write contracts and policy using data to inform them but I am no more important than a direct service caseworker. \n\nIn fact I would argue that specalization  is subservient to front line workers in all fields. Without them I'm useless and can provide no value the inverse is not true.  This same relation holds true for DS/DE. Without DE and SME  support DS has nothing to run models on and thus cannot provide any value. Whereas DE without DS usually does descriptive stats maybe some basic inferential stats and gaurentess record keeping.",
+            "score": 3,
+            "que": "If that were true, data engineers would be paid more than data scientists."
+        },
+        {
+            "id": "h4z7tql",
+            "parent": "t1_h4yc13f",
+            "ans": "We have it set up so there's Prod Data, our Data Warehouse, and then our Sandpit. If it's a reusable dataset or a straight dump from Prod then Data Engineers will set it up all normalised and tidy; if you're just dicking around with data for analysis then it's on the DS.\n\n\nThat's before you get outside of our little kingdom into the wider business where there's processes and so on which make it effectively impossible to access anything without at least a budget in the millions.",
+            "score": 3,
+            "que": "I dont think the divison is so crazy though. There are a lot of companies with quite a insane amount of possibilities to gather data. Im not surprised you want an extra set of developers to do the actual \"yak shaving\" to get the data to the decision makers or analysts could be a good idea. For smaller groups do I kinda agree."
+        },
+        {
+            "id": "h4zo8n3",
+            "parent": "t1_h4zlkjz",
+            "ans": "I know what goes into data science....I still stand by the fact that the ability to wrangle, munge, transform, and make use of shitty data is the most valuable and time consuming part of the job. Predictive modeling/ML - although fun - is such a small and relatively easy part of the job (even when you do dive below the surface).",
+            "score": 7,
+            "que": "Data Science is much more than just throwing an algorithm at data and hoping it works. You really need to study the math and functions that go into all the various algorithms if you want to be effective at prediction, be able to statistically dissect the data, and be able to meet all the business requirements without the business knowing what those requirements are."
+        },
+        {
+            "id": "h4zb8dp",
+            "parent": "t1_h4z5dcr",
+            "ans": "So I'll say something contentious. As someone who has worked as a data engineer, a bi dev, a data management consultant, as both a data and a solution architect, and a data quality specialist - good data quality cannot be achieved through technological solutions. By this I mean that you cannot programmatically clean data to solve DQ issues. This is because it treats the symptom and not the underlying root cause. All DQ issues are a result of non-adherence to processes, by either people or systems. For example - people may be dishonest to improve their stats, or may make errors unintentionally such as typos, or systems may be setup to have text fields holding dates, etc etc. Unless the root cause is identified and resolved, you are merely treating a symptom rather than curing the disease. \n\nI'll happily take the argument that you might need both, especially due to budgetary constraints or pragmatism. But - engagement with a business about the quality of their data, and increasing their maturity rather than giving them plasters, will ultimately enable data science and analytics far further in the long run. It will further ensure informed decisions are made, thus achieving business goals. \n\nPlease, data scientists. You know how shit business people are with this. Show them how to be better instead of patching their mistakes",
+            "score": 18,
+            "que": "Came here to say this"
+        },
+        {
+            "id": "h517mhy",
+            "parent": "t1_h4zuz7v",
+            "ans": "It all boils down to BoD support (or even better if it's BoD mandated). If there's no radical rethinking of data as a resource to be governed, managed, protected, etc., AND if it's not included in the updated business model, it will likely fail. \n\nIt's because data feels so abstract and up-in-the-clouds that it's easy for senior execs and top managers to think of it as an optional objective rather than a core deliverable.",
+            "score": 1,
+            "que": "LOL I\u2019ve NEVER actually seen an organization that has pulled off data governance. Lots of sound and fury, signifying nothing. Every source system has their own reasons for doing things they\u2019re own way, which changing would cripple their workflow, and no one has the ability or power to change it. You need perfect governance from the beginning, backed in and strictly enforced, or it doesn\u2019t happen.\n\nAnd if you actually do\u2026 I want to work there. \ud83d\ude01"
+        },
+        {
+            "id": "h4yyss3",
+            "parent": "t1_h4yvqsd",
+            "ans": "At this point I'm pretty sure I work for my data engineers.",
+            "score": 84,
+            "que": "No, \"with you\"."
+        },
+        {
+            "id": "h4z9sjm",
+            "parent": "t1_h4yvqsd",
+            "ans": "That\u2019s all well and good to say, but unless you\u2019re paying them equally and giving them equal precedence in priority setting, they probably don\u2019t feel it.",
+            "score": 14,
+            "que": "No, \"with you\"."
+        },
+        {
+            "id": "h4zids9",
+            "parent": "t1_h4yvqsd",
+            "ans": "\" ' for you' \"",
+            "score": -14,
+            "que": "No, \"with you\"."
+        },
+        {
+            "id": "h4ymvj8",
+            "parent": "t1_h4ym1oe",
+            "ans": "Splitting hairs at that point",
+            "score": 111,
+            "que": "What about the differences between Data Scientists and Machine Learning Engineers?"
+        },
+        {
+            "id": "h52uaj9",
+            "parent": "t1_h4ym1oe",
+            "ans": "{MLE} \u2282 ({DS} \u22c2 {SWE})",
+            "score": 11,
+            "que": "What about the differences between Data Scientists and Machine Learning Engineers?"
+        },
+        {
+            "id": "j76uby4",
+            "parent": "t1_h4ym1oe",
+            "ans": "Data scientists will tend to focus more on answering some business question and can offer a model to automate that. They also understand statistical rigor (eg - does the data support the intended insight /conclusion).\n\nMLEs are more like DEs specialized on operationalizing an automated classification model or some other variant of model output. It\u2019s a niche but growing area. It requires understanding basics of how ML models work but knowing a lot of the tricks on how to scale that DEs tend to be experts on.\n\nIn other words, a data scientist can build a model that works but putting that model in production and making it able to run at scale is what an MLE does.  MLEs are the kind of people that can write you an essay on why graphics cards became popular in cloud based ML.",
+            "score": 1,
+            "que": "What about the differences between Data Scientists and Machine Learning Engineers?"
+        },
+        {
+            "id": "h4zjbid",
+            "parent": "t1_h4z55v3",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "So like a statistician"
+        },
+        {
+            "id": "h50ax8k",
+            "parent": "t1_h4znvic",
+            "ans": "Sure, I don't doubt that Data Engineer is a valuable role. In fact, I strongly believe that a company (unless their core product is ML) should first hire a data engineer before hiring a data scientist. All I am saying is that usually, you have some kind of a hybrid setup. Data Science builds a model with pipelines that do the cleaning themselves (either as an experiment or as a PoC) and then you have a Data Engineer rebuild that in a more sturdy manner. In a lot of cases, I've experienced Data Scientists with Data Engineering skills.",
+            "score": 6,
+            "que": "There's a big difference between cleaning data and building a reliable ETL in a production setting. If you have a live model that is core to your product running each day, you are going to need that ETL to consistently spit out data in the format your model expects. It's a full time job to focus on that shit and that is where a data engineer comes in."
+        },
+        {
+            "id": "h4ylo5q",
+            "parent": "t1_h4yf8tq",
+            "ans": "As a data engineer, this hurts to read",
+            "score": 26,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h50mhdp",
+            "parent": "t1_h4yf8tq",
+            "ans": "And it's difficult to reuse that cleaning if it's part of a project specific pipeline. So you'll have to implement the same cleaning again in the next project.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h4zmv3f",
+            "parent": "t1_h4zc74r",
+            "ans": "This!",
+            "score": 3,
+            "que": "It's a slightly different skillet when you're streaming 50 million records per minute"
+        },
+        {
+            "id": "h50aoez",
+            "parent": "t1_h4zc74r",
+            "ans": "It definitely is, but I wouldn't describe that as the Data Scientist waiting for a clean dataset to be handed to them. The data is either streamed somewhere where the DS person accesses it (also not sure you'd do a lot of cleaning in the streaming setup) or Data Science algos are also run during the streaming phase (i.e. via lambdas) which again is not the waiting setup.\n\nAt the same time, there are more companies that have Data Scientists as compared to the number of companies that stream 50 million records per minute (and even less that need to process all 50 million records at once).",
+            "score": 1,
+            "que": "It's a slightly different skillet when you're streaming 50 million records per minute"
+        },
+        {
+            "id": "h50qxrk",
+            "parent": "t1_h501ato",
+            "ans": "It's true, I also think it's because most companies simply suck at managing Data Science",
+            "score": 1,
+            "que": "I think a lot of DS kind of deal with the same shit that sales reps deal with in regards to marketing. \n\n\"Why would we need marketing? We have a sales team!\"\n\n\"Why would we need a DE? We have a DS\"\n\nThat's what happens when society lets these boomers fail upwards."
+        },
+        {
+            "id": "h50qw69",
+            "parent": "t1_h50mcde",
+            "ans": "I don't disagree with the importance of a Data Engineer. But for most organizations where ML isn't the main product (and for most B2C companies), you can get a lot of data from companies such as Fivetran that push relatively clean data provided by a lot of the APIs available (paid marketing data, Shopify, ...)  for a price lower than the salary of a Data Engineer. Surely there are somewhere you need more sophisticated pipelines and in most cases, I would first hire a Data Engineer before a Data Scientist.",
+            "score": 1,
+            "que": "Data scientists generally only clean data that already exists. That's a very useful skill. A data engineer can often hook in new data sources. Hence being able to hand you clean data to a larger degree than just cleaning dirty existing data.\n\nRare is the person who can do both DS and DE robustly."
+        },
+        {
+            "id": "h4ycriy",
+            "parent": "t1_h4ybqbi",
+            "ans": "> DS is only as good as ... your data\n\nYyyyyyup.\n\nSounds as if you are some kind of DS manager? If yes, do you know what a typical DS makes on your team versus a typical DE, or a typical *[insert other engineering role from your team]*? Seems like everybody and their grandmother wants to be a DS, while there is actually a greater demand for *E. I'm not sure which would translate into higher earnings, hype versus demand/value add.",
+            "score": 7,
+            "que": "For every hour of DS work we do we probably put in 2 hours of UX design, 10 hours of database development/upkeep, and an infinite amount of end user training it seems. DS is only as good as the people entering your data and only god knows how they interpret fields for data entry."
+        },
+        {
+            "id": "h4zqv2s",
+            "parent": "t1_h4zefwf",
+            "ans": "Interesting. I have a job as a \"data scientist\" but spend 80-90% of my time doing data engineering work because frustratingly the data engineers we have do not have the domain specific knowledge to do it.",
+            "score": 3,
+            "que": "That gap is quickly narrowing tbh because businesses are starting to understand the value in investing in a robust data infrastructure BEFORE getting data scientists.\n\nI recently got hired as a data engineer (with minimal experience in it, my experience is mostly in BI) and, good god, interviews were falling from the sky."
+        },
+        {
+            "id": "h508q34",
+            "parent": "t1_h4z7tql",
+            "ans": "Thank you for the insight :) I work at two companies atm. One is more research based and have datasets for each project really, the other is an enterprise struggling to create proper pipelines to dashboards with info from their systems.",
+            "score": 2,
+            "que": "We have it set up so there's Prod Data, our Data Warehouse, and then our Sandpit. If it's a reusable dataset or a straight dump from Prod then Data Engineers will set it up all normalised and tidy; if you're just dicking around with data for analysis then it's on the DS.\n\n\nThat's before you get outside of our little kingdom into the wider business where there's processes and so on which make it effectively impossible to access anything without at least a budget in the millions."
+        },
+        {
+            "id": "h51n6il",
+            "parent": "t1_h4zo8n3",
+            "ans": "Could you elaborate a little more on what you mean by the ML part of DS being \"easy\"? I've just recently developed an interest into this field and I always figured that be the hard part haha",
+            "score": 2,
+            "que": "I know what goes into data science....I still stand by the fact that the ability to wrangle, munge, transform, and make use of shitty data is the most valuable and time consuming part of the job. Predictive modeling/ML - although fun - is such a small and relatively easy part of the job (even when you do dive below the surface)."
+        },
+        {
+            "id": "h4zsl3s",
+            "parent": "t1_h4zo8n3",
+            "ans": "I agree, but you also have to study a lot more theoretical work and continuously learn new techniques, both for ML or analysis. A data scientist usually has all the skills you mentioned for data cleansing, but career data engineers in my experience rarely want to spend that much time studying and expanding their skillset, but that said, you need both to be done so its better to focus on specialization. Whenever I meet a data engineer wanting to become a data scientist, I always start with recommending reading Introduction or Elements to Statistical Learning, and I don't think I've ever known one to actually go through either of those texts.",
+            "score": 1,
+            "que": "I know what goes into data science....I still stand by the fact that the ability to wrangle, munge, transform, and make use of shitty data is the most valuable and time consuming part of the job. Predictive modeling/ML - although fun - is such a small and relatively easy part of the job (even when you do dive below the surface)."
+        },
+        {
+            "id": "h4zpi6f",
+            "parent": "t1_h4zb8dp",
+            "ans": "This is one of the apropos comments I've seen on this sub - and I've been around for a hot second.  \n\n> good data quality cannot be achieved through technological solutions. \n\nExactly. \n\n> All DQ issues are a result of non-adherence to processes, by either people or systems.\n\nSay it louder for the people in the back. \n\nAlthough I find DG/DQ work incredibly dry - its such a critical, and oft overlooked, piece in an organization. \n\nEg. My team is currently working on a project where sensors were mapped to a unique ID. When they replaced the sensor/asset they just mapped the new one to the same ID. We cant delineate when one sensor was in place vs another, and it fucks our whole analysis. Prime example of a complete breakdown in data lineage and quality issues.\n\nEdit: Fuck it - been on reddit almost a decade and this will be the first award I've ever given.",
+            "score": 5,
+            "que": "So I'll say something contentious. As someone who has worked as a data engineer, a bi dev, a data management consultant, as both a data and a solution architect, and a data quality specialist - good data quality cannot be achieved through technological solutions. By this I mean that you cannot programmatically clean data to solve DQ issues. This is because it treats the symptom and not the underlying root cause. All DQ issues are a result of non-adherence to processes, by either people or systems. For example - people may be dishonest to improve their stats, or may make errors unintentionally such as typos, or systems may be setup to have text fields holding dates, etc etc. Unless the root cause is identified and resolved, you are merely treating a symptom rather than curing the disease. \n\nI'll happily take the argument that you might need both, especially due to budgetary constraints or pragmatism. But - engagement with a business about the quality of their data, and increasing their maturity rather than giving them plasters, will ultimately enable data science and analytics far further in the long run. It will further ensure informed decisions are made, thus achieving business goals. \n\nPlease, data scientists. You know how shit business people are with this. Show them how to be better instead of patching their mistakes"
+        },
+        {
+            "id": "h4zjlnp",
+            "parent": "t1_h4z9sjm",
+            "ans": "Why wouldn't you? I wouldn't be part of a team lacking those things",
+            "score": 22,
+            "que": "That\u2019s all well and good to say, but unless you\u2019re paying them equally and giving them equal precedence in priority setting, they probably don\u2019t feel it."
+        },
+        {
+            "id": "h4zbg7t",
+            "parent": "t1_h4z9sjm",
+            "ans": "I work alongside these people. I don't treat them as lesser or as my puppet. We work hand in hand.",
+            "score": 19,
+            "que": "That\u2019s all well and good to say, but unless you\u2019re paying them equally and giving them equal precedence in priority setting, they probably don\u2019t feel it."
+        },
+        {
+            "id": "h4z5v0f",
+            "parent": "t1_h4ymvj8",
+            "ans": "Do you work mostly in notebooks? Call that science. Do you work mostly in actual software? Call that engineering.\n\n\nWill your job title ever reflect your role or what you do in a day to day basis or have any consistency between organisations? No.",
+            "score": 84,
+            "que": "Splitting hairs at that point"
+        },
+        {
+            "id": "h4yrbfw",
+            "parent": "t1_h4ymvj8",
+            "ans": "Respectfully disagree. Probably any Google search will explain it.\n\nEdit: since it's easier to downvote than to type a few words in Google: https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/",
+            "score": -12,
+            "que": "Splitting hairs at that point"
+        },
+        {
+            "id": "ha96ywo",
+            "parent": "t1_h52uaj9",
+            "ans": "This.\n\nStatistician who can software engineer.",
+            "score": 4,
+            "que": "{MLE} \u2282 ({DS} \u22c2 {SWE})"
+        },
+        {
+            "id": "hkkfp2c",
+            "parent": "t1_h52uaj9",
+            "ans": "I like it so much! \ud83d\ude00",
+            "score": 1,
+            "que": "{MLE} \u2282 ({DS} \u22c2 {SWE})"
+        },
+        {
+            "id": "j76uuf7",
+            "parent": "t1_h52uaj9",
+            "ans": "s/SWE/DE/ - I know a lot of SWEs that would absolutely wreck a production ML pipeline if they tried to put hands on it. They aren\u2019t bad engineers either.",
+            "score": 1,
+            "que": "{MLE} \u2282 ({DS} \u22c2 {SWE})"
+        },
+        {
+            "id": "h4zw983",
+            "parent": "t1_h4zjbid",
+            "ans": "I would say that both are statistician roles - probably moreso the data scientist than the analyst, since the scientist needs to know the statistics associated with making forecasts, confidence intervals, etc.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h51bs7r",
+            "parent": "t1_h4zjbid",
+            "ans": "You do realize that at the university level statisticians don't just do simple t-tests eh? Statisticians have consulted on both unsupervised and supervised learning and all models within them, even more so on average than data scientists. Most data scientists I know do not understand complex psychometrics or even epidemiological modelling. All I hear is \"more data\" and \"CNNs\" or \"SVM\" when in reality they bring a bazooka to a knife fight",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ha97o2o",
+            "parent": "t1_h50ax8k",
+            "ans": "Ultimately what you have is statisticians and software engineers.\n\nThe statisticians will have to work with the software engineers, probably under direction, to build their cleaning pipelines and create a model deployment environment.\n\n\nAnd yes, both sides of the coin have to listen and learn from the other and build a good workflow.\n\nGenerally speaking good data scientists will pick up the software engineering skillset if they apply themselves.  If you write code every day you learn by osmosis.",
+            "score": 1,
+            "que": "Sure, I don't doubt that Data Engineer is a valuable role. In fact, I strongly believe that a company (unless their core product is ML) should first hire a data engineer before hiring a data scientist. All I am saying is that usually, you have some kind of a hybrid setup. Data Science builds a model with pipelines that do the cleaning themselves (either as an experiment or as a PoC) and then you have a Data Engineer rebuild that in a more sturdy manner. In a lot of cases, I've experienced Data Scientists with Data Engineering skills."
+        },
+        {
+            "id": "h51u90k",
+            "parent": "t1_h50aoez",
+            "ans": "\"The data is either streamed somewhere where the DS person accesses it...\"\n\nI like how you just glossed right over that minor detail haha",
+            "score": 4,
+            "que": "It definitely is, but I wouldn't describe that as the Data Scientist waiting for a clean dataset to be handed to them. The data is either streamed somewhere where the DS person accesses it (also not sure you'd do a lot of cleaning in the streaming setup) or Data Science algos are also run during the streaming phase (i.e. via lambdas) which again is not the waiting setup.\n\nAt the same time, there are more companies that have Data Scientists as compared to the number of companies that stream 50 million records per minute (and even less that need to process all 50 million records at once)."
+        },
+        {
+            "id": "h4ydtk8",
+            "parent": "t1_h4ycriy",
+            "ans": "Yah I run a public policy unit. I mostly hire full stack web engineers to manage our database. I work in government so our pay rates are lower than private sector but by brother runs a similar team in private sector. They start full stack engineers @120k. \n\nI try to avoid DS who come out of acidemia or only want to do analytics work. 50% of our job is interfacing with end users to opperationalize their work into data,40% is database dev and 10% is DS.  work. IMO the majority of work in the field is for good. Business analyst and software engineers.\n\nThis may not be the case at a place like Amazon who have established data structures but in my experience the vast majority of comapines/governments are way behind the eightball when it comes to having digital data. I just transitioned my org from physical hand written case files 5yeara ago when I was on boarded. \n\nA good DS will make 20%more money than a DE because you need far fewer. DS work is far more scaler than DE. A single DS can evaluate data streams from 4 or 5 programs in my work where as each program would have 2 Business Analyst and one full stack web engineer. DS pays more but we just don't need as many so the chances of getting the gig are low. And I have the choice of applicants when looking for DS so the odds are not good for most candidates.",
+            "score": 4,
+            "que": "> DS is only as good as ... your data\n\nYyyyyyup.\n\nSounds as if you are some kind of DS manager? If yes, do you know what a typical DS makes on your team versus a typical DE, or a typical *[insert other engineering role from your team]*? Seems like everybody and their grandmother wants to be a DS, while there is actually a greater demand for *E. I'm not sure which would translate into higher earnings, hype versus demand/value add."
+        },
+        {
+            "id": "h4zujwu",
+            "parent": "t1_h4zqv2s",
+            "ans": "You have lousy data engineers, then. Give me a data model and a list of your requirements and I\u2019ll have anything you need, any way you want, however often you need it. Domain knowledge is only necessary for data discovery, not data engineering\u2026 and if you don\u2019t have a data model, and are willing to work with me in an agile manner, I\u2019ll STILL get you what you need.",
+            "score": 3,
+            "que": "Interesting. I have a job as a \"data scientist\" but spend 80-90% of my time doing data engineering work because frustratingly the data engineers we have do not have the domain specific knowledge to do it."
+        },
+        {
+            "id": "h50u1bq",
+            "parent": "t1_h4zqv2s",
+            "ans": "That probably means you're missing an intermediate step of data analysts or analytics engineers.\n\nThe way the industry seems to be headed is that data engineers shouldn't really be domain specific and constantly working on pipelines but rather building the analytics/ML platform for data analysts/analytics engineers to shape the data how they see fit and the data scientists to run their experiments (thru tools like dbt).",
+            "score": 3,
+            "que": "Interesting. I have a job as a \"data scientist\" but spend 80-90% of my time doing data engineering work because frustratingly the data engineers we have do not have the domain specific knowledge to do it."
+        },
+        {
+            "id": "h51vkg4",
+            "parent": "t1_h51n6il",
+            "ans": "Sure - In reality, the barrier to entry for the 'ML part' is high. You really have to spend a lot of time learning statistics, calc, linear alg, etc... to truly understand the concepts behind the models you're applying (as /u/TheRealDJ points out). \n\nThat being said - once you have this understanding, and you know whats required to properly choose/fit/interpret a model, you'll find its really the 'easy' part of the process.*\n\nIn some cases, if you're using a simpler ML model (linear regression, decision trees, etc..) you can realistically fit and tune the model in a few hours. Something that requires more training time and is more complex may take a few days. That pales in comparison to the time it takes to - define the business problem, define the analytical problem, wrangle the data, work with SMEs to understand the data, interpret outputs of your algorithm, figure out how to deliver those insights to the business. \n\nUsually I tell my 'green' data scientists that you'll spend 30% of your time framing up the problem, 30% collecting and cleaning data, 10% modeling, 30% figuring out how to use the model outputs IRL. (numbers made up but you get the picture). \n\n\n*This applies when you are 'in industry' making productionalized models, doesn't really apply for some of the more research oriented roles that you may find.",
+            "score": 3,
+            "que": "Could you elaborate a little more on what you mean by the ML part of DS being \"easy\"? I've just recently developed an interest into this field and I always figured that be the hard part haha"
+        },
+        {
+            "id": "h552oed",
+            "parent": "t1_h51n6il",
+            "ans": "You can try ALL the algorithms, ALL the hyperparameters, ALL the options. There is no reason why you wouldn't just spin up some AWS instances and run the models and just look and interpret the results later.\n\nFor example where I work it's really the case of doing the plumbing so it fits into the ML platform and it's drag & drop from there. ML engineers add more SOTA ML stuff as new papers come out and data engineers add more features to the feature store.\n\nWe don't even have any data scientists anymore because they're not necessary. We have PowerBI analysts that cost half as much and are actually domain experts work with ML engineers and data engineers to solve problems.",
+            "score": 2,
+            "que": "Could you elaborate a little more on what you mean by the ML part of DS being \"easy\"? I've just recently developed an interest into this field and I always figured that be the hard part haha"
+        },
+        {
+            "id": "h5km296",
+            "parent": "t1_h4zpi6f",
+            "ans": "Thanks very much for the award my friend. The single most important thing any business can do to improve data quality is to engage with the business. You're entirely right - it's thankless work, it's a slog, and as you stated it must happen.\n\nThe best way I've seen to achieve any real change, regardless of business maturity, is via a data issues log. If you can use unbiased root cause analysis, and determine the cost benefit of fixing the issues in order to help rank them by criticality, you can gain exec buy in to make real change",
+            "score": 1,
+            "que": "This is one of the apropos comments I've seen on this sub - and I've been around for a hot second.  \n\n> good data quality cannot be achieved through technological solutions. \n\nExactly. \n\n> All DQ issues are a result of non-adherence to processes, by either people or systems.\n\nSay it louder for the people in the back. \n\nAlthough I find DG/DQ work incredibly dry - its such a critical, and oft overlooked, piece in an organization. \n\nEg. My team is currently working on a project where sensors were mapped to a unique ID. When they replaced the sensor/asset they just mapped the new one to the same ID. We cant delineate when one sensor was in place vs another, and it fucks our whole analysis. Prime example of a complete breakdown in data lineage and quality issues.\n\nEdit: Fuck it - been on reddit almost a decade and this will be the first award I've ever given."
+        },
+        {
+            "id": "h50v2wg",
+            "parent": "t1_h4zjlnp",
+            "ans": "In reality, where everyone else lives, data scientists make  more and are higher in the hierarchy.\n\nI'm not saying that it's warrented (it might be, in some places, and not in others), but that's the situation.",
+            "score": 2,
+            "que": "Why wouldn't you? I wouldn't be part of a team lacking those things"
+        },
+        {
+            "id": "h4zc9zx",
+            "parent": "t1_h4zbg7t",
+            "ans": "Are you paid equally?",
+            "score": 4,
+            "que": "I work alongside these people. I don't treat them as lesser or as my puppet. We work hand in hand."
+        },
+        {
+            "id": "h50h6ds",
+            "parent": "t1_h4z5v0f",
+            "ans": "Good answer. It's definitely not splitting hairs but it stays just a title.",
+            "score": 5,
+            "que": "Do you work mostly in notebooks? Call that science. Do you work mostly in actual software? Call that engineering.\n\n\nWill your job title ever reflect your role or what you do in a day to day basis or have any consistency between organisations? No."
+        },
+        {
+            "id": "h50lahp",
+            "parent": "t1_h4z5v0f",
+            "ans": "I don't think anyone actually uses notebooks for production DS work.",
+            "score": -5,
+            "que": "Do you work mostly in notebooks? Call that science. Do you work mostly in actual software? Call that engineering.\n\n\nWill your job title ever reflect your role or what you do in a day to day basis or have any consistency between organisations? No."
+        },
+        {
+            "id": "h4z4i7b",
+            "parent": "t1_h4yrbfw",
+            "ans": "They downvoted you to hell for this lol. Wow",
+            "score": 13,
+            "que": "Respectfully disagree. Probably any Google search will explain it.\n\nEdit: since it's easier to downvote than to type a few words in Google: https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/"
+        },
+        {
+            "id": "h4z5eoj",
+            "parent": "t1_h4yrbfw",
+            "ans": "In practice, on actual job listings, these titles will be interchangeable 90+% of the time.",
+            "score": 9,
+            "que": "Respectfully disagree. Probably any Google search will explain it.\n\nEdit: since it's easier to downvote than to type a few words in Google: https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/"
+        },
+        {
+            "id": "h4zim12",
+            "parent": "t1_h4yrbfw",
+            "ans": "Ok, can you explain it here then?",
+            "score": 0,
+            "que": "Respectfully disagree. Probably any Google search will explain it.\n\nEdit: since it's easier to downvote than to type a few words in Google: https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/"
+        },
+        {
+            "id": "h5179iw",
+            "parent": "t1_h4zw983",
+            "ans": "No, for predictions, a data scientist will just say \"no intervals, black box model\" /s",
+            "score": 2,
+            "que": "I would say that both are statistician roles - probably moreso the data scientist than the analyst, since the scientist needs to know the statistics associated with making forecasts, confidence intervals, etc."
+        },
+        {
+            "id": "h52kwe2",
+            "parent": "t1_h51u90k",
+            "ans": "I will go back to my original statement where I said most Data Scientists learned to clean data themselves. That is in line with the streaming data use case since (at least in my experience) streamed data can be pretty messy.\n\n&#x200B;\n\nI'd also expect a company to first hire the Data Engineer to build the system that streams that amount of records (or have an older system in place) before hiring a Data Scientist. So a. if a DS person is to wait for the dataset the company made wrong hiring choices b. a DS person probably still needs to clean the data.\n\nAdditionally, I've also been in companies (that didn't have the streaming use case), where DS build some data pipelines before engineering did. They weren't great and needed to be redone later, but at the same time allowed the company to deliver value to clients for the time being.",
+            "score": 0,
+            "que": "\"The data is either streamed somewhere where the DS person accesses it...\"\n\nI like how you just glossed right over that minor detail haha"
+        },
+        {
+            "id": "h4yetoj",
+            "parent": "t1_h4ydtk8",
+            "ans": "Interesting, thanks for the candid response.\n\n> This may not be the case at a place like Amazon who have established data structures but in my experience the vast majority of comapines/governments are way behind the eightball when it comes to having digital data\n\nThis is an excellent and massively consequential point: The scalability/maturity of pipelines and other *already-existing* digital infrastructure at an organization might be the single biggest determinant of the distribution of work available for DS ~~and~~ vs. engineering teams.\n\nSame goes for machine learning, which is my field. Everybody *thinks* they want a piece of it, but if an organization is not already set up to collect and store data at scale, asking what ML can do for your business is textbook cart-before-horse thinking.",
+            "score": 6,
+            "que": "Yah I run a public policy unit. I mostly hire full stack web engineers to manage our database. I work in government so our pay rates are lower than private sector but by brother runs a similar team in private sector. They start full stack engineers @120k. \n\nI try to avoid DS who come out of acidemia or only want to do analytics work. 50% of our job is interfacing with end users to opperationalize their work into data,40% is database dev and 10% is DS.  work. IMO the majority of work in the field is for good. Business analyst and software engineers.\n\nThis may not be the case at a place like Amazon who have established data structures but in my experience the vast majority of comapines/governments are way behind the eightball when it comes to having digital data. I just transitioned my org from physical hand written case files 5yeara ago when I was on boarded. \n\nA good DS will make 20%more money than a DE because you need far fewer. DS work is far more scaler than DE. A single DS can evaluate data streams from 4 or 5 programs in my work where as each program would have 2 Business Analyst and one full stack web engineer. DS pays more but we just don't need as many so the chances of getting the gig are low. And I have the choice of applicants when looking for DS so the odds are not good for most candidates."
+        },
+        {
+            "id": "h4zfytm",
+            "parent": "t1_h4zc9zx",
+            "ans": "As far as I'm aware, yes.",
+            "score": 20,
+            "que": "Are you paid equally?"
+        },
+        {
+            "id": "h50nhq7",
+            "parent": "t1_h50lahp",
+            "ans": "As in deploying notebooks into production where they'll be used like a microservice? \n\nOh yeah baby, it happens 100% even if it's not a great pattern. In my experience it's more of an internal tooling thing though, and not going out to customers or as a commercial assets.\n\n\nBut yeah, 'production DS' is what I'd call ML Engineering - where the analysis has been done and now we need the model to scale up to our entire customer base without taking 400 hours and breaking the bank to run every day.  Design the model in a notebook and then integrate it in fully engineered components with unit tests, code control, integration tests, and all that good stuff that keeps the Risk & Governance team from becoming apoplectic.",
+            "score": 10,
+            "que": "I don't think anyone actually uses notebooks for production DS work."
+        },
+        {
+            "id": "h4zimvo",
+            "parent": "t1_h4z4i7b",
+            "ans": "Savage!",
+            "score": 5,
+            "que": "They downvoted you to hell for this lol. Wow"
+        },
+        {
+            "id": "h50gmu8",
+            "parent": "t1_h4z4i7b",
+            "ans": "Idk if it's casuals being too lazy to look it up, or experienced people thinking there's no difference. The latter would worry me.",
+            "score": 3,
+            "que": "They downvoted you to hell for this lol. Wow"
+        },
+        {
+            "id": "h4zatio",
+            "parent": "t1_h4z5eoj",
+            "ans": "No, I don't believe that is the case...",
+            "score": 7,
+            "que": "In practice, on actual job listings, these titles will be interchangeable 90+% of the time."
+        },
+        {
+            "id": "h50gxex",
+            "parent": "t1_h4zim12",
+            "ans": "https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/",
+            "score": 1,
+            "que": "Ok, can you explain it here then?"
+        },
+        {
+            "id": "h4zh72z",
+            "parent": "t1_h4zfytm",
+            "ans": "Cool, that\u2019s a good start then! Sadly very rare from what I\u2019ve seen in my own experience.",
+            "score": 0,
+            "que": "As far as I'm aware, yes."
+        },
+        {
+            "id": "h50oisf",
+            "parent": "t1_h50nhq7",
+            "ans": "There are no notebooks because\n\n1. it encourages bad coding\n2. there are overheads\n3. the data does not fit entirely into working memory, it needs to feed iteratively in batches and written into storage. Every iteration requires freeing up memory. \n\nIf it's expensive to run code that should be use-case enough to run it on-prem.",
+            "score": -4,
+            "que": "As in deploying notebooks into production where they'll be used like a microservice? \n\nOh yeah baby, it happens 100% even if it's not a great pattern. In my experience it's more of an internal tooling thing though, and not going out to customers or as a commercial assets.\n\n\nBut yeah, 'production DS' is what I'd call ML Engineering - where the analysis has been done and now we need the model to scale up to our entire customer base without taking 400 hours and breaking the bank to run every day.  Design the model in a notebook and then integrate it in fully engineered components with unit tests, code control, integration tests, and all that good stuff that keeps the Risk & Governance team from becoming apoplectic."
+        },
+        {
+            "id": "h51sp0c",
+            "parent": "t1_h4zatio",
+            "ans": "Searching Machine Learning Engineer on LinkedIn pulls up mostly results for Data Scientist / Data Engineer roles, in my opinion it\u2019s not a commonly used job title, and job titles are far from standardized in this industry, which is why I said it\u2019s splitting hairs.",
+            "score": 3,
+            "que": "No, I don't believe that is the case..."
+        },
+        {
+            "id": "h4ziqbe",
+            "parent": "t1_h4zatio",
+            "ans": "Ok, then can you please explain the differences?",
+            "score": 2,
+            "que": "No, I don't believe that is the case..."
+        },
+        {
+            "id": "h50wvfn",
+            "parent": "t1_h50oisf",
+            "ans": "High-end companies usually use notebooks.",
+            "score": 8,
+            "que": "There are no notebooks because\n\n1. it encourages bad coding\n2. there are overheads\n3. the data does not fit entirely into working memory, it needs to feed iteratively in batches and written into storage. Every iteration requires freeing up memory. \n\nIf it's expensive to run code that should be use-case enough to run it on-prem."
+        },
+        {
+            "id": "h4zmfhs",
+            "parent": "t1_h4ziqbe",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "Ok, then can you please explain the differences?"
+        },
+        {
+            "id": "h518z5f",
+            "parent": "t1_h4ziqbe",
+            "ans": "A DS doesnt need a solid programming base",
+            "score": 1,
+            "que": "Ok, then can you please explain the differences?"
+        },
+        {
+            "id": "h5002vr",
+            "parent": "t1_h4zmfhs",
+            "ans": "I think the followup question was the difference between Data Scientist vs Machine Learning Engineer.",
+            "score": 8,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h50q0pk",
+            "parent": "t1_h5002vr",
+            "ans": "Yup, anyone have thoughts on that?",
+            "score": 1,
+            "que": "I think the followup question was the difference between Data Scientist vs Machine Learning Engineer."
+        }
+    ]
+}

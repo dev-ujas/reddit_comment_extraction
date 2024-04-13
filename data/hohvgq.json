@@ -1,0 +1,1240 @@
+{
+    "title": "Shout Out to All the Mediocre Data Scientists Out There",
+    "id": "hohvgq",
+    "create_at": 1594352731.0,
+    "score": 3624,
+    "comments": [
+        {
+            "id": "fxin314",
+            "parent": "t1_fxhygbi",
+            "ans": "It's even better, when considering quality of life as main metric.\n\nEDIT: lol, thanks, kind goldgiver.",
+            "score": 477,
+            "que": "Preach. It's okay for your job to just be a job."
+        },
+        {
+            "id": "fxi0wlt",
+            "parent": "t1_fxhzm0l",
+            "ans": "Are you me?",
+            "score": 77,
+            "que": "Lmao yes. I work at a decent Fortune 500 company but only have a bachelors and I\u2019m sure as shit not publishing any papers or contributing to any research. I don\u2019t even have a personal GitHub. Just trying to nominally contribute to the bottom line and earn a decent paycheck while doing so."
+        },
+        {
+            "id": "fxj0wot",
+            "parent": "t1_fxhzm0l",
+            "ans": "I also work at a Fortune 500 company with loads of amazing talent and I only got my Bachelor's and Master's from a mediocre university (because I suck at entrance exams because I hate them). It might help if you are graduated from a top notch institution, published many papers, have an amazing portfolio on GitHub or you are a Kaggle grandmaster (or whatever that is), but these are not just the only ways to showcase your skills and experience. It might be difficult but definitely not impossible.\n\nBesides, I've seen many companies avoid those hot shot candidates because they sometimes can be extremely demanding and picky due to their background.\n\nedit: a little typo",
+            "score": 19,
+            "que": "Lmao yes. I work at a decent Fortune 500 company but only have a bachelors and I\u2019m sure as shit not publishing any papers or contributing to any research. I don\u2019t even have a personal GitHub. Just trying to nominally contribute to the bottom line and earn a decent paycheck while doing so."
+        },
+        {
+            "id": "fxiz3po",
+            "parent": "t1_fxhzm0l",
+            "ans": "Brother will you guide me.\nPlease.\nPlease.",
+            "score": 10,
+            "que": "Lmao yes. I work at a decent Fortune 500 company but only have a bachelors and I\u2019m sure as shit not publishing any papers or contributing to any research. I don\u2019t even have a personal GitHub. Just trying to nominally contribute to the bottom line and earn a decent paycheck while doing so."
+        },
+        {
+            "id": "g3iedx0",
+            "parent": "t1_fxhzm0l",
+            "ans": "Absolutely nothing wrong with that. in fact this is my goal atm",
+            "score": 1,
+            "que": "Lmao yes. I work at a decent Fortune 500 company but only have a bachelors and I\u2019m sure as shit not publishing any papers or contributing to any research. I don\u2019t even have a personal GitHub. Just trying to nominally contribute to the bottom line and earn a decent paycheck while doing so."
+        },
+        {
+            "id": "fxhxwc0",
+            "parent": "t1_fxhxgli",
+            "ans": "Part of the inspiration for this post was me realizing that I can\u2019t be the only one that feels this way, it\u2019s hard not to compare yourself to others",
+            "score": 88,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxi2909",
+            "parent": "t1_fxhxgli",
+            "ans": "Because it's a unicorn role that encompasses too much for anyone to be amazing at it all, therefore leading to feelings of inadequacy.",
+            "score": 73,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxigo3c",
+            "parent": "t1_fxhxgli",
+            "ans": "Because if some of the ridiculous expectations that are floating about. Some people think that they have to be an expert in data engineering, distributed computing, Dev ops, back-end development, front-end development, teach computer science, cutting edge industry knowledge and have a PhD in statistics to be a good data scientist. I'm happy being mediocre at almost all of that and being decent at 2 of them.",
+            "score": 28,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxi1kbq",
+            "parent": "t1_fxhxgli",
+            "ans": "impostor syndrome is the COVID-19 of overhyped industries.",
+            "score": 28,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxjblnq",
+            "parent": "t1_fxhxgli",
+            "ans": "Well, as a data scientists, we should all know that mean isn't necessarily median. Most data scientists *are* below average.",
+            "score": 13,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxin3lc",
+            "parent": "t1_fxhxgli",
+            "ans": "Impostor syndrome, mostly",
+            "score": 3,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxklwlt",
+            "parent": "t1_fxhxgli",
+            "ans": "I agree with some of the other replies to your comment, but I think there's another factor -- skepticism. Data science attracts skeptical people because the work requires skepticism in results, methods, data, etc...\n\nIntrospectively, I get skeptical of my knowledge gaps in math or programming,  or that I might be missing something important in my final work. It makes it easy to feel before average.",
+            "score": 3,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxjg7c0",
+            "parent": "t1_fxhxgli",
+            "ans": "Positive skew",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxjut6p",
+            "parent": "t1_fxhxgli",
+            "ans": "Lmfao true",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxkz3vx",
+            "parent": "t1_fxhxgli",
+            "ans": "Probably because mastery at the level our peers are able to master their positions (SDE\u2019s) in our field means modeling things that few, if any, people have successfully molded in the past. Plus, most companies don\u2019t actually need that many data scientists, so the bar is high",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxk4u5a",
+            "parent": "t1_fxhxgli",
+            "ans": "The competent people keep to themselves because they don\u2019t want to make the people complaining feel bad.",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxlh6bw",
+            "parent": "t1_fxhxgli",
+            "ans": "I don't know if anyone will read this, but this is a common problem when it comes to skilled jobs, not just data science.\n\nIt comes from not factoring the backstory of each person.  Eg, I've got 11 years of DS experience.  It would be unfair to compare myself to someone who has just received their first job.",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "g4ch58w",
+            "parent": "t1_fxhxgli",
+            "ans": "Because this world has so much to offer that we know in out unconsious state of mind that there are people who know more than us, and we just know.",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxhywjo",
+            "parent": "t1_fxhx4i7",
+            "ans": "Yeah it also doesn\u2019t help how that can kind of dissuade average data scientists from posting due to unjust feelings of inadequacy. Almost like a negative feedback loop",
+            "score": 201,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxhzsw8",
+            "parent": "t1_fxhx4i7",
+            "ans": "Not to spoil the fun, but this person doesn't exist. If they did, you would know about them.\n\nSource: I deal with \\~21 year old undergrad researchers who claim all sorts of BS and can barely import pandas.",
+            "score": 98,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxiq4op",
+            "parent": "t1_fxhx4i7",
+            "ans": "Yup. I\u2019m also part of r/running and the amount of humble bragging over pace and distance is equally eyeroll worthy. I don\u2019t know if it\u2019s bragging or insecurity or what, but it elicits a similar reaction in me.",
+            "score": 9,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxizqjj",
+            "parent": "t1_fxhx4i7",
+            "ans": "Yeah that's one of the aspects I hate about this sub and stopped coming here because it's very elitest.\n\nI don't care for any of it personally there's much more to life then your ego.",
+            "score": 5,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxj3wxp",
+            "parent": "t1_fxhx4i7",
+            "ans": "> e bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had\n\nDon't worry, in real-life most of the stuff these cool AI stuff doesn't really work as advertised.",
+            "score": 2,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxkhqtb",
+            "parent": "t1_fxhx4i7",
+            "ans": "I'm immediately suspicious of anyone who doesn't seem to come off with some level of salt or jadedness. All those humble brags come off as naive children if they don't have a healthy dose of 'spent hours just dealing with this APIs terrible design and documentation'.\n\n&#x200B;\n\nEven then, I'm like 'It had documentation?'",
+            "score": 1,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxj7f8b",
+            "parent": "t1_fxhx4i7",
+            "ans": "It's actually really easy to forget this, but when you surround yourself with brilliance, as I'm sure a 21 year old working with famous researchers has done, it's **very** easy to underestimate yourself. We subconsciously and consciously compare ourselves to our peers and try to mimic their success, if we fail we feel bad.",
+            "score": 0,
+            "que": "THIS. I just read a post about a 21 year old students\u2019 lack of confidence rant in which they were bragging about all the AI work theyve done, famous researchers theyve worked with and internships theyve had. Like, man. A lot of posters are just seeking out compliments to boost their egos."
+        },
+        {
+            "id": "fxhz7hj",
+            "parent": "t1_fxhxdeh",
+            "ans": "How fucking sad must your life be that you have to fish for compliments online? I\u2019ve never understood it.",
+            "score": 31,
+            "que": "You see this everywhere... In hand tool woodworking subreddit, there's always someone saying \"look at my awful first attempt at hand cut dovetails\" (insert photo of absolutely flawless results)"
+        },
+        {
+            "id": "fxjf7n2",
+            "parent": "t1_fxhxdeh",
+            "ans": "/r/baking \"first time baking pie!\"\n\n_super intricate lattice with perfect amount of browning_",
+            "score": 8,
+            "que": "You see this everywhere... In hand tool woodworking subreddit, there's always someone saying \"look at my awful first attempt at hand cut dovetails\" (insert photo of absolutely flawless results)"
+        },
+        {
+            "id": "fxi94ql",
+            "parent": "t1_fxhxdeh",
+            "ans": "This person is probably like me and watches a dozen youtube videos and makes a million measurements before cutting.\n\nIt doesn\u2019t help that people hype them up so much as difficult cuts.",
+            "score": 3,
+            "que": "You see this everywhere... In hand tool woodworking subreddit, there's always someone saying \"look at my awful first attempt at hand cut dovetails\" (insert photo of absolutely flawless results)"
+        },
+        {
+            "id": "ja7rdxl",
+            "parent": "t1_fxhxdeh",
+            "ans": "My favorite posts in r/handtools are the actual obviously first attempts at dovetails. It\u2019s like, \u201cI see you. Welcome.\u201d",
+            "score": 1,
+            "que": "You see this everywhere... In hand tool woodworking subreddit, there's always someone saying \"look at my awful first attempt at hand cut dovetails\" (insert photo of absolutely flawless results)"
+        },
+        {
+            "id": "fxhy6mz",
+            "parent": "t1_fxhxqq3",
+            "ans": "Without us those at the top wouldn\u2019t be so special",
+            "score": 73,
+            "que": "I feel seen"
+        },
+        {
+            "id": "fxi1c6n",
+            "parent": "t1_fxhza0t",
+            "ans": "I'm fresh out of college and people like you are what give me hope. I feel so insecure about what I know, but I guess I'll learn a lot on the job.",
+            "score": 39,
+            "que": "Speaking to my soul, man. I\u2019m in my first data science job. Have no idea what I\u2019m doing, pretty sure I\u2019m mediocre, and i know it\u2019s okay. Because I\u2019m learning and slowly improving. It\u2019ll be alright!"
+        },
+        {
+            "id": "fxi3zai",
+            "parent": "t1_fxhza0t",
+            "ans": "I know that feeling all too well! I'm in my first real internship in a data science role and sometimes I feel like I'm having to look up how to do everything. There isn't really a concrete set of tasks to finish a project, I have to take the next step depending on the outputs of the current step. So there's a certain insecurity in my decisions, but I can feel myself improving. Even thought I'm not working at the speed I wish I was, I know its a process.",
+            "score": 7,
+            "que": "Speaking to my soul, man. I\u2019m in my first data science job. Have no idea what I\u2019m doing, pretty sure I\u2019m mediocre, and i know it\u2019s okay. Because I\u2019m learning and slowly improving. It\u2019ll be alright!"
+        },
+        {
+            "id": "hod1erf",
+            "parent": "t1_fxhza0t",
+            "ans": ">Because I\u2019m learning and slowly improving\n\nSometimes I try to rush into learning new things but then I realise I would learn things slowly and I shouldn't be so hard on myself and should be happy that I am able to do my job well.",
+            "score": 3,
+            "que": "Speaking to my soul, man. I\u2019m in my first data science job. Have no idea what I\u2019m doing, pretty sure I\u2019m mediocre, and i know it\u2019s okay. Because I\u2019m learning and slowly improving. It\u2019ll be alright!"
+        },
+        {
+            "id": "fxivn55",
+            "parent": "t1_fxi1gkj",
+            "ans": "At least we have the best views from up here",
+            "score": 23,
+            "que": "I'm at the very top of that bell curve baby"
+        },
+        {
+            "id": "fxiaxk4",
+            "parent": "t1_fxhzg5r",
+            "ans": "I don't work in DS, but bioinformatics (we like to emulate you guys though). The whole \"look what I did in my spare time!\" thing is insanity. Like I get that I'm in academia, so maybe it's more likely, but shit. After I work 10-12 hours in the lab/office I kind if just want to chill and hang out with family? Why does that have to be bad?\n\nI say this as someone who managed to get a small R package + shiny app written completely on my own time, got burned out, and now have an issue/request I've avoided addressing for like 5 months because the thought of \"working after work\" makes me ill.",
+            "score": 40,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxl6tyi",
+            "parent": "t1_fxhzg5r",
+            "ans": "This. I\u2019ve been actually thinking about changing careers because I feel like I can\u2019t enjoy life since I\u2019m always worried about job prospects",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxiz781",
+            "parent": "t1_fxi0jth",
+            "ans": "How can you get there ?\nI am trying very hard.\nWill you please help me to get there.",
+            "score": -8,
+            "que": "Some of us are mediocre DS at FAANGs too!"
+        },
+        {
+            "id": "fxi19i4",
+            "parent": "t1_fxi042t",
+            "ans": "Dunning-Kruger effect is a bitch, I\u2019m hoping in 10-15 years I\u2019ll feel confident in what I do",
+            "score": 14,
+            "que": "Man, this hits home. I did my MS in Math back when people weren't talking about data science. I didn't have programming chops and I didn't have the stats skills. It took years of teaching myself the stats and programming in my free time and on the job without direction before I was called a Data Scientist. And the more I dig into the field, the more I know I don't know shit."
+        },
+        {
+            "id": "fxiwnxs",
+            "parent": "t1_fxi042t",
+            "ans": "Similar story here. Since data science wasn\u2019t a thing and at the time I didn\u2019t love neural networks and what you could do with them at the time, I drifted into software a very long time. I don\u2019t deceive myself that an MS from the distant past is going to do it so a lot of effort has gone into shoring that back up...",
+            "score": 2,
+            "que": "Man, this hits home. I did my MS in Math back when people weren't talking about data science. I didn't have programming chops and I didn't have the stats skills. It took years of teaching myself the stats and programming in my free time and on the job without direction before I was called a Data Scientist. And the more I dig into the field, the more I know I don't know shit."
+        },
+        {
+            "id": "fxjvqqe",
+            "parent": "t1_fxi042t",
+            "ans": "I remember I did a summer REU back in college on computer vision, but this was very much just prior to the resurgence of neural networks, GPU computing, etc. Everything was very SVD-based techniques. The problem was so hard back then, but I imagine now deep CNNs would do the trick. \n\nI graduated college barely knowing how to program (just a bit of matlab.) I didn\u2019t have a github, or data competitions, or fancy industry internships. I took a job as a mathematical analyst. I wouldn\u2019t have even said I did data science until 2017. I was always working in optimal estimation, but I never used the label \u201cdata science.\u201d People get caught up with what\u2019s hot now, but the field is going to change, so don\u2019t wear yourself down too much.",
+            "score": 2,
+            "que": "Man, this hits home. I did my MS in Math back when people weren't talking about data science. I didn't have programming chops and I didn't have the stats skills. It took years of teaching myself the stats and programming in my free time and on the job without direction before I was called a Data Scientist. And the more I dig into the field, the more I know I don't know shit."
+        },
+        {
+            "id": "fxizcbp",
+            "parent": "t1_fxiixhr",
+            "ans": "that's a great line, thanks for sharing. will definitely think about it when the work seems crazy",
+            "score": 4,
+            "que": "UGH many thanks for this. First job. Data Scientist title. Been struggling to improve all of the statistics and math stuff, thinking about what I can really \"contribute\" and how I still believe I have limited knowledge in comparison with my peers. But jJust as my boss said to me, \"You don't have to be the best. You just have to be someone who never gives up\"."
+        },
+        {
+            "id": "fxl73be",
+            "parent": "t1_fxiixhr",
+            "ans": "This is great, thanks for sharing",
+            "score": 1,
+            "que": "UGH many thanks for this. First job. Data Scientist title. Been struggling to improve all of the statistics and math stuff, thinking about what I can really \"contribute\" and how I still believe I have limited knowledge in comparison with my peers. But jJust as my boss said to me, \"You don't have to be the best. You just have to be someone who never gives up\"."
+        },
+        {
+            "id": "fxhyzhw",
+            "parent": "t1_fxhxayj",
+            "ans": "Test/Holdout sets are overrated anyways",
+            "score": 28,
+            "que": "Hey man, if we massage the data enough we totally are at least above average. ;)"
+        },
+        {
+            "id": "fxi2nfe",
+            "parent": "t1_fxhxayj",
+            "ans": "A majority of people are above average. (*)\n\n---\n\n(*) - according to a self-selected cohort",
+            "score": 8,
+            "que": "Hey man, if we massage the data enough we totally are at least above average. ;)"
+        },
+        {
+            "id": "fxi9q9e",
+            "parent": "t1_fxhxayj",
+            "ans": "I\u2019m like five minutes into my DS masters but I get the feeling the world needs more data shovelers than hotshot algorithms anyway.\n\nMy company just started migrating our DW to an EDL and the tech debt they\u2019ve already created in a couple years could keep me employed for twice as long.",
+            "score": 5,
+            "que": "Hey man, if we massage the data enough we totally are at least above average. ;)"
+        },
+        {
+            "id": "fxiasgz",
+            "parent": "t1_fxi1r2h",
+            "ans": "I work in bioinformatics. You think you guys have bad code? I'm just happy if the scripts from published papers even work.",
+            "score": 10,
+            "que": ">\tThe worst part about data science is not knowing if your code is shit or not.\n\n>\tThe best part about data science is that if your code is shit, it's probably still good enough.\n\nhttps://twitter.com/minimaxir/status/1280516928914800640"
+        },
+        {
+            "id": "fxibc8u",
+            "parent": "t1_fxi1r2h",
+            "ans": "[removed]",
+            "score": 1,
+            "que": ">\tThe worst part about data science is not knowing if your code is shit or not.\n\n>\tThe best part about data science is that if your code is shit, it's probably still good enough.\n\nhttps://twitter.com/minimaxir/status/1280516928914800640"
+        },
+        {
+            "id": "fxk2hv3",
+            "parent": "t1_fxixwf3",
+            "ans": "This made me laugh thank you.",
+            "score": 5,
+            "que": "\"Ugh I just feel inadequate. Like. I'm already 19 and I only JUST got promoted to Senior Data Scientist. I felt like my 17 publications aren't sufficient and the $47,000 I won from 3 Kaggle competitions just feels like a pittance. How do you guys deal with this mediocrity? I cant anymore. I think I'll just go be a bus driver or something.\""
+        },
+        {
+            "id": "hod1of2",
+            "parent": "t1_fxj59qf",
+            "ans": ">Also you might be surprised how many \u201cdata scientist\u201d posting there are out there now that really don\u2019t use ML at all (SQL and solid reasoning skills at Facebook for instance).\n\nTrue. Mostly, being able to work with Python and SQL is good enough for such roles.",
+            "score": 1,
+            "que": "I have received data scientist offers from Boeing, Microsoft, T-mobile, a fairly large retailer, and pretty good seized public utility and for every single one I had massive gaping holes in my experience relative to the job posting description. I think you\u2019d be shocked at what matters and what doesn\u2019t for getting hire. I also find that in doing the work, 90% of the value comes from soft skills and very basic math / ML tools. I fully believe you can outperform the genius in the cave types with a modicum of technical expertise and willingness to work with people, understand their situation and their data, and being willing to work hard to grind out results and deliver. Also you might be surprised how many \u201cdata scientist\u201d posting there are out there now that really don\u2019t use ML at all (SQL and solid reasoning skills at Facebook for instance). That\u2019s one way to get the title while you\u2019re building your skill set."
+        },
+        {
+            "id": "fxisb6x",
+            "parent": "t1_fxi7481",
+            "ans": "I did a Master's in Bioinformatics and it took me three years of job searching to find my current data scientist position. Sometimes it's just the luck of the draw (or in my case the geographic location you're looking at), but if you keep at it, it'll happen!",
+            "score": 5,
+            "que": "Yeah. A 34 year old guy here that didn't study a stem grade and is trying to be a data scientist. Just finished my master's and I get rejected from every job despite having a predoctoral experience and have published a paper with principal components (in psychology).\n\nWhen I read those stories I think those people is spoiled, and I compare myself with them and I feel bad (and the world keeps coming and I still get rejected from more and more basic data jobs...)\n\nTry not to upvote those special guys that need a bost when their life is ahead and they a good future with exp..."
+        },
+        {
+            "id": "fxitong",
+            "parent": "t1_fxi7481",
+            "ans": "Yep. Mid 30s, never really studied stats/econ formally but have managed to build a reasonably successful career out of it, even though anyone looking at my code/projects would think I\u2019m still an undergrad doing basic classroom projects. Like 95% of the jobs out there just need you to apply basic techniques and be creative.",
+            "score": 6,
+            "que": "Yeah. A 34 year old guy here that didn't study a stem grade and is trying to be a data scientist. Just finished my master's and I get rejected from every job despite having a predoctoral experience and have published a paper with principal components (in psychology).\n\nWhen I read those stories I think those people is spoiled, and I compare myself with them and I feel bad (and the world keeps coming and I still get rejected from more and more basic data jobs...)\n\nTry not to upvote those special guys that need a bost when their life is ahead and they a good future with exp..."
+        },
+        {
+            "id": "fxicmad",
+            "parent": "t1_fxi7481",
+            "ans": "This speaks to me! I'm 32, my job isn't entirely DS related and I come from a zero-quantitative background. I always feel like the stats/DS stuff I try to incorporate into my work is this super amateur thing, on which I generally can't get much serious feedback, and so which never improves.\nI will say though that the times I've been able to talk to people around me about a project or other, in a sufficiently low-pressure environment, it's been super helpful and I learned a lot, and I felt ever so slightly better about the end product.",
+            "score": 4,
+            "que": "Yeah. A 34 year old guy here that didn't study a stem grade and is trying to be a data scientist. Just finished my master's and I get rejected from every job despite having a predoctoral experience and have published a paper with principal components (in psychology).\n\nWhen I read those stories I think those people is spoiled, and I compare myself with them and I feel bad (and the world keeps coming and I still get rejected from more and more basic data jobs...)\n\nTry not to upvote those special guys that need a bost when their life is ahead and they a good future with exp..."
+        },
+        {
+            "id": "fxl9gr1",
+            "parent": "t1_fxi7481",
+            "ans": "How is it possible that you are being rejected when you've published a paper and have predoctoral experience???  Maybe you're applying to the wrong jobs/employers?",
+            "score": 2,
+            "que": "Yeah. A 34 year old guy here that didn't study a stem grade and is trying to be a data scientist. Just finished my master's and I get rejected from every job despite having a predoctoral experience and have published a paper with principal components (in psychology).\n\nWhen I read those stories I think those people is spoiled, and I compare myself with them and I feel bad (and the world keeps coming and I still get rejected from more and more basic data jobs...)\n\nTry not to upvote those special guys that need a bost when their life is ahead and they a good future with exp..."
+        },
+        {
+            "id": "fy53pb5",
+            "parent": "t1_fxiqkpm",
+            "ans": "Definitely, I think the ability to communicate concepts clearly in any field is a huge asset",
+            "score": 1,
+            "que": "I\u2019d rather a mediocre data scientist who can communicate well vs. human computers who can\u2019t engage with business users to share analysis simply and effectively.  Hard skills can be learned. Soft skills are either there or not. I interview for personality fit. If you can\u2019t engage me with a story about something meaningful to you, interview is over."
+        },
+        {
+            "id": "fxi0v6i",
+            "parent": "t1_fxhzofu",
+            "ans": "We\u2019re in this together, who knows one day we might not be mediocre but even if that doesn\u2019t happen, who cares? Sometimes there\u2019s more important things in life than your career",
+            "score": 5,
+            "que": "As a person genuinely mediocre in his achievements(unlike those people going \u201cI don\u2019t feel confident\u201d)  \nThanks man"
+        },
+        {
+            "id": "fxpr78l",
+            "parent": "t1_fxjq41r",
+            "ans": "can I dm you for advice?",
+            "score": 1,
+            "que": "Average DS guy from a business undergrad. Don\u2019t have any projects on AI or Deep Learning but I know my basics and my stats. I work at a prestigious HFT firm. Sometimes doubling down on the average stuff works out alright haha.\n\nTo those who are average and are stressing about not knowing AI or trying to read a research paper and getting lost one paragraph in and never doing that again, I\u2019m with you! If I made it, anyone can!"
+        },
+        {
+            "id": "fxi220x",
+            "parent": "t1_fxhz3l1",
+            "ans": "Love you too <3",
+            "score": 7,
+            "que": "I think I love you. <3"
+        },
+        {
+            "id": "fxi8iuy",
+            "parent": "t1_fxi2wnw",
+            "ans": "Cheers!",
+            "score": 1,
+            "que": "If it makes you feel any better, I had to present a model to an executive today that is shooting about 60% recall. He asked why it can't get better. I said \"because data scientists aren't magicians\".\n\nDrink a beer, or energy drink, for me this weekend :)"
+        },
+        {
+            "id": "fxilmv7",
+            "parent": "t1_fxi2wnw",
+            "ans": "Honestly, your answer is crap. It implies that it can't get any better. You don't know if it could get any better or not.\n\nThe best you could say is something to the tune of the data being noisy or the labels being inaccurate so it's difficult to get better recall. Then you guys can decide if the data can be refined somehow, perhaps with better feature engineering, or if the labels can be improved. Just saying you're not a magician is a snarky answer, which is frankly piss poor attitude.",
+            "score": -4,
+            "que": "If it makes you feel any better, I had to present a model to an executive today that is shooting about 60% recall. He asked why it can't get better. I said \"because data scientists aren't magicians\".\n\nDrink a beer, or energy drink, for me this weekend :)"
+        },
+        {
+            "id": "fxkrez6",
+            "parent": "t1_fxj99c5",
+            "ans": "I'm a simple man -- I see an apt usage of Berkson's paradox, I upvote.",
+            "score": 1,
+            "que": "Bernhardsson thinks we are better hires anyway.\n\nhttps://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html\n\nedit: I just realized that a Better recruiter recently reached out to me... what are they trying to say?!"
+        },
+        {
+            "id": "fxje9tu",
+            "parent": "t1_fxja544",
+            "ans": "Sorry to hear that man, do you mind going into more detail? Curious what happened",
+            "score": 2,
+            "que": "I fit pretty well in this category.  Treat the job as just a job.  Thought I was good enough doing so.  Turns out I wasn't and was fired."
+        },
+        {
+            "id": "fxi2d86",
+            "parent": "t1_fxi23tn",
+            "ans": "Good luck! Let us know if you need any suggestions, if not me, I\u2019m sure someone will be able to help :)",
+            "score": 1,
+            "que": "Thanks bro. Needed that as I try to pull an all nighter just to get these customer revenue segmented in any sort of way that isn't shit."
+        },
+        {
+            "id": "fxl9y4r",
+            "parent": "t1_fxk9626",
+            "ans": "I have.  But they usually know less stuff than the ones who do have imposter syndrome.  Go figure.",
+            "score": 2,
+            "que": "I\u2019ve never met a data scientist that doesn\u2019t have imposter syndrome to some degree"
+        },
+        {
+            "id": "g1sxhn8",
+            "parent": "t1_fxl5uo8",
+            "ans": "Go GenX!",
+            "score": 2,
+            "que": "Yeah dude, it's totally okay to do your job and not feel insecure about it by comparing yourself to others. Just do your thing and hopefully enjoy it, too.\n\nThe posts here are funny to me because I'm 45. I worked in IT a long time, went back to school a few years ago for analytics and now I'm a sort of data engineer/SQL grunt. I don't even aspire to be a DS because the term means nothing anymore. I have done ML in coursework and want to do in the real world at some point.\n\nI don't have a \"Data Scientist\" title but I sure as hell don't feel inadequate. I have career goals and am working towards them. That's it.\n\nFor all the young people freaking out and feeling insecure, stop looking at this sub and complaining about your first job. You've got **decades ahead of** **work!!!!**\n\nGo have a drink, get laid, go travel, go hiking, play an instrument, hang out with friends/family, watch a good movie, whatever floats your boat. Spend less time on social media/your phone and enjoy life more."
+        },
+        {
+            "id": "isbdlj0",
+            "parent": "t1_fxl5uo8",
+            "ans": "Another gen X'er on here, awesome! I am pushing 60 and have worked as a hardware engineer for 24 years but a lot of those years didn't provide me a lot of career-growing opportunities. I'm having a very hard time finding a job (for the last year and a half) and have always been fascinated by AI/ML. I wonder if I should make a jump to DS or DA or if I might be wasting my time. I do have a MS that was pretty heavy in statistics. How hard was it to change careers?",
+            "score": 1,
+            "que": "Yeah dude, it's totally okay to do your job and not feel insecure about it by comparing yourself to others. Just do your thing and hopefully enjoy it, too.\n\nThe posts here are funny to me because I'm 45. I worked in IT a long time, went back to school a few years ago for analytics and now I'm a sort of data engineer/SQL grunt. I don't even aspire to be a DS because the term means nothing anymore. I have done ML in coursework and want to do in the real world at some point.\n\nI don't have a \"Data Scientist\" title but I sure as hell don't feel inadequate. I have career goals and am working towards them. That's it.\n\nFor all the young people freaking out and feeling insecure, stop looking at this sub and complaining about your first job. You've got **decades ahead of** **work!!!!**\n\nGo have a drink, get laid, go travel, go hiking, play an instrument, hang out with friends/family, watch a good movie, whatever floats your boat. Spend less time on social media/your phone and enjoy life more."
+        },
+        {
+            "id": "fxisgmf",
+            "parent": "t1_fxik32e",
+            "ans": "Write SQL to decide if we should buy/ship the products in eaches/cases/or pallets. Supply chain at fortune 30 retailer.",
+            "score": 4,
+            "que": "Can someone tell me exactly what they do week in week out - all I hear about are the ones who write papers on improving oil drilling using ML and DA, but if you're not a researcher, surely every person must be doing humdrum stuff..."
+        },
+        {
+            "id": "fxlis8d",
+            "parent": "t1_fxik32e",
+            "ans": "Learn about my domain area, create success metrics for various projects, write SQL to measure metrics or R/Python for analyses, troubleshoot bugs in pipeline code or slowness, pair with peers, bounce ideas off my team, and write documents for my project ideas or analyses. I love my job, honestly.",
+            "score": 1,
+            "que": "Can someone tell me exactly what they do week in week out - all I hear about are the ones who write papers on improving oil drilling using ML and DA, but if you're not a researcher, surely every person must be doing humdrum stuff..."
+        },
+        {
+            "id": "fxjdrng",
+            "parent": "t1_fxj8qva",
+            "ans": "The quest never ends",
+            "score": 4,
+            "que": "Have you fulfilled your burrito quest?"
+        },
+        {
+            "id": "fxl9ugl",
+            "parent": "t1_fxjzphw",
+            "ans": "From what I see, you have more work life balance and more in demand (more pay) than DS.  Why would you want to switch over?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxj3vzq",
+            "parent": "t1_fxix5gn",
+            "ans": "You must be young lol. Do you ever need to spend time with your family? I do love data science, but I don\u2019t want to sacrifice my life for projects. I still need to take care of my family and socialize with friends, and spending over 12 hours on data science is not a very sustainable lifestyle for me.",
+            "score": 9,
+            "que": "I think the issue is most people in data science are not actually that interested in data science honestly, its a very nerdy profession at the end of the day. If you get stressed about the thought of working with something with data science in your free time you should understand that some people live and breathe data science as well, its what they intrinsically enjoy doing similar to how others might relax with Netflix for instance after work, they will continue working on other projects. \n\nI (and many of other DS I know) will essentially work on data science from 8am until 10pm pretty much everyday even on weekends because we just love doing it so much. I think the takeaway is if you do something you really enjoy, it does not feel like work. Ofc if you see data science just as a means to an end thats find but just want to point out that success is merely a matter of effort and effort is easier to put when you really enjoy the thing you are doing."
+        },
+        {
+            "id": "fxiokn8",
+            "parent": "t1_fxin314",
+            "ans": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust.",
+            "score": 81,
+            "que": "It's even better, when considering quality of life as main metric.\n\nEDIT: lol, thanks, kind goldgiver."
+        },
+        {
+            "id": "fxj01eo",
+            "parent": "t1_fxin314",
+            "ans": "Well said.\n\nA lot of people sadly live to work in the sense of trying to adjust their lives according to their work. I wish that wasn't the case though.",
+            "score": 4,
+            "que": "It's even better, when considering quality of life as main metric.\n\nEDIT: lol, thanks, kind goldgiver."
+        },
+        {
+            "id": "fxj4dsg",
+            "parent": "t1_fxin314",
+            "ans": "> It's even better, when considering quality of life as main metric.\n\nSalary is for sure not the main reason I am where I am. stress-free and lots of freedom what to do albeit that can also be somewhat a chore when lacking energy and motivation. Sometimes I could go a week with mostly browsing reddit and no one would notice.",
+            "score": 2,
+            "que": "It's even better, when considering quality of life as main metric.\n\nEDIT: lol, thanks, kind goldgiver."
+        },
+        {
+            "id": "g33bivq",
+            "parent": "t1_fxj0wot",
+            "ans": "What if you are a kegel grandmaster? Will that help with data science?",
+            "score": 13,
+            "que": "I also work at a Fortune 500 company with loads of amazing talent and I only got my Bachelor's and Master's from a mediocre university (because I suck at entrance exams because I hate them). It might help if you are graduated from a top notch institution, published many papers, have an amazing portfolio on GitHub or you are a Kaggle grandmaster (or whatever that is), but these are not just the only ways to showcase your skills and experience. It might be difficult but definitely not impossible.\n\nBesides, I've seen many companies avoid those hot shot candidates because they sometimes can be extremely demanding and picky due to their background.\n\nedit: a little typo"
+        },
+        {
+            "id": "fxi8vvi",
+            "parent": "t1_fxhxwc0",
+            "ans": "To be quite honest... When I browse this thread and see all of the complicated work a lot of the people here are doing (half of the time, I don't even know what they're talking about), I get extremely discouraged and feel like this field just isn't for me, solely based on the way people speak about their \"mediocre\" work.  Thanks for this post.",
+            "score": 54,
+            "que": "Part of the inspiration for this post was me realizing that I can\u2019t be the only one that feels this way, it\u2019s hard not to compare yourself to others"
+        },
+        {
+            "id": "fxka4oj",
+            "parent": "t1_fxhxwc0",
+            "ans": "I just joined this sub and after 6+ months of hard work learning python, sql and a few big projects I felt like it was hardly a step in the DS direction after reading for a few minutes on this sub lol. Been applying to data analysis jobs and the rejections have been rolling in, and they suddenly felt justified when looking at others on here.",
+            "score": 6,
+            "que": "Part of the inspiration for this post was me realizing that I can\u2019t be the only one that feels this way, it\u2019s hard not to compare yourself to others"
+        },
+        {
+            "id": "fxi5whf",
+            "parent": "t1_fxi2909",
+            "ans": "Damn this hits different. You put into words what I am currently feeling in the role I've been in for almost a year.",
+            "score": 12,
+            "que": "Because it's a unicorn role that encompasses too much for anyone to be amazing at it all, therefore leading to feelings of inadequacy."
+        },
+        {
+            "id": "fxirk8n",
+            "parent": "t1_fxigo3c",
+            "ans": "Most of the job openings put all of the above in their description. How are they expecting a single person to know all ..it's really disheartening.",
+            "score": 12,
+            "que": "Because if some of the ridiculous expectations that are floating about. Some people think that they have to be an expert in data engineering, distributed computing, Dev ops, back-end development, front-end development, teach computer science, cutting edge industry knowledge and have a PhD in statistics to be a good data scientist. I'm happy being mediocre at almost all of that and being decent at 2 of them."
+        },
+        {
+            "id": "fxiet10",
+            "parent": "t1_fxi1kbq",
+            "ans": "Not really knowing why one's methods yield successes is also not exactly conducive to lending credibility.",
+            "score": 1,
+            "que": "impostor syndrome is the COVID-19 of overhyped industries."
+        },
+        {
+            "id": "fxi8a82",
+            "parent": "t1_fxhywjo",
+            "ans": "To your point, I\u2019ve worked as a dba / sys admin / data analyst in various capacities in corporate for about 10 years.  Taught stats at an undergrad level.  I would say I\u2019m much more an analyst than data scientist, but do have interest in the stats / higher forms of analysis.  I read this sub a lot, but don\u2019t post much because I\u2019m not really sure I have a relevant opinion for the expertise in the sub.",
+            "score": 51,
+            "que": "Yeah it also doesn\u2019t help how that can kind of dissuade average data scientists from posting due to unjust feelings of inadequacy. Almost like a negative feedback loop"
+        },
+        {
+            "id": "fxixg01",
+            "parent": "t1_fxhywjo",
+            "ans": "Yeah I agree, this sub can feel like a datascience version of LinkedIn, where it's dominated by ego and some smoke and mirror versions of the truth",
+            "score": 9,
+            "que": "Yeah it also doesn\u2019t help how that can kind of dissuade average data scientists from posting due to unjust feelings of inadequacy. Almost like a negative feedback loop"
+        },
+        {
+            "id": "fxjvksk",
+            "parent": "t1_fxhywjo",
+            "ans": "I\u2019m so glad someone else is saying it. I\u2019m a senior data analyst working on my M.S., but I feel like a complete idiot with no hope of breaking into data science when I read this sub - because after a long day of work and then a couple hours of homework and studying, I\u2019d rather spend time with my family than stay up till midnight working on more fancy stuff for my GitHub portfolio. I don\u2019t think I\u2019m particularly lazy or below average, but it certainly feels that way sometimes.",
+            "score": 5,
+            "que": "Yeah it also doesn\u2019t help how that can kind of dissuade average data scientists from posting due to unjust feelings of inadequacy. Almost like a negative feedback loop"
+        },
+        {
+            "id": "fxi52da",
+            "parent": "t1_fxhzsw8",
+            "ans": "[deleted]",
+            "score": 125,
+            "que": "Not to spoil the fun, but this person doesn't exist. If they did, you would know about them.\n\nSource: I deal with \\~21 year old undergrad researchers who claim all sorts of BS and can barely import pandas."
+        },
+        {
+            "id": "fxip659",
+            "parent": "t1_fxhzsw8",
+            "ans": "They do exist. It's just they almost always end up working for a hedge fund or DeepMind/FAIR\n\nIt's less than 1% of applicants. Unless you're dealing with people working at Two Sigma or DeepMind then no, you wouldn't see them.",
+            "score": 6,
+            "que": "Not to spoil the fun, but this person doesn't exist. If they did, you would know about them.\n\nSource: I deal with \\~21 year old undergrad researchers who claim all sorts of BS and can barely import pandas."
+        },
+        {
+            "id": "fxi0byf",
+            "parent": "t1_fxhz7hj",
+            "ans": "I understand wanting to share with likeminded individuals in a community, but intentionally showing perfection and pretending to be modest is a little odd.",
+            "score": 28,
+            "que": "How fucking sad must your life be that you have to fish for compliments online? I\u2019ve never understood it."
+        },
+        {
+            "id": "fxisr10",
+            "parent": "t1_fxhz7hj",
+            "ans": "My life is pretty sad so I'm now considering fishing for compliments online.",
+            "score": 5,
+            "que": "How fucking sad must your life be that you have to fish for compliments online? I\u2019ve never understood it."
+        },
+        {
+            "id": "fxi94h3",
+            "parent": "t1_fxhz7hj",
+            "ans": "I see it a bit on the other side. I'm extremely self conscious about showing things I do. I dread thinking \"well this is pretty good\" just to be told \"Wow.. What a piece of shit! Did a 4 year old do this??\"\n\nSo normally if I show something I already go with the lowest expectation possible. \"This is probably shit\" and then the outcome is simply \"Well they though it was shit, just like I knew\" or \"Wow.. What a nice surprise\"\n\nI normally don't share anything. But if I did I would probably go with the \"Yeaaah I don't think this is good but check it out\"",
+            "score": 7,
+            "que": "How fucking sad must your life be that you have to fish for compliments online? I\u2019ve never understood it."
+        },
+        {
+            "id": "fxiahi5",
+            "parent": "t1_fxhz7hj",
+            "ans": "I don't understand it either but it seems to make up a pretty big % of posts across all of reddit. People are strange.",
+            "score": 3,
+            "que": "How fucking sad must your life be that you have to fish for compliments online? I\u2019ve never understood it."
+        },
+        {
+            "id": "fxin5m1",
+            "parent": "t1_fxhz7hj",
+            "ans": "sometimes you  are not looking for compliments, just suggestions about how to improve, and feeling part of a community.",
+            "score": 1,
+            "que": "How fucking sad must your life be that you have to fish for compliments online? I\u2019ve never understood it."
+        },
+        {
+            "id": "fxjmvym",
+            "parent": "t1_fxi94ql",
+            "ans": "It's not DIFFICULT per se, it just requires a lot of attention to detail.",
+            "score": 1,
+            "que": "This person is probably like me and watches a dozen youtube videos and makes a million measurements before cutting.\n\nIt doesn\u2019t help that people hype them up so much as difficult cuts."
+        },
+        {
+            "id": "fxihcxv",
+            "parent": "t1_fxhy6mz",
+            "ans": "Lol, that is the most optimistic take on being imperfect I've seen in a while!",
+            "score": 18,
+            "que": "Without us those at the top wouldn\u2019t be so special"
+        },
+        {
+            "id": "fxi1kws",
+            "parent": "t1_fxi1c6n",
+            "ans": "I have about 3 years software engineering experience and that is literally saving my life right now. That said, I was a fucking terrible software engineer when I started. And now I\u2019m actually pretty decent! I can do personal projects that work! Because I couldn\u2019t do fucking any before my job, I was that bad.\n\nJust keep learning. That\u2019s what I did, and you\u2019ll find yourself just slowly getting there. I didn\u2019t get comfortable in my first job until between years 2-3. It all just started clicking.",
+            "score": 15,
+            "que": "I'm fresh out of college and people like you are what give me hope. I feel so insecure about what I know, but I guess I'll learn a lot on the job."
+        },
+        {
+            "id": "fxla38e",
+            "parent": "t1_fxivn55",
+            "ans": "You might say that I'm mean, but they're deviations",
+            "score": 7,
+            "que": "At least we have the best views from up here"
+        },
+        {
+            "id": "fxidgcz",
+            "parent": "t1_fxiaxk4",
+            "ans": "Hey congrats on creating the package + app though! That\u2019s still an impressive feat :)",
+            "score": 4,
+            "que": "I don't work in DS, but bioinformatics (we like to emulate you guys though). The whole \"look what I did in my spare time!\" thing is insanity. Like I get that I'm in academia, so maybe it's more likely, but shit. After I work 10-12 hours in the lab/office I kind if just want to chill and hang out with family? Why does that have to be bad?\n\nI say this as someone who managed to get a small R package + shiny app written completely on my own time, got burned out, and now have an issue/request I've avoided addressing for like 5 months because the thought of \"working after work\" makes me ill."
+        },
+        {
+            "id": "fxj2dfq",
+            "parent": "t1_fxibc8u",
+            "ans": "Yes.",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxm8jen",
+            "parent": "t1_fxl9gr1",
+            "ans": "Maybe I am... Or maybe in Spain people doesn't really know how this works. They still searching engineers even when I've been teaching R and statistics to them via online for the last year...\n\nIt's all about Spain and I don't think I can go outside without experience. It's sad to say so but im trapped and getting old.",
+            "score": 1,
+            "que": "How is it possible that you are being rejected when you've published a paper and have predoctoral experience???  Maybe you're applying to the wrong jobs/employers?"
+        },
+        {
+            "id": "fxi69pi",
+            "parent": "t1_fxi0v6i",
+            "ans": "The one who has reached Nirvana has spoken!",
+            "score": 2,
+            "que": "We\u2019re in this together, who knows one day we might not be mediocre but even if that doesn\u2019t happen, who cares? Sometimes there\u2019s more important things in life than your career"
+        },
+        {
+            "id": "fy007fg",
+            "parent": "t1_fxpr78l",
+            "ans": "Absolutely!",
+            "score": 1,
+            "que": "can I dm you for advice?"
+        },
+        {
+            "id": "fxiwfm6",
+            "parent": "t1_fxilmv7",
+            "ans": "I've been really happy with my career and what I've accomplished -- but thank you for taking an out of context, one liner and making such an argumentative and affront comment. I hope you have a great weekend :).",
+            "score": 8,
+            "que": "Honestly, your answer is crap. It implies that it can't get any better. You don't know if it could get any better or not.\n\nThe best you could say is something to the tune of the data being noisy or the labels being inaccurate so it's difficult to get better recall. Then you guys can decide if the data can be refined somehow, perhaps with better feature engineering, or if the labels can be improved. Just saying you're not a magician is a snarky answer, which is frankly piss poor attitude."
+        },
+        {
+            "id": "fxjlg8z",
+            "parent": "t1_fxje9tu",
+            "ans": "One morning I was told I wasn't improving quickly enough and was being let go.  No warnings.  Seems there was a goal set that I wasn't told about, and didn't hit it.  Pretty valuable lesson about not trusting management.",
+            "score": 3,
+            "que": "Sorry to hear that man, do you mind going into more detail? Curious what happened"
+        },
+        {
+            "id": "fxkqx1k",
+            "parent": "t1_fxj3vzq",
+            "ans": "Happytfidf, you dont have to justify not spending every hour of every day because you are a normal human and need to do life things to this person (yes that includes netflixing and chilling from time to time!) I think everyone on this specific post here is on the same boat as you.",
+            "score": 3,
+            "que": "You must be young lol. Do you ever need to spend time with your family? I do love data science, but I don\u2019t want to sacrifice my life for projects. I still need to take care of my family and socialize with friends, and spending over 12 hours on data science is not a very sustainable lifestyle for me."
+        },
+        {
+            "id": "fxjcqx5",
+            "parent": "t1_fxj3vzq",
+            "ans": "I spend 12-14 hours usually on data science but that still leaves me 4-6 hours to spend time with family and friends, hit the gym etc which is plenty enough for me.",
+            "score": 1,
+            "que": "You must be young lol. Do you ever need to spend time with your family? I do love data science, but I don\u2019t want to sacrifice my life for projects. I still need to take care of my family and socialize with friends, and spending over 12 hours on data science is not a very sustainable lifestyle for me."
+        },
+        {
+            "id": "fxionrd",
+            "parent": "t1_fxiokn8",
+            "ans": "exactly, working every minute of your life doesn't fit my definition of fulfilling.",
+            "score": 55,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxjncns",
+            "parent": "t1_fxiokn8",
+            "ans": "I disagree. I work a fulfilling job I love, but I would quit in an instant if I got the same income. There's simply no amount of reward I can feel doing X task for my company that would overcome traveling, pursuing hobbies, and focusing on personal projects.",
+            "score": 26,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxjwa76",
+            "parent": "t1_fxiokn8",
+            "ans": "Gotta diversify that portfolio of life!",
+            "score": 7,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxiowoy",
+            "parent": "t1_fxiokn8",
+            "ans": "I don't think that fulfilling job exists. Been couple of years searching for that elusive job",
+            "score": 15,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxjxj4m",
+            "parent": "t1_fxiokn8",
+            "ans": ">I could imagine that a fulfilling job can improve the quality of life quite significantly.\n\nYou can have a greatly fulfilling job and also have your job be just a job, you don't need to have your work constantly weighing on your mind to love what you do.",
+            "score": 3,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxkf48o",
+            "parent": "t1_fxiokn8",
+            "ans": "That's why quality of life matters though, it varies from person to person. Some people find maximum fulfillment being as busy as possible racking up achievement after achievement, others prefer to take things slow and have the freedom that comes with fewer responsibilities. My sister and I are polar opposites in this regard, she is the incessant overachiever whereas I have almost zero ambition, but we respect one another because we understand our respective paths to happiness and success are just preference based.",
+            "score": 3,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxkdfs4",
+            "parent": "t1_fxiokn8",
+            "ans": "University College London did some research on this and found that men's happiness in life is heavily influenced by their job satisfaction[1]. However you are correct I think that happiness based on job satisfaction is more volatile, since job satisfaction is often influenced by many factors outside your control.\n\n\n[1] https://s3.amazonaws.com/harrys-cdnx-prod/manual/Harry%27s+Masculinity+Report%2C+USA+2018.pdf",
+            "score": 1,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "ijtek1o",
+            "parent": "t1_fxiokn8",
+            "ans": "I mean you do just spend a huge amount of your life at work. It makes sense having an interesting job would make your entire life better imo",
+            "score": 1,
+            "que": "hm, not sure. I could imagine that a fulfilling job can improve the quality of life quite significantly. On the other hand having a diverse life, not contingent solely on the job is probably more robust."
+        },
+        {
+            "id": "fxionrh",
+            "parent": "t1_fxi8vvi",
+            "ans": "Or how about when you search job postings and find languages/software you are expected to know that you not only don't know but have never even heard of?\n\n\"Must be proficient in Python, R, SQL, FORTRAN, C, C#, D, E Celery, AspHalt, Flame and Coffin.\"",
+            "score": 40,
+            "que": "To be quite honest... When I browse this thread and see all of the complicated work a lot of the people here are doing (half of the time, I don't even know what they're talking about), I get extremely discouraged and feel like this field just isn't for me, solely based on the way people speak about their \"mediocre\" work.  Thanks for this post."
+        },
+        {
+            "id": "fy6iz6t",
+            "parent": "t1_fxka4oj",
+            "ans": "Well, it's like saying \"i read some c++ books for 6 months and now I still cant get any software architect job\" ... People are studying this topic for years, every day, and you expect to just walk by because of some coding languages? It's a bit insulting. Image every guy with 6 months of coding knowledge could do your job.",
+            "score": 3,
+            "que": "I just joined this sub and after 6+ months of hard work learning python, sql and a few big projects I felt like it was hardly a step in the DS direction after reading for a few minutes on this sub lol. Been applying to data analysis jobs and the rejections have been rolling in, and they suddenly felt justified when looking at others on here."
+        },
+        {
+            "id": "fxi8oif",
+            "parent": "t1_fxi8a82",
+            "ans": "Would you say Stats is a required skill for an analyst? Or is it a 'good-to-have'?  I'm currently taking some SQL, Python, and R courses, and planning on getting my bachelors in Data Analytics, but I have basic college level stats under my belt. Not sure how important it is in the field.  I definitely understand that DSs definitely need a strong grasp of Stats though",
+            "score": 13,
+            "que": "To your point, I\u2019ve worked as a dba / sys admin / data analyst in various capacities in corporate for about 10 years.  Taught stats at an undergrad level.  I would say I\u2019m much more an analyst than data scientist, but do have interest in the stats / higher forms of analysis.  I read this sub a lot, but don\u2019t post much because I\u2019m not really sure I have a relevant opinion for the expertise in the sub."
+        },
+        {
+            "id": "fxiasww",
+            "parent": "t1_fxi52da",
+            "ans": "Data scientists invented the pie chart and then came up with the brilliant idea of sticking sedatives in it, creating a numb pie, which panda importers  depend on.",
+            "score": 63,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxi5vcu",
+            "parent": "t1_fxi52da",
+            "ans": "Wait until you've heard about the snake black market",
+            "score": 26,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxi0qd4",
+            "parent": "t1_fxi0byf",
+            "ans": "Yeah, I mean you can post your accomplishments and be proud of yourself. But you don\u2019t have to pretend like you\u2019re Somehow still behind the curve or something. It\u2019s weird",
+            "score": 10,
+            "que": "I understand wanting to share with likeminded individuals in a community, but intentionally showing perfection and pretending to be modest is a little odd."
+        },
+        {
+            "id": "fxjc4ca",
+            "parent": "t1_fxi0byf",
+            "ans": "I think there's a much more generous interpretation we could take.\n\nPeople are strongly discouraged from bragging and there's a lot of pressure to present yourself as humble. Moreover, where ever you are in your progress in a difficult activity, it's always easy to notice all the people who are better but not really see all the progressive you've actually made.",
+            "score": 7,
+            "que": "I understand wanting to share with likeminded individuals in a community, but intentionally showing perfection and pretending to be modest is a little odd."
+        },
+        {
+            "id": "fxi5zsa",
+            "parent": "t1_fxi0byf",
+            "ans": "[removed]",
+            "score": 17,
+            "que": "I understand wanting to share with likeminded individuals in a community, but intentionally showing perfection and pretending to be modest is a little odd."
+        },
+        {
+            "id": "fxicmae",
+            "parent": "t1_fxi94h3",
+            "ans": "I'm sorry you've had those experiences. I think giving constructive feedback should be taught to everyone, as 'kicking down' is just going to keep people away from the field. What I try to learn myself (as someone who used to hate statistics but eventually came to like it), is that it's fine to make mistakes, that it might not be much yet, but considering my current level it might be quite reasonable or even good. Most important thing is to keep improving yourself, and don't let those old bastards grind you down. When thinking \"I can't do it\", try adding 'yet' to the end.",
+            "score": 2,
+            "que": "I see it a bit on the other side. I'm extremely self conscious about showing things I do. I dread thinking \"well this is pretty good\" just to be told \"Wow.. What a piece of shit! Did a 4 year old do this??\"\n\nSo normally if I show something I already go with the lowest expectation possible. \"This is probably shit\" and then the outcome is simply \"Well they though it was shit, just like I knew\" or \"Wow.. What a nice surprise\"\n\nI normally don't share anything. But if I did I would probably go with the \"Yeaaah I don't think this is good but check it out\""
+        },
+        {
+            "id": "fxis7ap",
+            "parent": "t1_fxin5m1",
+            "ans": "If you are already improving and have a lot to your name early on I don\u2019t think there is any advice someone can give that you aren\u2019t already doing.\n\nIf you wanna feel a part of a community then just speak to your project. No need to fish compliments",
+            "score": 1,
+            "que": "sometimes you  are not looking for compliments, just suggestions about how to improve, and feeling part of a community."
+        },
+        {
+            "id": "fxin7cb",
+            "parent": "t1_fxihcxv",
+            "ans": "It's not being imperfect, it's just mediocre.\nNot everyone strives to be perfect.",
+            "score": 1,
+            "que": "Lol, that is the most optimistic take on being imperfect I've seen in a while!"
+        },
+        {
+            "id": "fxi1sjq",
+            "parent": "t1_fxi1kws",
+            "ans": "Wow. I'm glad that it worked out for you! Hopefully I'll get at the level I want to be some day soon. I'm also starting off as a dev soon, and I'm hoping that the work experience I gain out of my first job will help me get where I want to be",
+            "score": 2,
+            "que": "I have about 3 years software engineering experience and that is literally saving my life right now. That said, I was a fucking terrible software engineer when I started. And now I\u2019m actually pretty decent! I can do personal projects that work! Because I couldn\u2019t do fucking any before my job, I was that bad.\n\nJust keep learning. That\u2019s what I did, and you\u2019ll find yourself just slowly getting there. I didn\u2019t get comfortable in my first job until between years 2-3. It all just started clicking."
+        },
+        {
+            "id": "fy6im9v",
+            "parent": "t1_fxi1kws",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I have about 3 years software engineering experience and that is literally saving my life right now. That said, I was a fucking terrible software engineer when I started. And now I\u2019m actually pretty decent! I can do personal projects that work! Because I couldn\u2019t do fucking any before my job, I was that bad.\n\nJust keep learning. That\u2019s what I did, and you\u2019ll find yourself just slowly getting there. I didn\u2019t get comfortable in my first job until between years 2-3. It all just started clicking."
+        },
+        {
+            "id": "fxjngo0",
+            "parent": "t1_fxjlg8z",
+            "ans": "Damn that\u2019s terrifying, hopefully you landed on your feet somewhere else?",
+            "score": 3,
+            "que": "One morning I was told I wasn't improving quickly enough and was being let go.  No warnings.  Seems there was a goal set that I wasn't told about, and didn't hit it.  Pretty valuable lesson about not trusting management."
+        },
+        {
+            "id": "fxl9qu8",
+            "parent": "t1_fxjlg8z",
+            "ans": "Wow, that's crazy.  Were you on a team of data folks or were you the only data person?",
+            "score": 2,
+            "que": "One morning I was told I wasn't improving quickly enough and was being let go.  No warnings.  Seems there was a goal set that I wasn't told about, and didn't hit it.  Pretty valuable lesson about not trusting management."
+        },
+        {
+            "id": "fxkqiqb",
+            "parent": "t1_fxjcqx5",
+            "ans": "How do you go to the gym, make food, do groceries, run life errands, and see those friends & family you are mentioning if you are \u00ab\u00a0doing data science\u00a0\u00bb from 8 AM to 10 PM everyday, including weekends?\n\nThis commentor is exactly the problem with this subreddit. They are either blatantly lying or simply don\u2019t have a life.",
+            "score": 3,
+            "que": "I spend 12-14 hours usually on data science but that still leaves me 4-6 hours to spend time with family and friends, hit the gym etc which is plenty enough for me."
+        },
+        {
+            "id": "fxke1kw",
+            "parent": "t1_fxjncns",
+            "ans": "Most people are choosing between a job they love and a job they hate, not a job they love and a life of leisure.",
+            "score": 17,
+            "que": "I disagree. I work a fulfilling job I love, but I would quit in an instant if I got the same income. There's simply no amount of reward I can feel doing X task for my company that would overcome traveling, pursuing hobbies, and focusing on personal projects."
+        },
+        {
+            "id": "fxj6jiy",
+            "parent": "t1_fxiowoy",
+            "ans": "How are you measuring it? I've found that a good equation involves\n\n* how fun it is\n* distance from home (in time)\n* what can you learn\n* how can you grow\n* how much they pay you\n\nFind your equation with these variables, compute your betas, rank different jobs. You'll be surprised. Rule is that first you rank those 5, then, in the equation, weights cannot change that rank. (I put them in my personal order)",
+            "score": 28,
+            "que": "I don't think that fulfilling job exists. Been couple of years searching for that elusive job"
+        },
+        {
+            "id": "fxjb6c9",
+            "parent": "t1_fxiowoy",
+            "ans": "Fulfilling jobs absolutely exist. Let's be clear: over the course of a career, two years is not much time. It shouldn't be a big shock that you haven't yet figured it all out in terms of what it is you're actually looking for from a job and how to find those things. It took me several years to work it out, but now I'm quite good at identifying jobs I'm confident I'll find interesting, enjoyable, and fulfilling. \n\nBut as others have said, you can't expect your job to be a *sufficient* condition for fulfillment. It is almost certainly a necessary condition, I would say.",
+            "score": 10,
+            "que": "I don't think that fulfilling job exists. Been couple of years searching for that elusive job"
+        },
+        {
+            "id": "fxjvj40",
+            "parent": "t1_fxionrh",
+            "ans": "I think the worst part about that is I'm unsure if you're joking about everything after c# because I just can't keep up anymore.",
+            "score": 17,
+            "que": "Or how about when you search job postings and find languages/software you are expected to know that you not only don't know but have never even heard of?\n\n\"Must be proficient in Python, R, SQL, FORTRAN, C, C#, D, E Celery, AspHalt, Flame and Coffin.\""
+        },
+        {
+            "id": "fxitmr4",
+            "parent": "t1_fxionrh",
+            "ans": "So True",
+            "score": 3,
+            "que": "Or how about when you search job postings and find languages/software you are expected to know that you not only don't know but have never even heard of?\n\n\"Must be proficient in Python, R, SQL, FORTRAN, C, C#, D, E Celery, AspHalt, Flame and Coffin.\""
+        },
+        {
+            "id": "fynpfhm",
+            "parent": "t1_fxionrh",
+            "ans": "[https://docs.celeryproject.org/en/stable/getting-started/introduction.html](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)",
+            "score": 3,
+            "que": "Or how about when you search job postings and find languages/software you are expected to know that you not only don't know but have never even heard of?\n\n\"Must be proficient in Python, R, SQL, FORTRAN, C, C#, D, E Celery, AspHalt, Flame and Coffin.\""
+        },
+        {
+            "id": "fy8vdkb",
+            "parent": "t1_fy6iz6t",
+            "ans": "Understood, but these are also pretty much all junior roles I'm applying to. Obviously there are going to be plenty of people always leagues ahead of me but I gotta start somewhere. And 6 months is not an insignificant amount of time. I also have a relevant undergrad degree and have done similar work in econometrics. I'm not looking for like a director or team lead position here, the responsibilities for what I'm applying to are pretty straightforward.",
+            "score": 2,
+            "que": "Well, it's like saying \"i read some c++ books for 6 months and now I still cant get any software architect job\" ... People are studying this topic for years, every day, and you expect to just walk by because of some coding languages? It's a bit insulting. Image every guy with 6 months of coding knowledge could do your job."
+        },
+        {
+            "id": "fxid3c4",
+            "parent": "t1_fxi8oif",
+            "ans": "I would argue this depends on what kind of function the analyst has at a company. Like data scientist, the title \"analyst\" holds responsibilities ranging from analyzing processes to regression analysis and time series forecasting.\n\nSo really, it depends on whether or not you want a more stats heavy analyst job. GENERALLY though I would argue you should have at least solid stats fundamentals so you're not constrained in your career options.\n\nKnow how to explain and practically apply/avoid things like p hacking, sampling bias, regression analysis, significance levels, etc. at almost ELI5 level (i.e. to non stats colleagues).\n\nAnd ofc make sure your data viz, professional writing, Excel, SQL, and hopefully Python/R is solid.\n\nIf it's going to be your first analyst job, be able to explain and basically apply concepts (a portfolio would be great for this) and then once you get the job, be willing to learn. Most reasonable employers don't have extremely high expectations for junior positions.",
+            "score": 20,
+            "que": "Would you say Stats is a required skill for an analyst? Or is it a 'good-to-have'?  I'm currently taking some SQL, Python, and R courses, and planning on getting my bachelors in Data Analytics, but I have basic college level stats under my belt. Not sure how important it is in the field.  I definitely understand that DSs definitely need a strong grasp of Stats though"
+        },
+        {
+            "id": "fxinqjo",
+            "parent": "t1_fxi8oif",
+            "ans": "To add to some other comments, I would say that it depends on the course.  I worked in academia for a couple years before switching to industry, and I've taught stats to a lot of students in a lot of ways.  There are some summary statistics (think mean, median, mode, variance, standard deviation) that are covered in every stats course known to humankind, but there are some other interesting summary stats that I definitely use that aren't covered.  One that comes to mind is kurtosis.  Kurtosis is definitely in the same category as variance and SD, but it doesn't find its way into most undergrad stats courses.  \n\nSo what I'm saying is that there are still plenty of low-hanging fruits at the level of an undergrad course that often aren't covered in those courses.",
+            "score": 3,
+            "que": "Would you say Stats is a required skill for an analyst? Or is it a 'good-to-have'?  I'm currently taking some SQL, Python, and R courses, and planning on getting my bachelors in Data Analytics, but I have basic college level stats under my belt. Not sure how important it is in the field.  I definitely understand that DSs definitely need a strong grasp of Stats though"
+        },
+        {
+            "id": "fxidbcz",
+            "parent": "t1_fxiasww",
+            "ans": "r/angryupvote",
+            "score": 12,
+            "que": "Data scientists invented the pie chart and then came up with the brilliant idea of sticking sedatives in it, creating a numb pie, which panda importers  depend on."
+        },
+        {
+            "id": "fxi68hi",
+            "parent": "t1_fxi5vcu",
+            "ans": "Anacondas and Pythons!",
+            "score": 19,
+            "que": "Wait until you've heard about the snake black market"
+        },
+        {
+            "id": "fxi8x3v",
+            "parent": "t1_fxi5vcu",
+            "ans": "I monitor the black snake market with various VisiCalc rip-offs",
+            "score": 4,
+            "que": "Wait until you've heard about the snake black market"
+        },
+        {
+            "id": "fxia4uh",
+            "parent": "t1_fxi5vcu",
+            "ans": "Please leave my python alone.",
+            "score": 3,
+            "que": "Wait until you've heard about the snake black market"
+        },
+        {
+            "id": "fxj9anp",
+            "parent": "t1_fxi0qd4",
+            "ans": "I think these people are genuinely insecure and want confirmation that their talents and accomplishments are real. It's perfectly normal.",
+            "score": 0,
+            "que": "Yeah, I mean you can post your accomplishments and be proud of yourself. But you don\u2019t have to pretend like you\u2019re Somehow still behind the curve or something. It\u2019s weird"
+        },
+        {
+            "id": "fxjp13m",
+            "parent": "t1_fxi5zsa",
+            "ans": "Awesome thoughts, /u/pussyisforfaggots\n\n/r/rimjob_steve",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "fxirqto",
+            "parent": "t1_fxin7cb",
+            "ans": "Hey, myself included, I didn't mean anything negative with my comment!",
+            "score": 1,
+            "que": "It's not being imperfect, it's just mediocre.\nNot everyone strives to be perfect."
+        },
+        {
+            "id": "fxjvqkb",
+            "parent": "t1_fxin7cb",
+            "ans": "But what about striving to be perfectly mediocre?",
+            "score": 1,
+            "que": "It's not being imperfect, it's just mediocre.\nNot everyone strives to be perfect."
+        },
+        {
+            "id": "fxirs7n",
+            "parent": "t1_fxi1sjq",
+            "ans": "You will! Just stick with it haha",
+            "score": 1,
+            "que": "Wow. I'm glad that it worked out for you! Hopefully I'll get at the level I want to be some day soon. I'm also starting off as a dev soon, and I'm hoping that the work experience I gain out of my first job will help me get where I want to be"
+        },
+        {
+            "id": "fy6km3l",
+            "parent": "t1_fy6im9v",
+            "ans": "Domain experience! I was heavily involved in music and had a strong musical background I gained on the side of my education and it allowed me to get a foot in with a music software company and I got two internships that way and then a job.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxjzyel",
+            "parent": "t1_fxjngo0",
+            "ans": "It's only been a month but applications are out there.  I feel confident with how many postings I'm seeing that there is still a strong need for us during the pandemic.",
+            "score": 1,
+            "que": "Damn that\u2019s terrifying, hopefully you landed on your feet somewhere else?"
+        },
+        {
+            "id": "fxlrpuf",
+            "parent": "t1_fxl9qu8",
+            "ans": "Small team at a small startup.",
+            "score": 2,
+            "que": "Wow, that's crazy.  Were you on a team of data folks or were you the only data person?"
+        },
+        {
+            "id": "fxl0rjb",
+            "parent": "t1_fxkqiqb",
+            "ans": "I dont have a fixed working schedule and change it up how I please but its not rocket science, you work 12-14h, sleep 6h, then have another 6h for anything you want.",
+            "score": 1,
+            "que": "How do you go to the gym, make food, do groceries, run life errands, and see those friends & family you are mentioning if you are \u00ab\u00a0doing data science\u00a0\u00bb from 8 AM to 10 PM everyday, including weekends?\n\nThis commentor is exactly the problem with this subreddit. They are either blatantly lying or simply don\u2019t have a life."
+        },
+        {
+            "id": "fxkehya",
+            "parent": "t1_fxke1kw",
+            "ans": "I guess, I'm just saying finding a job you love isn't a solution",
+            "score": 1,
+            "que": "Most people are choosing between a job they love and a job they hate, not a job they love and a life of leisure."
+        },
+        {
+            "id": "fxjap8c",
+            "parent": "t1_fxj6jiy",
+            "ans": "Two major points I think you're missing are:   \n\\- Enjoying and respecting your coworkers   \n\\- Management that is supportive and professional",
+            "score": 22,
+            "que": "How are you measuring it? I've found that a good equation involves\n\n* how fun it is\n* distance from home (in time)\n* what can you learn\n* how can you grow\n* how much they pay you\n\nFind your equation with these variables, compute your betas, rank different jobs. You'll be surprised. Rule is that first you rank those 5, then, in the equation, weights cannot change that rank. (I put them in my personal order)"
+        },
+        {
+            "id": "fxk6fb5",
+            "parent": "t1_fxjvj40",
+            "ans": "The sad part for me is that I made them up, but I\u2019m not confident that they aren\u2019t languages. I\u2019m particularly proud of AspHalt; that H is provocative. Is it a snake reference? Maybe it\u2019s something to do with security? Halt the asps!",
+            "score": 14,
+            "que": "I think the worst part about that is I'm unsure if you're joking about everything after c# because I just can't keep up anymore."
+        },
+        {
+            "id": "fxjwaga",
+            "parent": "t1_fxjvj40",
+            "ans": "Exactly LOL! After c#, I have no idea if they're made up or not",
+            "score": 3,
+            "que": "I think the worst part about that is I'm unsure if you're joking about everything after c# because I just can't keep up anymore."
+        },
+        {
+            "id": "fynzddw",
+            "parent": "t1_fynpfhm",
+            "ans": "When I wrote that comment, I was 90% sure I had heard of some language that was named after some disliked produce, but I couldn't be sure which one it was.",
+            "score": 2,
+            "que": "[https://docs.celeryproject.org/en/stable/getting-started/introduction.html](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)"
+        },
+        {
+            "id": "fy8xkcs",
+            "parent": "t1_fy8vdkb",
+            "ans": "It must be because Im german and you are an american. In america you can just learn by yourself for short peroid of time, and show the company that you are willing to learn and work. This could work. Here in Germany the only thing that counts are the papers, proving that you learned that for years in universities.",
+            "score": 5,
+            "que": "Understood, but these are also pretty much all junior roles I'm applying to. Obviously there are going to be plenty of people always leagues ahead of me but I gotta start somewhere. And 6 months is not an insignificant amount of time. I also have a relevant undergrad degree and have done similar work in econometrics. I'm not looking for like a director or team lead position here, the responsibilities for what I'm applying to are pretty straightforward."
+        },
+        {
+            "id": "fxidq42",
+            "parent": "t1_fxid3c4",
+            "ans": "This was very informative, thank you!\n\nI've been peeking at Jr Analysts' Linkedin profiles. (This is how I judge my skills compared to others) I don't think I have the necessary skill level in any tool (Other than SQL) to get my first DA job, yet.\n\nAlso, I find it hard to wrap my head around how to build a porfolio. I've also been looking for things like these on the Linkedin profiles, but I've found nothing so far. I have no idea where to start with something like that.\n\nBut anyway, thank you again for sharing what I should know at the very least!",
+            "score": 5,
+            "que": "I would argue this depends on what kind of function the analyst has at a company. Like data scientist, the title \"analyst\" holds responsibilities ranging from analyzing processes to regression analysis and time series forecasting.\n\nSo really, it depends on whether or not you want a more stats heavy analyst job. GENERALLY though I would argue you should have at least solid stats fundamentals so you're not constrained in your career options.\n\nKnow how to explain and practically apply/avoid things like p hacking, sampling bias, regression analysis, significance levels, etc. at almost ELI5 level (i.e. to non stats colleagues).\n\nAnd ofc make sure your data viz, professional writing, Excel, SQL, and hopefully Python/R is solid.\n\nIf it's going to be your first analyst job, be able to explain and basically apply concepts (a portfolio would be great for this) and then once you get the job, be willing to learn. Most reasonable employers don't have extremely high expectations for junior positions."
+        },
+        {
+            "id": "fxiyr2m",
+            "parent": "t1_fxid3c4",
+            "ans": "Hey i am looking for a switch in my job to a data scientist to get a good paying job but i still don't get any reverts from companies so could you please guide me what all shoud i learn to get a job in DS ?\n\nI know ML(svm,knn, unsupervised ML) deeplearning(NN,CNN and will be doing RNN soon)\n\nWhat else should i do ?",
+            "score": 1,
+            "que": "I would argue this depends on what kind of function the analyst has at a company. Like data scientist, the title \"analyst\" holds responsibilities ranging from analyzing processes to regression analysis and time series forecasting.\n\nSo really, it depends on whether or not you want a more stats heavy analyst job. GENERALLY though I would argue you should have at least solid stats fundamentals so you're not constrained in your career options.\n\nKnow how to explain and practically apply/avoid things like p hacking, sampling bias, regression analysis, significance levels, etc. at almost ELI5 level (i.e. to non stats colleagues).\n\nAnd ofc make sure your data viz, professional writing, Excel, SQL, and hopefully Python/R is solid.\n\nIf it's going to be your first analyst job, be able to explain and basically apply concepts (a portfolio would be great for this) and then once you get the job, be willing to learn. Most reasonable employers don't have extremely high expectations for junior positions."
+        },
+        {
+            "id": "fxihnia",
+            "parent": "t1_fxia4uh",
+            "ans": "R, matey, we be pirates! We'll do as we please!",
+            "score": 5,
+            "que": "Please leave my python alone."
+        },
+        {
+            "id": "fxijxo6",
+            "parent": "t1_fxia4uh",
+            "ans": "You see that video of the woman's arm being squashed by her own python?",
+            "score": 1,
+            "que": "Please leave my python alone."
+        },
+        {
+            "id": "fxjak0p",
+            "parent": "t1_fxj9anp",
+            "ans": "I don\u2019t care if you\u2019re insecure, they can go seek attention or whatever that\u2019s on them. But if they\u2019re truly making progress in their craft after holding jobs and doing personal projects, etc they should KNOW how they\u2019re doing. It doesn\u2019t take much to see how much better they\u2019re doing than others. That typically isn\u2019t something you need reconfirmed.",
+            "score": 4,
+            "que": "I think these people are genuinely insecure and want confirmation that their talents and accomplishments are real. It's perfectly normal."
+        },
+        {
+            "id": "fy7d8vn",
+            "parent": "t1_fy6km3l",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "Domain experience! I was heavily involved in music and had a strong musical background I gained on the side of my education and it allowed me to get a foot in with a music software company and I got two internships that way and then a job."
+        },
+        {
+            "id": "fxkvife",
+            "parent": "t1_fxjap8c",
+            "ans": "May I add, the contribution one makes to society?",
+            "score": 7,
+            "que": "Two major points I think you're missing are:   \n\\- Enjoying and respecting your coworkers   \n\\- Management that is supportive and professional"
+        },
+        {
+            "id": "fxjgvtz",
+            "parent": "t1_fxjap8c",
+            "ans": "absolutely right!!\n\nprobably they fit in \"how fun it is\", but they indeed deserve a special category. I started using (some) of the same metrics that can be used for a romantic relationship: maybe we're just fucking each other, maybe it's only money, but if we get along nicely we could last longer.",
+            "score": 6,
+            "que": "Two major points I think you're missing are:   \n\\- Enjoying and respecting your coworkers   \n\\- Management that is supportive and professional"
+        },
+        {
+            "id": "fxkuu27",
+            "parent": "t1_fxk6fb5",
+            "ans": "Reminds me of the Pokemon or Big Data quiz, which I got through solely based on my knowledge of Pokemon.",
+            "score": 6,
+            "que": "The sad part for me is that I made them up, but I\u2019m not confident that they aren\u2019t languages. I\u2019m particularly proud of AspHalt; that H is provocative. Is it a snake reference? Maybe it\u2019s something to do with security? Halt the asps!"
+        },
+        {
+            "id": "fy8z7ol",
+            "parent": "t1_fy8xkcs",
+            "ans": "Ahh. Well I do have a few decent sized projects that I've done that I feel like are my biggest help. I also actually originally started a masters program in the field but there was so much extraneous information and the cost was doubled. I preferred learning the basics of what I needed to get started rather than spending 4x as long and twice the money to learn not that much more. Seemed like it made more sense to get to the point where I could get an entry level role and get more experience rather than theory/papers.",
+            "score": 2,
+            "que": "It must be because Im german and you are an american. In america you can just learn by yourself for short peroid of time, and show the company that you are willing to learn and work. This could work. Here in Germany the only thing that counts are the papers, proving that you learned that for years in universities."
+        },
+        {
+            "id": "fxig3uv",
+            "parent": "t1_fxidq42",
+            "ans": "I'm not too sure you need a portfolio if you're an undergrad/freshly graduated honestly but if you want to give your resume an extra shine...\n\nThis is where it's helpful to get into a problem solving mindset. This will just be an example process which you can personalize. You need to turn an ill-defined problem into a well-defined problem so it's more solvable. Right now all you have is \"I want to create a portfolio have a good job out of college\".\n\nSo let's define what that means (I.e. parameters). That means, specifically, you need to create a portfolio that shows aptitude or experience in the requirements of the roles you want. So what are the requirements? If its exploratory analysis in Excel then you probably need to show off pivot tables, VLOOKUP, and array formulas. If a tool salesman needed to show off the efficacy of his tool, he would come up with something that specifically shows off prowess of said tool, right? Same thing. So you need to figure out a way to show off specific skills using any dataset (there are tons on govt websites or Kaggle or open source datasets). So you build a project around that.\n\nIf you see your target jobs expects you to understand experimental design, write reviews of scientific articles.\n\nIf your target jobs expects you to know Python create a data analysis process in Python including pulling, cleaning, and analysis.\n\nI could keep coming up with more and more breakdown but I'm half asleep now and I think you get the point. Let me know if you need more clarification.",
+            "score": 8,
+            "que": "This was very informative, thank you!\n\nI've been peeking at Jr Analysts' Linkedin profiles. (This is how I judge my skills compared to others) I don't think I have the necessary skill level in any tool (Other than SQL) to get my first DA job, yet.\n\nAlso, I find it hard to wrap my head around how to build a porfolio. I've also been looking for things like these on the Linkedin profiles, but I've found nothing so far. I have no idea where to start with something like that.\n\nBut anyway, thank you again for sharing what I should know at the very least!"
+        },
+        {
+            "id": "fxig8vl",
+            "parent": "t1_fxidq42",
+            "ans": "I actually know a number of data analysts who only know basic SQL and Excel, so (at least from my experience in the UK) I would say not to worry, and apply for data analyst jobs regardless!\n\nUnless you want a DA job at a FAANG company, I would say go right ahead - in fact I had an interview for a DA job at a large media company, and they told me explicitly that I would never need to use Python in the role (which came as quite a shock, given that using Python is one of the things I enjoy most about working with data)",
+            "score": 7,
+            "que": "This was very informative, thank you!\n\nI've been peeking at Jr Analysts' Linkedin profiles. (This is how I judge my skills compared to others) I don't think I have the necessary skill level in any tool (Other than SQL) to get my first DA job, yet.\n\nAlso, I find it hard to wrap my head around how to build a porfolio. I've also been looking for things like these on the Linkedin profiles, but I've found nothing so far. I have no idea where to start with something like that.\n\nBut anyway, thank you again for sharing what I should know at the very least!"
+        },
+        {
+            "id": "fxjfvs0",
+            "parent": "t1_fxjak0p",
+            "ans": "Being insecure isn't a rational process.",
+            "score": 1,
+            "que": "I don\u2019t care if you\u2019re insecure, they can go seek attention or whatever that\u2019s on them. But if they\u2019re truly making progress in their craft after holding jobs and doing personal projects, etc they should KNOW how they\u2019re doing. It doesn\u2019t take much to see how much better they\u2019re doing than others. That typically isn\u2019t something you need reconfirmed."
+        },
+        {
+            "id": "fy7qwso",
+            "parent": "t1_fy7d8vn",
+            "ans": "Take a look in Nashville. It\u2019s a growing tech hub but ESPECIALLY within the medical field. I have a buddy who works IT for a medical company and when I looked out there there are other companies as well. I think it\u2019s a good place to take a look if you\u2019re gonna leverage healthcare experience.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fxlv4bk",
+            "parent": "t1_fxkvife",
+            "ans": "If that fulfills you.",
+            "score": 5,
+            "que": "May I add, the contribution one makes to society?"
+        },
+        {
+            "id": "fxl4y2j",
+            "parent": "t1_fxkvife",
+            "ans": "Definitely should be on the list.",
+            "score": 1,
+            "que": "May I add, the contribution one makes to society?"
+        },
+        {
+            "id": "fxjhbjs",
+            "parent": "t1_fxjgvtz",
+            "ans": "I just want to say I've really enjoyed observing this conversation.  This is the most data scientist nerd discussion about job satisfaction I've ever seen and it's fantastic.  Thank you.",
+            "score": 7,
+            "que": "absolutely right!!\n\nprobably they fit in \"how fun it is\", but they indeed deserve a special category. I started using (some) of the same metrics that can be used for a romantic relationship: maybe we're just fucking each other, maybe it's only money, but if we get along nicely we could last longer."
+        },
+        {
+            "id": "fxl2ve9",
+            "parent": "t1_fxkuu27",
+            "ans": "Wow.  I only got 56%.  I did slightly better than a coin flip, which means I knew *some* of them.",
+            "score": 1,
+            "que": "Reminds me of the Pokemon or Big Data quiz, which I got through solely based on my knowledge of Pokemon."
+        },
+        {
+            "id": "fxihwys",
+            "parent": "t1_fxig3uv",
+            "ans": "I was a Sr. Software Engineer at one point, and I would get pulled into meetings as the \"stats guy\" because I had been in scientific research for several years prior to working in the IT industry, which apparently meant I had more experience with stats and prob than anyone else.\n\nI found this extremely disconcerting as I had never taken a college level stats class.\n\n(This was before everyone wanted to be a data scientist.)",
+            "score": 1,
+            "que": "I'm not too sure you need a portfolio if you're an undergrad/freshly graduated honestly but if you want to give your resume an extra shine...\n\nThis is where it's helpful to get into a problem solving mindset. This will just be an example process which you can personalize. You need to turn an ill-defined problem into a well-defined problem so it's more solvable. Right now all you have is \"I want to create a portfolio have a good job out of college\".\n\nSo let's define what that means (I.e. parameters). That means, specifically, you need to create a portfolio that shows aptitude or experience in the requirements of the roles you want. So what are the requirements? If its exploratory analysis in Excel then you probably need to show off pivot tables, VLOOKUP, and array formulas. If a tool salesman needed to show off the efficacy of his tool, he would come up with something that specifically shows off prowess of said tool, right? Same thing. So you need to figure out a way to show off specific skills using any dataset (there are tons on govt websites or Kaggle or open source datasets). So you build a project around that.\n\nIf you see your target jobs expects you to understand experimental design, write reviews of scientific articles.\n\nIf your target jobs expects you to know Python create a data analysis process in Python including pulling, cleaning, and analysis.\n\nI could keep coming up with more and more breakdown but I'm half asleep now and I think you get the point. Let me know if you need more clarification."
+        },
+        {
+            "id": "fxjvo4o",
+            "parent": "t1_fxig3uv",
+            "ans": "Thank you for this! It helped me get an idea of where to start!",
+            "score": 1,
+            "que": "I'm not too sure you need a portfolio if you're an undergrad/freshly graduated honestly but if you want to give your resume an extra shine...\n\nThis is where it's helpful to get into a problem solving mindset. This will just be an example process which you can personalize. You need to turn an ill-defined problem into a well-defined problem so it's more solvable. Right now all you have is \"I want to create a portfolio have a good job out of college\".\n\nSo let's define what that means (I.e. parameters). That means, specifically, you need to create a portfolio that shows aptitude or experience in the requirements of the roles you want. So what are the requirements? If its exploratory analysis in Excel then you probably need to show off pivot tables, VLOOKUP, and array formulas. If a tool salesman needed to show off the efficacy of his tool, he would come up with something that specifically shows off prowess of said tool, right? Same thing. So you need to figure out a way to show off specific skills using any dataset (there are tons on govt websites or Kaggle or open source datasets). So you build a project around that.\n\nIf you see your target jobs expects you to understand experimental design, write reviews of scientific articles.\n\nIf your target jobs expects you to know Python create a data analysis process in Python including pulling, cleaning, and analysis.\n\nI could keep coming up with more and more breakdown but I'm half asleep now and I think you get the point. Let me know if you need more clarification."
+        },
+        {
+            "id": "fxk8t1r",
+            "parent": "t1_fxig8vl",
+            "ans": "I just finished up a 6 month online program for data science. Python and SQL being the main focus. Been applying to mainly data analysis jobs, they vary SO much in their requirements. Same with data scientist roles. There isnt really a standard for either titles. Which is annoying but also provides a nice flexibility. Atm, I really just want a damn job tho lol.",
+            "score": 4,
+            "que": "I actually know a number of data analysts who only know basic SQL and Excel, so (at least from my experience in the UK) I would say not to worry, and apply for data analyst jobs regardless!\n\nUnless you want a DA job at a FAANG company, I would say go right ahead - in fact I had an interview for a DA job at a large media company, and they told me explicitly that I would never need to use Python in the role (which came as quite a shock, given that using Python is one of the things I enjoy most about working with data)"
+        },
+        {
+            "id": "fxjvx1f",
+            "parent": "t1_fxig8vl",
+            "ans": "Wow! I didn't think this was at all possible! I've been applying, but a large amount of employers want bachelor's degrees. I still apply though! Haha maybe I'll get a call one day. Thanks for sharing",
+            "score": 2,
+            "que": "I actually know a number of data analysts who only know basic SQL and Excel, so (at least from my experience in the UK) I would say not to worry, and apply for data analyst jobs regardless!\n\nUnless you want a DA job at a FAANG company, I would say go right ahead - in fact I had an interview for a DA job at a large media company, and they told me explicitly that I would never need to use Python in the role (which came as quite a shock, given that using Python is one of the things I enjoy most about working with data)"
+        }
+    ]
+}

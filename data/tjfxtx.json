@@ -1,0 +1,421 @@
+{
+    "title": "Feeling starting out",
+    "id": "tjfxtx",
+    "create_at": 1647880596.0,
+    "score": 2258,
+    "comments": [
+        {
+            "id": "i1l0i9x",
+            "parent": "t1_i1k9azr",
+            "ans": "You can never go wrong with random forest with max depth 5.",
+            "score": 147,
+            "que": "This is literally me right now. I took a break from work because I can't train my model properly after 3 days of data cleaning and open reddit to see this \ud83e\udd21\n\nPls send help"
+        },
+        {
+            "id": "i1kxli2",
+            "parent": "t1_i1k9azr",
+            "ans": "3 days? Man. Weeks. Or even months.",
+            "score": 13,
+            "que": "This is literally me right now. I took a break from work because I can't train my model properly after 3 days of data cleaning and open reddit to see this \ud83e\udd21\n\nPls send help"
+        },
+        {
+            "id": "i1l65y5",
+            "parent": "t1_i1k9azr",
+            "ans": "Seconding the random forest suggestion, but try starting with just a decision tree, see how good you can get the AIC/AUC with manual pruning on a super simple process. An RF is going to be a pretty good baseline for almost any classification task and it\u2019ll\u2026 fit, at least\u2026 to a regression task. Worry about your SVMs and boosted trees and NNs and GAMs and whatever else later. Even better, try literally just doing some logistic or polynomial regressions first. You\u2019re probably going to be pleasantly surprised.",
+            "score": 10,
+            "que": "This is literally me right now. I took a break from work because I can't train my model properly after 3 days of data cleaning and open reddit to see this \ud83e\udd21\n\nPls send help"
+        },
+        {
+            "id": "i1ld7eh",
+            "parent": "t1_i1l3ls1",
+            "ans": "I didn't wanna be called out but here we are.",
+            "score": 45,
+            "que": "\"Why did you use this particular model?\"\n\n\"Well we tried all of them and this one is the best.\"\n\n\"But why\"\n\n\"Because it gave the best results.\"\n\n\"But why did it give the best results.\"\n\n\"Because it was the best model.\""
+        },
+        {
+            "id": "i1mwqhp",
+            "parent": "t1_i1l3ls1",
+            "ans": "Just make something up that sounds plausible. This is how most ML papers are written.",
+            "score": 13,
+            "que": "\"Why did you use this particular model?\"\n\n\"Well we tried all of them and this one is the best.\"\n\n\"But why\"\n\n\"Because it gave the best results.\"\n\n\"But why did it give the best results.\"\n\n\"Because it was the best model.\""
+        },
+        {
+            "id": "i1nwj3n",
+            "parent": "t1_i1l3ls1",
+            "ans": "To be fair interpretability for neural networks is pretty hard and is a pretty active research field atm",
+            "score": 6,
+            "que": "\"Why did you use this particular model?\"\n\n\"Well we tried all of them and this one is the best.\"\n\n\"But why\"\n\n\"Because it gave the best results.\"\n\n\"But why did it give the best results.\"\n\n\"Because it was the best model.\""
+        },
+        {
+            "id": "i1ke12u",
+            "parent": "t1_i1kam48",
+            "ans": "masochists make great data scientists",
+            "score": 107,
+            "que": "Cleaning data is the fun part"
+        },
+        {
+            "id": "i1maokq",
+            "parent": "t1_i1kam48",
+            "ans": "Agreed. I find I have to be much more clever with data cleaning than with modeling. You have to double check everything and really explore. Learn more too",
+            "score": 7,
+            "que": "Cleaning data is the fun part"
+        },
+        {
+            "id": "jhmv71p",
+            "parent": "t1_i1ko9r8",
+            "ans": "You gotta pump those exponents up. Those are rookie numbers.",
+            "score": 2,
+            "que": "Does a linear regression work? No? Well run it again with slightly different params"
+        },
+        {
+            "id": "i1o68o4",
+            "parent": "t1_i1ko9r8",
+            "ans": "Why do you have to call me out like that?",
+            "score": 2,
+            "que": "Does a linear regression work? No? Well run it again with slightly different params"
+        },
+        {
+            "id": "i1mjnom",
+            "parent": "t1_i1l3rr6",
+            "ans": "This is the heart of the struggle in data science.  Given enough time and compute resource, you can build an amazing model, that will absolutely not be accepted by the end user because it can't be explained.\n\nThe key to success is to find the model form that is simultaneously good enough to show predictive power, and explainable to the (non-DS) end user.  This is not a trivial challenge.",
+            "score": 11,
+            "que": "Responses in this thread are fascinating.\n\nI think the disparity is in confidence of explanation. I can detail and justify every step of data cleaning, the less explanatory the model though, the less confidence I have in it.\n\nIf my explanation is limited to terms of scores and performance, I badly struggle with justification."
+        },
+        {
+            "id": "i1o6ch1",
+            "parent": "t1_i1l9k3d",
+            "ans": "Completely agree! I've built some cool models in my time, but the biggest kudos I've ever received from my boss have come from linking datasets from different parts of the company and visualizing the results.",
+            "score": 5,
+            "que": "This is the right way to do it. Data quality > model magic"
+        },
+        {
+            "id": "i1ma42t",
+            "parent": "t1_i1kkwdq",
+            "ans": "The longer I've done data science the more this meme reverses for me. I'll whip you up any ol' sklearn model but ask me to \"make exploratory inferences\" and I'm procrastinating.",
+            "score": 5,
+            "que": "It\u2019s usually other way around"
+        },
+        {
+            "id": "i1kxnf8",
+            "parent": "t1_i1kkwdq",
+            "ans": "Not for me.",
+            "score": 3,
+            "que": "It\u2019s usually other way around"
+        },
+        {
+            "id": "i1kxw1l",
+            "parent": "t1_i1kkwdq",
+            "ans": "what I was gonna say lol",
+            "score": 2,
+            "que": "It\u2019s usually other way around"
+        },
+        {
+            "id": "i1l2e2y",
+            "parent": "t1_i1kr34t",
+            "ans": "This",
+            "score": 1,
+            "que": "Just use automl and move from where it tells you"
+        },
+        {
+            "id": "i1mqioa",
+            "parent": "t1_i1kr34t",
+            "ans": "interesting approach. What would \"move from where it tells you\" involve? Not really sure how automl works exactly, but do you pick the model it chooses and then further optimize hyperparams?",
+            "score": 1,
+            "que": "Just use automl and move from where it tells you"
+        },
+        {
+            "id": "i1mido6",
+            "parent": "t1_i1micxu",
+            "ans": "##This Is The Way Leaderboard  \n\n**1.** `u/Mando_Bot` **500718** times.\n\n**2.** `u/Flat-Yogurtcloset293` **475777** times.\n\n**3.** `u/GMEshares` **70936** times.\n\n..\n\n**118940.** `u/BretTheActuary` **2** times.\n\n---\n\n^(^beep ^boop ^I ^am ^a ^bot ^and ^this ^action ^was ^performed ^automatically.)",
+            "score": 1,
+            "que": "This is the way."
+        },
+        {
+            "id": "i203v8b",
+            "parent": "t1_i1mwqzq",
+            "ans": "im sure yours is better! Keyaaahhhhh",
+            "score": 1,
+            "que": "My base sklearn random forest just performed better than my grid searched forest. help\ud83d\ude05"
+        },
+        {
+            "id": "i1l3qv6",
+            "parent": "t1_i1l0i9x",
+            "ans": "RFs are really robust. I always use those as a first step. I usually wind up using something else eventually but it works really well up front when trying to understand the problem.",
+            "score": 49,
+            "que": "You can never go wrong with random forest with max depth 5."
+        },
+        {
+            "id": "i1l0nou",
+            "parent": "t1_i1l0i9x",
+            "ans": "Lol I will try and get back to you, thanks",
+            "score": 10,
+            "que": "You can never go wrong with random forest with max depth 5."
+        },
+        {
+            "id": "i1mvw5h",
+            "parent": "t1_i1l0i9x",
+            "ans": "This is my go to for every model start. Just don't use so many estimators that your evaluation metric doesn't start tanking for the test data due to overfitting. 5 does seem to be the magic number for some reason!",
+            "score": 4,
+            "que": "You can never go wrong with random forest with max depth 5."
+        },
+        {
+            "id": "i1vvlg0",
+            "parent": "t1_i1l0i9x",
+            "ans": "So, I can't for the life of me run Random Forests with Scikit-Learn with a big enough number of estimators. I'm on a 8c/16t CPU and it just... stops running after a while. Like, the Python processes go down to 7% usage and the verbose stops printing out anything.\n\nLinear Regressions, Decision Trees and XGBoost are all fine tho",
+            "score": 1,
+            "que": "You can never go wrong with random forest with max depth 5."
+        },
+        {
+            "id": "i1l0kh7",
+            "parent": "t1_i1kxli2",
+            "ans": "It's just a beginner's project for an open position as a Jr Data Scientist. \n\nI really want the job, but since I just finished building my first ever model for this challenge, I've set the goal to use this as an opportunity to learn more about Machine Learning, since I always wanted to but never got around to do so",
+            "score": 2,
+            "que": "3 days? Man. Weeks. Or even months."
+        },
+        {
+            "id": "i1lcyzu",
+            "parent": "t1_i1l65y5",
+            "ans": "Yeah my capstone project, we ended up with two models. A NN and a logistic regression. And it was supposed to be something we passed off to a client. The NN did a *hair* better than the logistic for classification, but for simplicity sake, and because this was a project with massive potential for compounding error anyway, we stuck with the logistic. Our professor was not pleased with this choice because \"all that matters is the error rate\" but honestly...I still stand by that choice. If two models are juuuuust about the same, why would I choose the NN over Logistic regression? I hate overcomplicating things for no reason.",
+            "score": 17,
+            "que": "Seconding the random forest suggestion, but try starting with just a decision tree, see how good you can get the AIC/AUC with manual pruning on a super simple process. An RF is going to be a pretty good baseline for almost any classification task and it\u2019ll\u2026 fit, at least\u2026 to a regression task. Worry about your SVMs and boosted trees and NNs and GAMs and whatever else later. Even better, try literally just doing some logistic or polynomial regressions first. You\u2019re probably going to be pleasantly surprised."
+        },
+        {
+            "id": "i1ldkvu",
+            "parent": "t1_i1l65y5",
+            "ans": "I don't know much about these models, but they're for classification problems, right? I'm working with a regression problem rn (predict aparment offered price based on some categorical data and number of rooms)\n\nI one hot encoded the categorical data and threw a linear regression at it and got some results that I'm not too satisfied with. My R2 score was around 0.3 (which is not inherently bad from what I'm reading) but it predicted a higher price to a 2 room apartment than the price avarege of 3 room apartments, so that doesn't seem good to me.\n\nDo these models work with the problem I described? And also, how much should I try to learn about each before trying to implement them?",
+            "score": 1,
+            "que": "Seconding the random forest suggestion, but try starting with just a decision tree, see how good you can get the AIC/AUC with manual pruning on a super simple process. An RF is going to be a pretty good baseline for almost any classification task and it\u2019ll\u2026 fit, at least\u2026 to a regression task. Worry about your SVMs and boosted trees and NNs and GAMs and whatever else later. Even better, try literally just doing some logistic or polynomial regressions first. You\u2019re probably going to be pleasantly surprised."
+        },
+        {
+            "id": "i1o5gyc",
+            "parent": "t1_i1nwj3n",
+            "ans": "That's why when someone on my team wants to use DL, I ask them to tell me all the things they've tried first. You'd be amazed how often a first-semester stats approach can work almost as well as a neural network.",
+            "score": 6,
+            "que": "To be fair interpretability for neural networks is pretty hard and is a pretty active research field atm"
+        },
+        {
+            "id": "i1lvor8",
+            "parent": "t1_i1ke12u",
+            "ans": "Or just imaginative people. I like looking at outliers and coming up with outlandish reasons for why it's real data, even though it was almost always a data entry error.",
+            "score": 16,
+            "que": "masochists make great data scientists"
+        },
+        {
+            "id": "i1ooynx",
+            "parent": "t1_i1o68o4",
+            "ans": "XD great minds think alike",
+            "score": 3,
+            "que": "Why do you have to call me out like that?"
+        },
+        {
+            "id": "i1n6fam",
+            "parent": "t1_i1mjnom",
+            "ans": "I find that [SHAP](http://github.com/slundberg/shap) (and other explanation models) help a lot in this kind of situation, giving individual- and model-wise explanations.\nSHAP has existed since I've been into ML, and honestly I can't imagine how hard it was before explanation models were popularised.",
+            "score": 5,
+            "que": "This is the heart of the struggle in data science.  Given enough time and compute resource, you can build an amazing model, that will absolutely not be accepted by the end user because it can't be explained.\n\nThe key to success is to find the model form that is simultaneously good enough to show predictive power, and explainable to the (non-DS) end user.  This is not a trivial challenge."
+        },
+        {
+            "id": "i1n1lu7",
+            "parent": "t1_i1mqioa",
+            "ans": "Pretty much.",
+            "score": 1,
+            "que": "interesting approach. What would \"move from where it tells you\" involve? Not really sure how automl works exactly, but do you pick the model it chooses and then further optimize hyperparams?"
+        },
+        {
+            "id": "i1m02u3",
+            "parent": "t1_i1l3qv6",
+            "ans": "They\u2019re great for feature analysis too. Print out a few trees and checkout the gini impurity, it helps to see what\u2019s important",
+            "score": 35,
+            "que": "RFs are really robust. I always use those as a first step. I usually wind up using something else eventually but it works really well up front when trying to understand the problem."
+        },
+        {
+            "id": "i1mxzvl",
+            "parent": "t1_i1mvw5h",
+            "ans": "Sometimes max depth of 5 is a bit overfit, usually it's a bit underfit, but it's never _bad_.",
+            "score": 1,
+            "que": "This is my go to for every model start. Just don't use so many estimators that your evaluation metric doesn't start tanking for the test data due to overfitting. 5 does seem to be the magic number for some reason!"
+        },
+        {
+            "id": "i1lenmc",
+            "parent": "t1_i1lcyzu",
+            "ans": "Imo that was absolutely the correct decision for a problem simple enough that the two are close. There's so much value in an inherently explainable model that it can absolutely leapfrog a truly marginal difference in error rate if you're doing anything of any actual gravitas i.e. more important than marketing / content recommendation. \n\nIn the area I used to work when I was doing more modelling, if I hadn't supplied multiple options for explaining decisions made by one of my models, the business would have said \"how the hell do you expect us to get away with saying the computer told us to do it\" and told me to bugger off until I can get them something that can give a good reason it's flagging a case. In the end they found SHAP, a CART decision tree trained on the output, and Conditional Feature Contributions per case to be acceptable, but I definitely learned my lesson",
+            "score": 16,
+            "que": "Yeah my capstone project, we ended up with two models. A NN and a logistic regression. And it was supposed to be something we passed off to a client. The NN did a *hair* better than the logistic for classification, but for simplicity sake, and because this was a project with massive potential for compounding error anyway, we stuck with the logistic. Our professor was not pleased with this choice because \"all that matters is the error rate\" but honestly...I still stand by that choice. If two models are juuuuust about the same, why would I choose the NN over Logistic regression? I hate overcomplicating things for no reason."
+        },
+        {
+            "id": "i1lpss2",
+            "parent": "t1_i1lcyzu",
+            "ans": "You could probably have shown with a bootstrap that the standard error of your logistic regression was lower, and thus had less uncertainty than the neural network to quantify that intuition. But from the sound of it your professor would probably be having none of that.",
+            "score": 4,
+            "que": "Yeah my capstone project, we ended up with two models. A NN and a logistic regression. And it was supposed to be something we passed off to a client. The NN did a *hair* better than the logistic for classification, but for simplicity sake, and because this was a project with massive potential for compounding error anyway, we stuck with the logistic. Our professor was not pleased with this choice because \"all that matters is the error rate\" but honestly...I still stand by that choice. If two models are juuuuust about the same, why would I choose the NN over Logistic regression? I hate overcomplicating things for no reason."
+        },
+        {
+            "id": "i1lf81l",
+            "parent": "t1_i1ldkvu",
+            "ans": "If you're going to implement a model you should really learn about it first. At the very least a good qualitative understanding of what's going on in the guts of each one, what assumptions it's making, and what its output actually means. For example, you don't need to be able to code a GAM from scratch to be effective, but you really should know what \"basis function expansion\" and \"penalised likelihood\" mean and how they're used before calling `fit_transform()`\n\nProbably worth trying a GLM tbh. See if you can work out in advance what parameters and predictors to choose before just blindly modelling, make sure your choices are based both on the theory and on what your data viz is hinting at",
+            "score": 5,
+            "que": "I don't know much about these models, but they're for classification problems, right? I'm working with a regression problem rn (predict aparment offered price based on some categorical data and number of rooms)\n\nI one hot encoded the categorical data and threw a linear regression at it and got some results that I'm not too satisfied with. My R2 score was around 0.3 (which is not inherently bad from what I'm reading) but it predicted a higher price to a 2 room apartment than the price avarege of 3 room apartments, so that doesn't seem good to me.\n\nDo these models work with the problem I described? And also, how much should I try to learn about each before trying to implement them?"
+        },
+        {
+            "id": "i1ogg5j",
+            "parent": "t1_i1ldkvu",
+            "ans": "No modeling advice specifically for you since I'm pretty new to the game as well, but I wouldn't doubt a model just because it prices a 2br higher than the average for a 3br. These models are based on things that humans want. If a 2br has better features than most, yeah it's gonna out price an avg 3br. This was a common example in one of my classes (except for houses), that as bedrooms increase, the variability in price increases substantially, so just plotting br against price, showed a fan shape (indicating a log transformation might be beneficial). The thought being that if you have an 800 sqft apartment with 2 bedrooms, and an 800 sqft apartment with 3 bedrooms, those bedrooms are gonna be tiny and it's gonna be cramped. Hard to say why exactly without knowing the variables, but it could be coded in one of the variables somewhere that indicates those kinds of things.",
+            "score": 4,
+            "que": "I don't know much about these models, but they're for classification problems, right? I'm working with a regression problem rn (predict aparment offered price based on some categorical data and number of rooms)\n\nI one hot encoded the categorical data and threw a linear regression at it and got some results that I'm not too satisfied with. My R2 score was around 0.3 (which is not inherently bad from what I'm reading) but it predicted a higher price to a 2 room apartment than the price avarege of 3 room apartments, so that doesn't seem good to me.\n\nDo these models work with the problem I described? And also, how much should I try to learn about each before trying to implement them?"
+        },
+        {
+            "id": "i1o5wqv",
+            "parent": "t1_i1lvor8",
+            "ans": "I do the same thing! I was looking at nursing home data and found several facilities with ten times more residents than authorized beds. I hypothesized about why these facilities were so overcrowded before realizing the data entry person accidentally added an extra zero at the end.\n\nSimilarly, I was looking at North Carolina voter data and was surprised to learn that Democrats tended to be older than Republicans. Then I checked the data notes and found out that \"120\" in the age column meant they did not know the person's age, and Democrats were more likely to have missing data.",
+            "score": 3,
+            "que": "Or just imaginative people. I like looking at outliers and coming up with outlandish reasons for why it's real data, even though it was almost always a data entry error."
+        },
+        {
+            "id": "i1o6766",
+            "parent": "t1_i1n6fam",
+            "ans": "The explanatory models are great, but they're still hard to explain in some contexts. I run the data science department at a corporation. Being able to fit an explanation of a model onto one MBA-proof slide remains a challenge.",
+            "score": 5,
+            "que": "I find that [SHAP](http://github.com/slundberg/shap) (and other explanation models) help a lot in this kind of situation, giving individual- and model-wise explanations.\nSHAP has existed since I've been into ML, and honestly I can't imagine how hard it was before explanation models were popularised."
+        },
+        {
+            "id": "i1n5gle",
+            "parent": "t1_i1n1lu7",
+            "ans": "thanks bud ill be trying this out for myself. exciting stuff!",
+            "score": 1,
+            "que": "Pretty much."
+        },
+        {
+            "id": "i1n2xyv",
+            "parent": "t1_i1m02u3",
+            "ans": "Just make sure you keep a holdout set for final evaluation when you do this. Don't want to use the same data to both select features and evaluate the final model.",
+            "score": 12,
+            "que": "They\u2019re great for feature analysis too. Print out a few trees and checkout the gini impurity, it helps to see what\u2019s important"
+        },
+        {
+            "id": "i1m3g3e",
+            "parent": "t1_i1lpss2",
+            "ans": "Ya know, we actually started to, and then decided that that was another section of our paper that we didn't wanna write on a super tight deadline so we scrapped it \ud83d\ude02",
+            "score": 4,
+            "que": "You could probably have shown with a bootstrap that the standard error of your logistic regression was lower, and thus had less uncertainty than the neural network to quantify that intuition. But from the sound of it your professor would probably be having none of that."
+        },
+        {
+            "id": "i1on686",
+            "parent": "t1_i1ogg5j",
+            "ans": "That is actually great insight. I will look at the variability of price per number of rooms. Thank you!",
+            "score": 1,
+            "que": "No modeling advice specifically for you since I'm pretty new to the game as well, but I wouldn't doubt a model just because it prices a 2br higher than the average for a 3br. These models are based on things that humans want. If a 2br has better features than most, yeah it's gonna out price an avg 3br. This was a common example in one of my classes (except for houses), that as bedrooms increase, the variability in price increases substantially, so just plotting br against price, showed a fan shape (indicating a log transformation might be beneficial). The thought being that if you have an 800 sqft apartment with 2 bedrooms, and an 800 sqft apartment with 3 bedrooms, those bedrooms are gonna be tiny and it's gonna be cramped. Hard to say why exactly without knowing the variables, but it could be coded in one of the variables somewhere that indicates those kinds of things."
+        },
+        {
+            "id": "i1n5su2",
+            "parent": "t1_i1n5gle",
+            "ans": "Here's microsoft's version\n\nhttps://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet/model-builder\n\nFor python there's\n\nhttps://automl.github.io/auto-sklearn/master/\n\nhttps://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html\n\nhttps://github.com/AxeldeRomblay/MLBox",
+            "score": 2,
+            "que": "thanks bud ill be trying this out for myself. exciting stuff!"
+        },
+        {
+            "id": "i1nbwcr",
+            "parent": "t1_i1n2xyv",
+            "ans": "Could you explain why? I read this several times, but don\u2019t understand the reason for this. We should use a different set for training, for selecting the model, for selecting the features and for evaluation, but why?",
+            "score": 3,
+            "que": "Just make sure you keep a holdout set for final evaluation when you do this. Don't want to use the same data to both select features and evaluate the final model."
+        },
+        {
+            "id": "i1m94cu",
+            "parent": "t1_i1m3g3e",
+            "ans": "Yeah, that\u2019s fair. Bootstraps are also kind of ass if you\u2019re training a neural network. Unless you have a god level budget and feel like waiting around.",
+            "score": 1,
+            "que": "Ya know, we actually started to, and then decided that that was another section of our paper that we didn't wanna write on a super tight deadline so we scrapped it \ud83d\ude02"
+        },
+        {
+            "id": "i1nfjqu",
+            "parent": "t1_i1nbwcr",
+            "ans": "You can only use each sample for one thing. You can use it to improve your model (by fitting on it, using it to select features, engineer features, optimize model parameters, etc.) OR you can use it to evaluate your model. If you use a sample for both, you're not doing an independent evaluation of your model.",
+            "score": 10,
+            "que": "Could you explain why? I read this several times, but don\u2019t understand the reason for this. We should use a different set for training, for selecting the model, for selecting the features and for evaluation, but why?"
+        },
+        {
+            "id": "i1nj5yt",
+            "parent": "t1_i1nfjqu",
+            "ans": "Thank you! I understand now why I split the data in a test and a training set, but why should I split the training set again for the different tasks of improving the model (fitting, selecting the features \u2026.) ? \nOr do we just have one split and perform all the tasks of improving on the training set?",
+            "score": 3,
+            "que": "You can only use each sample for one thing. You can use it to improve your model (by fitting on it, using it to select features, engineer features, optimize model parameters, etc.) OR you can use it to evaluate your model. If you use a sample for both, you're not doing an independent evaluation of your model."
+        },
+        {
+            "id": "i1nla7c",
+            "parent": "t1_i1nj5yt",
+            "ans": "So you split the data in a dev (basically train, but using dev to avoid ambiguity) and a final-test set. You put your final-test set aside for final evaluation.\n\nYou don't know which model design is best, so you want to try lots of different models. You split your data _again_: you split the dev set into a train and test set, you train the models on the train set, evaluate them on the test set, and pick the best one.\n\nNow it might be that in reality, the model you picked is actually quite bad, but just got very lucky on the test set. There's no way to be sure without additional test data.\n\nLuckily, you put aside your final-test set! You evaluate your model, and report the score.\n\nNow, it turns out, you weren't the only one working on this problem. Lots of different people were building models, and now management has to choose the best one. So they pick the one with the highest reported score. But they also want to know whether that reported score is reliable, so they want to evaluate it yet again on another new final-final-test set.\n\nAlas, all of the data has been used for training or selecting the best models, so they'll never know for sure what the performance of their final model pick is on independent data.",
+            "score": 5,
+            "que": "Thank you! I understand now why I split the data in a test and a training set, but why should I split the training set again for the different tasks of improving the model (fitting, selecting the features \u2026.) ? \nOr do we just have one split and perform all the tasks of improving on the training set?"
+        },
+        {
+            "id": "i1nl01k",
+            "parent": "t1_i1nj5yt",
+            "ans": "The reason you might want to split the training set again is, that you need data to compare different models on. So let's say you want to compare a random forest, an SVM and a neural network. For this you would train all of them on your training data, compare them on the validation data, chose the best model and eventually test the chosen model on your test data to see how good the model *really* is",
+            "score": 4,
+            "que": "Thank you! I understand now why I split the data in a test and a training set, but why should I split the training set again for the different tasks of improving the model (fitting, selecting the features \u2026.) ? \nOr do we just have one split and perform all the tasks of improving on the training set?"
+        },
+        {
+            "id": "i1nn2vh",
+            "parent": "t1_i1nla7c",
+            "ans": "Thank you very much! Makes total sense now! Wish you a nice day!",
+            "score": 3,
+            "que": "So you split the data in a dev (basically train, but using dev to avoid ambiguity) and a final-test set. You put your final-test set aside for final evaluation.\n\nYou don't know which model design is best, so you want to try lots of different models. You split your data _again_: you split the dev set into a train and test set, you train the models on the train set, evaluate them on the test set, and pick the best one.\n\nNow it might be that in reality, the model you picked is actually quite bad, but just got very lucky on the test set. There's no way to be sure without additional test data.\n\nLuckily, you put aside your final-test set! You evaluate your model, and report the score.\n\nNow, it turns out, you weren't the only one working on this problem. Lots of different people were building models, and now management has to choose the best one. So they pick the one with the highest reported score. But they also want to know whether that reported score is reliable, so they want to evaluate it yet again on another new final-final-test set.\n\nAlas, all of the data has been used for training or selecting the best models, so they'll never know for sure what the performance of their final model pick is on independent data."
+        },
+        {
+            "id": "i1oxo23",
+            "parent": "t1_i1nla7c",
+            "ans": "Been thinking a bit more about it and another question came up\u2026 in your scenario (train set, test set and final-test set), once I found the best model using the test set, why not use the entire dev set to fit the model?",
+            "score": 3,
+            "que": "So you split the data in a dev (basically train, but using dev to avoid ambiguity) and a final-test set. You put your final-test set aside for final evaluation.\n\nYou don't know which model design is best, so you want to try lots of different models. You split your data _again_: you split the dev set into a train and test set, you train the models on the train set, evaluate them on the test set, and pick the best one.\n\nNow it might be that in reality, the model you picked is actually quite bad, but just got very lucky on the test set. There's no way to be sure without additional test data.\n\nLuckily, you put aside your final-test set! You evaluate your model, and report the score.\n\nNow, it turns out, you weren't the only one working on this problem. Lots of different people were building models, and now management has to choose the best one. So they pick the one with the highest reported score. But they also want to know whether that reported score is reliable, so they want to evaluate it yet again on another new final-final-test set.\n\nAlas, all of the data has been used for training or selecting the best models, so they'll never know for sure what the performance of their final model pick is on independent data."
+        },
+        {
+            "id": "i1nneuu",
+            "parent": "t1_i1nl01k",
+            "ans": "Thank you a lot, NoThanks :)",
+            "score": 3,
+            "que": "The reason you might want to split the training set again is, that you need data to compare different models on. So let's say you want to compare a random forest, an SVM and a neural network. For this you would train all of them on your training data, compare them on the validation data, chose the best model and eventually test the chosen model on your test data to see how good the model *really* is"
+        },
+        {
+            "id": "i1qw4mr",
+            "parent": "t1_i1nl01k",
+            "ans": "Ok this is off topic a bit but I didn't want to make another post. I of course understand using samples for testing, pulling more samples for all the additional testing you mentioned. But how do we decide the size of a sample in relation to the entire dataset. Say it's 1 million rows. What type of sample size are we using? Something I've never been able to really understand is how large are our sample sets in relation to the entire dataset?",
+            "score": 1,
+            "que": "The reason you might want to split the training set again is, that you need data to compare different models on. So let's say you want to compare a random forest, an SVM and a neural network. For this you would train all of them on your training data, compare them on the validation data, chose the best model and eventually test the chosen model on your test data to see how good the model *really* is"
+        },
+        {
+            "id": "i1o57ve",
+            "parent": "t1_i1nn2vh",
+            "ans": "Another way to think about it is this: At work, my models will ultimately be tested against data that hasn't even been created yet by users. So when I'm testing a model, I want the final test to use data that I hadn't seen in any step of the training and development process.",
+            "score": 3,
+            "que": "Thank you very much! Makes total sense now! Wish you a nice day!"
+        },
+        {
+            "id": "i1p6mbw",
+            "parent": "t1_i1oxo23",
+            "ans": "Oh, yeah, that's usually a good idea.",
+            "score": 3,
+            "que": "Been thinking a bit more about it and another question came up\u2026 in your scenario (train set, test set and final-test set), once I found the best model using the test set, why not use the entire dev set to fit the model?"
+        },
+        {
+            "id": "i20t5kf",
+            "parent": "t1_i1oxo23",
+            "ans": "Generally the training, testing, validation split is used to :\n\n1. Train with training\n2. Fit hyper-parameters with testing, and select best model\n3. Actually do the final evaluation on a separate out-of-sample test set, often called \"validation data\"\n\nThe reason for splitting it into two different test sets, \"test\" and \"validation\" is that you may have selected, for example, an overfit model in the hyper-parameter fitting stage and you want to be sure you didn't.\n\nWhen selecting among different models in stage 2, it's still possible you picked some model that overfit or has some other inference problem.\n\nStage 3 is the test that is most like what will really happen in production. Your model will be expected to work with out-of-sample data that won't be used to fit hyper-parameters even.\n\nGenerally, you can get by on a training / testing split without the 3rd step if you're not fitting hyperparams.\n\nI suppose the idea is you're actually fitting a model twice. Once to get the weights or whatever the model uses for it's internal state, and once again for hyper-params.",
+            "score": 1,
+            "que": "Been thinking a bit more about it and another question came up\u2026 in your scenario (train set, test set and final-test set), once I found the best model using the test set, why not use the entire dev set to fit the model?"
+        },
+        {
+            "id": "i1nngxv",
+            "parent": "t1_i1nneuu",
+            "ans": "You're welcome :)",
+            "score": 1,
+            "que": "Thank you a lot, NoThanks :)"
+        },
+        {
+            "id": "i1pfwei",
+            "parent": "t1_i1p6mbw",
+            "ans": "Thank you again!",
+            "score": 2,
+            "que": "Oh, yeah, that's usually a good idea."
+        }
+    ]
+}

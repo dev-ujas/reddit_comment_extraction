@@ -1,0 +1,484 @@
+{
+    "title": "Wait until you see the data in hospitals...",
+    "id": "wp2vqk",
+    "create_at": 1660578282.0,
+    "score": 3259,
+    "comments": [
+        {
+            "id": "ikfhl1u",
+            "parent": "t1_ikebn2a",
+            "ans": "Sorry if I sound too Amy Santiago, but NEVER go to a new healthcare Provider without your Binder.\n\nIm gonna shame smoke now.",
+            "score": 93,
+            "que": "Currently working in the NHS. My top tip for any patient would be to introduce yourself to every doctor, nurse and therapist with your full name, date of birth, full past medical history and blood type and hope it matches the post it note in their hand..."
+        },
+        {
+            "id": "ikerorj",
+            "parent": "t1_ikebn2a",
+            "ans": "Why doesn't the NHS just have a central database?",
+            "score": 5,
+            "que": "Currently working in the NHS. My top tip for any patient would be to introduce yourself to every doctor, nurse and therapist with your full name, date of birth, full past medical history and blood type and hope it matches the post it note in their hand..."
+        },
+        {
+            "id": "ikgwza0",
+            "parent": "t1_ikebn2a",
+            "ans": "Was working on a hospital where a patient with a common name was waiting to check out and schedule his next appointment when he heard a staff member call his name from the other side of the waiting room.\n\nHe responded and followed the staff member to a procedure room where an md then performed a laser eye procedure on him.\n\nAfter the procedure was over he sat up and asked \"what did you just do to me?\"",
+            "score": 5,
+            "que": "Currently working in the NHS. My top tip for any patient would be to introduce yourself to every doctor, nurse and therapist with your full name, date of birth, full past medical history and blood type and hope it matches the post it note in their hand..."
+        },
+        {
+            "id": "ikegnid",
+            "parent": "t1_ikebn2a",
+            "ans": "I am planning on joining the NHS as a data analyst in the future. I am proficient in SQL, Excel, Power BI and a bit of Python. My degree is also on biomedical science so I have a really good understanding of the clinical data. Would that be enough?",
+            "score": 23,
+            "que": "Currently working in the NHS. My top tip for any patient would be to introduce yourself to every doctor, nurse and therapist with your full name, date of birth, full past medical history and blood type and hope it matches the post it note in their hand..."
+        },
+        {
+            "id": "ikfv4y3",
+            "parent": "t1_ikebn2a",
+            "ans": "In the US, you'd have to do that, plus bring every record from every past provider you've ever had. But luckily, you can also fax those in.",
+            "score": 2,
+            "que": "Currently working in the NHS. My top tip for any patient would be to introduce yourself to every doctor, nurse and therapist with your full name, date of birth, full past medical history and blood type and hope it matches the post it note in their hand..."
+        },
+        {
+            "id": "ikfes2m",
+            "parent": "t1_ikeamkf",
+            "ans": "V1, V2, final, final_v1, final_final....",
+            "score": 68,
+            "que": "Make that an army of tiny crabs. Hundreds of Excel files in local folders, each from a different analyst. \nThen name then V1, V2 and so on...."
+        },
+        {
+            "id": "ikehzl5",
+            "parent": "t1_ikeamkf",
+            "ans": "In my case it\u2019s -1, -V3, -v2, - 2, but that\u2019s only if it hasn\u2019t been saved over.",
+            "score": 13,
+            "que": "Make that an army of tiny crabs. Hundreds of Excel files in local folders, each from a different analyst. \nThen name then V1, V2 and so on...."
+        },
+        {
+            "id": "ikgjlz5",
+            "parent": "t1_ikeamkf",
+            "ans": "Fml. This was my last consulting gig. Migrates them to Azure and data bricks. What a pain in the ass.\n\nOnce was handed a excel file that I shit you not had 250+ tabs. Each line was a separate line item being forecasted for 20 periods. It took me a year to unravel that.",
+            "score": 11,
+            "que": "Make that an army of tiny crabs. Hundreds of Excel files in local folders, each from a different analyst. \nThen name then V1, V2 and so on...."
+        },
+        {
+            "id": "ikfqfq3",
+            "parent": "t1_ikf0f8u",
+            "ans": "[deleted]",
+            "score": 20,
+            "que": "I used to work for a hedge fund in Paris that was absorbed by Societe Generale.\n\nAnyway, that\u2019s not the point of the story, all our assets and liquidity models were running on Excel, but like 30 files all linked together, that you had to refresh at once otherwise it wouldn\u2019t compute. The computer would breathe like you trying to run like Usain Bolt for the duration of a marathon when running the computations.\n\nSo! Fast forward when I join the company, I offer to replace, mind you, all these functions with at least some VBA and arrays (lol we didn\u2019t get clearance for anything above), and my manager didn\u2019t want, and would actually threaten me if I did it, because he didn\u2019t want to lose the man days that it took to refresh the models. After all, I did it behind his back, the colleague in charge saved 8h of work a week and was super thankful.\n\nManager got wind of it, and was actually happy. After I told him that we should use a database for storing the data and doing the simplest computations in SQL, he greenlit me and behold, I was the proud developer of some MS Access processes. I left shortly after. The place was a mess. On my last day, I had a train to catch and the manager kept me until the end, trying to understand how access work.\n\nThere is not point to this story, except that in finance, and especially in big companies, the tools are shit, managers know jackshit about technologies, and I wonder to this day, how a bank can still work given the shit stack most of them use."
+        },
+        {
+            "id": "ikfpke3",
+            "parent": "t1_ikf0f8u",
+            "ans": "All too familiar",
+            "score": 7,
+            "que": "I used to work for a hedge fund in Paris that was absorbed by Societe Generale.\n\nAnyway, that\u2019s not the point of the story, all our assets and liquidity models were running on Excel, but like 30 files all linked together, that you had to refresh at once otherwise it wouldn\u2019t compute. The computer would breathe like you trying to run like Usain Bolt for the duration of a marathon when running the computations.\n\nSo! Fast forward when I join the company, I offer to replace, mind you, all these functions with at least some VBA and arrays (lol we didn\u2019t get clearance for anything above), and my manager didn\u2019t want, and would actually threaten me if I did it, because he didn\u2019t want to lose the man days that it took to refresh the models. After all, I did it behind his back, the colleague in charge saved 8h of work a week and was super thankful.\n\nManager got wind of it, and was actually happy. After I told him that we should use a database for storing the data and doing the simplest computations in SQL, he greenlit me and behold, I was the proud developer of some MS Access processes. I left shortly after. The place was a mess. On my last day, I had a train to catch and the manager kept me until the end, trying to understand how access work.\n\nThere is not point to this story, except that in finance, and especially in big companies, the tools are shit, managers know jackshit about technologies, and I wonder to this day, how a bank can still work given the shit stack most of them use."
+        },
+        {
+            "id": "ikgbt3n",
+            "parent": "t1_ikf226s",
+            "ans": "yep, never attribute to malice what can be attributed to incompetence lol people who believe in conspiracy theories are giving the public sector too much credit \ud83d\ude02",
+            "score": 27,
+            "que": "So many conspiracy theories during the first year of COVID with why data was constantly being delayed or revised...\n\nPeople fail to realize the effort involved with setting up good data collection systems and how chronically underfunded public health is."
+        },
+        {
+            "id": "ikh2ei3",
+            "parent": "t1_ikf226s",
+            "ans": "Worse, the news would report day totals which obviously had a lag.\n\nThere was a day in Texas in May 2021 that had no new COVID cases, the first time it had happened in months. Some people took that to mean \"no new cases in months, COVID is bullshit\".\n\nWhen they just didn't notice that the data had to be compiled and was reported with one day lag. Minimal testing was done Saturday and almost none on Sunday, and certainly no compiling, so they would report on a Monday of \"no new cases\" when you should be using a fucking moving average because you know people are gonna be fucking morons and need to have things spoonfed to them in every way possible (but that's just like, my opinion, man)",
+            "score": 3,
+            "que": "So many conspiracy theories during the first year of COVID with why data was constantly being delayed or revised...\n\nPeople fail to realize the effort involved with setting up good data collection systems and how chronically underfunded public health is."
+        },
+        {
+            "id": "ikfga2u",
+            "parent": "t1_ikffvk8",
+            "ans": "AIUI Jane Street ran their trading models in VBA for quite a few years -- so YesChad.jpg?",
+            "score": 3,
+            "que": "VBA got you covered guys. Got data to transform? VBA. got to create engaging visuals? VBA. need to build a BI suite and application with API? VBA. Reporting? VBA. Pipeline? VBA. Emotionally insecure? VBA. partner not reciprocating your advances? VBA. Raising a child? VBA. Trying to negotiate a peaceful resolution to the Iraq war? VBA. World hunger? VBA. Got Cancer? VBA. I let a VBA script console my dying mother and my vows were delivered according to the VBA syntax. You need to understand, there are no problems when you know VBA."
+        },
+        {
+            "id": "ikgjtse",
+            "parent": "t1_ikfgvo4",
+            "ans": "O.O",
+            "score": 1,
+            "que": "10Gb  .txt files..."
+        },
+        {
+            "id": "ikfhfz4",
+            "parent": "t1_ikeqvuj",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "I work for a large healthcare org. Pretty much all of my teams data is in big query. \n\nBe change you want to be in the world and your pay check will thank you."
+        },
+        {
+            "id": "ikfs8k0",
+            "parent": "t1_ikf0bqb",
+            "ans": "do you mean it's a bunch of .csv's, or literal .xlsx files???",
+            "score": 2,
+            "que": "So true. Even in Biotech companies, like half of all data is in excel."
+        },
+        {
+            "id": "ikf24t9",
+            "parent": "t1_ikf0bqb",
+            "ans": "This has been my experience too. Whyyyy",
+            "score": 1,
+            "que": "So true. Even in Biotech companies, like half of all data is in excel."
+        },
+        {
+            "id": "ikgvyck",
+            "parent": "t1_ikf56hl",
+            "ans": "I've used it in a pinch to move data around between systems on a laptop that didn't have an Office license. Probably not perfect parity but for most spreadsheet functions it works fine and runs smoothly; probably has a better (or at least more explicit) handler for when a file extension doesn't match exactly to the contents. \n\nAnd for everything else, there's pandas.",
+            "score": 7,
+            "que": "Professional data crunchers, I have a random question: what do you all think about LibreOffice Calc for spreadsheets. Is it as good as microsoft ecxel or does it have feature parity?"
+        },
+        {
+            "id": "ikgbikx",
+            "parent": "t1_ikfp1vx",
+            "ans": "Oh no it's here! Everyone run! :O",
+            "score": 1,
+            "que": "First thought I am in r/rustjerk"
+        },
+        {
+            "id": "ikfwi0k",
+            "parent": "t1_ikfhl1u",
+            "ans": "This. I almost lose both my eyes to an infection. In my country covid wrecked havoc over both the public and private health sector, I had to switch between both due to emergencies and being on budget. Keeping all my papers together was key to explain all the complications and getting reliable diagnosis",
+            "score": 34,
+            "que": "Sorry if I sound too Amy Santiago, but NEVER go to a new healthcare Provider without your Binder.\n\nIm gonna shame smoke now."
+        },
+        {
+            "id": "ikg41hw",
+            "parent": "t1_ikfhl1u",
+            "ans": "Never have I ever seen a person say Amy Santiago in this context but god damn it fits so well",
+            "score": 13,
+            "que": "Sorry if I sound too Amy Santiago, but NEVER go to a new healthcare Provider without your Binder.\n\nIm gonna shame smoke now."
+        },
+        {
+            "id": "iketyx5",
+            "parent": "t1_ikerorj",
+            "ans": "https://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn\n\nMass incompetence.",
+            "score": 27,
+            "que": "Why doesn't the NHS just have a central database?"
+        },
+        {
+            "id": "ikj7tmn",
+            "parent": "t1_ikerorj",
+            "ans": "Also generalised concerns about having any sort of \u201cBig Brother\u201d highly-linked database, especially concerning medical records. \n\nThe concern affects many things, for example gov analysts and researchers cannot accurately tell you the value of a degree, because the systems that record a person\u2019s educational background (and Student Finance obligations) do not talk to the tax systems, so there is no easy or robust way of making a theoretically very simple table containing a person number, their degree status, and their current income or lifetime earnings or total wealth or whatever.\n\nWhile answering big questions like \u201chow does the income of parents of students affect primary school performance\u201d, \u201cwhat is the impact of public transport availability on income and health outcomes\u201d, and \u201cwhat are the factors that most predict criminal behaviour\u201d sound appealing on the surface, hopefully at least that last one should be setting off alarm bells for how such a system could be trivially be misused. Such a database would enable the kind of behaviour that everyone is very keen to rag on China for with accusations of dystopic totalitarianism. And that\u2019s not even considering the increased security risk from being a strongly centralised target.\n\nIf we are going to link together huge amounts of highly disparate data we need quite a detailed conversation as a society about how strongly such a database should be limited, overseen, and protected, and on what analysis can even be done on it in the first place.",
+            "score": 3,
+            "que": "Why doesn't the NHS just have a central database?"
+        },
+        {
+            "id": "iki7i1y",
+            "parent": "t1_ikgwza0",
+            "ans": "Nightmare fuel. Was it at least relatively harmless like photocoag?",
+            "score": 3,
+            "que": "Was working on a hospital where a patient with a common name was waiting to check out and schedule his next appointment when he heard a staff member call his name from the other side of the waiting room.\n\nHe responded and followed the staff member to a procedure room where an md then performed a laser eye procedure on him.\n\nAfter the procedure was over he sat up and asked \"what did you just do to me?\""
+        },
+        {
+            "id": "ikekqid",
+            "parent": "t1_ikegnid",
+            "ans": "I am assuming you are going for Band 5 or 6. Having those skills will be enough for what you will encounter in the NHS at that level. If you have some health data experience as well it's a huge advantage. \n\nInterviews are usually scored to pre determined set of indicators. Mentioning SQL will probably get you a point, power BI another. They'll be a section on Trust values or similar, easy points for relating your previous experiences to one of the values. Something about how the data was used to improve the patient journey...or clinical outcome...\n\nGood luck!",
+            "score": 35,
+            "que": "I am planning on joining the NHS as a data analyst in the future. I am proficient in SQL, Excel, Power BI and a bit of Python. My degree is also on biomedical science so I have a really good understanding of the clinical data. Would that be enough?"
+        },
+        {
+            "id": "ikfhziu",
+            "parent": "t1_ikegnid",
+            "ans": "As an analytics, and data engineering consultant who has indeed consulted for the NHS... Trust me when I say you know more than even the most 'senior' professionals in the NHS... In the NHS, when they say 'senior' professionals... They mean *senior* professionals. \n\nIt's a 'X years of experience' type of situation. Do you have 30 years of experience as a 'computer operator'? Pfff, bet you don't even know what an AS400 keyboard looks like. It's bad.",
+            "score": 16,
+            "que": "I am planning on joining the NHS as a data analyst in the future. I am proficient in SQL, Excel, Power BI and a bit of Python. My degree is also on biomedical science so I have a really good understanding of the clinical data. Would that be enough?"
+        },
+        {
+            "id": "ikgj7n0",
+            "parent": "t1_ikegnid",
+            "ans": "110%.  I moved into a noob data analyst (Band 5) role a few months ago from doing data entry (and a lot more than that - fairly obscure role (MDT coordinator)), with only intermediate-advanced Excel (I wouldn't say it's advanced, but advanced in my hospital means VLOOKUP, custom conditional formatting formula, and sparklines, so I'm pretty much a wizard), with the expectation that I'd pick up SQL and PBI along the way (although I definitely earned the opportunity).  \n\nPowerBI is also seeing a lot more uptake so that would be a pretty good way to get in the door.  You could try making some dashboards/reports from some of the data here https://www.england.nhs.uk/statistics/statistical-work-areas/ or here https://www.data.gov.uk \n\nTry registering on https://future.nhs.uk too.  I'm not sure if you'll be able to get in without an NHS email or proper reason (although I have seen plenty of commercial people introducing themselves), but if you do then check NHS AnalystX, NHS PyCom and Making Data Count (and maybe NHS-R community, just to see what's up).  If you can get into MDC look at the SPC stuff and sign up for the  Teams course. NHS is a highly SPCsexual workplace so if you rock in to an interview with that in your pocket then it'll look pretty good. https://www.england.nhs.uk/statistical-process-control-multiple-chart-tool/ this is old but still works (but the course really helps it make sense)\n\nGood luck!",
+            "score": 3,
+            "que": "I am planning on joining the NHS as a data analyst in the future. I am proficient in SQL, Excel, Power BI and a bit of Python. My degree is also on biomedical science so I have a really good understanding of the clinical data. Would that be enough?"
+        },
+        {
+            "id": "ikgpykb",
+            "parent": "t1_ikegnid",
+            "ans": "If I\u2019m not mistaken the NHS is big on R. Better learn some R programming",
+            "score": 3,
+            "que": "I am planning on joining the NHS as a data analyst in the future. I am proficient in SQL, Excel, Power BI and a bit of Python. My degree is also on biomedical science so I have a really good understanding of the clinical data. Would that be enough?"
+        },
+        {
+            "id": "iki0wos",
+            "parent": "t1_ikfv4y3",
+            "ans": "You can send the fax, yes. But do they receive the fax?? Lol no, not usually. \n\nCan\u2019t email of course, even though my bank has figured out a way to securely communicate with me since 2002.",
+            "score": 2,
+            "que": "In the US, you'd have to do that, plus bring every record from every past provider you've ever had. But luckily, you can also fax those in."
+        },
+        {
+            "id": "ikg3vha",
+            "parent": "t1_ikfes2m",
+            "ans": "I once worked with a financial analyst.  He was searching his folders for the right excel model during a meeting.\n\n\"Oh I remember, I named it 'USE THIS ONE' \"",
+            "score": 42,
+            "que": "V1, V2, final, final_v1, final_final...."
+        },
+        {
+            "id": "ikh1u4f",
+            "parent": "t1_ikfes2m",
+            "ans": "DRAFT.xlsx\n\nWORKING.xlsx\n\nFINAL.xlsx\n\nFINAL_NEW.xlsx\n\nFINAL_NEWER.xlsx\n\nFINAL_NEWERER.xlsx\n\nFINAL_NEWERER_FOR_REAL.xlsx\n\nFINAL_NEWERER_FOR_REAL_USE_THIS.xlsx\n\nFINAL_NEWERER_FOR_REAL_USE_THIS_v2.xlsx",
+            "score": 39,
+            "que": "V1, V2, final, final_v1, final_final...."
+        },
+        {
+            "id": "ikgomk6",
+            "parent": "t1_ikfes2m",
+            "ans": "V4.2_Final_Final_Done_Dun_Ready",
+            "score": 13,
+            "que": "V1, V2, final, final_v1, final_final...."
+        },
+        {
+            "id": "ikgtgcq",
+            "parent": "t1_ikfes2m",
+            "ans": "I feel personally attacked here",
+            "score": 10,
+            "que": "V1, V2, final, final_v1, final_final...."
+        },
+        {
+            "id": "ikemgbc",
+            "parent": "t1_ikehzl5",
+            "ans": "Wow. And let me guess, you ask for a file to fill a data gap, and thay email the wrong one?",
+            "score": 15,
+            "que": "In my case it\u2019s -1, -V3, -v2, - 2, but that\u2019s only if it hasn\u2019t been saved over."
+        },
+        {
+            "id": "ikg7pa0",
+            "parent": "t1_ikehzl5",
+            "ans": "That is exactly why I timestamp them now. - 202208151931\n\nIt's not a golden bullet but it is at least better.",
+            "score": 12,
+            "que": "In my case it\u2019s -1, -V3, -v2, - 2, but that\u2019s only if it hasn\u2019t been saved over."
+        },
+        {
+            "id": "ikg1qc9",
+            "parent": "t1_ikfqfq3",
+            "ans": "In China you often have to physically go to the bank where you opened your account. That is to say, the actual branch.\nMoved city? Too bad, that\u2019s a day trip.\n\nThere was one guy in one of the China related subreddits the other day, he had left the country at some point before the pandemic, and then he was not allowed back in. All his savings are still in this bank account in China, but they wont transfer the money abroad unless he physically shows up. Absolutely asinine.\nSo, since he has not been allowed to enter the country, and his passport since expired, the account has now been put under administration and payments from it are blocked.\n\nSo, what I\u2019m getting at is this: French banks are not _that_ bad, are they?",
+            "score": 20,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ikgd50o",
+            "parent": "t1_ikgbt3n",
+            "ans": "It's not incompetence, it's sheer lack of resources. HL7 is barely implemented wide scale because there just are not enough informaticians/IT folks to do it. Older HL7 is also already deprecated with V2, V3, and FHIR. There just aren't enough people to create a massive, connected system in a timely manner.",
+            "score": 12,
+            "que": "yep, never attribute to malice what can be attributed to incompetence lol people who believe in conspiracy theories are giving the public sector too much credit \ud83d\ude02"
+        },
+        {
+            "id": "ikiwn4i",
+            "parent": "t1_ikgbt3n",
+            "ans": "This is a dangerously inaccurate perspective. Consider the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project), a multi-year multi-national multi-billion-dollar conspiracy involving thousands of people, successfully kept secret for many years, culminating in the atomic bombs being dropped over Hiroshima and Nagasaki.\n\nConspiracy theories can and do exist. If you think governments have gotten worse at them since then, I have a bridge to sell you.\n\nThe question is one of motivation.",
+            "score": 3,
+            "que": "yep, never attribute to malice what can be attributed to incompetence lol people who believe in conspiracy theories are giving the public sector too much credit \ud83d\ude02"
+        },
+        {
+            "id": "ikifnht",
+            "parent": "t1_ikgbt3n",
+            "ans": "Why are you down on the public sector? There are problems with funding and holding on to people, being used as political pawns, ancient systems that make it harder to do everything, lack of funding, etc.",
+            "score": 2,
+            "que": "yep, never attribute to malice what can be attributed to incompetence lol people who believe in conspiracy theories are giving the public sector too much credit \ud83d\ude02"
+        },
+        {
+            "id": "ikgt9xc",
+            "parent": "t1_ikgjtse",
+            "ans": "https://youtu.be/awcQ9-QvZLs",
+            "score": 2,
+            "que": "O.O"
+        },
+        {
+            "id": "ikgb6o9",
+            "parent": "t1_ikfs8k0",
+            "ans": "Yes",
+            "score": 3,
+            "que": "do you mean it's a bunch of .csv's, or literal .xlsx files???"
+        },
+        {
+            "id": "ikgczt0",
+            "parent": "t1_ikf24t9",
+            "ans": "Its supremely sharable. That's also the downside, but everyone in business has excel on their computer so a file can be emailed and opened by anyone. Anything else will require a license, a login, etc.",
+            "score": 2,
+            "que": "This has been my experience too. Whyyyy"
+        },
+        {
+            "id": "ikja6fq",
+            "parent": "t1_ikgvyck",
+            "ans": "I've been wanting to switch the the Libre office suite for a while. Their Word counterpart is pretty feature rich. But i'm more concerned about feature parity and compatibility between LibreCalc and Excel. Better ask the experts i thought.\n\nThanks for your reply!",
+            "score": 2,
+            "que": "I've used it in a pinch to move data around between systems on a laptop that didn't have an Office license. Probably not perfect parity but for most spreadsheet functions it works fine and runs smoothly; probably has a better (or at least more explicit) handler for when a file extension doesn't match exactly to the contents. \n\nAnd for everything else, there's pandas."
+        },
+        {
+            "id": "ikfz2wh",
+            "parent": "t1_ikfwi0k",
+            "ans": "Yep that sounds horrible. \nI hope youre okay now.",
+            "score": 9,
+            "que": "This. I almost lose both my eyes to an infection. In my country covid wrecked havoc over both the public and private health sector, I had to switch between both due to emergencies and being on budget. Keeping all my papers together was key to explain all the complications and getting reliable diagnosis"
+        },
+        {
+            "id": "iki0aig",
+            "parent": "t1_ikg41hw",
+            "ans": "I had my own medical Binder before B99 existed. But she is the trope.",
+            "score": 3,
+            "que": "Never have I ever seen a person say Amy Santiago in this context but god damn it fits so well"
+        },
+        {
+            "id": "ikfjm0b",
+            "parent": "t1_iketyx5",
+            "ans": "Omg I work for the guy who consulted on this very project! Yes, so apparently they approached Microsoft about costing this on the Azure platform and it ran into the trillions. Essentially... We would need to load every single table, in every single NHS database pretty much every single day. Because there's no deltas, there's no row versioning. There's literally no way of telling when a record was updated or what the latest record is pretty much across the board, and for all the historical records as well. So, load everything, every day, then have a MDM solution on the scale of Magrathea that attempts to resolve individual records.\n\nAnyway, literally the only solution is to burn it all to the ground, start again from scratch.",
+            "score": 26,
+            "que": "https://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn\n\nMass incompetence."
+        },
+        {
+            "id": "ikiabfn",
+            "parent": "t1_iki7i1y",
+            "ans": "I don't know that level of detail.  I heard about it when it happened but it's not like I had the chart in front of me.",
+            "score": 2,
+            "que": "Nightmare fuel. Was it at least relatively harmless like photocoag?"
+        },
+        {
+            "id": "ikeluoo",
+            "parent": "t1_ikekqid",
+            "ans": "Thanks a lot for sharing the information. I really appreciate it!",
+            "score": 11,
+            "que": "I am assuming you are going for Band 5 or 6. Having those skills will be enough for what you will encounter in the NHS at that level. If you have some health data experience as well it's a huge advantage. \n\nInterviews are usually scored to pre determined set of indicators. Mentioning SQL will probably get you a point, power BI another. They'll be a section on Trust values or similar, easy points for relating your previous experiences to one of the values. Something about how the data was used to improve the patient journey...or clinical outcome...\n\nGood luck!"
+        },
+        {
+            "id": "ikjnj30",
+            "parent": "t1_ikekqid",
+            "ans": "A four year degree... knowledge of SQL, Excel, PowerBI, and Python... and the best he/she could hope for is a shitty $43,500 job?\n\nWe pay temporary workers $50,000 a year with no college degree to swing a hammer, use a drill, etc., just to **assist** robotics installation technicians, who are themselves paid $85,000 with no college degree and 2-3 years of robotics installation experience.\n\n/u/apoptosis04, unless you are just dead-set on working for the UK's NHS, you may want to seriously reconsider. That salary is a fucking insult.",
+            "score": 0,
+            "que": "I am assuming you are going for Band 5 or 6. Having those skills will be enough for what you will encounter in the NHS at that level. If you have some health data experience as well it's a huge advantage. \n\nInterviews are usually scored to pre determined set of indicators. Mentioning SQL will probably get you a point, power BI another. They'll be a section on Trust values or similar, easy points for relating your previous experiences to one of the values. Something about how the data was used to improve the patient journey...or clinical outcome...\n\nGood luck!"
+        },
+        {
+            "id": "ikhpzct",
+            "parent": "t1_ikekqid",
+            "ans": "What is band 6 salary?",
+            "score": 1,
+            "que": "I am assuming you are going for Band 5 or 6. Having those skills will be enough for what you will encounter in the NHS at that level. If you have some health data experience as well it's a huge advantage. \n\nInterviews are usually scored to pre determined set of indicators. Mentioning SQL will probably get you a point, power BI another. They'll be a section on Trust values or similar, easy points for relating your previous experiences to one of the values. Something about how the data was used to improve the patient journey...or clinical outcome...\n\nGood luck!"
+        },
+        {
+            "id": "ikg4d2s",
+            "parent": "t1_ikfhziu",
+            "ans": "Sat with a director of analytics at a major health care provider last week and watched him type 5 words a minute with his index fingers.",
+            "score": 10,
+            "que": "As an analytics, and data engineering consultant who has indeed consulted for the NHS... Trust me when I say you know more than even the most 'senior' professionals in the NHS... In the NHS, when they say 'senior' professionals... They mean *senior* professionals. \n\nIt's a 'X years of experience' type of situation. Do you have 30 years of experience as a 'computer operator'? Pfff, bet you don't even know what an AS400 keyboard looks like. It's bad."
+        },
+        {
+            "id": "ikiyia5",
+            "parent": "t1_ikh1u4f",
+            "ans": "I feel attacked with this comment",
+            "score": 6,
+            "que": "DRAFT.xlsx\n\nWORKING.xlsx\n\nFINAL.xlsx\n\nFINAL_NEW.xlsx\n\nFINAL_NEWER.xlsx\n\nFINAL_NEWERER.xlsx\n\nFINAL_NEWERER_FOR_REAL.xlsx\n\nFINAL_NEWERER_FOR_REAL_USE_THIS.xlsx\n\nFINAL_NEWERER_FOR_REAL_USE_THIS_v2.xlsx"
+        },
+        {
+            "id": "ikffuqn",
+            "parent": "t1_ikemgbc",
+            "ans": "Do we work at the same company?",
+            "score": 11,
+            "que": "Wow. And let me guess, you ask for a file to fill a data gap, and thay email the wrong one?"
+        },
+        {
+            "id": "ikg2k1f",
+            "parent": "t1_ikg1qc9",
+            "ans": "This exact thing happened to my dad.",
+            "score": 8,
+            "que": "In China you often have to physically go to the bank where you opened your account. That is to say, the actual branch.\nMoved city? Too bad, that\u2019s a day trip.\n\nThere was one guy in one of the China related subreddits the other day, he had left the country at some point before the pandemic, and then he was not allowed back in. All his savings are still in this bank account in China, but they wont transfer the money abroad unless he physically shows up. Absolutely asinine.\nSo, since he has not been allowed to enter the country, and his passport since expired, the account has now been put under administration and payments from it are blocked.\n\nSo, what I\u2019m getting at is this: French banks are not _that_ bad, are they?"
+        },
+        {
+            "id": "ikhqaej",
+            "parent": "t1_ikg1qc9",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "In China you often have to physically go to the bank where you opened your account. That is to say, the actual branch.\nMoved city? Too bad, that\u2019s a day trip.\n\nThere was one guy in one of the China related subreddits the other day, he had left the country at some point before the pandemic, and then he was not allowed back in. All his savings are still in this bank account in China, but they wont transfer the money abroad unless he physically shows up. Absolutely asinine.\nSo, since he has not been allowed to enter the country, and his passport since expired, the account has now been put under administration and payments from it are blocked.\n\nSo, what I\u2019m getting at is this: French banks are not _that_ bad, are they?"
+        },
+        {
+            "id": "ikh6a0t",
+            "parent": "t1_ikgd50o",
+            "ans": "What is hl7",
+            "score": 3,
+            "que": "It's not incompetence, it's sheer lack of resources. HL7 is barely implemented wide scale because there just are not enough informaticians/IT folks to do it. Older HL7 is also already deprecated with V2, V3, and FHIR. There just aren't enough people to create a massive, connected system in a timely manner."
+        },
+        {
+            "id": "iki7l6b",
+            "parent": "t1_ikgd50o",
+            "ans": "To be fair HL7 is a shit standard for even message passing.",
+            "score": 3,
+            "que": "It's not incompetence, it's sheer lack of resources. HL7 is barely implemented wide scale because there just are not enough informaticians/IT folks to do it. Older HL7 is also already deprecated with V2, V3, and FHIR. There just aren't enough people to create a massive, connected system in a timely manner."
+        },
+        {
+            "id": "ikigkmc",
+            "parent": "t1_ikifnht",
+            "ans": "well thanks for listing the reasons yourself i guess?",
+            "score": 1,
+            "que": "Why are you down on the public sector? There are problems with funding and holding on to people, being used as political pawns, ancient systems that make it harder to do everything, lack of funding, etc."
+        },
+        {
+            "id": "ikh093v",
+            "parent": "t1_ikgt9xc",
+            "ans": "The anguish.. \ud83d\ude10",
+            "score": 1,
+            "que": "https://youtu.be/awcQ9-QvZLs"
+        },
+        {
+            "id": "ikhp9sy",
+            "parent": "t1_ikgczt0",
+            "ans": "Install python, get a compiler working...",
+            "score": 3,
+            "que": "Its supremely sharable. That's also the downside, but everyone in business has excel on their computer so a file can be emailed and opened by anyone. Anything else will require a license, a login, etc."
+        },
+        {
+            "id": "ikflslw",
+            "parent": "t1_ikfjm0b",
+            "ans": "Jesus Christ. Yeah, that's a situation where it genuinely would be cheaper (but probably much harder in terms of project management, political capital, and willpower) to just start over from the beginning.",
+            "score": 8,
+            "que": "Omg I work for the guy who consulted on this very project! Yes, so apparently they approached Microsoft about costing this on the Azure platform and it ran into the trillions. Essentially... We would need to load every single table, in every single NHS database pretty much every single day. Because there's no deltas, there's no row versioning. There's literally no way of telling when a record was updated or what the latest record is pretty much across the board, and for all the historical records as well. So, load everything, every day, then have a MDM solution on the scale of Magrathea that attempts to resolve individual records.\n\nAnyway, literally the only solution is to burn it all to the ground, start again from scratch."
+        },
+        {
+            "id": "ikifokz",
+            "parent": "t1_ikfjm0b",
+            "ans": "\n>Because there's no deltas, there's no row versioning. There's literally no way of telling when a record was updated or what the latest record is pretty much across the board, and for all the historical records as well.\n\nHow is this possible",
+            "score": 4,
+            "que": "Omg I work for the guy who consulted on this very project! Yes, so apparently they approached Microsoft about costing this on the Azure platform and it ran into the trillions. Essentially... We would need to load every single table, in every single NHS database pretty much every single day. Because there's no deltas, there's no row versioning. There's literally no way of telling when a record was updated or what the latest record is pretty much across the board, and for all the historical records as well. So, load everything, every day, then have a MDM solution on the scale of Magrathea that attempts to resolve individual records.\n\nAnyway, literally the only solution is to burn it all to the ground, start again from scratch."
+        },
+        {
+            "id": "ikhyss5",
+            "parent": "t1_ikhpzct",
+            "ans": "[this job posting ](https://www.jobs.nhs.uk/xi/vacancy/917285927) (Closed July/22) is \u00a334 - \u00a336k.",
+            "score": 1,
+            "que": "What is band 6 salary?"
+        },
+        {
+            "id": "ikjroqh",
+            "parent": "t1_ikhqaej",
+            "ans": "Hahaha. I would not have thought that, but there you go.\nI did once hear that \u201cI am going to write a letter,\u201d is the final threat you should put out in France if clerks are not doing a satisfactory job. In other words, \u201cFight bureaucracy with the threat of more bureaucracy.\u201d Then they would finally budge.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ikig154",
+            "parent": "t1_ikh6a0t",
+            "ans": "It's a set of digital standards used for communicating health records.",
+            "score": 5,
+            "que": "What is hl7"
+        },
+        {
+            "id": "ikiggc0",
+            "parent": "t1_iki7l6b",
+            "ans": "So we're back to incompetence",
+            "score": 2,
+            "que": "To be fair HL7 is a shit standard for even message passing."
+        },
+        {
+            "id": "ikigtep",
+            "parent": "t1_ikigkmc",
+            "ans": "Nah. I volunteer at a lab in a public institution helping them with data.",
+            "score": 1,
+            "que": "well thanks for listing the reasons yourself i guess?"
+        },
+        {
+            "id": "ilegxhz",
+            "parent": "t1_ikifokz",
+            "ans": "Asking the same question",
+            "score": 1,
+            "que": "\n>Because there's no deltas, there's no row versioning. There's literally no way of telling when a record was updated or what the latest record is pretty much across the board, and for all the historical records as well.\n\nHow is this possible"
+        }
+    ]
+}

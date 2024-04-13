@@ -1,0 +1,449 @@
+{
+    "title": "DS at a glance",
+    "id": "dudedh",
+    "create_at": 1573402538.0,
+    "score": 2916,
+    "comments": [
+        {
+            "id": "f76ktgt",
+            "parent": "t1_f74mio4",
+            "ans": "There is programming language \"pikachu\"",
+            "score": 42,
+            "que": "Quick, someone create a new library named after a Pokemon.\n\nOr a Pokemon named after a DS library."
+        },
+        {
+            "id": "f74rq3g",
+            "parent": "t1_f74mio4",
+            "ans": "ELI5",
+            "score": -29,
+            "que": "Quick, someone create a new library named after a Pokemon.\n\nOr a Pokemon named after a DS library."
+        },
+        {
+            "id": "f765qf9",
+            "parent": "t1_f74ye1f",
+            "ans": "[deleted]",
+            "score": 52,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f782gbs",
+            "parent": "t1_f74ye1f",
+            "ans": "Got 100% right. Not cause of my Big Data knowlege, sadly :(",
+            "score": 37,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f787o41",
+            "parent": "t1_f74ye1f",
+            "ans": "100% purely because I know Pokemon well",
+            "score": 11,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f76alny",
+            "parent": "t1_f74ye1f",
+            "ans": "70% accuracy from me",
+            "score": 6,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f76sph6",
+            "parent": "t1_f74ye1f",
+            "ans": "85%. Where do I collect my VC?",
+            "score": 7,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f77etrw",
+            "parent": "t1_f74ye1f",
+            "ans": "70% accuracy...and that included a couple of lucky guesses.",
+            "score": 2,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f785koi",
+            "parent": "t1_f74ye1f",
+            "ans": "60% for me... But then i am just getting into ds",
+            "score": 2,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f76lz89",
+            "parent": "t1_f74ye1f",
+            "ans": "100% accuracy",
+            "score": 2,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f787i8c",
+            "parent": "t1_f74ye1f",
+            "ans": "Not really. This was an easy 96% for me",
+            "score": 1,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f77duwf",
+            "parent": "t1_f74ye1f",
+            "ans": "93% Get on my level.",
+            "score": 1,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f77mxra",
+            "parent": "t1_f74ye1f",
+            "ans": "I don't recognize most of the big data things even though I do some data science (well ML focus), but knowing all the pokemon makes it easy. Still play it often.",
+            "score": 1,
+            "que": "Harder than you think: [Pok\u00e9mon or big data](https://pixelastic.github.io/pokemonorbigdata/)"
+        },
+        {
+            "id": "f7781gu",
+            "parent": "t1_f7641f7",
+            "ans": "Same person who puts pokemon on their resume.",
+            "score": 37,
+            "que": "Who puts packages they've used on their resume?"
+        },
+        {
+            "id": "f77b729",
+            "parent": "t1_f7641f7",
+            "ans": "I don\u2019t think doing that *at all* is a heinous offense; but he\u2019s certainly gone overboard. I mean some jobs are framework specific. \n\n\u201cOh all your experience is PyTorch specific? We use TF without Keras... bye now\u201d\n\nEdit: Also, it\u2019s his LI profile, not his resume. Assuming this is his skills section, seems very normal behavior. If it\u2019s his wall quote (or whatever LI calls it) that is very over the top",
+            "score": 7,
+            "que": "Who puts packages they've used on their resume?"
+        },
+        {
+            "id": "f77jt8h",
+            "parent": "t1_f75m1t6",
+            "ans": "I think C# evolves to C++ at level 36.",
+            "score": 18,
+            "que": "Somehow the C#/C++ triggers me the most..."
+        },
+        {
+            "id": "f76ipxy",
+            "parent": "t1_f75m1t6",
+            "ans": "Yes. I did write long angry post about it but I got to my sense and canceled it.\n\nStill it triggers me. The / specifically.",
+            "score": 8,
+            "que": "Somehow the C#/C++ triggers me the most..."
+        },
+        {
+            "id": "fhgv9az",
+            "parent": "t1_f75m1t6",
+            "ans": "May I ask why?",
+            "score": 0,
+            "que": "Somehow the C#/C++ triggers me the most..."
+        },
+        {
+            "id": "f75lb6n",
+            "parent": "t1_f74jkoq",
+            "ans": "Legit thought this was fake.",
+            "score": 19,
+            "que": "TIL [https://github.com/h2oai/sparkling-water](https://github.com/h2oai/sparkling-water)"
+        },
+        {
+            "id": "f763wjg",
+            "parent": "t1_f74jkoq",
+            "ans": "Great name",
+            "score": 1,
+            "que": "TIL [https://github.com/h2oai/sparkling-water](https://github.com/h2oai/sparkling-water)"
+        },
+        {
+            "id": "f74uli0",
+            "parent": "t1_f74ppqy",
+            "ans": "he knows it twice.",
+            "score": 40,
+            "que": "Hadoop appears twice ftw"
+        },
+        {
+            "id": "f768vs7",
+            "parent": "t1_f74ppqy",
+            "ans": "ha\u2014oops",
+            "score": 11,
+            "que": "Hadoop appears twice ftw"
+        },
+        {
+            "id": "f77awj5",
+            "parent": "t1_f74ppqy",
+            "ans": "Once for mapping, once for reducing\n\nEdit: thanks for the silver!",
+            "score": 6,
+            "que": "Hadoop appears twice ftw"
+        },
+        {
+            "id": "f785pj2",
+            "parent": "t1_f74ppqy",
+            "ans": "I was not sure why it was there twice... Thank god someone else noticed it too or i would have just gone crazy thinking there's a Pok\u00e9mon by the name",
+            "score": 3,
+            "que": "Hadoop appears twice ftw"
+        },
+        {
+            "id": "f74mmz3",
+            "parent": "t1_f74mjg4",
+            "ans": "Onyx",
+            "score": 59,
+            "que": "Ditto, vulpix, ekans, metapod.: did I miss any?"
+        },
+        {
+            "id": "f74n8gr",
+            "parent": "t1_f74mjg4",
+            "ans": "Feebas and Onyx",
+            "score": 23,
+            "que": "Ditto, vulpix, ekans, metapod.: did I miss any?"
+        },
+        {
+            "id": "f74okkf",
+            "parent": "t1_f74mjg4",
+            "ans": "Charmeeeeleon, WAR-TOR-TLE, Mewtwo, Tentacruel, Aerodactyl!",
+            "score": 13,
+            "que": "Ditto, vulpix, ekans, metapod.: did I miss any?"
+        },
+        {
+            "id": "f74sqgd",
+            "parent": "t1_f74mjg4",
+            "ans": "Sawk too",
+            "score": 9,
+            "que": "Ditto, vulpix, ekans, metapod.: did I miss any?"
+        },
+        {
+            "id": "f74n2xw",
+            "parent": "t1_f74mjg4",
+            "ans": "Metapod",
+            "score": 8,
+            "que": "Ditto, vulpix, ekans, metapod.: did I miss any?"
+        },
+        {
+            "id": "f76lkab",
+            "parent": "t1_f74mjg4",
+            "ans": "Ditto is the directory copy/archive command on MacOS",
+            "score": 1,
+            "que": "Ditto, vulpix, ekans, metapod.: did I miss any?"
+        },
+        {
+            "id": "f77jx6c",
+            "parent": "t1_f74vkdo",
+            "ans": "His LinkedIn-profile makes him sound like an absolute dick. I bet he is smart though.",
+            "score": 3,
+            "que": "What you are seeing here is an (I believe older slide) from one of Vincent's talks. I had the pleasure of seeing him present at pyData in Berlin in 2017. \n\nHere are my notes on that specific talk taken from my [conference notes gist](https://gist.github.com/sdoering/37203f3301c6f0b9f48f76a976a2119f):\n\n## TNaaS - Tech Names as a Service\n\n* Speaker: Vincent D. Warmerdam\n\n* Video: [YouTube](https://www.youtube.com/watch?v=0hR4peP9V4A)\n\n**Further Links**\n\n* [Notebooks](https://github.com/bhargavvader/personal/tree/master/notebooks/text_analysis_tutorial) (Jupyter)\n* [Video of comparable section](https://www.youtube.com/watch?v=TkHT3sLwtkY&feature=youtu.be&t=22m10s)\n* [Example Webapp](http://tnaas.com/)\n* [Twitter](https://twitter.com/fishnets88)\n\n**Quote**\n\n>There is a striking phonetic similarity between big data technology and pokemon names. Can you create a service that generates strings that sound like potential pokemon names? And what might be the simplest possible way to make that into a service? Also, would it be possible to generate pokemon names that start with three random characters and end with 'base' (KREBASE, MONBASE would be appropriate but IEYBASE would not be).\n\n>Turns out that this is an interesting problem from a ML standpoint and that it is rediculously easy to build in the cloud. In my talk I will explain the ML behind it;\n\n>markov chains\n>probibalistic graphs\n>rnn/lstm\n>bidirectional lstm\n\n\n**Notes**\n\nGreat talk and also interesting from an implementation standpoint (AWS lambda)."
+        },
+        {
+            "id": "f74pup7",
+            "parent": "t1_f74o3w2",
+            "ans": "To be fair, at least some of the people that named it Stan [now think maybe they shouldn't have](https://statmodeling.stat.columbia.edu/2019/04/29/we-shouldntve-called-it-stan-i-shouldve-listened-to-bob-and-hadley/).",
+            "score": 16,
+            "que": "I had a recruiter who hadn\u2019t heard of Stan think it had to be nonsense/an esoteric language because \u201cwho would name a language that?\u201d\n\nYeah, didn\u2019t keep that conversation going."
+        },
+        {
+            "id": "f74xg7y",
+            "parent": "t1_f74o3w2",
+            "ans": "Why is it important for a recruiter to know what Stan is? How is that relevant for your initial contact or non-technical phone screen?",
+            "score": 30,
+            "que": "I had a recruiter who hadn\u2019t heard of Stan think it had to be nonsense/an esoteric language because \u201cwho would name a language that?\u201d\n\nYeah, didn\u2019t keep that conversation going."
+        },
+        {
+            "id": "f76p5vw",
+            "parent": "t1_f75pitc",
+            "ans": "Replication factor",
+            "score": 6,
+            "que": "Why is Hadoop on there twice?"
+        },
+        {
+            "id": "f77u3vo",
+            "parent": "t1_f75o5op",
+            "ans": "Nice try, corporate agent of conformity.\n\nI say let the man have his fun...his job\u2019s gonna be outsourced in a couple months anyways.",
+            "score": 2,
+            "que": "In all seriousness, as fun as this is, it's kind of a red ex instant third strike for a candidate.  I work in software hiring and all this really means is you are 100% certifiably self-centered and snotty about your abilities.\n\nThis is hilarious.  Don't do this."
+        },
+        {
+            "id": "f77k604",
+            "parent": "t1_f773w4z",
+            "ans": "Check out his LinkedIn then...",
+            "score": 3,
+            "que": "Kinda douchy IMO."
+        },
+        {
+            "id": "f77zf2j",
+            "parent": "t1_f75kuxy",
+            "ans": "no doubt no doubt",
+            "score": 1,
+            "que": "So, we are not gonna talk about hadoop being mentioned twice? Cool cool cool cool coool."
+        },
+        {
+            "id": "f74tjms",
+            "parent": "t1_f74rq3g",
+            "ans": "I\u2019ll tell you when you\u2019re older",
+            "score": 63,
+            "que": "ELI5"
+        },
+        {
+            "id": "f76rxqg",
+            "parent": "t1_f765qf9",
+            "ans": "[deleted]",
+            "score": 21,
+            "que": "[deleted]"
+        },
+        {
+            "id": "f77adiw",
+            "parent": "t1_f76lz89",
+            "ans": "Try 100% wrong",
+            "score": 5,
+            "que": "100% accuracy"
+        },
+        {
+            "id": "igsntq0",
+            "parent": "t1_f77b729",
+            "ans": "That's way too much info to put on your LI bio though, my eyes even hurt from trying to read all that\ud83d\ude02\ud83d\ude02",
+            "score": 1,
+            "que": "I don\u2019t think doing that *at all* is a heinous offense; but he\u2019s certainly gone overboard. I mean some jobs are framework specific. \n\n\u201cOh all your experience is PyTorch specific? We use TF without Keras... bye now\u201d\n\nEdit: Also, it\u2019s his LI profile, not his resume. Assuming this is his skills section, seems very normal behavior. If it\u2019s his wall quote (or whatever LI calls it) that is very over the top"
+        },
+        {
+            "id": "f78aai9",
+            "parent": "t1_f785pj2",
+            "ans": "Yeah, but I think 'hadoop' would be an awesome pokemon name.",
+            "score": 3,
+            "que": "I was not sure why it was there twice... Thank god someone else noticed it too or i would have just gone crazy thinking there's a Pok\u00e9mon by the name"
+        },
+        {
+            "id": "f74rjo6",
+            "parent": "t1_f74mmz3",
+            "ans": "1.\tOnix is how you spell the Pok\u00e9mon.\n2.\t[Onnx is an open source format for AI models.](https://github.com/onnx/onnx)\n3.\t Honestly not sure which one he meant at this point.",
+            "score": 87,
+            "que": "Onyx"
+        },
+        {
+            "id": "f74o4zx",
+            "parent": "t1_f74n8gr",
+            "ans": "[deleted]",
+            "score": 17,
+            "que": "Feebas and Onyx"
+        },
+        {
+            "id": "f74o48r",
+            "parent": "t1_f74n8gr",
+            "ans": "The Pok\u00e9mon is actually called Onix",
+            "score": 6,
+            "que": "Feebas and Onyx"
+        },
+        {
+            "id": "f789ri7",
+            "parent": "t1_f74n8gr",
+            "ans": "I got Feebas right. I still remember grinding away to make that fucker evolve into my prized Milotic.",
+            "score": 2,
+            "que": "Feebas and Onyx"
+        },
+        {
+            "id": "f75lhmj",
+            "parent": "t1_f74okkf",
+            "ans": "Omanyte, Slowwww-poke!",
+            "score": 3,
+            "que": "Charmeeeeleon, WAR-TOR-TLE, Mewtwo, Tentacruel, Aerodactyl!"
+        },
+        {
+            "id": "f77suvu",
+            "parent": "t1_f77jx6c",
+            "ans": "Having met him and talked to him it only shows that one shouldn't judge a book by it's cover. He is a great guy. He just doesn't need his LI profile for new biz. So he can design it as a filter against people he is not interested to work with. \n\nIn principle a valid approach. Even if I wouldn't use it.",
+            "score": 3,
+            "que": "His LinkedIn-profile makes him sound like an absolute dick. I bet he is smart though."
+        },
+        {
+            "id": "f74x7bb",
+            "parent": "t1_f74pup7",
+            "ans": "Look, I stan Stan, and you can't change my mind...",
+            "score": 6,
+            "que": "To be fair, at least some of the people that named it Stan [now think maybe they shouldn't have](https://statmodeling.stat.columbia.edu/2019/04/29/we-shouldntve-called-it-stan-i-shouldve-listened-to-bob-and-hadley/)."
+        },
+        {
+            "id": "f77cy8r",
+            "parent": "t1_f74pup7",
+            "ans": "I didn\u2019t \u2018get\u2019 the problems with this before, but now I understan.",
+            "score": 2,
+            "que": "To be fair, at least some of the people that named it Stan [now think maybe they shouldn't have](https://statmodeling.stat.columbia.edu/2019/04/29/we-shouldntve-called-it-stan-i-shouldve-listened-to-bob-and-hadley/)."
+        },
+        {
+            "id": "f756dev",
+            "parent": "t1_f74pup7",
+            "ans": ">shouldn\u2019t\u2019ve\n\nI see people whomst've thought themselves clever",
+            "score": -6,
+            "que": "To be fair, at least some of the people that named it Stan [now think maybe they shouldn't have](https://statmodeling.stat.columbia.edu/2019/04/29/we-shouldntve-called-it-stan-i-shouldve-listened-to-bob-and-hadley/)."
+        },
+        {
+            "id": "f77aujn",
+            "parent": "t1_f74xg7y",
+            "ans": "\u201cLook at the big brain on brad\u201d - pulp fiction\n\nThat\u2019s how people sound when they roll their eyes at a normal person who doesn\u2019t know the data science universe inside and out.",
+            "score": 4,
+            "que": "Why is it important for a recruiter to know what Stan is? How is that relevant for your initial contact or non-technical phone screen?"
+        },
+        {
+            "id": "f74tqiv",
+            "parent": "t1_f74tjms",
+            "ans": "*May your Proctologist be a frustrated concert Trombonist*",
+            "score": 13,
+            "que": "I\u2019ll tell you when you\u2019re older"
+        },
+        {
+            "id": "f77do84",
+            "parent": "t1_f76rxqg",
+            "ans": "None of the ones in there were past Gen IV, which is 13 years ago.",
+            "score": 8,
+            "que": "[deleted]"
+        },
+        {
+            "id": "f77vakq",
+            "parent": "t1_f76rxqg",
+            "ans": "I\u2019m proud to say I\u2019ve updated both my big data and Pok\u00e9mon knowledge enough to get 100%. I failed embarrassingly last time I did that quiz",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "f78bcmz",
+            "parent": "t1_f78aai9",
+            "ans": "Yeah... I even like pandas as a Pok\u00e9mon name... I can imagine a mix between ditto and panda... Like 3 \ud83d\udc3c creating a pandas. Also they would import csv files as an attack.",
+            "score": 2,
+            "que": "Yeah, but I think 'hadoop' would be an awesome pokemon name."
+        },
+        {
+            "id": "f75qcdk",
+            "parent": "t1_f74rjo6",
+            "ans": "The stone is spelled Onyx, but he also listed Hadoop twice, so I'm just gonna guess he meant the pokemon and was too lazy to check.",
+            "score": 18,
+            "que": "1.\tOnix is how you spell the Pok\u00e9mon.\n2.\t[Onnx is an open source format for AI models.](https://github.com/onnx/onnx)\n3.\t Honestly not sure which one he meant at this point."
+        },
+        {
+            "id": "f76lmm8",
+            "parent": "t1_f74o4zx",
+            "ans": "nah. R packages end in R. It would be feebasr",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "f78044j",
+            "parent": "t1_f77suvu",
+            "ans": "From what I can read, he doesn't seem interested in \"Design Thinking\" (which he basically calls a hoax) or opinions of people that doesn't have his knowledge (like recruiters). Overall not a type I would hire as a consultant.\n\nBut perhaps that's just me.",
+            "score": 2,
+            "que": "Having met him and talked to him it only shows that one shouldn't judge a book by it's cover. He is a great guy. He just doesn't need his LI profile for new biz. So he can design it as a filter against people he is not interested to work with. \n\nIn principle a valid approach. Even if I wouldn't use it."
+        },
+        {
+            "id": "f75snb5",
+            "parent": "t1_f75qcdk",
+            "ans": "He's just using a RAID1 version of hadoop, where you list it twice. Data redundancy matters when using hadoop in production.",
+            "score": 26,
+            "que": "The stone is spelled Onyx, but he also listed Hadoop twice, so I'm just gonna guess he meant the pokemon and was too lazy to check."
+        },
+        {
+            "id": "f76vv5c",
+            "parent": "t1_f75qcdk",
+            "ans": "to be fair he did list lazy",
+            "score": 3,
+            "que": "The stone is spelled Onyx, but he also listed Hadoop twice, so I'm just gonna guess he meant the pokemon and was too lazy to check."
+        },
+        {
+            "id": "f789qi8",
+            "parent": "t1_f78044j",
+            "ans": "Maybe. \n\nNot sure if I would. But that has other reasons. The point I was trying to make (and you seem to be dodging) was that his LI page is clearly designed with a filtering purpose. Actually you not being attracted to hire him proves that point. \n\nMe not wanting to hire him (but for other reasons than yours) also. \n\nAnd he (just an example as there would be other examples like DHH's Basecamp) does us a favor. He doesn't waste our time. Not our flavor of consultant? Great. No need to invest more of our time. \n\nI like people who don't try to be liked by everybody. Who clearly set markers that enable a fast decision between 'hell, yeah' and 'hell, no'. Makes at least my life more easy.",
+            "score": 2,
+            "que": "From what I can read, he doesn't seem interested in \"Design Thinking\" (which he basically calls a hoax) or opinions of people that doesn't have his knowledge (like recruiters). Overall not a type I would hire as a consultant.\n\nBut perhaps that's just me."
+        },
+        {
+            "id": "f78b7k5",
+            "parent": "t1_f789qi8",
+            "ans": "I'm not dodging that point :) It's just that he seems to be saying that his way, is the only way, and I would never hire a consultant that radiates that attitude. Maybe someone else will, maybe they wont. \n\nAnd there's a CLEAR difference between being liked by everybody, to feeling the need to \"fend off\" certain people actively.",
+            "score": 3,
+            "que": "Maybe. \n\nNot sure if I would. But that has other reasons. The point I was trying to make (and you seem to be dodging) was that his LI page is clearly designed with a filtering purpose. Actually you not being attracted to hire him proves that point. \n\nMe not wanting to hire him (but for other reasons than yours) also. \n\nAnd he (just an example as there would be other examples like DHH's Basecamp) does us a favor. He doesn't waste our time. Not our flavor of consultant? Great. No need to invest more of our time. \n\nI like people who don't try to be liked by everybody. Who clearly set markers that enable a fast decision between 'hell, yeah' and 'hell, no'. Makes at least my life more easy."
+        }
+    ]
+}

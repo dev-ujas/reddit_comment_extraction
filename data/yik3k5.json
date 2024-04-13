@@ -1,0 +1,232 @@
+{
+    "title": "Happy Halloween, Pandas! \ud83c\udf83\ud83e\udd13",
+    "id": "yik3k5",
+    "create_at": 1667240441.0,
+    "score": 2090,
+    "comments": [
+        {
+            "id": "iuj899b",
+            "parent": "t1_iuj7wrb",
+            "ans": "And its not a panda",
+            "score": 129,
+            "que": "TIL pandas has a logo"
+        },
+        {
+            "id": "iul5mav",
+            "parent": "t1_iuj7wrb",
+            "ans": "Panda panda panda panda \ud83d\udc3c",
+            "score": 1,
+            "que": "TIL pandas has a logo"
+        },
+        {
+            "id": "iumavvu",
+            "parent": "t1_iuj66b8",
+            "ans": "Bunch of NeRdS \ud83d\ude1c jk I love Pandas",
+            "score": 2,
+            "que": "Very nice ya big nerd!"
+        },
+        {
+            "id": "iujsrlo",
+            "parent": "t1_iuj66b8",
+            "ans": "The comment I came here to leave.",
+            "score": 2,
+            "que": "Very nice ya big nerd!"
+        },
+        {
+            "id": "iujp499",
+            "parent": "t1_iuj9mn1",
+            "ans": "The scariest thing of all, not importing pandas as pd",
+            "score": 31,
+            "que": "most of us know it as pd..."
+        },
+        {
+            "id": "iujhalj",
+            "parent": "t1_iujgx1l",
+            "ans": "Oh yeah! I always wondered why that looked familiar. I've been to Madrid, but I didn't make the connection.",
+            "score": 5,
+            "que": "I prefer the [old logo](https://geo-python.github.io/site/_images/pandas_logo.png) that was extremely similar to the [coat of arms of Madrid](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Escudo_de_Madrid.svg/1200px-Escudo_de_Madrid.svg.png)"
+        },
+        {
+            "id": "iuk3ew4",
+            "parent": "t1_iujgx1l",
+            "ans": "Looks pretty bad ngl",
+            "score": 8,
+            "que": "I prefer the [old logo](https://geo-python.github.io/site/_images/pandas_logo.png) that was extremely similar to the [coat of arms of Madrid](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Escudo_de_Madrid.svg/1200px-Escudo_de_Madrid.svg.png)"
+        },
+        {
+            "id": "iunaq64",
+            "parent": "t1_iukvv7r",
+            "ans": "You monster.",
+            "score": 1,
+            "que": "import pandas as np"
+        },
+        {
+            "id": "iukhg3e",
+            "parent": "t1_iukhalr",
+            "ans": "No",
+            "score": 6,
+            "que": "Have you considered dplyr instead"
+        },
+        {
+            "id": "iukjn3b",
+            "parent": "t1_iukhalr",
+            "ans": "You mean [siuba](https://github.com/machow/siuba)?",
+            "score": 2,
+            "que": "Have you considered dplyr instead"
+        },
+        {
+            "id": "iujkuf9",
+            "parent": "t1_iuj899b",
+            "ans": "It is the letters pd, though.",
+            "score": 82,
+            "que": "And its not a panda"
+        },
+        {
+            "id": "iujcib6",
+            "parent": "t1_iuj899b",
+            "ans": "\ud83d\udc3c",
+            "score": 8,
+            "que": "And its not a panda"
+        },
+        {
+            "id": "iujn70z",
+            "parent": "t1_iuj899b",
+            "ans": "Seems like an oversight there.",
+            "score": 8,
+            "que": "And its not a panda"
+        },
+        {
+            "id": "iukcbgc",
+            "parent": "t1_iuj899b",
+            "ans": "panel data",
+            "score": 4,
+            "que": "And its not a panda"
+        },
+        {
+            "id": "iuk15wc",
+            "parent": "t1_iujp499",
+            "ans": "    import pandas as np\n    import numpy as pd",
+            "score": 80,
+            "que": "The scariest thing of all, not importing pandas as pd"
+        },
+        {
+            "id": "iujsgvp",
+            "parent": "t1_iujp499",
+            "ans": "import pandas as urggxgfhxyghgt877rg7yuc8yrdzvkitvtdyhfg",
+            "score": 16,
+            "que": "The scariest thing of all, not importing pandas as pd"
+        },
+        {
+            "id": "iukki7n",
+            "parent": "t1_iukjn3b",
+            "ans": "Sunnuva",
+            "score": 1,
+            "que": "You mean [siuba](https://github.com/machow/siuba)?"
+        },
+        {
+            "id": "iukdi88",
+            "parent": "t1_iujkuf9",
+            "ans": "I learned 2 things today",
+            "score": 57,
+            "que": "It is the letters pd, though."
+        },
+        {
+            "id": "iukjyo1",
+            "parent": "t1_iujkuf9",
+            "ans": "Whoa",
+            "score": 7,
+            "que": "It is the letters pd, though."
+        },
+        {
+            "id": "iulfhw7",
+            "parent": "t1_iujkuf9",
+            "ans": "Omg",
+            "score": 5,
+            "que": "It is the letters pd, though."
+        },
+        {
+            "id": "j3ywi4s",
+            "parent": "t1_iujkuf9",
+            "ans": "Also it shares 2 black squares, suggesting it is all connected. Pan-Da(ta). I work in graphic design, now pay me $200",
+            "score": 0,
+            "que": "It is the letters pd, though."
+        },
+        {
+            "id": "iukjgr1",
+            "parent": "t1_iuk15wc",
+            "ans": "I know a guy who names all their variables after coworkers they spoke to that day.",
+            "score": 18,
+            "que": "    import pandas as np\n    import numpy as pd"
+        },
+        {
+            "id": "iuk6jvg",
+            "parent": "t1_iuk15wc",
+            "ans": "Evil",
+            "score": 10,
+            "que": "    import pandas as np\n    import numpy as pd"
+        },
+        {
+            "id": "iulfkta",
+            "parent": "t1_iuk15wc",
+            "ans": "Stop it. Stop it right now.",
+            "score": 2,
+            "que": "    import pandas as np\n    import numpy as pd"
+        },
+        {
+            "id": "iumjv52",
+            "parent": "t1_iuk15wc",
+            "ans": "this has about the same feeling as dragging nails on metal.",
+            "score": 2,
+            "que": "    import pandas as np\n    import numpy as pd"
+        },
+        {
+            "id": "iun8yrf",
+            "parent": "t1_iuk15wc",
+            "ans": "This comment, officer!",
+            "score": 2,
+            "que": "    import pandas as np\n    import numpy as pd"
+        },
+        {
+            "id": "jgjic3x",
+            "parent": "t1_iuk15wc",
+            "ans": "Barbarism",
+            "score": 1,
+            "que": "    import pandas as np\n    import numpy as pd"
+        },
+        {
+            "id": "iujsuoj",
+            "parent": "t1_iujsgvp",
+            "ans": "You sir should be committed. And not the git kind.",
+            "score": 24,
+            "que": "import pandas as urggxgfhxyghgt877rg7yuc8yrdzvkitvtdyhfg"
+        },
+        {
+            "id": "iukm1ci",
+            "parent": "t1_iukjgr1",
+            "ans": "That is genuinely perverted what the fuck",
+            "score": 12,
+            "que": "I know a guy who names all their variables after coworkers they spoke to that day."
+        },
+        {
+            "id": "iukstrz",
+            "parent": "t1_iukm1ci",
+            "ans": "If it helps, he only programs in R and SQL. For SQL he never follows any of the company established style guides like prefixing vw_ for views.",
+            "score": 8,
+            "que": "That is genuinely perverted what the fuck"
+        },
+        {
+            "id": "ivtf2ar",
+            "parent": "t1_iukm1ci",
+            "ans": "How so?",
+            "score": 1,
+            "que": "That is genuinely perverted what the fuck"
+        },
+        {
+            "id": "ivco325",
+            "parent": "t1_iukstrz",
+            "ans": "He still capitalizes his keywords, right? Right?",
+            "score": 3,
+            "que": "If it helps, he only programs in R and SQL. For SQL he never follows any of the company established style guides like prefixing vw_ for views."
+        }
+    ]
+}

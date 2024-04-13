@@ -1,0 +1,337 @@
+{
+    "title": "I just got offered a data science internship with Amazon. I've been lurking on the sub for 3 years and just wanted to thank the folks who put together stats/ml cheat sheets.",
+    "id": "mmzbgq",
+    "create_at": 1617909736.0,
+    "score": 1891,
+    "comments": [
+        {
+            "id": "gtwayyk",
+            "parent": "t1_gtuk5cr",
+            "ans": "Pretty sure Amazon has an internal Mentorship program employees can sign up for!",
+            "score": 28,
+            "que": "Congrats on the offer. Amazon is a great first role, you'll learn a lot. I don't know if they still have the program for interns, but try to ask your manager to help you find a mentor. It makes a world of difference. Good luck :)"
+        },
+        {
+            "id": "gtxnhtu",
+            "parent": "t1_gtuk5cr",
+            "ans": "> ask your manager to help you find a mentor.\n\nThis transcends through nearly any career. Having a mentor outside of your direct chain of management is key. I've have several people whom I consider mentors within my company and external to it. Most who are older, but some who are younger too.",
+            "score": 5,
+            "que": "Congrats on the offer. Amazon is a great first role, you'll learn a lot. I don't know if they still have the program for interns, but try to ask your manager to help you find a mentor. It makes a world of difference. Good luck :)"
+        },
+        {
+            "id": "gtuqm58",
+            "parent": "t1_gtuoa4o",
+            "ans": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+            "score": 124,
+            "que": "Mind sharing some of the cheat sheets?"
+        },
+        {
+            "id": "gtxbg9f",
+            "parent": "t1_gtumud5",
+            "ans": "Yay for women in STEM \ud83e\udd70",
+            "score": 15,
+            "que": "OMG! Congratulations! Very well done. I hope you know that you being offered this position is a testament to the work you\u2019ve done, whether you believe it was good work or not, Amazon did. So I hope you enjoy this experience! \n\nAlso yay for women in STEM! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
+        },
+        {
+            "id": "gtva30y",
+            "parent": "t1_gtuqsml",
+            "ans": "Also a civil here. Data science hobbyist but just here to say you can totally do it! I'm sure there are a few other civil brethren in this sub too :) You are by no means unable to get more into data science!",
+            "score": 11,
+            "que": "Congrats! I wish i could land a job, i'm not sure since i'm civil engineer. :("
+        },
+        {
+            "id": "gtvilm3",
+            "parent": "t1_gtuqsml",
+            "ans": "If it helps, I'm a journalist and practicing data scientist, so anything's possible :)",
+            "score": 5,
+            "que": "Congrats! I wish i could land a job, i'm not sure since i'm civil engineer. :("
+        },
+        {
+            "id": "gtusxx1",
+            "parent": "t1_gtuqsml",
+            "ans": "Hey! I too studied civil engineering in my undergrad but switched to data science and BI and trying to get an internship. Are you studying data science as well?",
+            "score": 2,
+            "que": "Congrats! I wish i could land a job, i'm not sure since i'm civil engineer. :("
+        },
+        {
+            "id": "gtx5mn6",
+            "parent": "t1_gtuqsml",
+            "ans": "It\u2019s very doable. I have a PhD in environmental engineering and I\u2019ve helped several Env/Civil people transition into DS. \n\nTwo keys are to try to move towards data related projects in your current role and that it will be easier to land your first data role in a non-FAANG company.",
+            "score": 2,
+            "que": "Congrats! I wish i could land a job, i'm not sure since i'm civil engineer. :("
+        },
+        {
+            "id": "gtxd1po",
+            "parent": "t1_gtv8yxn",
+            "ans": "Its fully paid. I've never made above 15/hour in my life, so thats about to change really quick haha",
+            "score": 5,
+            "que": "Internship? Are they paying you?"
+        },
+        {
+            "id": "gtxcjpn",
+            "parent": "t1_gtvkyr4",
+            "ans": "I'm currently going to the University of Wisconsin Madison. Fantastic school and great city.",
+            "score": 1,
+            "que": "Where did you go for your masters?"
+        },
+        {
+            "id": "gtxcpct",
+            "parent": "t1_gtuqivt",
+            "ans": "Lots of leetcode, stats cheat sheets and then I watched mock interview videos on YouTube. Dont knock the soft skills either, mine most definitely were a big factor in my hiring. Lots of people can code but can you also be personable?",
+            "score": 3,
+            "que": "Congrats mate. \n\nPls do share some tips or details on how you landed the role"
+        },
+        {
+            "id": "gtxex34",
+            "parent": "t1_gtwy0a5",
+            "ans": "I used leetcode a lot! They have Amazon specific questions which I appreciated",
+            "score": 1,
+            "que": "Congrats! Some additional great resources for interview include [AceAI](https://www.aceainow.com), [Hackerrank](https://www.hackerrank.com), and [Leetcode](https://www.leetcode.com)."
+        },
+        {
+            "id": "gtxdgyk",
+            "parent": "t1_gtx9564",
+            "ans": "My university is a D1 institute so I think so?",
+            "score": 1,
+            "que": "Are you from a target school? :O"
+        },
+        {
+            "id": "gtwb6dz",
+            "parent": "t1_gtwayyk",
+            "ans": "Glad to hear the program is still around. Congrats on the new role!",
+            "score": 5,
+            "que": "Pretty sure Amazon has an internal Mentorship program employees can sign up for!"
+        },
+        {
+            "id": "gtwqw65",
+            "parent": "t1_gtwayyk",
+            "ans": "Why left for a new job?",
+            "score": 5,
+            "que": "Pretty sure Amazon has an internal Mentorship program employees can sign up for!"
+        },
+        {
+            "id": "gtx4h3n",
+            "parent": "t1_gtwayyk",
+            "ans": "You have to get really lucky with that program. Almost everyone ends up ghosting you because they're busy. There are a few gems in there though that really do help.",
+            "score": 3,
+            "que": "Pretty sure Amazon has an internal Mentorship program employees can sign up for!"
+        },
+        {
+            "id": "gtv90sw",
+            "parent": "t1_gtuqm58",
+            "ans": "Oof. This is giving undergrad Econometrics PTSD. Definitely helpful sheets though.",
+            "score": 29,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtxbcl2",
+            "parent": "t1_gtuqm58",
+            "ans": "The top 4 page cheet sheet was the one I studied before the second interview! Was super helpful as I got asked stuff basically right off of it.",
+            "score": 10,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtuvved",
+            "parent": "t1_gtuqm58",
+            "ans": "Thank you!",
+            "score": 4,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtvhcqu",
+            "parent": "t1_gtuqm58",
+            "ans": "Thanks!",
+            "score": 1,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtw7toi",
+            "parent": "t1_gtuqm58",
+            "ans": "Saving this for later don\u2019t mind me ;)",
+            "score": 1,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtw9t64",
+            "parent": "t1_gtuqm58",
+            "ans": "Awesome",
+            "score": 1,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtwc81n",
+            "parent": "t1_gtuqm58",
+            "ans": "Thanks",
+            "score": 1,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtwnwnk",
+            "parent": "t1_gtuqm58",
+            "ans": "Commenting to save",
+            "score": 1,
+            "que": "Stumbled upon this post yesterday https://www.reddit.com/r/datascience/comments/ljftgi/i_created_a_fourpage_data_science_cheatsheet_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\n\nEdit: maybe this one is useful as well https://www.reddit.com/r/datascience/comments/j4auif/i_created_a_complete_overview_of_machine_learning/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+        },
+        {
+            "id": "gtvexzm",
+            "parent": "t1_gtva30y",
+            "ans": "[deleted]",
+            "score": 6,
+            "que": "Also a civil here. Data science hobbyist but just here to say you can totally do it! I'm sure there are a few other civil brethren in this sub too :) You are by no means unable to get more into data science!"
+        },
+        {
+            "id": "gtvvlh4",
+            "parent": "t1_gtva30y",
+            "ans": "Civil Engineer turned data scientist here. Don't claim to be an expert but it's definitely possible. All you need is some brushing up of probability and a lot of practice with Python!",
+            "score": 8,
+            "que": "Also a civil here. Data science hobbyist but just here to say you can totally do it! I'm sure there are a few other civil brethren in this sub too :) You are by no means unable to get more into data science!"
+        },
+        {
+            "id": "gtut0mk",
+            "parent": "t1_gtusxx1",
+            "ans": "Yup, self studying. Beginner tbh.",
+            "score": 4,
+            "que": "Hey! I too studied civil engineering in my undergrad but switched to data science and BI and trying to get an internship. Are you studying data science as well?"
+        },
+        {
+            "id": "gtx6fet",
+            "parent": "t1_gtx5mn6",
+            "ans": "Thank you! This is what i was thinking as well. Doing some ML/DS stuff related to my field. Def would be helpful to land a job in a small company",
+            "score": 1,
+            "que": "It\u2019s very doable. I have a PhD in environmental engineering and I\u2019ve helped several Env/Civil people transition into DS. \n\nTwo keys are to try to move towards data related projects in your current role and that it will be easier to land your first data role in a non-FAANG company."
+        },
+        {
+            "id": "gtxetn8",
+            "parent": "t1_gtxd1po",
+            "ans": "Good. Congratulations!",
+            "score": 1,
+            "que": "Its fully paid. I've never made above 15/hour in my life, so thats about to change really quick haha"
+        },
+        {
+            "id": "gtzd0y7",
+            "parent": "t1_gtxex34",
+            "ans": "Nice! what else have you found most helpful?",
+            "score": 1,
+            "que": "I used leetcode a lot! They have Amazon specific questions which I appreciated"
+        },
+        {
+            "id": "gty283a",
+            "parent": "t1_gtwqw65",
+            "ans": "Its amazon after all. Wont order a thing from them anymore.",
+            "score": 3,
+            "que": "Why left for a new job?"
+        },
+        {
+            "id": "gtw9dwi",
+            "parent": "t1_gtvexzm",
+            "ans": "[removed]",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "gtw961q",
+            "parent": "t1_gtvvlh4",
+            "ans": "[removed]",
+            "score": 1,
+            "que": "Civil Engineer turned data scientist here. Don't claim to be an expert but it's definitely possible. All you need is some brushing up of probability and a lot of practice with Python!"
+        },
+        {
+            "id": "gtvynb0",
+            "parent": "t1_gtvvlh4",
+            "ans": "How\u2019d you do it?",
+            "score": 1,
+            "que": "Civil Engineer turned data scientist here. Don't claim to be an expert but it's definitely possible. All you need is some brushing up of probability and a lot of practice with Python!"
+        },
+        {
+            "id": "gty4pq1",
+            "parent": "t1_gtx6fet",
+            "ans": "Big companies too. Think about your gas/electric/water provider - they all have analytic shops.",
+            "score": 2,
+            "que": "Thank you! This is what i was thinking as well. Doing some ML/DS stuff related to my field. Def would be helpful to land a job in a small company"
+        },
+        {
+            "id": "gtwaoql",
+            "parent": "t1_gtw9dwi",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "[removed]"
+        },
+        {
+            "id": "gtwv7m0",
+            "parent": "t1_gtw961q",
+            "ans": "I've previously done teaching where I help with concepts and make students do small Python projects and put them up on GitHub. Please remind me in 2-3 months, by then I will most likely finish my job hunt. I can definitely help you get to a better place. Cheers.",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "gtwmlmk",
+            "parent": "t1_gtw961q",
+            "ans": "Hallo I am in agreement and would like work together",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "gtw0uwg",
+            "parent": "t1_gtvynb0",
+            "ans": "Worked at a startup while doing Coursera courses. Worked part time because they didn't want to pay full salary for an unproven guy. Kept doing courses, used that experience to apply for a Master's in Data Science to the US. 1 out of 7 universities gave an admit. \n\nCame to the US, struggled to get an internship. Got one through a college outreach program. \n\nFinished internship, they didn't hire international students full time. Struggled to get a job because internship experience is not enough. \n\nJoined a small startup and did some software engineering and NLP. Company went under so I left as they couldn't pay salary. But got a better contract gig since I now had real experience. \n\nRinse and repeat. Job hunting again now but with 3+ years of US experience, mix of data science and data/software engineering. \n\nLot of struggle, a bit of luck, and mostly learnt on the job. It gets easier, for sure. You search the same stack overflow answers so your brain recognizes patterns. And then you have friends in different companies after a while so you get referrals for easy interviews, instead of automatic mail rejections. It does get easier, got to hang in there ...\n\nOr be exceptional and have a wonderful GitHub profile with the latest technology experience, and a mentor who can guide you right. Being so motivated isn't easy, so fake it till you make it I would say.",
+            "score": 21,
+            "que": "How\u2019d you do it?"
+        },
+        {
+            "id": "gty4u5i",
+            "parent": "t1_gty4pq1",
+            "ans": "Yeah, will try them as well",
+            "score": 1,
+            "que": "Big companies too. Think about your gas/electric/water provider - they all have analytic shops."
+        },
+        {
+            "id": "gtx061o",
+            "parent": "t1_gtwv7m0",
+            "ans": "[removed]",
+            "score": 1,
+            "que": "I've previously done teaching where I help with concepts and make students do small Python projects and put them up on GitHub. Please remind me in 2-3 months, by then I will most likely finish my job hunt. I can definitely help you get to a better place. Cheers."
+        },
+        {
+            "id": "gtw8xk5",
+            "parent": "t1_gtw0uwg",
+            "ans": "[removed]",
+            "score": 6,
+            "que": "Worked at a startup while doing Coursera courses. Worked part time because they didn't want to pay full salary for an unproven guy. Kept doing courses, used that experience to apply for a Master's in Data Science to the US. 1 out of 7 universities gave an admit. \n\nCame to the US, struggled to get an internship. Got one through a college outreach program. \n\nFinished internship, they didn't hire international students full time. Struggled to get a job because internship experience is not enough. \n\nJoined a small startup and did some software engineering and NLP. Company went under so I left as they couldn't pay salary. But got a better contract gig since I now had real experience. \n\nRinse and repeat. Job hunting again now but with 3+ years of US experience, mix of data science and data/software engineering. \n\nLot of struggle, a bit of luck, and mostly learnt on the job. It gets easier, for sure. You search the same stack overflow answers so your brain recognizes patterns. And then you have friends in different companies after a while so you get referrals for easy interviews, instead of automatic mail rejections. It does get easier, got to hang in there ...\n\nOr be exceptional and have a wonderful GitHub profile with the latest technology experience, and a mentor who can guide you right. Being so motivated isn't easy, so fake it till you make it I would say."
+        },
+        {
+            "id": "gtwtl8e",
+            "parent": "t1_gtw0uwg",
+            "ans": "Damn, it is possible as i see. But i lack strong will to continue even after fails. I wanna become ML engineer to be precise, and i had post people encouraging me to continue and some of them in my spec managed to break into DS/ML/AI engineering jobs. It was hard but possible i guess, but it takes so much of determination and mental strength to pursue. I hope i will manage to do that! And thank you for sharing your experience!",
+            "score": 1,
+            "que": "Worked at a startup while doing Coursera courses. Worked part time because they didn't want to pay full salary for an unproven guy. Kept doing courses, used that experience to apply for a Master's in Data Science to the US. 1 out of 7 universities gave an admit. \n\nCame to the US, struggled to get an internship. Got one through a college outreach program. \n\nFinished internship, they didn't hire international students full time. Struggled to get a job because internship experience is not enough. \n\nJoined a small startup and did some software engineering and NLP. Company went under so I left as they couldn't pay salary. But got a better contract gig since I now had real experience. \n\nRinse and repeat. Job hunting again now but with 3+ years of US experience, mix of data science and data/software engineering. \n\nLot of struggle, a bit of luck, and mostly learnt on the job. It gets easier, for sure. You search the same stack overflow answers so your brain recognizes patterns. And then you have friends in different companies after a while so you get referrals for easy interviews, instead of automatic mail rejections. It does get easier, got to hang in there ...\n\nOr be exceptional and have a wonderful GitHub profile with the latest technology experience, and a mentor who can guide you right. Being so motivated isn't easy, so fake it till you make it I would say."
+        },
+        {
+            "id": "gtx0jdg",
+            "parent": "t1_gtx061o",
+            "ans": "Nope. I'm still working as a contractor, now looking for full time gigs.",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "gtwux2d",
+            "parent": "t1_gtw8xk5",
+            "ans": "Thank you for the kind words. Sometimes when you can't go back, you are forced to do it. I couldn't go back without paying my student loans, for example. And companies respect you after a couple of years experience.",
+            "score": 3,
+            "que": "[removed]"
+        },
+        {
+            "id": "gtwtz1e",
+            "parent": "t1_gtwtl8e",
+            "ans": "In that case you should join a good boot camp where they set you up with a mentor.",
+            "score": 1,
+            "que": "Damn, it is possible as i see. But i lack strong will to continue even after fails. I wanna become ML engineer to be precise, and i had post people encouraging me to continue and some of them in my spec managed to break into DS/ML/AI engineering jobs. It was hard but possible i guess, but it takes so much of determination and mental strength to pursue. I hope i will manage to do that! And thank you for sharing your experience!"
+        },
+        {
+            "id": "gtwu200",
+            "parent": "t1_gtwtz1e",
+            "ans": "Yup, definitely.",
+            "score": 2,
+            "que": "In that case you should join a good boot camp where they set you up with a mentor."
+        }
+    ]
+}

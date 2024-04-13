@@ -1,0 +1,974 @@
+{
+    "title": "The pain and excitement",
+    "id": "oeg6nl",
+    "create_at": 1625518640.0,
+    "score": 3914,
+    "comments": [
+        {
+            "id": "h46vtcp",
+            "parent": "t1_h465o84",
+            "ans": "You say that.. but tech firms still evaluate AB testing at .05 which really is crazy. We really need a more gradient approach for non-life-or-death decisions.",
+            "score": 130,
+            "que": "Upper management doesn't care."
+        },
+        {
+            "id": "h47lco1",
+            "parent": "t1_h465o84",
+            "ans": "No one should care. Those are the same number for all practical\nPurposes",
+            "score": 11,
+            "que": "Upper management doesn't care."
+        },
+        {
+            "id": "h467slz",
+            "parent": "t1_h462qaa",
+            "ans": "But that increases the type II error",
+            "score": 64,
+            "que": "real pros just switch to \u03b1=0.1 \neasy"
+        },
+        {
+            "id": "h46z0xu",
+            "parent": "t1_h465ybj",
+            "ans": "We use them in finance on credit risk models. There's certainly a decent amount of emphasis on p-values. You can get away with a high p-value variable in your model but the amount of justification required on why you have decided to include a non-significant variable just makes it a pain in the ass.",
+            "score": 42,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h46798l",
+            "parent": "t1_h465ybj",
+            "ans": "Pharma clinical trials yep",
+            "score": 83,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h46bs0y",
+            "parent": "t1_h465ybj",
+            "ans": "P-values, as applied to business problems, are a risk management tool. Nearly nobody in business knows how to assess risk, so they're rarely useful.",
+            "score": 46,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h46ad6u",
+            "parent": "t1_h465ybj",
+            "ans": "I\u2019ve \u201cused\u201d them as in produced them. But quickly realised nobody gives a rats ass about them.",
+            "score": 20,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h46n8e1",
+            "parent": "t1_h465ybj",
+            "ans": "Tech marketing. Yes, but the higher up in leadership you go, the less anyone wants to hear about it. \n\nAn inconclusive experiment is a failure, and you've lost rapport with them. \n\nA conclusive experiment in the direction opposite to what they've been writing in their whitepapers is likewise a failure, and you've lost rapport with them.\n\nJust run some descriptives until you find the average that lets them say \"see? I told you so!\" in their next whitepaper or all-hands meeting. You'll be famous, in no time.",
+            "score": 26,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h477oo4",
+            "parent": "t1_h465ybj",
+            "ans": "We use them to evaluate all our A/B tests for our video games",
+            "score": 5,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h48obln",
+            "parent": "t1_h465ybj",
+            "ans": "Marketing campaigns to determine lift in A/B tests. My experience has been that management isn't satisfied unless the p-value is less than 0.05. Same with the few times I've done regression modeling.",
+            "score": 5,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h46h01e",
+            "parent": "t1_h465ybj",
+            "ans": "My team doesn't deploy a new model unless it shows stat sig improvement in an A/B test.",
+            "score": 7,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "h47n3nu",
+            "parent": "t1_h465ybj",
+            "ans": "Plant breeding, especifically genomics, but it's usually a corrected p value",
+            "score": 1,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "jubq8hd",
+            "parent": "t1_h465ybj",
+            "ans": "I people analytics we rely on it to determine whom we should fire",
+            "score": 1,
+            "que": "How many of you are using p values in industry?"
+        },
+        {
+            "id": "hg4ip2b",
+            "parent": "t1_h469mjg",
+            "ans": "I actually prefer a small p. It\u2019s the big painful p\u2019s that I dislike.",
+            "score": 5,
+            "que": "No one is happy with an insignificant little p"
+        },
+        {
+            "id": "h46az46",
+            "parent": "t1_h462rdo",
+            "ans": "It was Neyman and Pearson who popularized binary hypothesis testing. Fisher was always mindful that 0.05 was a convenient, but arbitrary cutoff. Fisher had this to say:\n\n> [\u2026] no scientific worker has a fixed level of significance at which from year to year, and in all circumstances, he rejects hypotheses; he rather gives his mind to each particular case in the light of his evidence and his ideas.",
+            "score": 112,
+            "que": "Lol RA Fisher and his arbitrary number."
+        },
+        {
+            "id": "h493739",
+            "parent": "t1_h462rdo",
+            "ans": "'19 outa 20' if you wanna sound really convincing",
+            "score": 1,
+            "que": "Lol RA Fisher and his arbitrary number."
+        },
+        {
+            "id": "h4674o8",
+            "parent": "t1_h465k88",
+            "ans": "king of statistics here to say that this is untrue. if you set alpha > 0.05 regardless of context you will be thrown in jail.",
+            "score": 145,
+            "que": "I know this a meme, but remember that 0.05 is arbitrary, you can still go forward with one that is larger, there is no law that says 0.05 is the only valid one."
+        },
+        {
+            "id": "h473hzb",
+            "parent": "t1_h465k88",
+            "ans": "[deleted]",
+            "score": 13,
+            "que": "I know this a meme, but remember that 0.05 is arbitrary, you can still go forward with one that is larger, there is no law that says 0.05 is the only valid one."
+        },
+        {
+            "id": "h46zt3b",
+            "parent": "t1_h465k88",
+            "ans": "Yeah, the problem is choosing one in some principled way. In a lot of cases, I'm wary of giving non-stats people (or stats people with fewer qualms about data dredging) another lever to make it easy to get a green light out of their experiment so they can brag to management.",
+            "score": 5,
+            "que": "I know this a meme, but remember that 0.05 is arbitrary, you can still go forward with one that is larger, there is no law that says 0.05 is the only valid one."
+        },
+        {
+            "id": "h4632pe",
+            "parent": "t1_h460tx8",
+            "ans": "or away from\n\nIt\u2019s misleading to apply the sentiment of a direction",
+            "score": 38,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h462ufn",
+            "parent": "t1_h462nso",
+            "ans": "If you looked multiple times you need to account for that bro",
+            "score": 34,
+            "que": "p=0.0499, reaching statistical insignificance.\n\nI would say this is a false positive. What's the distribution like? Show me the data!"
+        },
+        {
+            "id": "h46nl7z",
+            "parent": "t1_h462nso",
+            "ans": "1\n\n2\n\n3\n\nNaN\n\n58901\n\nNaN\n\nNaN\n\nNaN\n\nNaN\n\nThere you go. How you like them datas?",
+            "score": 23,
+            "que": "p=0.0499, reaching statistical insignificance.\n\nI would say this is a false positive. What's the distribution like? Show me the data!"
+        },
+        {
+            "id": "h489glk",
+            "parent": "t1_h462nso",
+            "ans": "p-values can be derived from many different parametric models. Usually a chi-squared, normal distribution (usually standard normal i.e Z), or t-distribution. But it really depends on the data.\n\nIncidently, statistically independent tests for a null model will generate p-values that follow a continous uniform distribution between 0 and 1. Anything that either results in a non-null model or is not actually statistically independent (e.g. some tests are correlated so produce similar p-values more often than they don't) will produce a beta distribution. A beta distribution is just a uniform distribution that is skewed.",
+            "score": 1,
+            "que": "p=0.0499, reaching statistical insignificance.\n\nI would say this is a false positive. What's the distribution like? Show me the data!"
+        },
+        {
+            "id": "h46d6ad",
+            "parent": "t1_h46ay30",
+            "ans": "oops removed wrong outliers p = 0.1 now",
+            "score": 14,
+            "que": "Just \u201cremove outliers\u201d and p < 0.05, boom!"
+        },
+        {
+            "id": "h6zqfjw",
+            "parent": "t1_h46u20c",
+            "ans": "This is the only meaningful comment in this entire thread.",
+            "score": 2,
+            "que": "The fact that this arbitrary threshold is still so deeply embedded in academia is proof much of the academic research community is focused on publishing research, not necessarily publishing useful research."
+        },
+        {
+            "id": "h46x8vj",
+            "parent": "t1_h46orle",
+            "ans": "would just have to adjust for multiple testing anyways. lmao",
+            "score": 5,
+            "que": "Could you crunch the numbers again?"
+        },
+        {
+            "id": "h47tsbw",
+            "parent": "t1_h4667g5",
+            "ans": "https://www.psychology.mcmaster.ca/bennett/psy710/readings/BennettDeadSalmon.pdf",
+            "score": 2,
+            "que": "...until you learn that you can make [an experiment](https://youtu.be/tLM7xS6t4FE) that shows a statistically significant probability that dead fish can answer questions..."
+        },
+        {
+            "id": "h468yv8",
+            "parent": "t1_h460mq7",
+            "ans": "P=0.069",
+            "score": 9,
+            "que": "p=0.068\n\np=0.07"
+        },
+        {
+            "id": "h46nvl4",
+            "parent": "t1_h46mh1v",
+            "ans": "Haha I was just going to say that!",
+            "score": 1,
+            "que": "Hopefully you don't need a bonferoni adjustment!!!"
+        },
+        {
+            "id": "h46wj1h",
+            "parent": "t1_h46rmrs",
+            "ans": "Sorry, can you elaborate on it a bit, why would huge datasets result in all covariates being significant?",
+            "score": 7,
+            "que": "I'm glad there's finally some stats talk in this sub. It's usually comp sci and programming dominated.\n\nBut uh, give me a big enough sample size and I'll make you a model that shows everything is significant.  Since data science is usually big data sets, pretty much everything ever is going to be p<0.000000000000.\n\nWord of caution to folks who are new-ish to industry:  Don't be the guy who presents 'highly significant' findings of p<0.05 on a data set of 1 million observations, or even a couple hundred thousand observations.\n\nYou might be able to get away with it, but eventually you're going to run into someone who can torpedo you.....!"
+        },
+        {
+            "id": "h475z5t",
+            "parent": "t1_h46rmrs",
+            "ans": "Why is pvalue a problem with bigger datasets?",
+            "score": 2,
+            "que": "I'm glad there's finally some stats talk in this sub. It's usually comp sci and programming dominated.\n\nBut uh, give me a big enough sample size and I'll make you a model that shows everything is significant.  Since data science is usually big data sets, pretty much everything ever is going to be p<0.000000000000.\n\nWord of caution to folks who are new-ish to industry:  Don't be the guy who presents 'highly significant' findings of p<0.05 on a data set of 1 million observations, or even a couple hundred thousand observations.\n\nYou might be able to get away with it, but eventually you're going to run into someone who can torpedo you.....!"
+        },
+        {
+            "id": "h49ouq9",
+            "parent": "t1_h4749an",
+            "ans": "no one deserves to be poor!",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h49aq9h",
+            "parent": "t1_h49344x",
+            "ans": "Hypothesis testing. Common example, evaluating the results of an A/B test experiment.",
+            "score": 2,
+            "que": "What do you use p-value for? I'm a data scientist for almost 4 years and don't understand why you need it. Dont you have other metrics such as ROC AUC, F1 (macro/micro) , losses, accuracy, MSE, L1, R2 score, ...???"
+        },
+        {
+            "id": "h4aqeqy",
+            "parent": "t1_h49344x",
+            "ans": "Data scientist for 4 years, yet conflates p-values with loss functions? How would you conduct a DoE using the aforementioned metrics? ...",
+            "score": 1,
+            "que": "What do you use p-value for? I'm a data scientist for almost 4 years and don't understand why you need it. Dont you have other metrics such as ROC AUC, F1 (macro/micro) , losses, accuracy, MSE, L1, R2 score, ...???"
+        },
+        {
+            "id": "h46bkbw",
+            "parent": "t1_h469w0h",
+            "ans": "This is a statistical concept, not a programming concept. To describe it really roughly, when we analyze results of something we ask ourselves, \"Can we conclude that something important is happening here? Or are these results just a matter of chance?\" A P value is what we use to determine what the chances are that the results would occur - the lower the p value, the lower the chances. This means that there is some kind of important observable correlation happening, because the results are not just a matter of chance. Statisticians can determine what p value they will deem \"statistically significant.\" A very common one is .05. If an experiment yields something less then .05 p value, they will label that statistically significant, but more than that they will say it can't be concluded that something is happening here. This is somewhat arbitrary and it is a human categorization. It doesn't have to be .05. It could be less, it could be more depending on the context. This meme is making the joke that we would consider .051 not statistically significant, but .049 would be, highlighting that this is an arbitrary distinction. Hopefully I've explained that correctly, please let me know if I misexplained anything.\n\nIf you want to learn more about this concept, which you definitely should if you're going into any data-based job, you'll want to google \"p-value\" and \"statistical significance\".",
+            "score": 32,
+            "que": "Can anyone explain for someone who is only a couple months into programming? \ud83d\ude01"
+        },
+        {
+            "id": "h46asg2",
+            "parent": "t1_h469w0h",
+            "ans": "This might be more of a science/stats joke than programming. \n\nBasically, general convention in science/stats is that p<0.05 is considered a significant relationship and, generally, neccessary for publication. So the bottom photo is just barely scraping by but it doesn't matter as long as you get less than 0.05. \n\n0.05 is an arbitrary number, and things like p-hacking or adding new trials to try and reach it can result in false positives. Some people have suggested moving to 0.01, and some clinical research where 0.05 would be nearly impossible might be okay with higher values. But generally there is a perception that the idea that 0.05 is some holy number is a source of frustration for many.",
+            "score": 12,
+            "que": "Can anyone explain for someone who is only a couple months into programming? \ud83d\ude01"
+        },
+        {
+            "id": "h46anwt",
+            "parent": "t1_h469w0h",
+            "ans": "P value measures how likely, if there\u2019s no real effect, you would be to seemingly \u201cfind an effect\u201d of whatever size you found in your sample. Lower is better, because that indicates it\u2019s less likely you got a spurious result.\n\nMany studies use the threshold of p<0.05 (less than a 1/20 chance you\u2019d see something like X if no real effect exists), so some relatively unethical folks engage in \u201cp-hacking\u201d whereby they manipulate the value down to juuust below 0.05.\n\nReally, especially in our big-data era, one should aim for p values a hell of a lot lower than 0.05. When you have X million data points, a 1/20 chance is basically bound to happen in a large subsample of them.",
+            "score": 7,
+            "que": "Can anyone explain for someone who is only a couple months into programming? \ud83d\ude01"
+        },
+        {
+            "id": "h478phl",
+            "parent": "t1_h46bags",
+            "ans": "You really can\u2019t say that even at 95%",
+            "score": 2,
+            "que": "A lot of conversation about .05 being an arbitrary number but if you set your CI at 95% at least you can say that your population estimate does not include 0. Or am I incorrect?"
+        },
+        {
+            "id": "h46ch7l",
+            "parent": "t1_h467smb",
+            "ans": "Anytime you've collected data under two conditions and your hypothesis is that the two conditions won't change the data.\n\nI.e. collecting internal body temperatures of people wearing socks vs not wearing socks where you hypothesise socks are irrelevant to body temp.",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h46o0l9",
+            "parent": "t1_h467smb",
+            "ans": "Yes. Studies funded by people who don't want to reject the null hypothesis.\n\n\"Ooops. Inconclusive. Shucks. There's just not enough data. Rats! Better keep on businessing as usual, I guess.\"",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h48iood",
+            "parent": "t1_h46q1gd",
+            "ans": "Its true, i hardly see it in my day to day work especially in deep learning..",
+            "score": 3,
+            "que": "What kinda data scientist uses p-values?\n\nEDIT: I\u2019m actually dead serious. What data science projects are y\u2019all working on that uses p-values? Don\u2019t most of us work with datasets big enough to make the use of p-values kinda silly?"
+        },
+        {
+            "id": "h497z2u",
+            "parent": "t1_h46q1gd",
+            "ans": "Very often used in product data science when evaluating the impact of product changes",
+            "score": 1,
+            "que": "What kinda data scientist uses p-values?\n\nEDIT: I\u2019m actually dead serious. What data science projects are y\u2019all working on that uses p-values? Don\u2019t most of us work with datasets big enough to make the use of p-values kinda silly?"
+        },
+        {
+            "id": "h49oyl8",
+            "parent": "t1_h46q1gd",
+            "ans": "healthcare is a huge one",
+            "score": 1,
+            "que": "What kinda data scientist uses p-values?\n\nEDIT: I\u2019m actually dead serious. What data science projects are y\u2019all working on that uses p-values? Don\u2019t most of us work with datasets big enough to make the use of p-values kinda silly?"
+        },
+        {
+            "id": "h4aqnwe",
+            "parent": "t1_h46q1gd",
+            "ans": "I worked at a bank for a bit and we used them all the time as our regulating body didn't like black-box models. As a result, you're pretty much left with GLMs and well, p-values.",
+            "score": 1,
+            "que": "What kinda data scientist uses p-values?\n\nEDIT: I\u2019m actually dead serious. What data science projects are y\u2019all working on that uses p-values? Don\u2019t most of us work with datasets big enough to make the use of p-values kinda silly?"
+        },
+        {
+            "id": "h46brpe",
+            "parent": "t1_h466fve",
+            "ans": "It's a joke man",
+            "score": 9,
+            "que": "Oh Jesus. P value , the last refuge of people who have no fucking clue what you are doing or why.\n\nP= 0.03 better than p= 0.24. \n\nP=0.049 is no different than p=0.051\n\n\nMoronic academics that feel special as gatekeepers are ruining the usefulness of data science."
+        },
+        {
+            "id": "h46cc9s",
+            "parent": "t1_h466fve",
+            "ans": "Yes that is the joke.",
+            "score": 11,
+            "que": "Oh Jesus. P value , the last refuge of people who have no fucking clue what you are doing or why.\n\nP= 0.03 better than p= 0.24. \n\nP=0.049 is no different than p=0.051\n\n\nMoronic academics that feel special as gatekeepers are ruining the usefulness of data science."
+        },
+        {
+            "id": "h49p6st",
+            "parent": "t1_h48z3hi",
+            "ans": "healthcare always has and always will",
+            "score": 1,
+            "que": "Who the hell is out here relying on p-values in 2021?"
+        },
+        {
+            "id": "h48fbpw",
+            "parent": "t1_h46vtcp",
+            "ans": "I'm taking a regression class for my MBA and in the first class the prof complained about how the p<0.05 threshold is absolutely ridiculous and that p value should be used as a clue in the puzzle rather than the be-all/end-all cutoff. There is so much different risk tolerance across industries and sectors that it doesn't make sense to use one universal #.",
+            "score": 47,
+            "que": "You say that.. but tech firms still evaluate AB testing at .05 which really is crazy. We really need a more gradient approach for non-life-or-death decisions."
+        },
+        {
+            "id": "h474tdc",
+            "parent": "t1_h46vtcp",
+            "ans": "What do say when it leads to a bunch of conflicting conclusions?",
+            "score": 4,
+            "que": "You say that.. but tech firms still evaluate AB testing at .05 which really is crazy. We really need a more gradient approach for non-life-or-death decisions."
+        },
+        {
+            "id": "j76smny",
+            "parent": "t1_h46vtcp",
+            "ans": "Oh believe me - there are plenty of folks taking a gradient approach. If you\u2019re lucky they know just enough stats to know where they\u2019re taking risks and making assumptions vs blindly letting an invalid conclusion guide their decision making.",
+            "score": 1,
+            "que": "You say that.. but tech firms still evaluate AB testing at .05 which really is crazy. We really need a more gradient approach for non-life-or-death decisions."
+        },
+        {
+            "id": "h46d9do",
+            "parent": "t1_h467slz",
+            "ans": "Me and my homies hate type 2 error",
+            "score": 143,
+            "que": "But that increases the type II error"
+        },
+        {
+            "id": "h4682vg",
+            "parent": "t1_h467slz",
+            "ans": "And?",
+            "score": 77,
+            "que": "But that increases the type II error"
+        },
+        {
+            "id": "h47tur4",
+            "parent": "t1_h467slz",
+            "ans": "You must be new here",
+            "score": 10,
+            "que": "But that increases the type II error"
+        },
+        {
+            "id": "h46qd38",
+            "parent": "t1_h46798l",
+            "ans": "Clinical trials have prescribed analytic procedures though. In many cases the \u201canalyst\u201d is just someone with a bachelors running a SAS script. The data scientists in pharma usually work on the earliest phases of drug discovery or (more commonly) for the business side doing finance/process optimization.",
+            "score": 38,
+            "que": "Pharma clinical trials yep"
+        },
+        {
+            "id": "h46w14t",
+            "parent": "t1_h46n8e1",
+            "ans": "if you do this, then you're the problem. This is precisely why we need more math minded individuals getting into business facing roles and then evangelizing changing directions when wrong or at the very least, admitting the data doesn't support the decision but proceeding anyways.",
+            "score": 31,
+            "que": "Tech marketing. Yes, but the higher up in leadership you go, the less anyone wants to hear about it. \n\nAn inconclusive experiment is a failure, and you've lost rapport with them. \n\nA conclusive experiment in the direction opposite to what they've been writing in their whitepapers is likewise a failure, and you've lost rapport with them.\n\nJust run some descriptives until you find the average that lets them say \"see? I told you so!\" in their next whitepaper or all-hands meeting. You'll be famous, in no time."
+        },
+        {
+            "id": "h46xcbg",
+            "parent": "t1_h46az46",
+            "ans": "Not sufficiently dismissive I suppose",
+            "score": 10,
+            "que": "It was Neyman and Pearson who popularized binary hypothesis testing. Fisher was always mindful that 0.05 was a convenient, but arbitrary cutoff. Fisher had this to say:\n\n> [\u2026] no scientific worker has a fixed level of significance at which from year to year, and in all circumstances, he rejects hypotheses; he rather gives his mind to each particular case in the light of his evidence and his ideas."
+        },
+        {
+            "id": "h46kebp",
+            "parent": "t1_h4674o8",
+            "ans": "Too high p value? Straight to jail.\n\nToo low p value, believe it or not also jail.",
+            "score": 59,
+            "que": "king of statistics here to say that this is untrue. if you set alpha > 0.05 regardless of context you will be thrown in jail."
+        },
+        {
+            "id": "h467phi",
+            "parent": "t1_h4674o8",
+            "ans": "They are already on my door knocking, who snitched???",
+            "score": 23,
+            "que": "king of statistics here to say that this is untrue. if you set alpha > 0.05 regardless of context you will be thrown in jail."
+        },
+        {
+            "id": "h482pjn",
+            "parent": "t1_h4674o8",
+            "ans": "oh shit hello mr CEO of statistics",
+            "score": 3,
+            "que": "king of statistics here to say that this is untrue. if you set alpha > 0.05 regardless of context you will be thrown in jail."
+        },
+        {
+            "id": "h47ns4u",
+            "parent": "t1_h473hzb",
+            "ans": "As a physicist, if your choice of p-value mattered, your experiment was shit. 0.1, 0.05, 0.01, all the  classic choices are very low bars. Show me a p-value that needs writing in scientific notation!",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h464epr",
+            "parent": "t1_h4632pe",
+            "ans": "I get what you are saying, but I would call 0.0499 \u201etrending away from significance\u201c. 0.051 cannot really be trending away from significance because it is already not significant. But in principle you are right, we do not know the \u201edirection\u201c",
+            "score": 16,
+            "que": "or away from\n\nIt\u2019s misleading to apply the sentiment of a direction"
+        },
+        {
+            "id": "h4631zj",
+            "parent": "t1_h462ufn",
+            "ans": "I only looked once! I swear! I'm a Dr.!",
+            "score": 31,
+            "que": "If you looked multiple times you need to account for that bro"
+        },
+        {
+            "id": "h47r3m1",
+            "parent": "t1_h46nl7z",
+            "ans": "If you could just make those NaNs disappear, then you got yourself a Nature or Science paper. Think about it... The sample size should be enough.",
+            "score": 2,
+            "que": "1\n\n2\n\n3\n\nNaN\n\n58901\n\nNaN\n\nNaN\n\nNaN\n\nNaN\n\nThere you go. How you like them datas?"
+        },
+        {
+            "id": "h47o4vy",
+            "parent": "t1_h46x8vj",
+            "ans": "And that's when they will begin to hate the name Bonferroni.",
+            "score": 3,
+            "que": "would just have to adjust for multiple testing anyways. lmao"
+        },
+        {
+            "id": "hg4aiwg",
+            "parent": "t1_h468yv8",
+            "ans": "69 lmao",
+            "score": 2,
+            "que": "P=0.069"
+        },
+        {
+            "id": "h4893sh",
+            "parent": "t1_h46wj1h",
+            "ans": "Not OP, but the reason is statistical power. The more observations you have the greater your statistical power, which is the probability your test will obtain a statistically significant result from your sample assuming that one actually exists in the population. With great power comes the ability to detect extremely small effects as statistically significant. \n\nP-values are a convenient tool for making inferences when we don't have the resources to collect giant samples, but with big data, it makes more sense to estimate effect sizes to get an idea of how much something matters rather than using a p-value to decide whether something matters. \n\nPerhaps not absolutely everything you throw into a model would come out as significant, but with enough data, pretty much anything you could reasonably imagine to affect your outcome variable would. A p-value in most cases is testing against the null hypothesis, or 0 effect, and when you have 99% power to detect even tiny effects, you will find them, and at some point the idea of p-values becomes silly.",
+            "score": 9,
+            "que": "Sorry, can you elaborate on it a bit, why would huge datasets result in all covariates being significant?"
+        },
+        {
+            "id": "h4aq398",
+            "parent": "t1_h46wj1h",
+            "ans": "For a consistent estimator x\u0304,  we have: P(|x\u0304 - \u03bc| > \u03b5) \u2192 0 as the sample size n \u2192 \u221e , aka convergence in probabilities. As a result, tiny values of \u03b5 become significant when n is extremely large.",
+            "score": 2,
+            "que": "Sorry, can you elaborate on it a bit, why would huge datasets result in all covariates being significant?"
+        },
+        {
+            "id": "h489imx",
+            "parent": "t1_h475z5t",
+            "ans": "See my reply above.",
+            "score": 1,
+            "que": "Why is pvalue a problem with bigger datasets?"
+        },
+        {
+            "id": "h49azkq",
+            "parent": "t1_h49aq9h",
+            "ans": "Can you describe it further please? How do you evaluate A/B testing with p-values?",
+            "score": 1,
+            "que": "Hypothesis testing. Common example, evaluating the results of an A/B test experiment."
+        },
+        {
+            "id": "h4arwfn",
+            "parent": "t1_h4aqeqy",
+            "ans": "DoE?\nCan you just give me an example of where pvalues are useful?",
+            "score": 1,
+            "que": "Data scientist for 4 years, yet conflates p-values with loss functions? How would you conduct a DoE using the aforementioned metrics? ..."
+        },
+        {
+            "id": "h46buhr",
+            "parent": "t1_h46bkbw",
+            "ans": "You guys are awesome for explaining this to a newbie like myself. I feel like you just gave me a sneak peek into my first data science class coming up in August haha.",
+            "score": 13,
+            "que": "This is a statistical concept, not a programming concept. To describe it really roughly, when we analyze results of something we ask ourselves, \"Can we conclude that something important is happening here? Or are these results just a matter of chance?\" A P value is what we use to determine what the chances are that the results would occur - the lower the p value, the lower the chances. This means that there is some kind of important observable correlation happening, because the results are not just a matter of chance. Statisticians can determine what p value they will deem \"statistically significant.\" A very common one is .05. If an experiment yields something less then .05 p value, they will label that statistically significant, but more than that they will say it can't be concluded that something is happening here. This is somewhat arbitrary and it is a human categorization. It doesn't have to be .05. It could be less, it could be more depending on the context. This meme is making the joke that we would consider .051 not statistically significant, but .049 would be, highlighting that this is an arbitrary distinction. Hopefully I've explained that correctly, please let me know if I misexplained anything.\n\nIf you want to learn more about this concept, which you definitely should if you're going into any data-based job, you'll want to google \"p-value\" and \"statistical significance\"."
+        },
+        {
+            "id": "h46bl6r",
+            "parent": "t1_h46asg2",
+            "ans": "Thanks for the detailed response! That makes total sense. I will pretend to read the joke again for the first time and \u201clol\u201d",
+            "score": 8,
+            "que": "This might be more of a science/stats joke than programming. \n\nBasically, general convention in science/stats is that p<0.05 is considered a significant relationship and, generally, neccessary for publication. So the bottom photo is just barely scraping by but it doesn't matter as long as you get less than 0.05. \n\n0.05 is an arbitrary number, and things like p-hacking or adding new trials to try and reach it can result in false positives. Some people have suggested moving to 0.01, and some clinical research where 0.05 would be nearly impossible might be okay with higher values. But generally there is a perception that the idea that 0.05 is some holy number is a source of frustration for many."
+        },
+        {
+            "id": "h47ah5i",
+            "parent": "t1_h478phl",
+            "ans": "Lol. You're right. \"I'm 95% confident...\"",
+            "score": 2,
+            "que": "You really can\u2019t say that even at 95%"
+        },
+        {
+            "id": "h46eiyr",
+            "parent": "t1_h46ch7l",
+            "ans": "[deleted]",
+            "score": -1,
+            "que": "Anytime you've collected data under two conditions and your hypothesis is that the two conditions won't change the data.\n\nI.e. collecting internal body temperatures of people wearing socks vs not wearing socks where you hypothesise socks are irrelevant to body temp."
+        },
+        {
+            "id": "h49vp0k",
+            "parent": "t1_h497z2u",
+            "ans": "Why not use effect size? It\u2019s the effect size you need for doing any kind of cost-benefit analysis",
+            "score": 1,
+            "que": "Very often used in product data science when evaluating the impact of product changes"
+        },
+        {
+            "id": "h4atyej",
+            "parent": "t1_h4aqnwe",
+            "ans": "You don\u2019t avoid uninterpretable models by relying on p-values from linear models, you avoid uninterpretable models by fitting *simpler* models. Linear models are great for this, but not because they \u201chave p-values\u201d. They\u2019re great because you can convert the *effect sizes* into units that anyone with a basic math education can understand.\n\nSo far, all the examples people have given me of the usefulness of p-values have been cases where the effect sizes should have been used.",
+            "score": 1,
+            "que": "I worked at a bank for a bit and we used them all the time as our regulating body didn't like black-box models. As a result, you're pretty much left with GLMs and well, p-values."
+        },
+        {
+            "id": "h46mnoz",
+            "parent": "t1_h46cc9s",
+            "ans": "I get it. But some things are too serious to joke about :)",
+            "score": -11,
+            "que": "Yes that is the joke."
+        },
+        {
+            "id": "h48rbjf",
+            "parent": "t1_h48fbpw",
+            "ans": "This is correct. P value - put incredibly simply - is just the chance that an observation was by happenstance. As a data scientist its on you to decide what percent chance you are comfortable with - .05 is just a general guideline and is certainly not a hard and fast rule. People who are new to statistics tend to fixate on 0.05 as a rule when its not.\n\nEdit: Still find this meme funny though.",
+            "score": 25,
+            "que": "I'm taking a regression class for my MBA and in the first class the prof complained about how the p<0.05 threshold is absolutely ridiculous and that p value should be used as a clue in the puzzle rather than the be-all/end-all cutoff. There is so much different risk tolerance across industries and sectors that it doesn't make sense to use one universal #."
+        },
+        {
+            "id": "iefdr5t",
+            "parent": "t1_h48fbpw",
+            "ans": "To some extent I agree, I\u2019m a Bayesian and don\u2019t really ascribe to NHST frameworks. \n\nBut, if you are using p-values, you need to remember what the cutoff threshold is for. Controlling your error rate. If you treat it as a continuous clue, you\u2019re going to end up with an unknown error rate that fluctuates. AKA you won\u2019t replicate findings at an expected rate. I disagree with this proff with p-values, but agree with his sentiment.",
+            "score": 1,
+            "que": "I'm taking a regression class for my MBA and in the first class the prof complained about how the p<0.05 threshold is absolutely ridiculous and that p value should be used as a clue in the puzzle rather than the be-all/end-all cutoff. There is so much different risk tolerance across industries and sectors that it doesn't make sense to use one universal #."
+        },
+        {
+            "id": "h475o62",
+            "parent": "t1_h474tdc",
+            "ans": "If the test is like 'what design works best' then you go with whatever direction the person or team with the biggest stake in the project wants to go. Like there is room for discussion on using .05 as the defining point for something that isn't 'will this drug save lives or cause explosive shits'.",
+            "score": 25,
+            "que": "What do say when it leads to a bunch of conflicting conclusions?"
+        },
+        {
+            "id": "h46r99b",
+            "parent": "t1_h46d9do",
+            "ans": "i get it; it's not my type either.",
+            "score": 39,
+            "que": "Me and my homies hate type 2 error"
+        },
+        {
+            "id": "h4e7kkj",
+            "parent": "t1_h47tur4",
+            "ans": "Kinda yeah, did I miss anything? Lemme catch up",
+            "score": 2,
+            "que": "You must be new here"
+        },
+        {
+            "id": "h46xcuq",
+            "parent": "t1_h46qd38",
+            "ans": "[deleted]",
+            "score": 21,
+            "que": "Clinical trials have prescribed analytic procedures though. In many cases the \u201canalyst\u201d is just someone with a bachelors running a SAS script. The data scientists in pharma usually work on the earliest phases of drug discovery or (more commonly) for the business side doing finance/process optimization."
+        },
+        {
+            "id": "h471exp",
+            "parent": "t1_h46w14t",
+            "ans": "Yes that was indeed my point. Thank you for rephrasing.",
+            "score": 20,
+            "que": "if you do this, then you're the problem. This is precisely why we need more math minded individuals getting into business facing roles and then evangelizing changing directions when wrong or at the very least, admitting the data doesn't support the decision but proceeding anyways."
+        },
+        {
+            "id": "h47snar",
+            "parent": "t1_h46xcbg",
+            "ans": "Checkout the paper \"Mindless Statistics\" for a fun and comprehensive discussion on the matter",
+            "score": 2,
+            "que": "Not sufficiently dismissive I suppose"
+        },
+        {
+            "id": "h47bovb",
+            "parent": "t1_h46xcbg",
+            "ans": "Also, no guidelines on how to pick the right number.",
+            "score": 4,
+            "que": "Not sufficiently dismissive I suppose"
+        },
+        {
+            "id": "h46wvm6",
+            "parent": "t1_h46kebp",
+            "ans": "This kind of behaviour is never tolerated in Boraqua,\n\nP hackers, we have a special jail for p hackers.\n\nYou are fudging data? right to jail.\n\nthrowing ML at all your problems? Right to jail. Right away.\n\nresampling until you get a statistically significant conclusion? jail.\n\ntesting only once? jail.\n\nSaying you can solve every business problem with only statistics? You right to jail.\n\nYou use a p value that is too small, believe it or not - jail.\n\nYou use a p value that is too large? Also jail. Over sig under sig.\n\nYou have a presentation to the business and you speak only in nerd and don't use charts? Believe it or not jail, right away.",
+            "score": 45,
+            "que": "Too high p value? Straight to jail.\n\nToo low p value, believe it or not also jail."
+        },
+        {
+            "id": "h46thor",
+            "parent": "t1_h46kebp",
+            "ans": "p value set to 1/20?\n\nFloating point error. That's right, jail.",
+            "score": 17,
+            "que": "Too high p value? Straight to jail.\n\nToo low p value, believe it or not also jail."
+        },
+        {
+            "id": "h48pyjc",
+            "parent": "t1_h47ns4u",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "As a physicist, if your choice of p-value mattered, your experiment was shit. 0.1, 0.05, 0.01, all the  classic choices are very low bars. Show me a p-value that needs writing in scientific notation!"
+        },
+        {
+            "id": "hg4it7a",
+            "parent": "t1_h464epr",
+            "ans": "Well said homie",
+            "score": 1,
+            "que": "I get what you are saying, but I would call 0.0499 \u201etrending away from significance\u201c. 0.051 cannot really be trending away from significance because it is already not significant. But in principle you are right, we do not know the \u201edirection\u201c"
+        },
+        {
+            "id": "h46nqlq",
+            "parent": "t1_h4631zj",
+            "ans": "That simulated binomial distribution under your fingernails is calling you a liar!",
+            "score": 6,
+            "que": "I only looked once! I swear! I'm a Dr.!"
+        },
+        {
+            "id": "h4a5ik5",
+            "parent": "t1_h47r3m1",
+            "ans": "Impute the mean!",
+            "score": 2,
+            "que": "If you could just make those NaNs disappear, then you got yourself a Nature or Science paper. Think about it... The sample size should be enough."
+        },
+        {
+            "id": "h48ff1e",
+            "parent": "t1_h4893sh",
+            "ans": "Would changing the cutoff to say 0.0005 be a reasonable method to avoid detecting minor effects? As you said though, the effect size is what we should be looking at first anyways.",
+            "score": 1,
+            "que": "Not OP, but the reason is statistical power. The more observations you have the greater your statistical power, which is the probability your test will obtain a statistically significant result from your sample assuming that one actually exists in the population. With great power comes the ability to detect extremely small effects as statistically significant. \n\nP-values are a convenient tool for making inferences when we don't have the resources to collect giant samples, but with big data, it makes more sense to estimate effect sizes to get an idea of how much something matters rather than using a p-value to decide whether something matters. \n\nPerhaps not absolutely everything you throw into a model would come out as significant, but with enough data, pretty much anything you could reasonably imagine to affect your outcome variable would. A p-value in most cases is testing against the null hypothesis, or 0 effect, and when you have 99% power to detect even tiny effects, you will find them, and at some point the idea of p-values becomes silly."
+        },
+        {
+            "id": "h4auuhx",
+            "parent": "t1_h4arwfn",
+            "ans": "Design of experiment. As for your question, anything involving ANOVA which is at the core of DoE.",
+            "score": 2,
+            "que": "DoE?\nCan you just give me an example of where pvalues are useful?"
+        },
+        {
+            "id": "h46u8ef",
+            "parent": "t1_h46buhr",
+            "ans": "Also have a look at p hacking.",
+            "score": 7,
+            "que": "You guys are awesome for explaining this to a newbie like myself. I feel like you just gave me a sneak peek into my first data science class coming up in August haha."
+        },
+        {
+            "id": "h47asq7",
+            "parent": "t1_h46buhr",
+            "ans": "You're welcome, stay curious.",
+            "score": 1,
+            "que": "You guys are awesome for explaining this to a newbie like myself. I feel like you just gave me a sneak peek into my first data science class coming up in August haha."
+        },
+        {
+            "id": "h46p3d5",
+            "parent": "t1_h46eiyr",
+            "ans": "Ending misuse of p < 0.05 wouldn't entail valuing p > 0.05. There's no reason to desire a larger type II error rate (chance of rejecting the null when you shouldn't have).\n\nI don't know every case against significance testing, but the cases I've heard against it are incidental or involve machine learning and distance measures being better:\n\n1. 0.05 still leaves 5% chance of rejecting the null in error. That's not 0%, so someone could always beg for more research, and now the implementation of your conclusions is put on hold.\n2. Null hypothesis rejection is really complicated, and many people without the training can misapply it. If you're tracking multiple KPIs, you have to adjust your alpha (and the adjustment rule is just a rule of thumb). If you \"peek\" while the experiment is running, you have to adjust your alpha. Easy for novices to miss those.\n3. Hypothesis testing relies on assumptions that can't easily be verified in reality. Especially when the variables you're testing are continuous. You have to assume the population you're studying follows a normal distribution. That's called into question sort of like how \"Homo Oeconomicus\" is called into question in the Economics space. I think binomial variables are a little safer to test for significance, on the other hand. You can derive variance for those rather than having to measure or assume it.\n4. Machine learning is providing other ways to brute force comparisons among groups.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h46j3kh",
+            "parent": "t1_h46eiyr",
+            "ans": "Goodness of fit tests. A high p-value suggests may suggest model adequacy. So if you had a small p-value for a goodness of fit test, you might need to adjust the model.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h4awiah",
+            "parent": "t1_h49vp0k",
+            "ans": "Yes and hypothesis testing is used to determine the statistical significance of the measured effect.",
+            "score": 1,
+            "que": "Why not use effect size? It\u2019s the effect size you need for doing any kind of cost-benefit analysis"
+        },
+        {
+            "id": "h4avgrv",
+            "parent": "t1_h4atyej",
+            "ans": ">You don\u2019t avoid uninterpretable models by relying on p-values from linear models, you avoid uninterpretable models by fitting simpler models.\n\n&#x200B;\n\nYes, that's why I said we were left with GLMs. You're misinterpreting me; I said we were using GLMS *and* p-values, as in, anything that relies on a specified family of distribution. The regulating body wants to know if the population is stable? They won't accept anything other than a Chi-Squared test aka p-values because they're SAS-using dinosaurs.\n\n&#x200B;\n\n> Linear models are great for this, but not because they \u201chave p-values\u201d. They\u2019re great because you can convert the effect sizes into units that anyone with a basic math education can understand.\n\n&#x200B;\n\nYes, they're great because we can tell exactly why Billy Bob didn't get his loan approved, which is kinda difficult to do with a NN or a RF.\n\n&#x200B;\n\nI'm not sure why you'd think I'm somehow vouching for all of this, or disagreeing with anything that you've said so far. I am not the regulating body itself, but merely someone who abides by its guideline.",
+            "score": 1,
+            "que": "You don\u2019t avoid uninterpretable models by relying on p-values from linear models, you avoid uninterpretable models by fitting *simpler* models. Linear models are great for this, but not because they \u201chave p-values\u201d. They\u2019re great because you can convert the *effect sizes* into units that anyone with a basic math education can understand.\n\nSo far, all the examples people have given me of the usefulness of p-values have been cases where the effect sizes should have been used."
+        },
+        {
+            "id": "h49p3ee",
+            "parent": "t1_h46mnoz",
+            "ans": "do you know what the words subjective and objective mean?",
+            "score": 2,
+            "que": "I get it. But some things are too serious to joke about :)"
+        },
+        {
+            "id": "h4a2ek2",
+            "parent": "t1_h48rbjf",
+            "ans": "Isn\u2019t it more like the chance that a difference of the observed size could emerge by chance given that no true difference exists? So it doesn\u2019t really say anything about the probability that what you see is random. And yeah the universal .05 stuff is really strange.",
+            "score": 3,
+            "que": "This is correct. P value - put incredibly simply - is just the chance that an observation was by happenstance. As a data scientist its on you to decide what percent chance you are comfortable with - .05 is just a general guideline and is certainly not a hard and fast rule. People who are new to statistics tend to fixate on 0.05 as a rule when its not.\n\nEdit: Still find this meme funny though."
+        },
+        {
+            "id": "h4bsutf",
+            "parent": "t1_h48rbjf",
+            "ans": ">P value - put incredibly simply - is just the chance that an observation was by happenstance. \n\n&#x200B;\n\nThat's just a wrong definition...",
+            "score": 0,
+            "que": "This is correct. P value - put incredibly simply - is just the chance that an observation was by happenstance. As a data scientist its on you to decide what percent chance you are comfortable with - .05 is just a general guideline and is certainly not a hard and fast rule. People who are new to statistics tend to fixate on 0.05 as a rule when its not.\n\nEdit: Still find this meme funny though."
+        },
+        {
+            "id": "h476fxg",
+            "parent": "t1_h475o62",
+            "ans": "Interesting. I wonder what\u2019s the point of running those tests at all if it\u2019s so arbitrary.",
+            "score": 8,
+            "que": "If the test is like 'what design works best' then you go with whatever direction the person or team with the biggest stake in the project wants to go. Like there is room for discussion on using .05 as the defining point for something that isn't 'will this drug save lives or cause explosive shits'."
+        },
+        {
+            "id": "h46xobz",
+            "parent": "t1_h46xcuq",
+            "ans": "I agree, I wouldn\u2019t recommend pharma if you want to focus on pharmacology. But I do think its great place for those with a business/finance orientation. I mean, any big industry is good for us finance folk.",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h47ns86",
+            "parent": "t1_h46xcuq",
+            "ans": "Ugh that's where I started out. Part of the grind switch from bio/clin to DS tho",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h472977",
+            "parent": "t1_h471exp",
+            "ans": "oh thank god you were being sarcastic.",
+            "score": 17,
+            "que": "Yes that was indeed my point. Thank you for rephrasing."
+        },
+        {
+            "id": "h4747b3",
+            "parent": "t1_h46wvm6",
+            "ans": "We have the best data scientists. Because of jail.",
+            "score": 19,
+            "que": "This kind of behaviour is never tolerated in Boraqua,\n\nP hackers, we have a special jail for p hackers.\n\nYou are fudging data? right to jail.\n\nthrowing ML at all your problems? Right to jail. Right away.\n\nresampling until you get a statistically significant conclusion? jail.\n\ntesting only once? jail.\n\nSaying you can solve every business problem with only statistics? You right to jail.\n\nYou use a p value that is too small, believe it or not - jail.\n\nYou use a p value that is too large? Also jail. Over sig under sig.\n\nYou have a presentation to the business and you speak only in nerd and don't use charts? Believe it or not jail, right away."
+        },
+        {
+            "id": "h47m2wf",
+            "parent": "t1_h46wvm6",
+            "ans": "I'm stealing this and sharing it at work as though it were mine",
+            "score": 5,
+            "que": "This kind of behaviour is never tolerated in Boraqua,\n\nP hackers, we have a special jail for p hackers.\n\nYou are fudging data? right to jail.\n\nthrowing ML at all your problems? Right to jail. Right away.\n\nresampling until you get a statistically significant conclusion? jail.\n\ntesting only once? jail.\n\nSaying you can solve every business problem with only statistics? You right to jail.\n\nYou use a p value that is too small, believe it or not - jail.\n\nYou use a p value that is too large? Also jail. Over sig under sig.\n\nYou have a presentation to the business and you speak only in nerd and don't use charts? Believe it or not jail, right away."
+        },
+        {
+            "id": "h4aimw9",
+            "parent": "t1_h46wvm6",
+            "ans": "Can we turn this into a poster?  If I ever have to go back into the office, I\u2019m printing this is size 50 font, plastering it on the wall next to my desk.  I think it will cut out at least 60% of the questions I get on a daily basis",
+            "score": 2,
+            "que": "This kind of behaviour is never tolerated in Boraqua,\n\nP hackers, we have a special jail for p hackers.\n\nYou are fudging data? right to jail.\n\nthrowing ML at all your problems? Right to jail. Right away.\n\nresampling until you get a statistically significant conclusion? jail.\n\ntesting only once? jail.\n\nSaying you can solve every business problem with only statistics? You right to jail.\n\nYou use a p value that is too small, believe it or not - jail.\n\nYou use a p value that is too large? Also jail. Over sig under sig.\n\nYou have a presentation to the business and you speak only in nerd and don't use charts? Believe it or not jail, right away."
+        },
+        {
+            "id": "h4y7od3",
+            "parent": "t1_h48pyjc",
+            "ans": "The real reason is that high energy physics experiments produce such an insane amount of analyses that using a higher p-value would lead to a rediculuous number of false discoveries.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h48mwsw",
+            "parent": "t1_h48ff1e",
+            "ans": "Agreeing with Walter_Roberts that it makes more sense to interpret the effect size. If you still feel like you really need something like a p-value, you can put a 95% confidence interval around your effect sizes, but with big data the emphasis should be on precisely estimating your effect (getting narrower confidence intervals) rather than making binary decisions at arbitrary thresholds (p<.05 NHST). \n\nIf you are building a model rather than performing a single test, you could for example use AIC or BIC metrics to help you decide which variables to include. These will give you a number which is something like indicating how much variance you've accounted for penalized by the number of variables in your model, then compare this number among different models.",
+            "score": 3,
+            "que": "Would changing the cutoff to say 0.0005 be a reasonable method to avoid detecting minor effects? As you said though, the effect size is what we should be looking at first anyways."
+        },
+        {
+            "id": "h4cngyj",
+            "parent": "t1_h4auuhx",
+            "ans": "this is data analytics, not data science.  \nThere are other ways (and more recent ones) to measure feature importance",
+            "score": 1,
+            "que": "Design of experiment. As for your question, anything involving ANOVA which is at the core of DoE."
+        },
+        {
+            "id": "h46ptr9",
+            "parent": "t1_h46p3d5",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "Ending misuse of p < 0.05 wouldn't entail valuing p > 0.05. There's no reason to desire a larger type II error rate (chance of rejecting the null when you shouldn't have).\n\nI don't know every case against significance testing, but the cases I've heard against it are incidental or involve machine learning and distance measures being better:\n\n1. 0.05 still leaves 5% chance of rejecting the null in error. That's not 0%, so someone could always beg for more research, and now the implementation of your conclusions is put on hold.\n2. Null hypothesis rejection is really complicated, and many people without the training can misapply it. If you're tracking multiple KPIs, you have to adjust your alpha (and the adjustment rule is just a rule of thumb). If you \"peek\" while the experiment is running, you have to adjust your alpha. Easy for novices to miss those.\n3. Hypothesis testing relies on assumptions that can't easily be verified in reality. Especially when the variables you're testing are continuous. You have to assume the population you're studying follows a normal distribution. That's called into question sort of like how \"Homo Oeconomicus\" is called into question in the Economics space. I think binomial variables are a little safer to test for significance, on the other hand. You can derive variance for those rather than having to measure or assume it.\n4. Machine learning is providing other ways to brute force comparisons among groups."
+        },
+        {
+            "id": "h4axa2h",
+            "parent": "t1_h4awiah",
+            "ans": "That\u2019s not how it works\u2026",
+            "score": 1,
+            "que": "Yes and hypothesis testing is used to determine the statistical significance of the measured effect."
+        },
+        {
+            "id": "h4ax5fc",
+            "parent": "t1_h4avgrv",
+            "ans": "Gotcha, I did misinterpret what you were saying then. I completely understand doing what you gotta do for a regulatory body.",
+            "score": 1,
+            "que": ">You don\u2019t avoid uninterpretable models by relying on p-values from linear models, you avoid uninterpretable models by fitting simpler models.\n\n&#x200B;\n\nYes, that's why I said we were left with GLMs. You're misinterpreting me; I said we were using GLMS *and* p-values, as in, anything that relies on a specified family of distribution. The regulating body wants to know if the population is stable? They won't accept anything other than a Chi-Squared test aka p-values because they're SAS-using dinosaurs.\n\n&#x200B;\n\n> Linear models are great for this, but not because they \u201chave p-values\u201d. They\u2019re great because you can convert the effect sizes into units that anyone with a basic math education can understand.\n\n&#x200B;\n\nYes, they're great because we can tell exactly why Billy Bob didn't get his loan approved, which is kinda difficult to do with a NN or a RF.\n\n&#x200B;\n\nI'm not sure why you'd think I'm somehow vouching for all of this, or disagreeing with anything that you've said so far. I am not the regulating body itself, but merely someone who abides by its guideline."
+        },
+        {
+            "id": "h4cis7c",
+            "parent": "t1_h4bsutf",
+            "ans": "Its not wrong - when I said 'put incredibly simply' it should have indicated that im stripping out all nuance from the definition - but I should have expected someone pulling the 'welllll akshullllyyy' nonsense. \n\nPut slightly less simply - but still not overly nuanced  - the p-value represents the chance that the result (or any result more extreme) from an experiment, is due to chance (i.e. supporting the H0) as opposed to a true effect (i.e. supporting H1) in the data.",
+            "score": 5,
+            "que": ">P value - put incredibly simply - is just the chance that an observation was by happenstance. \n\n&#x200B;\n\nThat's just a wrong definition..."
+        },
+        {
+            "id": "h477mdi",
+            "parent": "t1_h476fxg",
+            "ans": "it's generally to pick which is best. If you allow me to pick the absolute most prime example to support why 'choosing the most statistically significant option isn't always correct'\n\nImagine a fashion e-commerce website of some kind. they are revamping their design. they narrow it down to two designs. The stats nerds conclude that design A raises the median size of the cart by X% and design B falls short of .05 but had it cleared it, then the nerds would also conclude that it raises prices by X%.\n\nWell design B, from an aesthetic / design perspective is more in line with the desired \"aesthetic\" of the company. Maybe it's using colors that match the brand logo, or the company is about simplicity so it's an minimalistic interface idk. Anyways, the company is gonna *should* with B. Because there is something to be said about a cohesive brand image that isn't captured in statistical significance testing.\n\nMaybe the company doesn't make as much money with design B instead of A. But a company that understands it's identity and communicates that identity will, all things equal, do better than a company that doesnt.",
+            "score": 21,
+            "que": "Interesting. I wonder what\u2019s the point of running those tests at all if it\u2019s so arbitrary."
+        },
+        {
+            "id": "h48uxfl",
+            "parent": "t1_h476fxg",
+            "ans": "It\u2019s not arbitrary. 0.05 value is 2 standard deviations for a normal distribution.",
+            "score": 2,
+            "que": "Interesting. I wonder what\u2019s the point of running those tests at all if it\u2019s so arbitrary."
+        },
+        {
+            "id": "h47h7p8",
+            "parent": "t1_h472977",
+            "ans": "Yeah I love data science and the wisdom to which it leads.\n\nBut working with business leaders makes me cynical.",
+            "score": 10,
+            "que": "oh thank god you were being sarcastic."
+        },
+        {
+            "id": "h47mt0r",
+            "parent": "t1_h47m2wf",
+            "ans": "I hope they like it.",
+            "score": 3,
+            "que": "I'm stealing this and sharing it at work as though it were mine"
+        },
+        {
+            "id": "h4d2vwe",
+            "parent": "t1_h4cngyj",
+            "ans": "No offence, but you have no formal stats education, right?",
+            "score": 2,
+            "que": "this is data analytics, not data science.  \nThere are other ways (and more recent ones) to measure feature importance"
+        },
+        {
+            "id": "h46z0wq",
+            "parent": "t1_h46ptr9",
+            "ans": "I think you\u2019re misreading the emotions. Bottom guy isn\u2019t mad, he\u2019s excited. Top guy is in pain.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "h4d43dt",
+            "parent": "t1_h4cis7c",
+            "ans": "Again, that's not correct. It's the probabilities to observe a value as extreme as you did given the null hypothesis is true. You might think it's pedantry but that's irrelevant.",
+            "score": 9,
+            "que": "Its not wrong - when I said 'put incredibly simply' it should have indicated that im stripping out all nuance from the definition - but I should have expected someone pulling the 'welllll akshullllyyy' nonsense. \n\nPut slightly less simply - but still not overly nuanced  - the p-value represents the chance that the result (or any result more extreme) from an experiment, is due to chance (i.e. supporting the H0) as opposed to a true effect (i.e. supporting H1) in the data."
+        },
+        {
+            "id": "h47dlf6",
+            "parent": "t1_h477mdi",
+            "ans": "Idk I work with a lot of stats nerds (joking..) and it makes me wonder why we waste the energy on so many tests that return (not statistically different) positive/neutral results",
+            "score": 3,
+            "que": "it's generally to pick which is best. If you allow me to pick the absolute most prime example to support why 'choosing the most statistically significant option isn't always correct'\n\nImagine a fashion e-commerce website of some kind. they are revamping their design. they narrow it down to two designs. The stats nerds conclude that design A raises the median size of the cart by X% and design B falls short of .05 but had it cleared it, then the nerds would also conclude that it raises prices by X%.\n\nWell design B, from an aesthetic / design perspective is more in line with the desired \"aesthetic\" of the company. Maybe it's using colors that match the brand logo, or the company is about simplicity so it's an minimalistic interface idk. Anyways, the company is gonna *should* with B. Because there is something to be said about a cohesive brand image that isn't captured in statistical significance testing.\n\nMaybe the company doesn't make as much money with design B instead of A. But a company that understands it's identity and communicates that identity will, all things equal, do better than a company that doesnt."
+        },
+        {
+            "id": "h47md7v",
+            "parent": "t1_h477mdi",
+            "ans": "I was with you right up until the last paragraph where you say the company won\u2019t make as much money, but that companies with coherent brand always do better. What is your definition of better if it\u2019s not making more money?!\n\nI guess you mean they do make more money overall in the long run by having a coherent brand, but not necessarily from this specific decision? It just reads a little funny to say that they won\u2019t make more money but would do better!",
+            "score": 2,
+            "que": "it's generally to pick which is best. If you allow me to pick the absolute most prime example to support why 'choosing the most statistically significant option isn't always correct'\n\nImagine a fashion e-commerce website of some kind. they are revamping their design. they narrow it down to two designs. The stats nerds conclude that design A raises the median size of the cart by X% and design B falls short of .05 but had it cleared it, then the nerds would also conclude that it raises prices by X%.\n\nWell design B, from an aesthetic / design perspective is more in line with the desired \"aesthetic\" of the company. Maybe it's using colors that match the brand logo, or the company is about simplicity so it's an minimalistic interface idk. Anyways, the company is gonna *should* with B. Because there is something to be said about a cohesive brand image that isn't captured in statistical significance testing.\n\nMaybe the company doesn't make as much money with design B instead of A. But a company that understands it's identity and communicates that identity will, all things equal, do better than a company that doesnt."
+        },
+        {
+            "id": "h4afke6",
+            "parent": "t1_h48uxfl",
+            "ans": "I interpreted this as not needing to rely on .05 depending on the situation which then could make it arbitrary. I might have misinterpreted though.",
+            "score": 2,
+            "que": "It\u2019s not arbitrary. 0.05 value is 2 standard deviations for a normal distribution."
+        },
+        {
+            "id": "h47huyf",
+            "parent": "t1_h47h7p8",
+            "ans": "Math minded people think of things differently. You're immersed in these rigors and structure that aren't inherently human. People are *bad* at stats.\n\nIt will gets better as older business people phase out. But we're gonna continue having this problem so long as companies do not put data based decision making as a core competency. And that requires all senior management to not only understand at least the core fundamentals but be a paragon for statistical / analytical thinking.\n\nit's ironic that the way to a better maths based company is through better people / social management.",
+            "score": 3,
+            "que": "Yeah I love data science and the wisdom to which it leads.\n\nBut working with business leaders makes me cynical."
+        },
+        {
+            "id": "h4d7ayu",
+            "parent": "t1_h4d2vwe",
+            "ans": "nope, learned all by myself. started in Kaggle mostly and never saw  how this kind statistics are useful.",
+            "score": 1,
+            "que": "No offence, but you have no formal stats education, right?"
+        },
+        {
+            "id": "h4d7hbh",
+            "parent": "t1_h4d2vwe",
+            "ans": "I'm really trying to see how this formal stats can help me in my daily job",
+            "score": 1,
+            "que": "No offence, but you have no formal stats education, right?"
+        },
+        {
+            "id": "h4d76ko",
+            "parent": "t1_h4d43dt",
+            "ans": "> It's the probabilities to observe a value\n\n\"...represents the chance that the result\"\n\n> as extreme as you did\n\n\"...(or any result more extreme)\"\n\n> given the null hypothesis is true.\n\n\"is due to chance (i.e. supporting the H0)\"\n\nLiterally said the same thing -  you're splitting hairs that do not need to be split by pontificating over precise wording.",
+            "score": 14,
+            "que": "Again, that's not correct. It's the probabilities to observe a value as extreme as you did given the null hypothesis is true. You might think it's pedantry but that's irrelevant."
+        },
+        {
+            "id": "h47gcnk",
+            "parent": "t1_h47dlf6",
+            "ans": "because the alternative is making a decision with no information or only gut information.",
+            "score": 20,
+            "que": "Idk I work with a lot of stats nerds (joking..) and it makes me wonder why we waste the energy on so many tests that return (not statistically different) positive/neutral results"
+        },
+        {
+            "id": "h47mzhi",
+            "parent": "t1_h47md7v",
+            "ans": "Yeah. The last part. You might make a brand decision that isn\u2019t the most valuable in the short term. But the decisions in a collective of decisions around brand management can and often do provide more value than the short term financial decision.",
+            "score": 3,
+            "que": "I was with you right up until the last paragraph where you say the company won\u2019t make as much money, but that companies with coherent brand always do better. What is your definition of better if it\u2019s not making more money?!\n\nI guess you mean they do make more money overall in the long run by having a coherent brand, but not necessarily from this specific decision? It just reads a little funny to say that they won\u2019t make more money but would do better!"
+        },
+        {
+            "id": "h4d7qwm",
+            "parent": "t1_h4d7hbh",
+            "ans": "And I was trying to see why you seem to be allergic to statistics that aren't branded as machine learning. You do you.\n\n&#x200B;\n\nPS: most kaggle notebooks are done by people without an education, and therefore prone to containing a lot of sketchy stuff. You'd probably be better off with actual books.",
+            "score": 1,
+            "que": "I'm really trying to see how this formal stats can help me in my daily job"
+        },
+        {
+            "id": "h4d80kx",
+            "parent": "t1_h4d76ko",
+            "ans": "I mean, just use the proper definition next time. It's not the probability of something occurring by chance and the last thing we need on this sub is more statistically illiterate people.",
+            "score": 4,
+            "que": "> It's the probabilities to observe a value\n\n\"...represents the chance that the result\"\n\n> as extreme as you did\n\n\"...(or any result more extreme)\"\n\n> given the null hypothesis is true.\n\n\"is due to chance (i.e. supporting the H0)\"\n\nLiterally said the same thing -  you're splitting hairs that do not need to be split by pontificating over precise wording."
+        },
+        {
+            "id": "h4ikyp1",
+            "parent": "t1_h4d76ko",
+            "ans": "Literally ~~the same thing~~ inverse conditional probabilities:\n\n> the chance the result would occur due to chance alone (i.e., chance of observing the result given the null)\n\nP(D|H)\n\n> the chance the result did occur due to chance alone / is due to chance alone\n\nP(H|D)",
+            "score": 3,
+            "que": "> It's the probabilities to observe a value\n\n\"...represents the chance that the result\"\n\n> as extreme as you did\n\n\"...(or any result more extreme)\"\n\n> given the null hypothesis is true.\n\n\"is due to chance (i.e. supporting the H0)\"\n\nLiterally said the same thing -  you're splitting hairs that do not need to be split by pontificating over precise wording."
+        },
+        {
+            "id": "h47vq1a",
+            "parent": "t1_h47gcnk",
+            "ans": "And gut bacteria is no basis for government.",
+            "score": 5,
+            "que": "because the alternative is making a decision with no information or only gut information."
+        },
+        {
+            "id": "h47phdz",
+            "parent": "t1_h47mzhi",
+            "ans": "I\u2019m sure there\u2019s a philosophical analogy about in/out of bag prediction - but I can\u2019t quite grasp it.",
+            "score": 1,
+            "que": "Yeah. The last part. You might make a brand decision that isn\u2019t the most valuable in the short term. But the decisions in a collective of decisions around brand management can and often do provide more value than the short term financial decision."
+        }
+    ]
+}

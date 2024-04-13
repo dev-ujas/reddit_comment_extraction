@@ -1,0 +1,778 @@
+{
+    "title": "Thank you to the recruiters that define Data Science as building pretty visualizations and querying some",
+    "id": "w2282t",
+    "create_at": 1658158252.0,
+    "score": 1851,
+    "comments": [
+        {
+            "id": "ignt9kk",
+            "parent": "t1_ignnuyg",
+            "ans": "Oh man, once when I was spending a week training models and doing large queries, our network engineers did an analysis of all the traffic going in and out of our office. A full 60% was me browsing imgur. Thankfully my boss just thought it was funny because he understood what am I going to do when a query could come back in 30 seconds or 30 minutes?",
+            "score": 140,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igog2uu",
+            "parent": "t1_ignnuyg",
+            "ans": "\u201cI know we agreed to stop light colors but I don\u2019t like seeing so much red, can we add like an orange too.\u201d",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igo7zw6",
+            "parent": "t1_ignnuyg",
+            "ans": "Training takes some time",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igrf4dx",
+            "parent": "t1_ignnuyg",
+            "ans": "Are the salaries on par with Machine Learning Engineers in FAANG? DS or MLE treated like BS in FAANG?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igodahx",
+            "parent": "t1_igoaaa7",
+            "ans": "Now just use Python to automate all of your queries and reports. Then just sit back, relax, and collect that $$$",
+            "score": 34,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igpcbba",
+            "parent": "t1_igoaaa7",
+            "ans": "[deleted]",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ignu0aw",
+            "parent": "t1_ignmyfg",
+            "ans": "I had this debate a while ago with a fresh eyed college grad who argued a rate of change graph was a waste of time because you can just look at the regular graph and \"see\". I'm like, my guy, we don't get paid to be the smartest people in the room. We get paid to give people unambiguous insights into the data. Interpreting a slope by looking at a chart is just asking them to bring any bias they want into the interpretation (especially if it's figure 1.18 out of 400 they view in a day), but a rate of change graph doesn't allow for that bias",
+            "score": 54,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "ignpr9v",
+            "parent": "t1_ignmyfg",
+            "ans": "Amen brother.  Stakeholders expect results and we are paid to deliver results in the most timely and efficient manner possible. The method of achieving those results are secondary.I would say the first 40% of my project time is spent on data wrangling and various quality control checks mostly using SQL, next 20% on the actual modeling part, and the final 40% using SQL and Excel to prepare the results for presentation in manner that is easily digestible and valuable to stakeholders.  And I'm grateful for that 20% modeling time, but the other 80% is critical to the final deliverable.",
+            "score": 69,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "igo08qt",
+            "parent": "t1_ignmyfg",
+            "ans": "I \u2018can\u2019 do everything listed in this post so far. \n\nI \u2018do\u2019 do whatever my company needs to gain benefit from my skill set.\n\nI\u2019ve got like 15 junior devs clawing at any opportunity to do model building/training\u2026none of whom give a shit about methods of presentation, consumption, or democratization of information.",
+            "score": 19,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "igrd7cc",
+            "parent": "t1_ignmyfg",
+            "ans": "Check clearing > delivering business value.",
+            "score": 4,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "igo8moa",
+            "parent": "t1_ignmyfg",
+            "ans": "THIS!",
+            "score": 3,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "igpw8qr",
+            "parent": "t1_ignmyfg",
+            "ans": "This is the way.",
+            "score": 2,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "igpbyag",
+            "parent": "t1_ignmyfg",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Honestly as long as I\u2019m delivering business value I don\u2019t give a shit if I\u2019m writing/training models, using SQL, or cranking out excel sheets. \n\nI get paid for helping the business not how fancy my methods are. \n\nIf I can setup a GLM and some continuous performance tracking in a week and get 80% of a 6 month ML project\u2019s impact I\u2019m doing that and moving on to the next problem, unless that 20% has huge upside potential for the business."
+        },
+        {
+            "id": "ignp3za",
+            "parent": "t1_ignosm1",
+            "ans": "Have you looked into Data Scientist jobs online lately? They're paying big bucks for skills like \"advanced Excel functions\" and \"complex querying.\" Any interview I have had for \"complex querying\" deals with very simple aggregations. I have only had one interview that needed windows functions like LAG/LEAD.",
+            "score": 80,
+            "que": "Idc what I do if they pay me what they pay model builders. I\u2019ll work 100% in excel idc"
+        },
+        {
+            "id": "igpc3ai",
+            "parent": "t1_ignosm1",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Idc what I do if they pay me what they pay model builders. I\u2019ll work 100% in excel idc"
+        },
+        {
+            "id": "igo0fal",
+            "parent": "t1_ignqqe7",
+            "ans": "recruiters consider seaborn = datascience",
+            "score": 27,
+            "que": "Data science = data analytics the vast majority of the time."
+        },
+        {
+            "id": "igo6xu0",
+            "parent": "t1_ignohlo",
+            "ans": "If you deploy an application you wrote in a language you didn't create, to a server you didn't manufacture, did you really do anything?",
+            "score": 36,
+            "que": "If im using a library to build/train a model... I am really building/training a model myself?"
+        },
+        {
+            "id": "ignowkl",
+            "parent": "t1_ignohlo",
+            "ans": "Recruiters going over your resume be like",
+            "score": 8,
+            "que": "If im using a library to build/train a model... I am really building/training a model myself?"
+        },
+        {
+            "id": "ih2fi3u",
+            "parent": "t1_ignr6yn",
+            "ans": "Overqualified + Overpaid > Underpaid at any job",
+            "score": 2,
+            "que": "When your sob story is that you're earning too much money for something that is easy work for you"
+        },
+        {
+            "id": "igon816",
+            "parent": "t1_ignu4it",
+            "ans": "PBI is the bane of my existence lolol",
+            "score": 4,
+            "que": "Lol add powerbi while you\u2019re at it\ud83d\ude02"
+        },
+        {
+            "id": "ihi4dy0",
+            "parent": "t1_igo49ay",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Honestly, after having been stuck in a different dead-end career, I finally feel like I'm getting into something that actually *uses* my skillset.\n\nI want some relevant professional experience after I get through my bootcamp. I don't mind starting off in data analytics.  After about 2 years of that, a few classmates and I intend to start studying on our master's degrees together.  This is the first time in my life that I've ever been a part of an effective study group.  It's the first time I've ever learned how to use actual collaboration tools.  And it's the first time I really felt like I'm at home with a subject, doing what I should have been doing 20 years ago.\n\nI don't expect to qualify for DS positions right away, but I've got some real opportunities starting to open up for me even before completing the course.  I've taken too long to get to this point, but I'm hungry for some real succes in my life!"
+        },
+        {
+            "id": "igr2bbd",
+            "parent": "t1_ignizh0",
+            "ans": "Tough crowd",
+            "score": 2,
+            "que": "As a follow up to my previous meme: \n\nhttps://www.reddit.com/r/datascience/comments/vwlmoo/imposter_detected/\n\nEdit: I also just want to say that these memes are supposed to be funny, light-hearted, and over the top. I apologize if they offend you in some way, but they're not meant to be taken too seriously."
+        },
+        {
+            "id": "igopbk1",
+            "parent": "t1_igns3ni",
+            "ans": "Great imagination. Mathematical statistics will die. Oh yeah.  Incompetent people, who only can say smartly \"business process\", will do data scientists work. (Sarcasm)\nOh oh. Times when web developers are needed also ends! Now business need people who understand difference between colours!",
+            "score": -8,
+            "que": "The days of hand building models is rapidly going away. \n\nThe real strength is for data scientists who understand the business and who understand model evaluation."
+        },
+        {
+            "id": "ignuuui",
+            "parent": "t1_igns5xw",
+            "ans": "\ud83d\udc40 just a simple question. What does data scientists do and why world need them. (I asked this because i see this \"data scientist are most needed and get good pay for their work\" everywhere and had little interest as career option)",
+            "score": 5,
+            "que": "Building models isn\u2019t Data Science and is less valuable than other activities\n\n20+ years in Data Science at multiple Fortune 500 type companies"
+        },
+        {
+            "id": "igocd2c",
+            "parent": "t1_igntll4",
+            "ans": "It\u2019s the same basic toolset as an analyst job, but if you move away from _just_ dashboarding and report generation to more solving problems with data you\u2019ll get much more money. \n\nThat can be anything though from A/B testing & experimentation, customer research/surveys, spend allocation, decision support/analysis, etc. where the techniques are just a bit more advanced and you can clearly see how they\u2019re connected to business value.",
+            "score": 8,
+            "que": "Wait so you're telling me we mostly use these tools in work and can make big bucks? Can any data scientist explain more about it in detail?"
+        },
+        {
+            "id": "ignlaal",
+            "parent": "t1_ignk5kz",
+            "ans": "> Wow, hating on teammates because you feel like you are smarter and deserve more. \n\nI'm not sure how you got that out of this meme, but that's not my intention at all. It's made to just be funny and over-the-top. I don't believe anyone, including myself, truly feels that way.\n\nI made a meme last week stating how some DS only utilize these two tools, and how they can feel like an imposter. Many people commented to not worry about that, and just enjoy the paycheck and the ride.\n\nIt's no surprise that many businesses have a need for people like this, and they are often labeled as Data Scientist. Just meant to be fun, bud, not hating on anyone.",
+            "score": 25,
+            "que": "Wow, hating on teammates because you feel like you are smarter and deserve more. Our data engineers, data scientists, and front end developers are all essential. Actually we are looking at cutting data scientists because we are replacing them with a C3 ai product that largely replaces most of their work. I'd hate to tell you the obvious but you will not be paid based on your intelligence but rather based on the needs of the company, and right now everyone wants to do data science and we have noone that can fine tune a SQL server."
+        },
+        {
+            "id": "ignwum1",
+            "parent": "t1_ignk5kz",
+            "ans": "I was at a cross road a few months ago: I\u2019m a database admin with 10 years experience. Previous company going all in on AI/ML but partnered with a vendor and going to cloud. I decided to move on to a new company as their DBA maintaining the Azure SQL database and building out their data warehouse. I believe I will be a lot better off in the long run as database admins and engineers have more job security since there is a greater shortage of these experts as opposed to \u201cdata scientist \u201d (analyst, excel guru, etc.).",
+            "score": 4,
+            "que": "Wow, hating on teammates because you feel like you are smarter and deserve more. Our data engineers, data scientists, and front end developers are all essential. Actually we are looking at cutting data scientists because we are replacing them with a C3 ai product that largely replaces most of their work. I'd hate to tell you the obvious but you will not be paid based on your intelligence but rather based on the needs of the company, and right now everyone wants to do data science and we have noone that can fine tune a SQL server."
+        },
+        {
+            "id": "igop4ap",
+            "parent": "t1_igoisns",
+            "ans": "I don't think these jobs are called data science anymore. Now data analytics = data scientist. Old data scientist = research scientist. The title slightly varies from company to company but generally all the cool deep learning type model building tends to be done by research/ML scientists.",
+            "score": 4,
+            "que": "Really not true. Most of the highly paid jobs in the data science field are for Tensorflow/Pytorch doing image or video recognition, or NLP. Tableau isn\u2019t data science, just data analytics."
+        },
+        {
+            "id": "ignysc4",
+            "parent": "t1_ignycai",
+            "ans": "I think a lot of times businesses think and say they need predictive modeling, when they really don't. Or if they do, it's very specific use cases.\n\nAsk detailed questions in the interview to ensure you'll be doing a job you enjoy.",
+            "score": 5,
+            "que": "Wait do job descriptions lie about how much model building you do? \n\nI\u2019ve been applying to alot of data science jobs specifically because I like predictive modeling. Should I focus on Machine Learning Engineer jobs?"
+        },
+        {
+            "id": "ignyq1o",
+            "parent": "t1_ignycai",
+            "ans": "It 100% comes down to what problem your company is trying to solve. If it's something like an NLP model to predict next words while people are composing texts then the model is extremely important and having a good one directly gives a better experience to the customer.",
+            "score": 2,
+            "que": "Wait do job descriptions lie about how much model building you do? \n\nI\u2019ve been applying to alot of data science jobs specifically because I like predictive modeling. Should I focus on Machine Learning Engineer jobs?"
+        },
+        {
+            "id": "ignym8e",
+            "parent": "t1_ignt9kk",
+            "ans": "What a terrifying analysis.",
+            "score": 88,
+            "que": "Oh man, once when I was spending a week training models and doing large queries, our network engineers did an analysis of all the traffic going in and out of our office. A full 60% was me browsing imgur. Thankfully my boss just thought it was funny because he understood what am I going to do when a query could come back in 30 seconds or 30 minutes?"
+        },
+        {
+            "id": "igrwjl2",
+            "parent": "t1_ignt9kk",
+            "ans": "ABV, that's what I always say.\n\n  \n\n\nAlways \ud83d\udc4f Be \ud83d\udc4f using a VPN to protect yourself from your ISP \ud83d\udc4f",
+            "score": 3,
+            "que": "Oh man, once when I was spending a week training models and doing large queries, our network engineers did an analysis of all the traffic going in and out of our office. A full 60% was me browsing imgur. Thankfully my boss just thought it was funny because he understood what am I going to do when a query could come back in 30 seconds or 30 minutes?"
+        },
+        {
+            "id": "igoom4c",
+            "parent": "t1_ignt9kk",
+            "ans": "Gotta keep the images down. \nThat's why I love Reddit. I can avoid heavy data usage if need be.",
+            "score": 4,
+            "que": "Oh man, once when I was spending a week training models and doing large queries, our network engineers did an analysis of all the traffic going in and out of our office. A full 60% was me browsing imgur. Thankfully my boss just thought it was funny because he understood what am I going to do when a query could come back in 30 seconds or 30 minutes?"
+        },
+        {
+            "id": "igpos6x",
+            "parent": "t1_igodahx",
+            "ans": "[deleted]",
+            "score": 20,
+            "que": "Now just use Python to automate all of your queries and reports. Then just sit back, relax, and collect that $$$"
+        },
+        {
+            "id": "igpocjq",
+            "parent": "t1_igpcbba",
+            "ans": "[deleted]",
+            "score": 16,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igs4e53",
+            "parent": "t1_igpcbba",
+            "ans": "It\u2019s companies wanting overqualified candidates for jobs that require above average intelligence so there is less chance the work gets screwed up. Same phenomena occurs in many other fields where jobs don\u2019t really require half the education they require candidates to have. It\u2019s a way of filtering for candidates that will find the job fairly easy (at the peril of being boring).\n\nFor reference, my job requires a ton of SQL work before modeling/analysis can be performed. I have seen plenty of smart people (Math/Stats/CS degrees) screw up the SQL work so badly and didn\u2019t even detect the data they analyzed and modeled was garbage\u2026and then they are trying to explain their model results to me (GI-GO issue).  \n\nData modeling/analysis is a several step process and it\u2019s so easy to screw it up at every step along the way that the positions need \u201coverqualified\u201d candidates to reduce the number of screwups as much as possible.  Someone with training/education in statistics is less likely to makes the mistakes that someone without a background in statistics will be oblivious to.",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igo3tik",
+            "parent": "t1_ignu0aw",
+            "ans": "Unrelated, you just convinced me to change a slide in a deck I was just working on where I have a growth metric that wasn\u2019t super important so I was just eyeballing it as an increase.",
+            "score": 23,
+            "que": "I had this debate a while ago with a fresh eyed college grad who argued a rate of change graph was a waste of time because you can just look at the regular graph and \"see\". I'm like, my guy, we don't get paid to be the smartest people in the room. We get paid to give people unambiguous insights into the data. Interpreting a slope by looking at a chart is just asking them to bring any bias they want into the interpretation (especially if it's figure 1.18 out of 400 they view in a day), but a rate of change graph doesn't allow for that bias"
+        },
+        {
+            "id": "igodscx",
+            "parent": "t1_ignu0aw",
+            "ans": "I\u2019m a numbers guy so my preference is to see a bunch of numbers. However my preference doesn\u2019t matter. What matters is the preference(s) of stakeholders and if they prefer pretty graphs then I better give them pretty graphs even if I think it\u2019s a waste of time.",
+            "score": 12,
+            "que": "I had this debate a while ago with a fresh eyed college grad who argued a rate of change graph was a waste of time because you can just look at the regular graph and \"see\". I'm like, my guy, we don't get paid to be the smartest people in the room. We get paid to give people unambiguous insights into the data. Interpreting a slope by looking at a chart is just asking them to bring any bias they want into the interpretation (especially if it's figure 1.18 out of 400 they view in a day), but a rate of change graph doesn't allow for that bias"
+        },
+        {
+            "id": "ihjmwcw",
+            "parent": "t1_ignu0aw",
+            "ans": "you articulated that very well, that we\u2019re paid to give people unambiguous insights into data, not recreate the wheel",
+            "score": 1,
+            "que": "I had this debate a while ago with a fresh eyed college grad who argued a rate of change graph was a waste of time because you can just look at the regular graph and \"see\". I'm like, my guy, we don't get paid to be the smartest people in the room. We get paid to give people unambiguous insights into the data. Interpreting a slope by looking at a chart is just asking them to bring any bias they want into the interpretation (especially if it's figure 1.18 out of 400 they view in a day), but a rate of change graph doesn't allow for that bias"
+        },
+        {
+            "id": "ignsrkd",
+            "parent": "t1_ignpr9v",
+            "ans": "Eh. The stakeholders don't always understand the technological scope. \n\nIdk if I should name drop, but I did a short stint at a company called Socure. They have a very real product. It's the magic box. You put an email in and they tell you within fractions of a second if it's fraudulent. \n\nGreat company (just wasn't great for me), but the company is driven by product and marketing. They're hitting a massive scaling wall now. Even just expanding the core product is difficult let alone new products and teams. It's because at every step everyone said \"just get it out the door\". 10 years on it's coming to a head.",
+            "score": 19,
+            "que": "Amen brother.  Stakeholders expect results and we are paid to deliver results in the most timely and efficient manner possible. The method of achieving those results are secondary.I would say the first 40% of my project time is spent on data wrangling and various quality control checks mostly using SQL, next 20% on the actual modeling part, and the final 40% using SQL and Excel to prepare the results for presentation in manner that is easily digestible and valuable to stakeholders.  And I'm grateful for that 20% modeling time, but the other 80% is critical to the final deliverable."
+        },
+        {
+            "id": "igpchvo",
+            "parent": "t1_igo08qt",
+            "ans": "My junior dev got her first project by telling my boss I'm an idiot and don't know how anything works or what I'm doing.\n\n12 weeks into her solo project it doesn't fucking work and I'm getting screamed at to fix it. I was like I didn't give her a project with no oversight for 3 months.\n\nThough seeing it had a 99% training accuracy and 30% test accuracy and neither her my boss noticed the most obvious overfitting I've ever seen  I'm a little worried",
+            "score": 19,
+            "que": "I \u2018can\u2019 do everything listed in this post so far. \n\nI \u2018do\u2019 do whatever my company needs to gain benefit from my skill set.\n\nI\u2019ve got like 15 junior devs clawing at any opportunity to do model building/training\u2026none of whom give a shit about methods of presentation, consumption, or democratization of information."
+        },
+        {
+            "id": "igoe8nq",
+            "parent": "t1_igo08qt",
+            "ans": "Haha I know the feeling. New grads want to do the fun work even though they have the least domain expertise, and they want the experienced guys to do all the data wrangling for them. They get discouraged when I tell them it works the opposite way.",
+            "score": 12,
+            "que": "I \u2018can\u2019 do everything listed in this post so far. \n\nI \u2018do\u2019 do whatever my company needs to gain benefit from my skill set.\n\nI\u2019ve got like 15 junior devs clawing at any opportunity to do model building/training\u2026none of whom give a shit about methods of presentation, consumption, or democratization of information."
+        },
+        {
+            "id": "igo8nyf",
+            "parent": "t1_igo8moa",
+            "ans": "Hey there waghkunal93! If you agree with someone else's comment, please leave an **upvote** instead of commenting **\"THIS!\"**! By upvoting instead, the original comment will be pushed to the top and be more visible to others, which is even better! Thanks! :)\n***\n ^(I am a bot! Visit) [^(r/InfinityBots)](https://reddit.com/r/InfinityBots) ^(to send your feedback! More info:) [^(Reddiquette)](https://www.reddithelp.com/hc/en-us/articles/205926439#wiki_in_regard_to_comments)",
+            "score": 6,
+            "que": "THIS!"
+        },
+        {
+            "id": "igpw9rg",
+            "parent": "t1_igpw8qr",
+            "ans": "##This Is The Way Leaderboard  \n\n**1.** `u/Mando_Bot` **501242** times.\n\n**2.** `u/Flat-Yogurtcloset293` **475777** times.\n\n**3.** `u/GMEshares` **71545** times.\n\n..\n\n**500662.** `u/data_in_chicago` **1** times.\n\n---\n\n^(^beep ^boop ^I ^am ^a ^bot ^and ^this ^action ^was ^performed ^automatically.)",
+            "score": 5,
+            "que": "This is the way."
+        },
+        {
+            "id": "igpd7f0",
+            "parent": "t1_igpbyag",
+            "ans": "I\u2019ll be honest, you _can_ be a data scientist without knowing statistics, but you\u2019re going to be really limited. \n\nIt\u2019s very often I work with samples of data, so sample statistics is important. It\u2019s very often I need to answer \u201cis this change significant\u201d, so statistical testing is important. It\u2019s often I need to answer \u201chow much does X contribute to Y\u201d, so linear modelling is important. \n\nThen there\u2019s a lot of statistical thinking which is important (but that can come through intuition and experience).",
+            "score": 19,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igs9696",
+            "parent": "t1_igpbyag",
+            "ans": "I replied to your same comment in another part of this thread. Imo it\u2019s more about filtering candidates for competence because the SQL/data analysis/reporting is so easy to mess up and not even being aware of the mess ups. Filtering candidates based on background in Stats + Programming is a good way imo to reduce the screw ups.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ignpgbm",
+            "parent": "t1_ignp3za",
+            "ans": "Yea I noticed that too. I work in a DS adjacent role that\u2019s pretty heavy on mathematical finance, computing, and some Python usage to automate stuff. However they advertised it by saying excel was a must when I really only use it to export data as a csv",
+            "score": 28,
+            "que": "Have you looked into Data Scientist jobs online lately? They're paying big bucks for skills like \"advanced Excel functions\" and \"complex querying.\" Any interview I have had for \"complex querying\" deals with very simple aggregations. I have only had one interview that needed windows functions like LAG/LEAD."
+        },
+        {
+            "id": "igobjav",
+            "parent": "t1_ignp3za",
+            "ans": "\u201cComplex Querying\u201d is 50/50 on the data models all being horrible or they need advanced analysis done purely in SQL for some esoteric reason.",
+            "score": 6,
+            "que": "Have you looked into Data Scientist jobs online lately? They're paying big bucks for skills like \"advanced Excel functions\" and \"complex querying.\" Any interview I have had for \"complex querying\" deals with very simple aggregations. I have only had one interview that needed windows functions like LAG/LEAD."
+        },
+        {
+            "id": "igo4ere",
+            "parent": "t1_ignp3za",
+            "ans": "Define big bucks",
+            "score": 3,
+            "que": "Have you looked into Data Scientist jobs online lately? They're paying big bucks for skills like \"advanced Excel functions\" and \"complex querying.\" Any interview I have had for \"complex querying\" deals with very simple aggregations. I have only had one interview that needed windows functions like LAG/LEAD."
+        },
+        {
+            "id": "igrmbwx",
+            "parent": "t1_igpc3ai",
+            "ans": "Yeah I double minored in applied stats and math lol. Hopefully when I get my masters they\u2019ll come in handy",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igobtb5",
+            "parent": "t1_igo0fal",
+            "ans": "I love seaborn, but I wish matplotlib had interactive SVG with an easy API in the box.",
+            "score": 7,
+            "que": "recruiters consider seaborn = datascience"
+        },
+        {
+            "id": "igoe4qo",
+            "parent": "t1_igo6xu0",
+            "ans": "Just checking that this is in fact sarcasm.  \n(This, itself, its not sarcasm) -in a infinite loop.",
+            "score": 6,
+            "que": "If you deploy an application you wrote in a language you didn't create, to a server you didn't manufacture, did you really do anything?"
+        },
+        {
+            "id": "ihid5oz",
+            "parent": "t1_ihi4dy0",
+            "ans": "SMU.  It's part of the 2U / Bootcamp Spot / Trilogy Education wing of bootcamps.  They also service UT Austin among others, but my understanding is more that they provide the infrastructure to implement these bootcamps, and the schools select their own instructors.  I don't know about other schools, but Southern Methodist University likes to make sure their instructors have experience both with teaching and actually performing the work in the field.  Our instructor owns his own data science consulting firm that offers services to auto dealerships.  Another one does moneyball work for a baseball team.  One substitute performed work for communications between low-orbit satellites.  So the expertise offered is pretty good.\n\nThe bonus here is that upon completion, you may be eligible (pending good grades and approval) to use the bootcamp to skip the first two classes in their data science Master's degree program.\n\nAs for opportunities, I've been talking with management of a major holding firm here in Dallas, and they're going to have me do a sort of internship.  I'm looking to pad my resume, they're looking into convincing one of their subsidiaries to invest more in data science.\n\nWhatever your experience or education, you'll get out of it what you put into it.  My group and I put in some extremely late hours into our project.  In two weeks, we made a website that shows data we scraped from about 2,400 web pages in an attempt to expose [auto dealerships which gouge on prices](https://gouge-data.herokuapp.com/).  Another group created [this page](https://paranormactivities.herokuapp.com/), which just blew all of us away with how clean and complete the site looks.\n\nI still have a tremendous amount I need to learn on my own after class is over.  While I've taken calculus and statistics before, it's been about 10 years since I really practiced them, so I'll have to brush up on them.  I've got a stack of 11 books to get through, and no time to devote to any of them for now.  I've gone back and taken a couple college courses after I got my Bachelor's, but I never really got the chance to *apply* any of the skills I learned.  To me, that's been very frustrating, and I've ended up working at least 2 jobs a year for the past decade.  I'm done with it.  I'm tired of sweating in jeans and hoping the company I work for will expand enough for me to do more highly-skilled work.  I don't know how long I'll need to get the job I want, but I know the job is out there for me to find.\n\nI know that's a lot more than you were asking for, but I hope it helps.  When picking out a program, one thing you'll want to check is the reviews it gets (including places like CourseReport.com), and what kind of career services it offers.  A lot of the time, you get what you pay for.  I could have gone with a program that cost half as much, but it's the career support that really makes this program stand out locally.  Also, I think SMU may be the only one that offers a very real chance to earn college credit through their bootcamp.  It ends up being a slight discount on the whole program, bolstered by the fact that you're likely to get a better paying job before continuing the degree.\n\nI don't have all the answers, but I'm happy to share my experiences as I learn!",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igos8x3",
+            "parent": "t1_igopbk1",
+            "ans": "Where did I say that?",
+            "score": 5,
+            "que": "Great imagination. Mathematical statistics will die. Oh yeah.  Incompetent people, who only can say smartly \"business process\", will do data scientists work. (Sarcasm)\nOh oh. Times when web developers are needed also ends! Now business need people who understand difference between colours!"
+        },
+        {
+            "id": "ignwryl",
+            "parent": "t1_ignuuui",
+            "ans": "Solve business problems with data",
+            "score": 16,
+            "que": "\ud83d\udc40 just a simple question. What does data scientists do and why world need them. (I asked this because i see this \"data scientist are most needed and get good pay for their work\" everywhere and had little interest as career option)"
+        },
+        {
+            "id": "ignmkmi",
+            "parent": "t1_ignlaal",
+            "ans": "Also not sure how he got that from this meme lol",
+            "score": 22,
+            "que": "> Wow, hating on teammates because you feel like you are smarter and deserve more. \n\nI'm not sure how you got that out of this meme, but that's not my intention at all. It's made to just be funny and over-the-top. I don't believe anyone, including myself, truly feels that way.\n\nI made a meme last week stating how some DS only utilize these two tools, and how they can feel like an imposter. Many people commented to not worry about that, and just enjoy the paycheck and the ride.\n\nIt's no surprise that many businesses have a need for people like this, and they are often labeled as Data Scientist. Just meant to be fun, bud, not hating on anyone."
+        },
+        {
+            "id": "ignn93x",
+            "parent": "t1_ignlaal",
+            "ans": "someone\u2019s had a bad day",
+            "score": 10,
+            "que": "> Wow, hating on teammates because you feel like you are smarter and deserve more. \n\nI'm not sure how you got that out of this meme, but that's not my intention at all. It's made to just be funny and over-the-top. I don't believe anyone, including myself, truly feels that way.\n\nI made a meme last week stating how some DS only utilize these two tools, and how they can feel like an imposter. Many people commented to not worry about that, and just enjoy the paycheck and the ride.\n\nIt's no surprise that many businesses have a need for people like this, and they are often labeled as Data Scientist. Just meant to be fun, bud, not hating on anyone."
+        },
+        {
+            "id": "ignnohv",
+            "parent": "t1_ignlaal",
+            "ans": "Iv looked at it like 5 times and it seems that I'm a dumbass. Our org is definitely in the process of cutting data scientists because they are super expensive. Its more of a general business thing that the most expensive ppl get the chopping block first. They were really valuable for awhile when DS was taking off and everyone was like \"how can AI\" fix this. It turns out that there are very specific use cases that AI is great for, but most of the work that needs to be done is basic cleaning and visualizing.",
+            "score": 10,
+            "que": "> Wow, hating on teammates because you feel like you are smarter and deserve more. \n\nI'm not sure how you got that out of this meme, but that's not my intention at all. It's made to just be funny and over-the-top. I don't believe anyone, including myself, truly feels that way.\n\nI made a meme last week stating how some DS only utilize these two tools, and how they can feel like an imposter. Many people commented to not worry about that, and just enjoy the paycheck and the ride.\n\nIt's no surprise that many businesses have a need for people like this, and they are often labeled as Data Scientist. Just meant to be fun, bud, not hating on anyone."
+        },
+        {
+            "id": "igo1xy2",
+            "parent": "t1_ignwum1",
+            "ans": "Yeah I wrote DS models for years but go so tired of the databases performing so poorly that I had to get into it performance tuning. My org was soo happy because every data science project was cleaning the data in their own ways. We created a communal place for their dashboards and realized that all their data was different for the same visualizations. Analysts were pissed that the databases performed so slow that they were pulling the data into the projects and storing it. \"So this data science project is 50GB and requires its own server, its a Dash app.\"",
+            "score": 2,
+            "que": "I was at a cross road a few months ago: I\u2019m a database admin with 10 years experience. Previous company going all in on AI/ML but partnered with a vendor and going to cloud. I decided to move on to a new company as their DBA maintaining the Azure SQL database and building out their data warehouse. I believe I will be a lot better off in the long run as database admins and engineers have more job security since there is a greater shortage of these experts as opposed to \u201cdata scientist \u201d (analyst, excel guru, etc.)."
+        },
+        {
+            "id": "ignz5iz",
+            "parent": "t1_ignysc4",
+            "ans": "Understood. I\u2019m a new grad. Any tips on getting a first job as a DS/ML engineer.",
+            "score": 1,
+            "que": "I think a lot of times businesses think and say they need predictive modeling, when they really don't. Or if they do, it's very specific use cases.\n\nAsk detailed questions in the interview to ensure you'll be doing a job you enjoy."
+        },
+        {
+            "id": "igoiddo",
+            "parent": "t1_ignym8e",
+            "ans": "When I was a stupid 21 year old I lost an internship for letting my mind wander onto politically incorrect articles of wikipedia",
+            "score": 37,
+            "que": "What a terrifying analysis."
+        },
+        {
+            "id": "igo4sq6",
+            "parent": "t1_ignym8e",
+            "ans": "Thankfully they were just doing diagnostic work because some people in the office complained about slow internet, and they found a couple of our nodes were configured really weirdly. It wasn't one of those places where they screen grab your screen every thirty minutes or so to make sure you're working",
+            "score": 23,
+            "que": "What a terrifying analysis."
+        },
+        {
+            "id": "igrgihc",
+            "parent": "t1_igpos6x",
+            "ans": "I feel this in my soul",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igrflil",
+            "parent": "t1_igpocjq",
+            "ans": "[deleted]",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igs6yp6",
+            "parent": "t1_igs4e53",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "It\u2019s companies wanting overqualified candidates for jobs that require above average intelligence so there is less chance the work gets screwed up. Same phenomena occurs in many other fields where jobs don\u2019t really require half the education they require candidates to have. It\u2019s a way of filtering for candidates that will find the job fairly easy (at the peril of being boring).\n\nFor reference, my job requires a ton of SQL work before modeling/analysis can be performed. I have seen plenty of smart people (Math/Stats/CS degrees) screw up the SQL work so badly and didn\u2019t even detect the data they analyzed and modeled was garbage\u2026and then they are trying to explain their model results to me (GI-GO issue).  \n\nData modeling/analysis is a several step process and it\u2019s so easy to screw it up at every step along the way that the positions need \u201coverqualified\u201d candidates to reduce the number of screwups as much as possible.  Someone with training/education in statistics is less likely to makes the mistakes that someone without a background in statistics will be oblivious to."
+        },
+        {
+            "id": "igrihww",
+            "parent": "t1_igodscx",
+            "ans": "Tables for analysis, plots for the feels.",
+            "score": 6,
+            "que": "I\u2019m a numbers guy so my preference is to see a bunch of numbers. However my preference doesn\u2019t matter. What matters is the preference(s) of stakeholders and if they prefer pretty graphs then I better give them pretty graphs even if I think it\u2019s a waste of time."
+        },
+        {
+            "id": "igo69q4",
+            "parent": "t1_ignsrkd",
+            "ans": "I\u2019ve been on both ends of this, and it\u2019s really hard/frustrating.\n\nMy tips to avoid this:\n\nI always document everything, every assumption in the data, and unit test everything I can. It should be really clear to newcomers where data comes from and how to understand its generating processes and quirks (even if that\u2019s \u201cgo ask the X team\u201d). \n\nI also try to design pipelines in basic steps that can be swapped out as needs change (usually source data > cleaned with flags > rough aggregations/filters > fact/dimensional tables and metrics). \n\nBe wary of your dependencies, that\u2019s where this stuff really goes to hell, you need to make sure your dependency trees are as shallow as possible. The previous separation means you can limit dependencies to just a few layers and that should help but this isn\u2019t a solved problem as your primitive\u2019s change. \n\nOne other part is a culture of being mindful of tech debt you place on other teams. There\u2019s nothing worse than some dataset you own becoming a feature in a black box ML pipeline you don\u2019t own, but now you need to change it and you have no idea if you\u2019ll kill the ML model (or you might not even know its there until you break it). Pay it forward and negotiate with your upstream teams. \n\nNow that I\u2019ve said all that, selling stakeholders on working that way can be tough, but it can pay dividends later.",
+            "score": 18,
+            "que": "Eh. The stakeholders don't always understand the technological scope. \n\nIdk if I should name drop, but I did a short stint at a company called Socure. They have a very real product. It's the magic box. You put an email in and they tell you within fractions of a second if it's fraudulent. \n\nGreat company (just wasn't great for me), but the company is driven by product and marketing. They're hitting a massive scaling wall now. Even just expanding the core product is difficult let alone new products and teams. It's because at every step everyone said \"just get it out the door\". 10 years on it's coming to a head."
+        },
+        {
+            "id": "igodf1a",
+            "parent": "t1_ignsrkd",
+            "ans": "Yeah that happens, and it\u2019s a good problem to have compared to the alternative of being slow to the market and not being able to sell your product.",
+            "score": 8,
+            "que": "Eh. The stakeholders don't always understand the technological scope. \n\nIdk if I should name drop, but I did a short stint at a company called Socure. They have a very real product. It's the magic box. You put an email in and they tell you within fractions of a second if it's fraudulent. \n\nGreat company (just wasn't great for me), but the company is driven by product and marketing. They're hitting a massive scaling wall now. Even just expanding the core product is difficult let alone new products and teams. It's because at every step everyone said \"just get it out the door\". 10 years on it's coming to a head."
+        },
+        {
+            "id": "igoe522",
+            "parent": "t1_igo8nyf",
+            "ans": "[deleted]",
+            "score": 6,
+            "que": "Hey there waghkunal93! If you agree with someone else's comment, please leave an **upvote** instead of commenting **\"THIS!\"**! By upvoting instead, the original comment will be pushed to the top and be more visible to others, which is even better! Thanks! :)\n***\n ^(I am a bot! Visit) [^(r/InfinityBots)](https://reddit.com/r/InfinityBots) ^(to send your feedback! More info:) [^(Reddiquette)](https://www.reddithelp.com/hc/en-us/articles/205926439#wiki_in_regard_to_comments)"
+        },
+        {
+            "id": "igpr34u",
+            "parent": "t1_igpd7f0",
+            "ans": "[deleted]",
+            "score": 9,
+            "que": "I\u2019ll be honest, you _can_ be a data scientist without knowing statistics, but you\u2019re going to be really limited. \n\nIt\u2019s very often I work with samples of data, so sample statistics is important. It\u2019s very often I need to answer \u201cis this change significant\u201d, so statistical testing is important. It\u2019s often I need to answer \u201chow much does X contribute to Y\u201d, so linear modelling is important. \n\nThen there\u2019s a lot of statistical thinking which is important (but that can come through intuition and experience)."
+        },
+        {
+            "id": "ignpuy7",
+            "parent": "t1_ignpgbm",
+            "ans": "I feel like businesses do stuff like that all the time. One of my jobs really put emphasis on Python, which I had the basics down for.\n\n I just did: \n\n    import pandas as pd\n\nand some basic data cleaning and that was the extent of it.",
+            "score": 31,
+            "que": "Yea I noticed that too. I work in a DS adjacent role that\u2019s pretty heavy on mathematical finance, computing, and some Python usage to automate stuff. However they advertised it by saying excel was a must when I really only use it to export data as a csv"
+        },
+        {
+            "id": "igo6i7m",
+            "parent": "t1_igo4ere",
+            "ans": "100k min lmao",
+            "score": 5,
+            "que": "Define big bucks"
+        },
+        {
+            "id": "igpte3t",
+            "parent": "t1_igobtb5",
+            "ans": "I\u2019m a plotly stan but then again I will sometimes spend 30 minutes trying to replicate basic matplotlib functionality by editing the json configs just right \u00af\\_(\u30c4)_/\u00af",
+            "score": 6,
+            "que": "I love seaborn, but I wish matplotlib had interactive SVG with an easy API in the box."
+        },
+        {
+            "id": "ihiqww3",
+            "parent": "t1_ihid5oz",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "SMU.  It's part of the 2U / Bootcamp Spot / Trilogy Education wing of bootcamps.  They also service UT Austin among others, but my understanding is more that they provide the infrastructure to implement these bootcamps, and the schools select their own instructors.  I don't know about other schools, but Southern Methodist University likes to make sure their instructors have experience both with teaching and actually performing the work in the field.  Our instructor owns his own data science consulting firm that offers services to auto dealerships.  Another one does moneyball work for a baseball team.  One substitute performed work for communications between low-orbit satellites.  So the expertise offered is pretty good.\n\nThe bonus here is that upon completion, you may be eligible (pending good grades and approval) to use the bootcamp to skip the first two classes in their data science Master's degree program.\n\nAs for opportunities, I've been talking with management of a major holding firm here in Dallas, and they're going to have me do a sort of internship.  I'm looking to pad my resume, they're looking into convincing one of their subsidiaries to invest more in data science.\n\nWhatever your experience or education, you'll get out of it what you put into it.  My group and I put in some extremely late hours into our project.  In two weeks, we made a website that shows data we scraped from about 2,400 web pages in an attempt to expose [auto dealerships which gouge on prices](https://gouge-data.herokuapp.com/).  Another group created [this page](https://paranormactivities.herokuapp.com/), which just blew all of us away with how clean and complete the site looks.\n\nI still have a tremendous amount I need to learn on my own after class is over.  While I've taken calculus and statistics before, it's been about 10 years since I really practiced them, so I'll have to brush up on them.  I've got a stack of 11 books to get through, and no time to devote to any of them for now.  I've gone back and taken a couple college courses after I got my Bachelor's, but I never really got the chance to *apply* any of the skills I learned.  To me, that's been very frustrating, and I've ended up working at least 2 jobs a year for the past decade.  I'm done with it.  I'm tired of sweating in jeans and hoping the company I work for will expand enough for me to do more highly-skilled work.  I don't know how long I'll need to get the job I want, but I know the job is out there for me to find.\n\nI know that's a lot more than you were asking for, but I hope it helps.  When picking out a program, one thing you'll want to check is the reviews it gets (including places like CourseReport.com), and what kind of career services it offers.  A lot of the time, you get what you pay for.  I could have gone with a program that cost half as much, but it's the career support that really makes this program stand out locally.  Also, I think SMU may be the only one that offers a very real chance to earn college credit through their bootcamp.  It ends up being a slight discount on the whole program, bolstered by the fact that you're likely to get a better paying job before continuing the degree.\n\nI don't have all the answers, but I'm happy to share my experiences as I learn!"
+        },
+        {
+            "id": "igqbvkq",
+            "parent": "t1_igos8x3",
+            "ans": "Exactly here: The days of hand building models is rapidly going away.\n\nThe real strength is for data scientists who can build optimal models, not just have some abstract knowledge of business",
+            "score": 2,
+            "que": "Where did I say that?"
+        },
+        {
+            "id": "igp8bi9",
+            "parent": "t1_igos8x3",
+            "ans": "It\u2019s the gatekeeper translation of anything that includes actual business acumen or knowledge.",
+            "score": 0,
+            "que": "Where did I say that?"
+        },
+        {
+            "id": "ignyaj5",
+            "parent": "t1_ignwryl",
+            "ans": "I see right but brief answer. Well i thought it was more about computer science or something. looks like i need to research more about it.",
+            "score": 3,
+            "que": "Solve business problems with data"
+        },
+        {
+            "id": "igno0hm",
+            "parent": "t1_ignnohv",
+            "ans": "> Iv looked at it like 5 times and it seems that I'm a dumbass.\n\nYou are not dumb. I think the meme is a little ambigious to be fair.\n\nThe guy with the big eyes is supposed to represent the same DS that say \"I only use SQL and Tableau\" but in reality they're happy about it, and even more happy that they don't have to generate more effort to get paid the same as people who are doing more complex tasks.\n> \n> Very specific use cases that AI is great for, but most of the work that needs to be done is basic cleaning and visualizing.\n\nI feel this way as well!",
+            "score": 5,
+            "que": "Iv looked at it like 5 times and it seems that I'm a dumbass. Our org is definitely in the process of cutting data scientists because they are super expensive. Its more of a general business thing that the most expensive ppl get the chopping block first. They were really valuable for awhile when DS was taking off and everyone was like \"how can AI\" fix this. It turns out that there are very specific use cases that AI is great for, but most of the work that needs to be done is basic cleaning and visualizing."
+        },
+        {
+            "id": "igte7u6",
+            "parent": "t1_igoiddo",
+            "ans": "Incredibly cringe when people are spying on you during work. If you're getting your work done, who gives a shit what you're doing.\n\nMy coworker says that if he ever found out he was being monitored, he'd just find a new job and I have to agree.",
+            "score": 1,
+            "que": "When I was a stupid 21 year old I lost an internship for letting my mind wander onto politically incorrect articles of wikipedia"
+        },
+        {
+            "id": "igr1e25",
+            "parent": "t1_igo4sq6",
+            "ans": "*One of those places they screen grab every thirty minutes or so to make sure you're working?* \n\nThere's a technical term for that, I think. Pretty sure it's Screen Host Information Tabulation History Occupational Lease Entitlement. \n\nWell, that's a bit long so we abbreviate it to SHITHOLE",
+            "score": 15,
+            "que": "Thankfully they were just doing diagnostic work because some people in the office complained about slow internet, and they found a couple of our nodes were configured really weirdly. It wasn't one of those places where they screen grab your screen every thirty minutes or so to make sure you're working"
+        },
+        {
+            "id": "igszq5f",
+            "parent": "t1_igrflil",
+            "ans": "I don't care what other people are saying My experience has been that if talking about analytics doesn't involve some explaination of the likelihood of what we saw in the past being recognized going forward, you aren't adding much value over a canned report. While any data analyst can make charts many times that's where their understanding ends but data scientists are usually expected to be that nexus of business x CS x stats. You have to give the why is it important answer.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igp780y",
+            "parent": "t1_igo69q4",
+            "ans": "I got screamed at for the 2 weeks of data  cleaning and wrangling i did.\n\nExcept this wrangling is written in a way that it will work for every project we ever use this data set for or similar formed data sets.\n\nThe other person who is the superstar got hers out in 3 days. It doesn't even work now. I mean it gives an answer but it's wrong.",
+            "score": 10,
+            "que": "I\u2019ve been on both ends of this, and it\u2019s really hard/frustrating.\n\nMy tips to avoid this:\n\nI always document everything, every assumption in the data, and unit test everything I can. It should be really clear to newcomers where data comes from and how to understand its generating processes and quirks (even if that\u2019s \u201cgo ask the X team\u201d). \n\nI also try to design pipelines in basic steps that can be swapped out as needs change (usually source data > cleaned with flags > rough aggregations/filters > fact/dimensional tables and metrics). \n\nBe wary of your dependencies, that\u2019s where this stuff really goes to hell, you need to make sure your dependency trees are as shallow as possible. The previous separation means you can limit dependencies to just a few layers and that should help but this isn\u2019t a solved problem as your primitive\u2019s change. \n\nOne other part is a culture of being mindful of tech debt you place on other teams. There\u2019s nothing worse than some dataset you own becoming a feature in a black box ML pipeline you don\u2019t own, but now you need to change it and you have no idea if you\u2019ll kill the ML model (or you might not even know its there until you break it). Pay it forward and negotiate with your upstream teams. \n\nNow that I\u2019ve said all that, selling stakeholders on working that way can be tough, but it can pay dividends later."
+        },
+        {
+            "id": "igoe6d7",
+            "parent": "t1_igoe522",
+            "ans": "https://i.imgur.com/KrwA19h.jpeg\n***\n ^(I am a bot! Visit) [^(r/InfinityBots)](https://reddit.com/r/InfinityBots) ^(to send your feedback!)",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igs2x73",
+            "parent": "t1_igpr34u",
+            "ans": "It\u2019s the paycheck that feeds your family. Sure most of us would highly prefer a position that does \u201creal\u201d data science, but in the meantime, we take the job that gives us a good paycheck. And it\u2019s better to be employed than unemployed while searching for your next job.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ii39mp6",
+            "parent": "t1_igpr34u",
+            "ans": "Being a good data scientist without knowing statistics is like wanting to be a good soccer player without having to run.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igntquv",
+            "parent": "t1_ignpuy7",
+            "ans": "My current job required experience in Python and SQL\u2026not once have I used them since the team doesn\u2019t know what they actually do. I work in HR and I\u2019m certain these were added to the job description as buzzwords. As for visualizations, there are some days I only make graphs and decks - as long as it pays the bills",
+            "score": 23,
+            "que": "I feel like businesses do stuff like that all the time. One of my jobs really put emphasis on Python, which I had the basics down for.\n\n I just did: \n\n    import pandas as pd\n\nand some basic data cleaning and that was the extent of it."
+        },
+        {
+            "id": "igoccs0",
+            "parent": "t1_igo6i7m",
+            "ans": "Motherf- I'm resigning my current backend dev job and going to apply for data scientist job now. FINANCIAL FREEDOM HERE I COME!!",
+            "score": 4,
+            "que": "100k min lmao"
+        },
+        {
+            "id": "igqi7de",
+            "parent": "t1_igpte3t",
+            "ans": "I hate the Plotly API, but I love the results.\n\nI\u2019m a huge matplotlib fan but the API is too big and the presentation is stuck in the 90\u2019s.",
+            "score": 9,
+            "que": "I\u2019m a plotly stan but then again I will sometimes spend 30 minutes trying to replicate basic matplotlib functionality by editing the json configs just right \u00af\\_(\u30c4)_/\u00af"
+        },
+        {
+            "id": "ihj1xxm",
+            "parent": "t1_ihiqww3",
+            "ans": "Thank you. My wife actually nudged me in the right direction last year. It's fantastic having support through this!\n\nI may just have to take you up on that offer. There are also lots of free webinars included in the course at [career engagement network](https://careernetwork.2u.com/browse-by-industry/data-science/). These have lifetime access, which I hope will help me keep up with changes in the industry. These are separate from the career services.\n\nI've taken programming courses before, but this course had us learn things like git so we're actually equipped with skills well need. I never had that before.\n\nI should be starting some mock interviews pretty soon.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igqe4yn",
+            "parent": "t1_igqbvkq",
+            "ans": "Nonsense. \n\nIt\u2019s all about optimal business value generation. \n\nEverything else can and will be automated away.",
+            "score": -2,
+            "que": "Exactly here: The days of hand building models is rapidly going away.\n\nThe real strength is for data scientists who can build optimal models, not just have some abstract knowledge of business"
+        },
+        {
+            "id": "igqvctj",
+            "parent": "t1_igp8bi9",
+            "ans": "Bootlickers vs gatekeepers",
+            "score": 0,
+            "que": "It\u2019s the gatekeeper translation of anything that includes actual business acumen or knowledge."
+        },
+        {
+            "id": "ihzkoy8",
+            "parent": "t1_igte7u6",
+            "ans": "If you accept the premise that they got noticed because they were 60% of all network traffic then it's not really that they're being spied on.",
+            "score": 1,
+            "que": "Incredibly cringe when people are spying on you during work. If you're getting your work done, who gives a shit what you're doing.\n\nMy coworker says that if he ever found out he was being monitored, he'd just find a new job and I have to agree."
+        },
+        {
+            "id": "iguhjep",
+            "parent": "t1_igszq5f",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "I don't care what other people are saying My experience has been that if talking about analytics doesn't involve some explaination of the likelihood of what we saw in the past being recognized going forward, you aren't adding much value over a canned report. While any data analyst can make charts many times that's where their understanding ends but data scientists are usually expected to be that nexus of business x CS x stats. You have to give the why is it important answer."
+        },
+        {
+            "id": "igpdzwv",
+            "parent": "t1_igp780y",
+            "ans": "Last week I wrote some of the worst code I\u2019ve written in years to get some answers for a critical meeting, and my boss loved that. \n\nNow that we got a prototype of the metric, step two is we have two months runway to build out the datasets we need to ship it as a dashboard and in our quarterly planning. \n\nYounger me absolutely would have spent the two months first, but if leadership knows you got numbers quickly in an unreliable way they might give you time get it in the right way.",
+            "score": 7,
+            "que": "I got screamed at for the 2 weeks of data  cleaning and wrangling i did.\n\nExcept this wrangling is written in a way that it will work for every project we ever use this data set for or similar formed data sets.\n\nThe other person who is the superstar got hers out in 3 days. It doesn't even work now. I mean it gives an answer but it's wrong."
+        },
+        {
+            "id": "igokjkc",
+            "parent": "t1_igoe6d7",
+            "ans": "[deleted]",
+            "score": 8,
+            "que": "https://i.imgur.com/KrwA19h.jpeg\n***\n ^(I am a bot! Visit) [^(r/InfinityBots)](https://reddit.com/r/InfinityBots) ^(to send your feedback!)"
+        },
+        {
+            "id": "igo259w",
+            "parent": "t1_igntquv",
+            "ans": "an HR job requires python and sql?? don't HR manage ppl and stuff?",
+            "score": 10,
+            "que": "My current job required experience in Python and SQL\u2026not once have I used them since the team doesn\u2019t know what they actually do. I work in HR and I\u2019m certain these were added to the job description as buzzwords. As for visualizations, there are some days I only make graphs and decks - as long as it pays the bills"
+        },
+        {
+            "id": "igoe5iy",
+            "parent": "t1_igoccs0",
+            "ans": "Do it. Put some nonsense like \u201cpivot tables\u201d and \u201csql query with R / Python\u201d on your resume and go hunting. Lmao",
+            "score": 4,
+            "que": "Motherf- I'm resigning my current backend dev job and going to apply for data scientist job now. FINANCIAL FREEDOM HERE I COME!!"
+        },
+        {
+            "id": "igt0ah0",
+            "parent": "t1_igqi7de",
+            "ans": "I also hate plotly's documentation.",
+            "score": 1,
+            "que": "I hate the Plotly API, but I love the results.\n\nI\u2019m a huge matplotlib fan but the API is too big and the presentation is stuck in the 90\u2019s."
+        },
+        {
+            "id": "igqvfwa",
+            "parent": "t1_igqe4yn",
+            "ans": "Lol what is optimal business value generation?",
+            "score": 3,
+            "que": "Nonsense. \n\nIt\u2019s all about optimal business value generation. \n\nEverything else can and will be automated away."
+        },
+        {
+            "id": "igqeu7t",
+            "parent": "t1_igqe4yn",
+            "ans": "\"All\" means what? Business only gives tasks, data scientists make solutions, by their hands. Possibility of automatization everything means death os statistics and it is most naive thought.",
+            "score": 1,
+            "que": "Nonsense. \n\nIt\u2019s all about optimal business value generation. \n\nEverything else can and will be automated away."
+        },
+        {
+            "id": "igrnazr",
+            "parent": "t1_igqvctj",
+            "ans": "The job (analytics and data science) entails providing insight into business data so that the business can act on them. If you consider that bootlicking, you are probably in the wrong field.",
+            "score": 0,
+            "que": "Bootlickers vs gatekeepers"
+        },
+        {
+            "id": "igv1i2q",
+            "parent": "t1_iguhjep",
+            "ans": "I'm not ignoring anything I'm working in industry and know what my peers from grad school are also doing. \ud83e\udd37",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igpgvwy",
+            "parent": "t1_igpdzwv",
+            "ans": "I wish. My boss is just an ass.",
+            "score": 3,
+            "que": "Last week I wrote some of the worst code I\u2019ve written in years to get some answers for a critical meeting, and my boss loved that. \n\nNow that we got a prototype of the metric, step two is we have two months runway to build out the datasets we need to ship it as a dashboard and in our quarterly planning. \n\nYounger me absolutely would have spent the two months first, but if leadership knows you got numbers quickly in an unreliable way they might give you time get it in the right way."
+        },
+        {
+            "id": "igokkjd",
+            "parent": "t1_igokjkc",
+            "ans": "Good human\n***\n ^(I am a bot! Visit) [^(r/InfinityBots)](https://reddit.com/r/InfinityBots) ^(to send your feedback!)",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "igo5lpk",
+            "parent": "t1_igo259w",
+            "ans": "HR usually has analysts report on company metrics like hiring, attrition, promotion rates, etc., and depending on the systems used you may need technical analyst",
+            "score": 11,
+            "que": "an HR job requires python and sql?? don't HR manage ppl and stuff?"
+        },
+        {
+            "id": "igt0z7l",
+            "parent": "t1_igt0ah0",
+            "ans": "Yes, the API takes like 1000 different parameters to every function, they\u2019re not always relevant or consistent (e.g. with underscores), and they focus too much on documentation by example (which is useful but can\u2019t be everything). \n\nThere\u2019s also just too many ways to do things, which kinda-sorta mostly interoperate when you understand the internal model well.",
+            "score": 1,
+            "que": "I also hate plotly's documentation."
+        },
+        {
+            "id": "igt39wz",
+            "parent": "t1_igrnazr",
+            "ans": "By bootlicker I mean someone who solely tries to please the business folks. Anyways, there\u2019s lots of diversity in what a data scientist does. Not everyone is trying to provide insights into business data. For example, lots of software products use machine learning, and a data scientist might work on building the ML components of a product.",
+            "score": 1,
+            "que": "The job (analytics and data science) entails providing insight into business data so that the business can act on them. If you consider that bootlicking, you are probably in the wrong field."
+        },
+        {
+            "id": "igodgxt",
+            "parent": "t1_igo5lpk",
+            "ans": "My HR boss wanted me to produce diversity and inclusion data for the diversity and inclusion investment board. We were analyzing the diversity among the executives and they came up all white male. The company makes racial categorizations by law when people choose not to identify. My boss literally was like \"there should be at least 1 Indian person\" and he went into ADP to look a specific individual up. They were not categorized as Indian, and it validated why the executives were all white. I had made it clear that I wasn't going to be performing baseless categorizations, especially since they were using the data to look on the up and up for investors. I was fired a couple days later lol. Hopefully your boss isn't as ridiculous as mine was.",
+            "score": 5,
+            "que": "HR usually has analysts report on company metrics like hiring, attrition, promotion rates, etc., and depending on the systems used you may need technical analyst"
+        },
+        {
+            "id": "igtia46",
+            "parent": "t1_igt39wz",
+            "ans": "Right. There are different applications. I realize that. \n\nI don\u2019t think there is anything wrong with recognizing there\u2019s value in the business/soft skills side. \n\nI\u2019m tired of the idea that it\u2019s an \u201cUs vs. Them\u201d situation. I\u2019m also tired of gatekeepers and the projection of their insecurities in these subreddits.",
+            "score": 1,
+            "que": "By bootlicker I mean someone who solely tries to please the business folks. Anyways, there\u2019s lots of diversity in what a data scientist does. Not everyone is trying to provide insights into business data. For example, lots of software products use machine learning, and a data scientist might work on building the ML components of a product."
+        },
+        {
+            "id": "igow7jf",
+            "parent": "t1_igodgxt",
+            "ans": "Sounds like a nightmare. I\u2019ve mostly had positive experiences and fingers crossed don\u2019t experience something like this in the future",
+            "score": 1,
+            "que": "My HR boss wanted me to produce diversity and inclusion data for the diversity and inclusion investment board. We were analyzing the diversity among the executives and they came up all white male. The company makes racial categorizations by law when people choose not to identify. My boss literally was like \"there should be at least 1 Indian person\" and he went into ADP to look a specific individual up. They were not categorized as Indian, and it validated why the executives were all white. I had made it clear that I wasn't going to be performing baseless categorizations, especially since they were using the data to look on the up and up for investors. I was fired a couple days later lol. Hopefully your boss isn't as ridiculous as mine was."
+        }
+    ]
+}

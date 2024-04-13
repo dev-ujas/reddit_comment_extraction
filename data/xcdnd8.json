@@ -1,0 +1,820 @@
+{
+    "title": "Data Science in 2022",
+    "id": "xcdnd8",
+    "create_at": 1662991336.0,
+    "score": 2337,
+    "comments": [
+        {
+            "id": "io4mk1g",
+            "parent": "t1_io4me4v",
+            "ans": "Or you have companies like mine which pay for DS but only need DAs lol",
+            "score": 366,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io4mmuw",
+            "parent": "t1_io4me4v",
+            "ans": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/",
+            "score": 105,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io5l9tu",
+            "parent": "t1_io4me4v",
+            "ans": "[deleted]",
+            "score": 21,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io5xdxf",
+            "parent": "t1_io4me4v",
+            "ans": "Providing analytical insight is every bit as complex, and if not more critical than data science. Absolutely no reason why a scientist should be paid more than an analyst from the title difference alone.",
+            "score": 22,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io72gwx",
+            "parent": "t1_io4me4v",
+            "ans": "And other companies are asking for data science skills and giving data analyst work",
+            "score": 3,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io86xlb",
+            "parent": "t1_io4me4v",
+            "ans": "I'm a Sr DA and most of my days, I build models and do data engineering. The analytics is like 30% of my job smh",
+            "score": 3,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io5kxnv",
+            "parent": "t1_io4me4v",
+            "ans": "Frrr. Corporate themselves need to find the difference first.",
+            "score": 3,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io5sjag",
+            "parent": "t1_io4me4v",
+            "ans": "Oh yea...I feel this! Sometimes they even ask you to build data pipelines on a DA salary...;/",
+            "score": 1,
+            "que": "Some companies are asking Data Science skills but want to pay for a Data analyst"
+        },
+        {
+            "id": "io59ddr",
+            "parent": "t1_io4ostl",
+            "ans": "Exactly this.  I see people getting upset about the role changing from machine learning to data visualizations and EDA but they don't realize that making six figures is hard in many other fields.  Imagine doing 3 hours of work with that pay while that IB banker is working double on OT hours with the same pay and more stress.\n\nI'd take the EDA work any day.",
+            "score": 98,
+            "que": "I can relate.\n\nMy company wanted machine learning models, but in the process of building them, they discovered that the exploratory data analysis gives them enough insights to work on business strategies. \n\nSo models were relegated to a second priority over understanding the business processes and customers in detail.\n\nI\u2019m fine with that. They pay me good money for a few hours of work per day."
+        },
+        {
+            "id": "io5710h",
+            "parent": "t1_io4ostl",
+            "ans": "What tools do you find most helpful throughout your day?",
+            "score": 12,
+            "que": "I can relate.\n\nMy company wanted machine learning models, but in the process of building them, they discovered that the exploratory data analysis gives them enough insights to work on business strategies. \n\nSo models were relegated to a second priority over understanding the business processes and customers in detail.\n\nI\u2019m fine with that. They pay me good money for a few hours of work per day."
+        },
+        {
+            "id": "io5c2sa",
+            "parent": "t1_io4ostl",
+            "ans": "its rare for me to productionize any model for that very reason, but i think its all the more reason that every programmer/engineer should update their processes around MLOps, it helps accelerate a lot of conversations and new opportunities",
+            "score": 4,
+            "que": "I can relate.\n\nMy company wanted machine learning models, but in the process of building them, they discovered that the exploratory data analysis gives them enough insights to work on business strategies. \n\nSo models were relegated to a second priority over understanding the business processes and customers in detail.\n\nI\u2019m fine with that. They pay me good money for a few hours of work per day."
+        },
+        {
+            "id": "io6wryg",
+            "parent": "t1_io4ostl",
+            "ans": "Sounds like management is pretty smart to realize this. So many places think magic machine learning will solve their problems without any EDA. You need to frame the problem correctly to solve it and you need to find the features in your data that are worth modeling",
+            "score": 3,
+            "que": "I can relate.\n\nMy company wanted machine learning models, but in the process of building them, they discovered that the exploratory data analysis gives them enough insights to work on business strategies. \n\nSo models were relegated to a second priority over understanding the business processes and customers in detail.\n\nI\u2019m fine with that. They pay me good money for a few hours of work per day."
+        },
+        {
+            "id": "io698l5",
+            "parent": "t1_io4ostl",
+            "ans": "I\u2019d like your company",
+            "score": 1,
+            "que": "I can relate.\n\nMy company wanted machine learning models, but in the process of building them, they discovered that the exploratory data analysis gives them enough insights to work on business strategies. \n\nSo models were relegated to a second priority over understanding the business processes and customers in detail.\n\nI\u2019m fine with that. They pay me good money for a few hours of work per day."
+        },
+        {
+            "id": "io6tn14",
+            "parent": "t1_io4ndxx",
+            "ans": "I'm curious to hear more about your experience. I feel I may be in a similar place.",
+            "score": 1,
+            "que": "I'm here dealing with that but it's \"Tier-3 Tech support\" and \"Data Science\"."
+        },
+        {
+            "id": "io4uoh6",
+            "parent": "t1_io4ogvy",
+            "ans": "Thank you. Analytics is an umbrella term. I think a lot of people don't understand that",
+            "score": 35,
+            "que": "I think many are confused about the definition of analytics, the difference between analysis and analytics, and the role responsibilities of an analyst vs data scientist.  An analyst does analytics work, but so does a data scientist. Some people say \u201cadvanced analytics\u201d to distinguish machine learning/data mining within analytics."
+        },
+        {
+            "id": "io87arz",
+            "parent": "t1_io4ogvy",
+            "ans": "What's truly crazy is that most people think that a Data Scientist job is literally just ML. Not even the data engineering work. If you're a DS and getting paid more than a DA, do not expect a DA or DE to build you a dataset.",
+            "score": 7,
+            "que": "I think many are confused about the definition of analytics, the difference between analysis and analytics, and the role responsibilities of an analyst vs data scientist.  An analyst does analytics work, but so does a data scientist. Some people say \u201cadvanced analytics\u201d to distinguish machine learning/data mining within analytics."
+        },
+        {
+            "id": "io4yk41",
+            "parent": "t1_io4ogvy",
+            "ans": "prescriptive analytics vs predictive analytics",
+            "score": 14,
+            "que": "I think many are confused about the definition of analytics, the difference between analysis and analytics, and the role responsibilities of an analyst vs data scientist.  An analyst does analytics work, but so does a data scientist. Some people say \u201cadvanced analytics\u201d to distinguish machine learning/data mining within analytics."
+        },
+        {
+            "id": "io7hpmc",
+            "parent": "t1_io5164p",
+            "ans": "Honestly, I\u2019d be more surprised if it hadn\u2019t. Lion tamers get mauled by lions, Data tamers get mauled by ambiguity.",
+            "score": 6,
+            "que": "It's fascinating to me how the debate between what constitutes data analyst vs. data scientist has basically become a representation of a classification problem with a squishy decision boundary."
+        },
+        {
+            "id": "io69nd7",
+            "parent": "t1_io5jhqg",
+            "ans": "I am thrown out of the loop by this thread. I always assumed that the actual line between DA and DS position is amount of time and sophistication you put into modelling. DAs tend to take off the shelf models and refine them for the business task, while DS can spend time figuring out new approaches and models.\n\nAm I wrong?",
+            "score": 1,
+            "que": "It\u2019s kind of a shame the community had to create a new unnecessary term just to give a \u201ccool factor\u201d. Analytics has always included statistics and modeling and you really can\u2019t separate analytics and modeling. Correctly understood, analytics is a far better representation of the work a Data Scientist does."
+        },
+        {
+            "id": "io91u04",
+            "parent": "t1_io5jhqg",
+            "ans": "Yea someone here said it should've been like computer science in that it's what you study *then* you enter the field and get whatever job title. But it's too late, too many people like to go \"ohhh I'm a data scientist you seeeee\" to try to impress people",
+            "score": 1,
+            "que": "It\u2019s kind of a shame the community had to create a new unnecessary term just to give a \u201ccool factor\u201d. Analytics has always included statistics and modeling and you really can\u2019t separate analytics and modeling. Correctly understood, analytics is a far better representation of the work a Data Scientist does."
+        },
+        {
+            "id": "io91ve9",
+            "parent": "t1_io752oz",
+            "ans": "Because it\u2019s not just skill set, it\u2019s the value they bring to the company and a data analyst can bring a lot of value",
+            "score": 2,
+            "que": "So when is this bubble going to burst ? When are companies going to start titling and compensating their employees properly based on the skill set they bring to the table."
+        },
+        {
+            "id": "io6gsdb",
+            "parent": "t1_io5bcr8",
+            "ans": "What if you write code to build dashboards \n\nWhat if you write code that only does exploratory data analysis \n\nWhat if you write code that uses data in very inaccurate ways \n\nWriting code should not be the line",
+            "score": 22,
+            "que": "Imo, if you write code you're a data scientist. If you build dashboards or use no-code solutions, you're a data analyst."
+        },
+        {
+            "id": "io69t5u",
+            "parent": "t1_io5bcr8",
+            "ans": "Would you consider SQL queries \"writing code\"?",
+            "score": 15,
+            "que": "Imo, if you write code you're a data scientist. If you build dashboards or use no-code solutions, you're a data analyst."
+        },
+        {
+            "id": "io6onjb",
+            "parent": "t1_io5bcr8",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "Imo, if you write code you're a data scientist. If you build dashboards or use no-code solutions, you're a data analyst."
+        },
+        {
+            "id": "io6c67j",
+            "parent": "t1_io5bcr8",
+            "ans": "Nah, I wouldn't call myself a data scientist because I needed to write SAS/SQL/DAX/M code. If anything, it makes my data analysis job lean more towards patchwork mini-data engineering than data science.",
+            "score": 1,
+            "que": "Imo, if you write code you're a data scientist. If you build dashboards or use no-code solutions, you're a data analyst."
+        },
+        {
+            "id": "io8tcal",
+            "parent": "t1_io5bcr8",
+            "ans": "I write code all day and even work with ML, but still find the scientist title doesn\u2019t apply because the level of statistics I use is extremely basic.\n\nIm kinda more of a software engineer, data engineer and analyst combo.\n\nI feel like data scientist should be reserved for someone with a deep understanding of statistics.\n\nMaybe I just have imposter syndrome though.",
+            "score": 1,
+            "que": "Imo, if you write code you're a data scientist. If you build dashboards or use no-code solutions, you're a data analyst."
+        },
+        {
+            "id": "io6wq80",
+            "parent": "t1_io4uqsv",
+            "ans": "Can you please explain a bit more to me what this is? Does that mean you're fielding questions directly from clients?",
+            "score": 1,
+            "que": "Even more fun when they throw in \u201cfirst layer IT support\u201d as well."
+        },
+        {
+            "id": "io6cfao",
+            "parent": "t1_io52qee",
+            "ans": "Yet half the users here would gladly settle for a US-style data analytics salary.",
+            "score": 3,
+            "que": "Data analyst should be a software based role. A csv tool, a visualization tool, an etl tool, a sql database tool. If you do anything beyond that you should be getting a data science wage imo."
+        },
+        {
+            "id": "io52ml5",
+            "parent": "t1_io4nboy",
+            "ans": "What is it that a data scientist does that the data analyst cant do?",
+            "score": 6,
+            "que": "Yeah this isn\u2019t quite right.\n\nIt\u2019s kind of like a registered nurse to a physician; a physician could, theoretically do a nurses job, but would largely be better utilized as a physician. If a physician is only performing in the scope of an nurses role, that company could save a lot of money by just hiring a registered nurse.\n\nThe other way around also applies, an analyst may understand some tasks of a data scientist, but the scope and expectation of knowledge in data science is much greater.\n\nIt\u2019s not as clear cut as it is in medicine because of licensing, but the dynamic is remarkably similar, they are both practicing medicine with the same goal, but they are not at all performing the same role."
+        },
+        {
+            "id": "io4xyts",
+            "parent": "t1_io4p3cz",
+            "ans": "What rubs me the wrong way is how half the people on this sub think that DS is only ML smh",
+            "score": 25,
+            "que": "It's the titles that rub me the wrong way, seeing people I know well and their skill set somehow get titles like \"Data scientist III\" or \"Manager of data science\" when we both know damn good and well they can't even spell python."
+        },
+        {
+            "id": "io4mihg",
+            "parent": "t1_io4lgmy",
+            "ans": "Actually \"Data Scientist, Product Analytics\" is a job role that a lot of people enjoy doing. It's essentially a FAANG Data Analyst.",
+            "score": 34,
+            "que": "If this is what a company thinks, stay clear.  You're going to be frustrated."
+        },
+        {
+            "id": "io924qu",
+            "parent": "t1_io5bmk5",
+            "ans": "Why? We can\u2019t even come to an agreement in this sub as to what is \u201cdata science\u201d",
+            "score": 2,
+            "que": "I am surprised how business users cannot differentiate really well between analytics and data science. But i cannot blame them."
+        },
+        {
+            "id": "io74zew",
+            "parent": "t1_io4mk1g",
+            "ans": "Are y'all hiring",
+            "score": 84,
+            "que": "Or you have companies like mine which pay for DS but only need DAs lol"
+        },
+        {
+            "id": "io902db",
+            "parent": "t1_io4mk1g",
+            "ans": "Same! Nice life",
+            "score": 4,
+            "que": "Or you have companies like mine which pay for DS but only need DAs lol"
+        },
+        {
+            "id": "itg6r4x",
+            "parent": "t1_io4mk1g",
+            "ans": "Yeah I'm hot any entry level jobs open? Lol",
+            "score": 3,
+            "que": "Or you have companies like mine which pay for DS but only need DAs lol"
+        },
+        {
+            "id": "io4urxj",
+            "parent": "t1_io4mmuw",
+            "ans": "[deleted]",
+            "score": 69,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io7c6xf",
+            "parent": "t1_io4mmuw",
+            "ans": "that sounds harder than most DS jobs lol.",
+            "score": 9,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io5o456",
+            "parent": "t1_io4mmuw",
+            "ans": "How do I get that job",
+            "score": 7,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io6hkaf",
+            "parent": "t1_io4mmuw",
+            "ans": "Eh, my company hires entry level data scientists in that range. Those seem like really great questions in line with what we ask and we also ask for a presentation on research/work they have done.\n\nI don\u2019t think you need to ask gotcha linked list or ML questions to get a sense if an applicant will be a good fit on your team.",
+            "score": 14,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io4xr44",
+            "parent": "t1_io4mmuw",
+            "ans": "That\u2019s an arbitrage opportunity wow",
+            "score": 4,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io74fuq",
+            "parent": "t1_io4mmuw",
+            "ans": "Holy shit you could pull someone off the street to answer most of those",
+            "score": 8,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io7ci34",
+            "parent": "t1_io4mmuw",
+            "ans": "i really don't wanna come off as a gatekeeping but I am baffled at the simplicity of those questions for 120k role.\n\nare they seriously asking about for vs while and what variance is? That's literally high school AP curriculum.",
+            "score": 4,
+            "que": "Or the opposite! Check the top thread on this subreddit right now. My man is getting paid 120k for this (and more power to him).\n\nhttps://www.reddit.com/r/datascience/comments/xbl58o/here_are_the_questions_i_was_asked_for_my_entry/"
+        },
+        {
+            "id": "io68eqd",
+            "parent": "t1_io5l9tu",
+            "ans": "Yeah, but on average, your typical data analyst makes less than your typical DS.",
+            "score": 16,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io6rrta",
+            "parent": "t1_io5l9tu",
+            "ans": "It\u2019s a pretty small subset of people who are really just data analysts making big money. In my experience it\u2019s pretty much limited to people who make significant contributions to very high dollar decisions and they often have a lot of domain knowledge.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io68rz3",
+            "parent": "t1_io5xdxf",
+            "ans": ">analytical insight is every bit as complex\n\nAnalytical insight usually boils down to a supplimentary dashboard or a chart that is used by stakeholder to push for their agenda. DAs are often in support role just helping real money makers in the company.\n\nDS also can end up in tertiary roles, but actually they are more often bread winners, and consequently, earn more.",
+            "score": -9,
+            "que": "Providing analytical insight is every bit as complex, and if not more critical than data science. Absolutely no reason why a scientist should be paid more than an analyst from the title difference alone."
+        },
+        {
+            "id": "io75jsv",
+            "parent": "t1_io5sjag",
+            "ans": "Don't data analyst and data engineers get paid basically the same.",
+            "score": 0,
+            "que": "Oh yea...I feel this! Sometimes they even ask you to build data pipelines on a DA salary...;/"
+        },
+        {
+            "id": "io5ns5i",
+            "parent": "t1_io59ddr",
+            "ans": "True but intellectual stimulation and challenge is really important for some of us too.",
+            "score": 37,
+            "que": "Exactly this.  I see people getting upset about the role changing from machine learning to data visualizations and EDA but they don't realize that making six figures is hard in many other fields.  Imagine doing 3 hours of work with that pay while that IB banker is working double on OT hours with the same pay and more stress.\n\nI'd take the EDA work any day."
+        },
+        {
+            "id": "io5uyya",
+            "parent": "t1_io59ddr",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "Exactly this.  I see people getting upset about the role changing from machine learning to data visualizations and EDA but they don't realize that making six figures is hard in many other fields.  Imagine doing 3 hours of work with that pay while that IB banker is working double on OT hours with the same pay and more stress.\n\nI'd take the EDA work any day."
+        },
+        {
+            "id": "io7474o",
+            "parent": "t1_io59ddr",
+            "ans": "Lol, an ibanker is making way more than an entry DS.",
+            "score": 2,
+            "que": "Exactly this.  I see people getting upset about the role changing from machine learning to data visualizations and EDA but they don't realize that making six figures is hard in many other fields.  Imagine doing 3 hours of work with that pay while that IB banker is working double on OT hours with the same pay and more stress.\n\nI'd take the EDA work any day."
+        },
+        {
+            "id": "io59vbx",
+            "parent": "t1_io5710h",
+            "ans": "If it's anything like my work, Excel, a database engine (e.g. SQL) and a data visualization program (Tableau, Looker, PowerBI).",
+            "score": 23,
+            "que": "What tools do you find most helpful throughout your day?"
+        },
+        {
+            "id": "io51hdu",
+            "parent": "t1_io4yk41",
+            "ans": "I love job descriptions that list requirements as:\n- expert in excel\n- basic understanding of sql\n- predictive analytics modeling \n\nCompanies go by the mantra \u201cwhen in doubt, throw a buzz word out.\u201d",
+            "score": 25,
+            "que": "prescriptive analytics vs predictive analytics"
+        },
+        {
+            "id": "io53bzu",
+            "parent": "t1_io4yk41",
+            "ans": "Both of those categories of analytics have applied machine learning",
+            "score": 8,
+            "que": "prescriptive analytics vs predictive analytics"
+        },
+        {
+            "id": "io5hmar",
+            "parent": "t1_io4yk41",
+            "ans": "Is this statement I wrote correct? I\u2019m trying to understand these\n\nPrescriptive and predictive analytics can be as simple as looking at some data and then writing a formula to calculate a one-off thing, for example an estimate of future ROI per customer.\n\nThey can also be much more complex if using machine learning to have a computer generate models.",
+            "score": 5,
+            "que": "prescriptive analytics vs predictive analytics"
+        },
+        {
+            "id": "io6bgjf",
+            "parent": "t1_io69nd7",
+            "ans": "If by \u201cfiguring out new approaches\u201d you mean researching new models, optimization methods, etc., I would say very few if any Data Scientists do that type of work in industry. They are more likely to have PhDs and some sort of title that includes \u201cResearcher\u201d. If by new approaches you mean, finding creative ways to solve problems, I would agree with you. Typically, DSs are going to be given the harder tasks while DAs will be given more straight forward work. \n\nUnless a DS is building a neural network, they will almost always be using an off the shelf model. It is simply not efficient to find a new way to build a model. It is a time consuming and difficult task that may not end up helping at all. DSs are always going to be using whatever they can to get the quickest success (optimizing on the business task as you put it).\n\nI also don\u2019t agree with some other statements on this thread that DSs code and DAs don\u2019t. I did plenty of coding as a DA and a DS.",
+            "score": 19,
+            "que": "I am thrown out of the loop by this thread. I always assumed that the actual line between DA and DS position is amount of time and sophistication you put into modelling. DAs tend to take off the shelf models and refine them for the business task, while DS can spend time figuring out new approaches and models.\n\nAm I wrong?"
+        },
+        {
+            "id": "io73lg6",
+            "parent": "t1_io69nd7",
+            "ans": "Very few business problems nowadays need something that isn\u2019t off the shelf, and typically only in research. \n\nWay back in the beginning of DS the thing is the libraries were not built out so some stuff you had to do \u201cfrom scratch\u201d. Its not the case anymore",
+            "score": 8,
+            "que": "I am thrown out of the loop by this thread. I always assumed that the actual line between DA and DS position is amount of time and sophistication you put into modelling. DAs tend to take off the shelf models and refine them for the business task, while DS can spend time figuring out new approaches and models.\n\nAm I wrong?"
+        },
+        {
+            "id": "io7k6kt",
+            "parent": "t1_io69nd7",
+            "ans": "No one except researchers invent new models. It's not that no one else could, it's just that it's not part of the job",
+            "score": 2,
+            "que": "I am thrown out of the loop by this thread. I always assumed that the actual line between DA and DS position is amount of time and sophistication you put into modelling. DAs tend to take off the shelf models and refine them for the business task, while DS can spend time figuring out new approaches and models.\n\nAm I wrong?"
+        },
+        {
+            "id": "io6k9lu",
+            "parent": "t1_io69nd7",
+            "ans": "Data Scientist is a statistican who knows how to code.\n\nData Analyst is Data Science light version.",
+            "score": 3,
+            "que": "I am thrown out of the loop by this thread. I always assumed that the actual line between DA and DS position is amount of time and sophistication you put into modelling. DAs tend to take off the shelf models and refine them for the business task, while DS can spend time figuring out new approaches and models.\n\nAm I wrong?"
+        },
+        {
+            "id": "io6mimh",
+            "parent": "t1_io6gsdb",
+            "ans": "I agree. lol sounds like your describing me - not a DS or DA currently. but that's what code can give you - a way to mask your blemishes by creating stuff that makes it look like you know what's going on. So yeah, idk what the data means, idk why i'm even looking at it, idk why it's valuable or important....but hey, I can  make some visualizations that paint some kind of picture, I can examine covariance and correlation among all the features, I can arbitrarily drop some of them and fill the na's with the mean, I can plug & chug with models in sklearn and get a high accuracy score, I can even run gridsearch! \n\nAhhh...*i'm a data scientist* lol NOPE. just a guy playing around with code haha",
+            "score": 3,
+            "que": "What if you write code to build dashboards \n\nWhat if you write code that only does exploratory data analysis \n\nWhat if you write code that uses data in very inaccurate ways \n\nWriting code should not be the line"
+        },
+        {
+            "id": "io7ugjb",
+            "parent": "t1_io69t5u",
+            "ans": "SQL code of any appreciable complexity is far harder to read and write than nicely functionalized Python/R",
+            "score": 7,
+            "que": "Would you consider SQL queries \"writing code\"?"
+        },
+        {
+            "id": "io91rm2",
+            "parent": "t1_io6onjb",
+            "ans": "Most Senior Data Analyst roles make more than $60k, heck most are over $100k",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io54bsh",
+            "parent": "t1_io52ml5",
+            "ans": "Calculate a harmonic mean. /s",
+            "score": 25,
+            "que": "What is it that a data scientist does that the data analyst cant do?"
+        },
+        {
+            "id": "io582p8",
+            "parent": "t1_io52ml5",
+            "ans": "It's the wide range of how these positions are called that makes answering this difficult. My DS team frequently works with NLP Deep Learning models (among more classic Recommendation, Clustering etc. tasks), which, for example, I would not expect a Data Analyst to be that familiar with.",
+            "score": 9,
+            "que": "What is it that a data scientist does that the data analyst cant do?"
+        },
+        {
+            "id": "io5a74j",
+            "parent": "t1_io52ml5",
+            "ans": "This is something the industry is still working out, but if we're looking at holistic data solutions, a practicing Data Scientist *should* be good at analytics, software engineering, and domain expertise. They *should* be able to feasibly provide guidance on data management, storage, ETL, model building, pipeline building, model training, model production/lifetime cycles, hypothesis development/testing, and some applied business analysis (specific to the domain). They don't need to be experts in all of them by any means, and it's unrealistic to think that they would be an expert in all of those things. But a *Data Scientist* should be able to cast a pretty **wide net** and know the ins and outs of the critical elements: how to store it, transform it, clean it, analyze it, use it, maintain it,.\n\nIt's not to say that a Data Analyst **can't** do those things it's not like medicine and licensure prevents it, but data analysis is a much more narrow scope. I would not expect a data analyst to be mucking around in ETL or pipeline building nor participate in (most) data management discussions. I also wouldn't expect them to be experts in production model lifecycle management. If we're talking about classic statistical data analysts, I also would more heavily emphasize knowledge of things like regressions, chi\\^2, etc... core quant and qual analytics foundations - and to be fair, I would *not* expect them to know how to build, train, and run neural networks. Analysts aren't software engineers, so if they are doing a lot of ML or pipeline development, I would surmise that they are working outside of their scope - this could be that they are trying to break out of an analysts role, which is all well and good, but it could also be that their employer is taking advantage of them and is giving them work that is more wide spread than what they should be doing as an analyst. They should be focused on Data Analysis, not all of the other stuff in the pipeline.\n\nThis also means that data analysts are specialists of sorts. Back to my analogy, a physician *could* do a nurses job, but I can almost guarantee that they *wouldn't* do it as well as an experienced nurse would... and ignoring licensing (and nurse practitioners) a nurse *could learn to* do a physicians job, but that would be wildly inappropriate, that is asking a nurse to take on way more responsibility than they *should* be taking on and paying them a *fraction* of what they would be making as a primary care provider. I like the analogy because if an employer were asking their nurses to function this way, it would be 100% evident that they were taking advantage of them to work beyond their scope so that they didn't need to pay for appropriate salaried employees. It's not to say they *couldn't* do it, it's that they *shouldn't* do it (also it would be illegal lol).",
+            "score": 2,
+            "que": "What is it that a data scientist does that the data analyst cant do?"
+        },
+        {
+            "id": "io52f64",
+            "parent": "t1_io4xyts",
+            "ans": "What else is there? Asking to learn.",
+            "score": 4,
+            "que": "What rubs me the wrong way is how half the people on this sub think that DS is only ML smh"
+        },
+        {
+            "id": "io4z3yj",
+            "parent": "t1_io4xyts",
+            "ans": "Building models Kaggle-style",
+            "score": 2,
+            "que": "What rubs me the wrong way is how half the people on this sub think that DS is only ML smh"
+        },
+        {
+            "id": "io6h21p",
+            "parent": "t1_io4xyts",
+            "ans": "And I bet that correlates to how many in this sub have never had a paying job doing anything with data",
+            "score": 1,
+            "que": "What rubs me the wrong way is how half the people on this sub think that DS is only ML smh"
+        },
+        {
+            "id": "io4mopz",
+            "parent": "t1_io4mihg",
+            "ans": "Well that's fair.  I guess I should say if a company thinks a Data Analyst and a Data Scientist are the same thing, run.",
+            "score": 6,
+            "que": "Actually \"Data Scientist, Product Analytics\" is a job role that a lot of people enjoy doing. It's essentially a FAANG Data Analyst."
+        },
+        {
+            "id": "io4xhed",
+            "parent": "t1_io4urxj",
+            "ans": "This reads like Borat saying something",
+            "score": 107,
+            "que": "[deleted]"
+        },
+        {
+            "id": "jedhixs",
+            "parent": "t1_io4urxj",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io6n8h3",
+            "parent": "t1_io6hkaf",
+            "ans": "[deleted]",
+            "score": 7,
+            "que": "Eh, my company hires entry level data scientists in that range. Those seem like really great questions in line with what we ask and we also ask for a presentation on research/work they have done.\n\nI don\u2019t think you need to ask gotcha linked list or ML questions to get a sense if an applicant will be a good fit on your team."
+        },
+        {
+            "id": "io6ta0e",
+            "parent": "t1_io4xr44",
+            "ans": "Meaning you just outsource your work to someone else?",
+            "score": 4,
+            "que": "That\u2019s an arbitrage opportunity wow"
+        },
+        {
+            "id": "io6k1vr",
+            "parent": "t1_io68eqd",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "Yeah, but on average, your typical data analyst makes less than your typical DS."
+        },
+        {
+            "id": "ioc08g1",
+            "parent": "t1_io68rz3",
+            "ans": "You can never automate relating complex information together through analysis (causal inference requires domain knowledge)\n\nBut you can automate finding the best ml model and hyperparameter to achieve the best prediction (or good enough)",
+            "score": 1,
+            "que": ">analytical insight is every bit as complex\n\nAnalytical insight usually boils down to a supplimentary dashboard or a chart that is used by stakeholder to push for their agenda. DAs are often in support role just helping real money makers in the company.\n\nDS also can end up in tertiary roles, but actually they are more often bread winners, and consequently, earn more."
+        },
+        {
+            "id": "io75wev",
+            "parent": "t1_io75jsv",
+            "ans": "no they don't :)",
+            "score": 3,
+            "que": "Don't data analyst and data engineers get paid basically the same."
+        },
+        {
+            "id": "io7e9u4",
+            "parent": "t1_io5ns5i",
+            "ans": "I get more intellectual stimulation from EDA than sklearn fit() & predict() methods.\n\nI'm an MLE. Once I automated the model training/evaluation, my job became purely software dev.",
+            "score": 28,
+            "que": "True but intellectual stimulation and challenge is really important for some of us too."
+        },
+        {
+            "id": "io6nevx",
+            "parent": "t1_io5ns5i",
+            "ans": "Plenty of time after work. No one said it was supposed to be scintillating",
+            "score": 16,
+            "que": "True but intellectual stimulation and challenge is really important for some of us too."
+        },
+        {
+            "id": "io64ms1",
+            "parent": "t1_io5ns5i",
+            "ans": "I think nowadays for that you have to seek out an MLE role. It seems like the technical stats/modeling is being done by them but also need SWE skills.",
+            "score": 7,
+            "que": "True but intellectual stimulation and challenge is really important for some of us too."
+        },
+        {
+            "id": "io66hin",
+            "parent": "t1_io5uyya",
+            "ans": "Yeah I got a six figure job straight out of grad school and I probably average 3-4 hours of actual work per day, and even that's being generous if I'm being completely honest. It's a pretty chill life.",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io6wwti",
+            "parent": "t1_io5uyya",
+            "ans": "I bet you could find a company where your current domain knowledge is relevant too - that combined with reasonable DS chops should make you good money.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io6ngrg",
+            "parent": "t1_io51hdu",
+            "ans": "Hey but those *data-driven* insights though. It's all a system, you know, cloud, machine learning, crypto, embedded computing, data engineering. it's just a system.",
+            "score": 6,
+            "que": "I love job descriptions that list requirements as:\n- expert in excel\n- basic understanding of sql\n- predictive analytics modeling \n\nCompanies go by the mantra \u201cwhen in doubt, throw a buzz word out.\u201d"
+        },
+        {
+            "id": "io5839u",
+            "parent": "t1_io53bzu",
+            "ans": "ML is a tool.  It exits outside of those categories, and ML is not required for those categories.  ML isn't a defining characteristic of either category.",
+            "score": -2,
+            "que": "Both of those categories of analytics have applied machine learning"
+        },
+        {
+            "id": "io5j1yu",
+            "parent": "t1_io5hmar",
+            "ans": "Predictive tries to tell the future, while prescriptive goes further and tells you what to do to change the future. And below those, descriptive just tells you what's happening now. What you're describing sounds predictive, and those models can be simple or complex.",
+            "score": 6,
+            "que": "Is this statement I wrote correct? I\u2019m trying to understand these\n\nPrescriptive and predictive analytics can be as simple as looking at some data and then writing a formula to calculate a one-off thing, for example an estimate of future ROI per customer.\n\nThey can also be much more complex if using machine learning to have a computer generate models."
+        },
+        {
+            "id": "io5j3n7",
+            "parent": "t1_io5hmar",
+            "ans": "Prescriptive analytics is typically done by data analysts (descriptive analytics too).  It's creating a report to guide business decisions.  \"Because customers prefer to buy X and Y together, if we sold them as a bundle our sales are estimated to go up to $Z amount.\"  Probably a bad example, but hopefully you get the idea.  It is analytics that prescribes business decisions.\n\nFuture ROI per customer is close to descriptive analytics, also done by data analysts.  It's creating a report that shows aggregated data for management to come up with their own decisions.  Instead of future ROI per customer it's average customer future ROI, or maybe it's grouped, so a handful of groups of customer future ROI.\n\nUnlike the other two which are done by data analysts, data scientists specialize in predictive analytics.  Predictive analytics is using analytics to predict the future.  It can be a future weather pattern, future medical problems someone might have, diagnosing future hardware failure, or it can be customer based, like predicting what a customer will do in a specific situation.  Another example: a recommender engine predicts what the user will like.",
+            "score": 5,
+            "que": "Is this statement I wrote correct? I\u2019m trying to understand these\n\nPrescriptive and predictive analytics can be as simple as looking at some data and then writing a formula to calculate a one-off thing, for example an estimate of future ROI per customer.\n\nThey can also be much more complex if using machine learning to have a computer generate models."
+        },
+        {
+            "id": "io6h9rp",
+            "parent": "t1_io582p8",
+            "ans": "Heck even a lot of data scientists wouldn\u2019t be familiar with that",
+            "score": 6,
+            "que": "It's the wide range of how these positions are called that makes answering this difficult. My DS team frequently works with NLP Deep Learning models (among more classic Recommendation, Clustering etc. tasks), which, for example, I would not expect a Data Analyst to be that familiar with."
+        },
+        {
+            "id": "io5ap1m",
+            "parent": "t1_io52f64",
+            "ans": "IMO it can be pretty broad-- ultimately, I feel like it touches on virtually everything that goes into being able to leverage data to drive a better business/product.  A good DS is capable of asking the right questions and picking the right issues to solve through data, and then driving that from start to finish, including persuading others to take action on the results (OK, so you did some analysis or created a model, why should anyone care?).  Sure, some of it overlaps with areas like data engineering, ML engineering, product management, or data analysis/BI, but DS are not constrained to just being good at one thing.  \n\nThe list of things that can touch on the DS field is long, and not all of them are necessary in every role to be able to be labeled DS (and this isn't even an exhaustive list):\n\n* ML (yes this is very broad and encompasses a lot)\n* Data wrangling/interpretation\n* Writing pipelines\n* Creating dashboards\n* Exploratory analysis\n* \"Basic\" Analysis\n* Metric creation/goal setting\n* A/B testing/experimentation (experimental design, execution, interpretation, etc)\n* Root cause analysis/interpretation\n* Product/business sense (learn the right questions to ask)\n* Managing stakeholders/business partners\n* Persuasion/Influence \n\nI'd argue that someone who sits in a room and just mindlessly works on optimizing models without an understanding of how they're driving value is *far* less of a DS than someone who hasn't built a model in the last 3 years, but works closely with product/business stakeholders, anticipates the needs of the business, does relatively straightforward analysis  in SQL, is good at answering the \"so what?\" question about their work, and can persuade people to act on what they've done.  A lot of this sub would disagree (hence the disdain towards jobs they perceive as a \"SQL monkey\" or just \"data analyst\"), but I think they're wrong.",
+            "score": 15,
+            "que": "What else is there? Asking to learn."
+        },
+        {
+            "id": "io6rpda",
+            "parent": "t1_io52f64",
+            "ans": "Honestly, coming from academic science, I feel that what I do is Data Science (and not Analytics) because it totally feels like science. I identify the task to work on, agree it with my team lead, and start working on it. The task is often reasonably well defined from the business pov, but at first I often have very little idea about how to even approach it mathematically. I code models to generate fake data, calibrate my methods, apply them to real data, build cool visualizations to see if it is even working. The toolkit also feels sciency, in the sense that sometimes I vaguely recall once hearing about a method that could help, have to unearth this method, read about it, find an implementation, and somehow integrate it into the pipeline. It has sciency vibes, in the sense when it works at the end, it always feels cool and novel and weird.\n\nSure, some parts are unique (compared to academia) - I do more analytics, I never present p-values, I refactor code a lot, and I have to learn a lot about pipelines, devops, data warehousing, and what not. So some parts of the job feel a bit more like engineering. But the science component is also strong, and kinda unmistakable.",
+            "score": 2,
+            "que": "What else is there? Asking to learn."
+        },
+        {
+            "id": "io54ein",
+            "parent": "t1_io4xhed",
+            "ans": "My name Borat. I like you. I like sex. Is nice",
+            "score": 30,
+            "que": "This reads like Borat saying something"
+        },
+        {
+            "id": "jehpelv",
+            "parent": "t1_io4xhed",
+            "ans": "My grandfather fought in the AI jihads",
+            "score": 1,
+            "que": "This reads like Borat saying something"
+        },
+        {
+            "id": "io741jx",
+            "parent": "t1_io6n8h3",
+            "ans": "Lol, you have 0 idea what the hiring market looks like if you think that. I know people making 125k a year on vlookups and basic tableau.",
+            "score": 17,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io6r17t",
+            "parent": "t1_io6n8h3",
+            "ans": "I am curious, what would your data science questions be to warrant the $120k salary?",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io872l0",
+            "parent": "t1_io6n8h3",
+            "ans": "I'm not even kidding you, but your idea of DS skills probably pays closer to 250k right now.",
+            "score": 9,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io6njb4",
+            "parent": "t1_io6k1vr",
+            "ans": "[deleted]",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io9713c",
+            "parent": "t1_io75wev",
+            "ans": "If you're at the right company they do. But yea, generally no",
+            "score": 1,
+            "que": "no they don't :)"
+        },
+        {
+            "id": "io6rk7h",
+            "parent": "t1_io6nevx",
+            "ans": "If I'm at work for half of my day, I don't want to go home and do more work. Would rather just do work that interests me during work hours.",
+            "score": 13,
+            "que": "Plenty of time after work. No one said it was supposed to be scintillating"
+        },
+        {
+            "id": "io65o3l",
+            "parent": "t1_io64ms1",
+            "ans": "I would say they mostly do SWE but not really any modelling. Currently it's research scientists and applied scientists that do all the highly technical modelling.",
+            "score": 3,
+            "que": "I think nowadays for that you have to seek out an MLE role. It seems like the technical stats/modeling is being done by them but also need SWE skills."
+        },
+        {
+            "id": "io7o06d",
+            "parent": "t1_io66hin",
+            "ans": "Mind if I ask where you work! I can\u2019t imagine only doing a few hours of work per day. Currently doing 9-10 as a Lead DS",
+            "score": 1,
+            "que": "Yeah I got a six figure job straight out of grad school and I probably average 3-4 hours of actual work per day, and even that's being generous if I'm being completely honest. It's a pretty chill life."
+        },
+        {
+            "id": "io7dwpz",
+            "parent": "t1_io6wwti",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I bet you could find a company where your current domain knowledge is relevant too - that combined with reasonable DS chops should make you good money."
+        },
+        {
+            "id": "io5clf4",
+            "parent": "t1_io5839u",
+            "ans": "Yeah agreed, not sure how my comment contradicts that",
+            "score": 3,
+            "que": "ML is a tool.  It exits outside of those categories, and ML is not required for those categories.  ML isn't a defining characteristic of either category."
+        },
+        {
+            "id": "io7u0aw",
+            "parent": "t1_io5j3n7",
+            "ans": "I disagree, i see a lot of ds doing prescription with operations research. I worked in a project where a linear regression model (descriptive) was used in conjunction with a forecasting model (predictive) to feed an optimization algorithm (prescritive). I'm starting to think that data science is ..... applying science to data, as crazy as this sounds...",
+            "score": 2,
+            "que": "Prescriptive analytics is typically done by data analysts (descriptive analytics too).  It's creating a report to guide business decisions.  \"Because customers prefer to buy X and Y together, if we sold them as a bundle our sales are estimated to go up to $Z amount.\"  Probably a bad example, but hopefully you get the idea.  It is analytics that prescribes business decisions.\n\nFuture ROI per customer is close to descriptive analytics, also done by data analysts.  It's creating a report that shows aggregated data for management to come up with their own decisions.  Instead of future ROI per customer it's average customer future ROI, or maybe it's grouped, so a handful of groups of customer future ROI.\n\nUnlike the other two which are done by data analysts, data scientists specialize in predictive analytics.  Predictive analytics is using analytics to predict the future.  It can be a future weather pattern, future medical problems someone might have, diagnosing future hardware failure, or it can be customer based, like predicting what a customer will do in a specific situation.  Another example: a recommender engine predicts what the user will like."
+        },
+        {
+            "id": "io81d9x",
+            "parent": "t1_io6h9rp",
+            "ans": "Hence why I wrote answering this is difficult, just gave an example. DA/DS/MLE and all these related fields being in their youth makes them not well-defined, tho I hope with time all this debate will end with the industry realising the frustration people have with it.",
+            "score": 1,
+            "que": "Heck even a lot of data scientists wouldn\u2019t be familiar with that"
+        },
+        {
+            "id": "io7vn88",
+            "parent": "t1_io5ap1m",
+            "ans": "Presentation skills, \nCommunication skills with all levels of the business, \nMeeting facilitation skills, \nRequirements elicitation from stakeholders - knowing how to ask the right questions",
+            "score": 2,
+            "que": "IMO it can be pretty broad-- ultimately, I feel like it touches on virtually everything that goes into being able to leverage data to drive a better business/product.  A good DS is capable of asking the right questions and picking the right issues to solve through data, and then driving that from start to finish, including persuading others to take action on the results (OK, so you did some analysis or created a model, why should anyone care?).  Sure, some of it overlaps with areas like data engineering, ML engineering, product management, or data analysis/BI, but DS are not constrained to just being good at one thing.  \n\nThe list of things that can touch on the DS field is long, and not all of them are necessary in every role to be able to be labeled DS (and this isn't even an exhaustive list):\n\n* ML (yes this is very broad and encompasses a lot)\n* Data wrangling/interpretation\n* Writing pipelines\n* Creating dashboards\n* Exploratory analysis\n* \"Basic\" Analysis\n* Metric creation/goal setting\n* A/B testing/experimentation (experimental design, execution, interpretation, etc)\n* Root cause analysis/interpretation\n* Product/business sense (learn the right questions to ask)\n* Managing stakeholders/business partners\n* Persuasion/Influence \n\nI'd argue that someone who sits in a room and just mindlessly works on optimizing models without an understanding of how they're driving value is *far* less of a DS than someone who hasn't built a model in the last 3 years, but works closely with product/business stakeholders, anticipates the needs of the business, does relatively straightforward analysis  in SQL, is good at answering the \"so what?\" question about their work, and can persuade people to act on what they've done.  A lot of this sub would disagree (hence the disdain towards jobs they perceive as a \"SQL monkey\" or just \"data analyst\"), but I think they're wrong."
+        },
+        {
+            "id": "io6q7xn",
+            "parent": "t1_io5ap1m",
+            "ans": "[deleted]",
+            "score": -2,
+            "que": "IMO it can be pretty broad-- ultimately, I feel like it touches on virtually everything that goes into being able to leverage data to drive a better business/product.  A good DS is capable of asking the right questions and picking the right issues to solve through data, and then driving that from start to finish, including persuading others to take action on the results (OK, so you did some analysis or created a model, why should anyone care?).  Sure, some of it overlaps with areas like data engineering, ML engineering, product management, or data analysis/BI, but DS are not constrained to just being good at one thing.  \n\nThe list of things that can touch on the DS field is long, and not all of them are necessary in every role to be able to be labeled DS (and this isn't even an exhaustive list):\n\n* ML (yes this is very broad and encompasses a lot)\n* Data wrangling/interpretation\n* Writing pipelines\n* Creating dashboards\n* Exploratory analysis\n* \"Basic\" Analysis\n* Metric creation/goal setting\n* A/B testing/experimentation (experimental design, execution, interpretation, etc)\n* Root cause analysis/interpretation\n* Product/business sense (learn the right questions to ask)\n* Managing stakeholders/business partners\n* Persuasion/Influence \n\nI'd argue that someone who sits in a room and just mindlessly works on optimizing models without an understanding of how they're driving value is *far* less of a DS than someone who hasn't built a model in the last 3 years, but works closely with product/business stakeholders, anticipates the needs of the business, does relatively straightforward analysis  in SQL, is good at answering the \"so what?\" question about their work, and can persuade people to act on what they've done.  A lot of this sub would disagree (hence the disdain towards jobs they perceive as a \"SQL monkey\" or just \"data analyst\"), but I think they're wrong."
+        },
+        {
+            "id": "io5ihrg",
+            "parent": "t1_io54ein",
+            "ans": "[deleted]",
+            "score": 18,
+            "que": "My name Borat. I like you. I like sex. Is nice"
+        },
+        {
+            "id": "io6zhm8",
+            "parent": "t1_io6r17t",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I am curious, what would your data science questions be to warrant the $120k salary?"
+        },
+        {
+            "id": "io8r04y",
+            "parent": "t1_io872l0",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "I'm not even kidding you, but your idea of DS skills probably pays closer to 250k right now."
+        },
+        {
+            "id": "io6xwl3",
+            "parent": "t1_io6njb4",
+            "ans": "> Isn\u2019t that the point of the original post though? \n\nI was commenting to the original reply to the original post which claimed the pay was really different.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io66eid",
+            "parent": "t1_io65o3l",
+            "ans": "But those are PhD level positions, so without a PhD the way to have even a chance get into more technical modeling or switch over over time still seems to be SWE/MLE ironically.",
+            "score": 5,
+            "que": "I would say they mostly do SWE but not really any modelling. Currently it's research scientists and applied scientists that do all the highly technical modelling."
+        },
+        {
+            "id": "io7odvc",
+            "parent": "t1_io7o06d",
+            "ans": "It's a non-profit healthcare-related organization. It's doable if you're productive enough during those few hours. And you're probably not going to rocket up the corporate ladder with this strategy if that's important to you.",
+            "score": 2,
+            "que": "Mind if I ask where you work! I can\u2019t imagine only doing a few hours of work per day. Currently doing 9-10 as a Lead DS"
+        },
+        {
+            "id": "io7j2il",
+            "parent": "t1_io7dwpz",
+            "ans": "Forget a job, you're halfway to a Series A investment pitch there!",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io5f10y",
+            "parent": "t1_io5clf4",
+            "ans": "I'm not sure what your comment has anything to do with what it is replying to.",
+            "score": -1,
+            "que": "Yeah agreed, not sure how my comment contradicts that"
+        },
+        {
+            "id": "io770nw",
+            "parent": "t1_io6q7xn",
+            "ans": "Ok let's say the second one also has contributed significantly to the data strategy of their team (what data to capture/log, necessary specs of tables/pipelines and perhaps writing some of the pipelines, the strategic questions they need to answer, etc) and also drives experimentation (experimental design, enforcing proper statistical/analytical standards, assessing results,etc)... I think that scope is sufficiently beyond  DA work, and is often encompassed by the roles people claim aren't DS here",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io8w7eg",
+            "parent": "t1_io5ihrg",
+            "ans": "you expressed yourself clearly, don't introject the jesting",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io711em",
+            "parent": "t1_io6zhm8",
+            "ans": "You just aren\u2019t going to find a US citizen with actual ML knowledge, who is an experienced programming with modern tools, who has actual experience turning ML concepts in to real products like a pipeline for $120k. \n\nThat\u2019s why FAANG pays people so much, because people with those skills are very difficult to hire and retain.",
+            "score": 21,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io90zhm",
+            "parent": "t1_io8r04y",
+            "ans": "And intermediate analytics data scientist, yes, that\u2019s their range. A machine learning data scientist? No. That\u2019s too low.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "io5t0p6",
+            "parent": "t1_io5f10y",
+            "ans": "https://en.m.wikipedia.org/wiki/Prescriptive_analytics\n\nI think you could benefit from this",
+            "score": 2,
+            "que": "I'm not sure what your comment has anything to do with what it is replying to."
+        },
+        {
+            "id": "io5t2je",
+            "parent": "t1_io5t0p6",
+            "ans": "Desktop version of /u/rehoboam's link: <https://en.wikipedia.org/wiki/Prescriptive_analytics>\n\n --- \n\n ^([)[^(opt out)](https://reddit.com/message/compose?to=WikiMobileLinkBot&message=OptOut&subject=OptOut)^(]) ^(Beep Boop.  Downvote to delete)",
+            "score": 2,
+            "que": "https://en.m.wikipedia.org/wiki/Prescriptive_analytics\n\nI think you could benefit from this"
+        }
+    ]
+}

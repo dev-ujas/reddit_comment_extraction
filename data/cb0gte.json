@@ -1,0 +1,547 @@
+{
+    "title": "The formatting struggle.",
+    "id": "cb0gte",
+    "create_at": 1562676698.0,
+    "score": 1693,
+    "comments": [
+        {
+            "id": "etcivsk",
+            "parent": "t1_etc739i",
+            "ans": "Came to say this. He is wrong. :)",
+            "score": 75,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etcj4ki",
+            "parent": "t1_etc739i",
+            "ans": "You have my sword",
+            "score": 30,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etcx8hm",
+            "parent": "t1_etc739i",
+            "ans": "/r/iso8601masterrace/",
+            "score": 25,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etd3gpi",
+            "parent": "t1_etc739i",
+            "ans": "The only correct way to represent dates/datetimes as strings. God bless you.",
+            "score": 10,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etd9qly",
+            "parent": "t1_etc739i",
+            "ans": "Are you single?",
+            "score": 8,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etc77pi",
+            "parent": "t1_etc739i",
+            "ans": "Expanded Brain : System timestamp fromat",
+            "score": 9,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etd0q1k",
+            "parent": "t1_etc739i",
+            "ans": "We stand united.",
+            "score": 3,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etcno00",
+            "parent": "t1_etc739i",
+            "ans": "Whats the T after the date? Is it just a \"T\" or does it represent something?\n\nAnd whats TZD?",
+            "score": 2,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "eteqsy6",
+            "parent": "t1_etc739i",
+            "ans": "But reading 'ddThh is confusing for the eye! If only there were a space there instead'",
+            "score": 1,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "hxt2nnm",
+            "parent": "t1_etc739i",
+            "ans": "Microseconds from UNIX epoch",
+            "score": 1,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "hyv0zvr",
+            "parent": "t1_etc739i",
+            "ans": "Year first is the only way if you want to sort a list of dates chronologically.",
+            "score": 1,
+            "que": "ISO 8601 - YYYY-MM-DDThh:mm:ss.sTZD\n\nFight me!"
+        },
+        {
+            "id": "etc81po",
+            "parent": "t1_etc6nhj",
+            "ans": "I even like it as YYYYMMDD.",
+            "score": 100,
+            "que": "[deleted]"
+        },
+        {
+            "id": "etc8yth",
+            "parent": "t1_etc6nhj",
+            "ans": "Ddmmyyyy might be more intuitive to read but yyyymmdd has the not insignificant advantage of alphabetical sort = chronological sort.",
+            "score": 33,
+            "que": "[deleted]"
+        },
+        {
+            "id": "etcng3j",
+            "parent": "t1_etcdkgh",
+            "ans": ">I prefer YDMYDMYY\n\nToday is\n\n\n20009719    \nor   \n2019 07 09",
+            "score": 8,
+            "que": "I prefer YDMYDMYY"
+        },
+        {
+            "id": "ete8kgf",
+            "parent": "t1_etcdkgh",
+            "ans": "Some men just want to watch the world burn.",
+            "score": 2,
+            "que": "I prefer YDMYDMYY"
+        },
+        {
+            "id": "etd7hi0",
+            "parent": "t1_etcb79i",
+            "ans": "Which cannot represent leap seconds",
+            "score": 2,
+            "que": "unix timestamp or gtfo"
+        },
+        {
+            "id": "etch3nt",
+            "parent": "t1_etcb79i",
+            "ans": "Seriously. There is only one machine readable perfectly transformable date standard and this is it.",
+            "score": -1,
+            "que": "unix timestamp or gtfo"
+        },
+        {
+            "id": "etrp60s",
+            "parent": "t1_ete507x",
+            "ans": "2019-07-14\n\nHappy Cake Day!",
+            "score": 1,
+            "que": "YYYY-MM-DD"
+        },
+        {
+            "id": "ete9sna",
+            "parent": "t1_etds70c",
+            "ans": "This guy datetimes",
+            "score": 2,
+            "que": "ITT: People who never had to deal with third party data from different time zones.\n\nA datetime is not a datetime before you have it's time zone.\n\nAnd as if that is not enough, there are some countries that turn the clock back an hour during winter."
+        },
+        {
+            "id": "etk0but",
+            "parent": "t1_etds70c",
+            "ans": "That's dumb. Now their winter is an hour longer.",
+            "score": 2,
+            "que": "ITT: People who never had to deal with third party data from different time zones.\n\nA datetime is not a datetime before you have it's time zone.\n\nAnd as if that is not enough, there are some countries that turn the clock back an hour during winter."
+        },
+        {
+            "id": "etc8l0n",
+            "parent": "t1_etc8ce0",
+            "ans": "At a performance cost for large data amount. Take the example of fread() from Data.table in R. \nFast as hell but parses dates as chars. \nI benchmarked the process of importing via read.csv2() with date format vs fread() and seperate date parsing and the fread() was way quicker",
+            "score": 5,
+            "que": "Pandas will read anything in so long as the format is known. It is inconsistent and ambiguous data that requires some detective work."
+        },
+        {
+            "id": "etcdx3a",
+            "parent": "t1_etc9fvd",
+            "ans": "No, it\u2019s a weird format. Most people use the YYYY-MM-DD format as it\u2019s what most of Asia uses.  Plus it\u2019s the easiest to read.",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "etca2tk",
+            "parent": "t1_etc9fvd",
+            "ans": "Only if you would say, eg, \"the ninth of July, 2019\" instead of \"July ninth, 2019\". The latter phrasing is far more common in the US.",
+            "score": -3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "etl7pfr",
+            "parent": "t1_etkd2dk",
+            "ans": "Bro, not everybody in the world speaks English ! \nIn French for example we say \"Le 15 Mars 2019\"\nAnd all French/European systems use the DD-MM-YYYY format.",
+            "score": 2,
+            "que": "MM-DD-YYYY\n\nIt matches the way we say it. March 15th, 2019\n\nWho the fuck says 15th march, 2019?"
+        },
+        {
+            "id": "etcp9b4",
+            "parent": "t1_etcj4ki",
+            "ans": "And my axe body spray",
+            "score": 15,
+            "que": "You have my sword"
+        },
+        {
+            "id": "etdfl5c",
+            "parent": "t1_etcx8hm",
+            "ans": "Wait that's a real subreddit?",
+            "score": 6,
+            "que": "/r/iso8601masterrace/"
+        },
+        {
+            "id": "etdff29",
+            "parent": "t1_etd9qly",
+            "ans": "Depends. Is your ISO 8601 in UTF8?",
+            "score": 11,
+            "que": "Are you single?"
+        },
+        {
+            "id": "etf4ofu",
+            "parent": "t1_etc77pi",
+            "ans": "You can easily convert it to UNIX time, add or subtract 2 timestamps and converting back to get the time difference.\n\nDid this 2 weeks ago to analyse request time in a HAR file.",
+            "score": 2,
+            "que": "Expanded Brain : System timestamp fromat"
+        },
+        {
+            "id": "etcos11",
+            "parent": "t1_etcno00",
+            "ans": "T:\n\n> A single point in time can be represented by concatenating a complete date expression, the letter \"T\" as a delimiter, and a valid time expression.\n\n> 2007-04-05T14:30\n\nTZD:\n\n> If a time zone designator is required, it follows the combined date and time.\n\n> \"2007-04-05T14:30Z\"\n\n> \"2007-04-05T12:30-02:00\"",
+            "score": 7,
+            "que": "Whats the T after the date? Is it just a \"T\" or does it represent something?\n\nAnd whats TZD?"
+        },
+        {
+            "id": "etc8ibr",
+            "parent": "t1_etc81po",
+            "ans": "In string type this is the master date format in my opinion. Easy to parse this out and convert it to any desire format. No dashes slashes or any crap to worry about, string type, and the bigger unit always comes first for quick sorting.",
+            "score": 47,
+            "que": "I even like it as YYYYMMDD."
+        },
+        {
+            "id": "etdhy13",
+            "parent": "t1_etc81po",
+            "ans": "Pig",
+            "score": 2,
+            "que": "I even like it as YYYYMMDD."
+        },
+        {
+            "id": "etch3vq",
+            "parent": "t1_etc81po",
+            "ans": "YTMND",
+            "score": 5,
+            "que": "I even like it as YYYYMMDD."
+        },
+        {
+            "id": "etcaxpy",
+            "parent": "t1_etc8yth",
+            "ans": "it also transitions smoothly into a timestamp:\n\nYYYYMMDDHHMMSS",
+            "score": 27,
+            "que": "Ddmmyyyy might be more intuitive to read but yyyymmdd has the not insignificant advantage of alphabetical sort = chronological sort."
+        },
+        {
+            "id": "etckfrj",
+            "parent": "t1_etc8yth",
+            "ans": "And you just converted me!",
+            "score": 5,
+            "que": "Ddmmyyyy might be more intuitive to read but yyyymmdd has the not insignificant advantage of alphabetical sort = chronological sort."
+        },
+        {
+            "id": "eteflud",
+            "parent": "t1_etd7hi0",
+            "ans": "You don't need leap seconds in Unix. It's just the number of seconds elapsed since the epoch. It's always unambiguous. You only need to consider leap seconds when converting to a format that cares.",
+            "score": 3,
+            "que": "Which cannot represent leap seconds"
+        },
+        {
+            "id": "etct3ll",
+            "parent": "t1_etc8l0n",
+            "ans": "I also find separate date parsing in python faster than specifying a parser besides str for pd.read_csv()",
+            "score": 3,
+            "que": "At a performance cost for large data amount. Take the example of fread() from Data.table in R. \nFast as hell but parses dates as chars. \nI benchmarked the process of importing via read.csv2() with date format vs fread() and seperate date parsing and the fread() was way quicker"
+        },
+        {
+            "id": "etciwim",
+            "parent": "t1_etcdx3a",
+            "ans": "Biggie -> Smalls 4 lyfe",
+            "score": 2,
+            "que": "No, it\u2019s a weird format. Most people use the YYYY-MM-DD format as it\u2019s what most of Asia uses.  Plus it\u2019s the easiest to read."
+        },
+        {
+            "id": "etcl7um",
+            "parent": "t1_etca2tk",
+            "ans": "Do you also say $5 as \"dollars five\"?",
+            "score": 2,
+            "que": "Only if you would say, eg, \"the ninth of July, 2019\" instead of \"July ninth, 2019\". The latter phrasing is far more common in the US."
+        },
+        {
+            "id": "etckua2",
+            "parent": "t1_etca2tk",
+            "ans": "Who cares how you say it, though?",
+            "score": 0,
+            "que": "Only if you would say, eg, \"the ninth of July, 2019\" instead of \"July ninth, 2019\". The latter phrasing is far more common in the US."
+        },
+        {
+            "id": "etcal14",
+            "parent": "t1_etca2tk",
+            "ans": "Sadly yes but the day month year format feels legit",
+            "score": 0,
+            "que": "Only if you would say, eg, \"the ninth of July, 2019\" instead of \"July ninth, 2019\". The latter phrasing is far more common in the US."
+        },
+        {
+            "id": "etnab2u",
+            "parent": "t1_etl7pfr",
+            "ans": "English is the dominant global language of business. As evidenced by the fact that we're on Reddit using english not french.\n\nGG no RE.",
+            "score": 0,
+            "que": "Bro, not everybody in the world speaks English ! \nIn French for example we say \"Le 15 Mars 2019\"\nAnd all French/European systems use the DD-MM-YYYY format."
+        },
+        {
+            "id": "etd6zj4",
+            "parent": "t1_etcp9b4",
+            "ans": "And my bow flex",
+            "score": 6,
+            "que": "And my axe body spray"
+        },
+        {
+            "id": "eteah9f",
+            "parent": "t1_etdff29",
+            "ans": "Also known as ASCII",
+            "score": -1,
+            "que": "Depends. Is your ISO 8601 in UTF8?"
+        },
+        {
+            "id": "etca9y8",
+            "parent": "t1_etc8ibr",
+            "ans": "As a bonus, you can even store it as an integer.",
+            "score": 22,
+            "que": "In string type this is the master date format in my opinion. Easy to parse this out and convert it to any desire format. No dashes slashes or any crap to worry about, string type, and the bigger unit always comes first for quick sorting."
+        },
+        {
+            "id": "etcr2jq",
+            "parent": "t1_etc8ibr",
+            "ans": "Until some dick doesn't 0 pad the numbers, making it yyyymd and stuffs a bunch of these in a huge fucking file you're trying to parse",
+            "score": 8,
+            "que": "In string type this is the master date format in my opinion. Easy to parse this out and convert it to any desire format. No dashes slashes or any crap to worry about, string type, and the bigger unit always comes first for quick sorting."
+        },
+        {
+            "id": "eth4f3d",
+            "parent": "t1_etc8ibr",
+            "ans": "All programming languages, libraries, system utilities, and just about anything you\u2019ll ever use should sort YYYY-MM-DDThh:mm:ss (and similar) exactly the same as YYYYMMDDhhmmss. All dates similar to that - which are considered ISO 8601 dates / datetimes - are naturally lexicographically sortable.\n\nThe only difference between YYYY-MM-DD and YYYYMMDD is the first is way more human-readable, which is why it should always be preferred over the un-delimited one, IMO. Code is for humans to read, not machines. I\u2019d also say it\u2019s much easier to parse out with the delimiters than without. If you\u2019re ever in a situation without native ISO 8601 parsing, you\u2019d probably not prefer looking at 20131113141341 compared to 2013-11-13T14:13:41. You can quickly glance at the latter and immediately understand it. Sure, you\u2019ll obviously still be able to interpret the un-delimited one, but it\u2019s going to take more time. If you\u2019re looking at a ton of dates, that time can add up. I\u2019ve been in debugging situations where I have to look at a bunch of files like:\n\n\n```\n20152115146121.csv\n20131133141341.csv\n20132513262452.csv\n20142141579449.csv\n20122943594418.csv\n20182313179436.csv\n20144163929251.csv\n20191845412338.csv\n20134193144619.csv\n20142921594531.csv\n```\n\ntimes 1000. It\u2019s an eye sore, especially if the task requires you to pay closer attention to the less significant digits than the more significant ones. And if the numbers are in a small font and aren\u2019t displayed with much padding, they can even kind of mentally blend together a little.\n\nWe already have a readable, naturally sortable, standard format most technologists and systems have agreed on since 1988; why not use it?",
+            "score": 5,
+            "que": "In string type this is the master date format in my opinion. Easy to parse this out and convert it to any desire format. No dashes slashes or any crap to worry about, string type, and the bigger unit always comes first for quick sorting."
+        },
+        {
+            "id": "eteamgb",
+            "parent": "t1_etc8ibr",
+            "ans": "It's also the one that's not confusing, @femscie is wrong. Both MM/DD/YYYY (USA) and DD/MM/YYYY (everyone else) are used, but no one uses YYYY-DD-MM.",
+            "score": -1,
+            "que": "In string type this is the master date format in my opinion. Easy to parse this out and convert it to any desire format. No dashes slashes or any crap to worry about, string type, and the bigger unit always comes first for quick sorting."
+        },
+        {
+            "id": "etcjw40",
+            "parent": "t1_etch3vq",
+            "ans": "That's an old reference",
+            "score": 2,
+            "que": "YTMND"
+        },
+        {
+            "id": "etcp9kj",
+            "parent": "t1_etcl7um",
+            "ans": "Nope, and the vast majority of Americans wouldn't either. Your point?",
+            "score": -2,
+            "que": "Do you also say $5 as \"dollars five\"?"
+        },
+        {
+            "id": "etcpcs5",
+            "parent": "t1_etckua2",
+            "ans": "For that matter, who cares how *you* say it?",
+            "score": -1,
+            "que": "Who cares how you say it, though?"
+        },
+        {
+            "id": "etcar0t",
+            "parent": "t1_etcal14",
+            "ans": "...to you, perhaps. `MM-dd-yyyy` feels just as legit to me. However, `yyyy-MM-dd` is the superior date format.",
+            "score": 8,
+            "que": "Sadly yes but the day month year format feels legit"
+        },
+        {
+            "id": "etdmv31",
+            "parent": "t1_etd6zj4",
+            "ans": "And my footrest (proper posture is no joke).",
+            "score": 6,
+            "que": "And my bow flex"
+        },
+        {
+            "id": "eth3qk6",
+            "parent": "t1_eteah9f",
+            "ans": "UTF-8 is effectively a superset of ASCII, but it isn\u2019t ASCII.",
+            "score": 1,
+            "que": "Also known as ASCII"
+        },
+        {
+            "id": "etcfetd",
+            "parent": "t1_etca9y8",
+            "ans": "Just don't increment it..",
+            "score": 15,
+            "que": "As a bonus, you can even store it as an integer."
+        },
+        {
+            "id": "etcac8g",
+            "parent": "t1_etca9y8",
+            "ans": "And integers are lower memory right?",
+            "score": 4,
+            "que": "As a bonus, you can even store it as an integer."
+        },
+        {
+            "id": "etcr6n0",
+            "parent": "t1_etcr2jq",
+            "ans": "Luckily 0 padding the month and day values is input controllable for my use cases.",
+            "score": 1,
+            "que": "Until some dick doesn't 0 pad the numbers, making it yyyymd and stuffs a bunch of these in a huge fucking file you're trying to parse"
+        },
+        {
+            "id": "etjc2gv",
+            "parent": "t1_eth4f3d",
+            "ans": "You pose great points and have convinced me the delimited version is better.\n\nDoesn't change the fact our enterprise uses the non delimited format for fiscal dates :/",
+            "score": 2,
+            "que": "All programming languages, libraries, system utilities, and just about anything you\u2019ll ever use should sort YYYY-MM-DDThh:mm:ss (and similar) exactly the same as YYYYMMDDhhmmss. All dates similar to that - which are considered ISO 8601 dates / datetimes - are naturally lexicographically sortable.\n\nThe only difference between YYYY-MM-DD and YYYYMMDD is the first is way more human-readable, which is why it should always be preferred over the un-delimited one, IMO. Code is for humans to read, not machines. I\u2019d also say it\u2019s much easier to parse out with the delimiters than without. If you\u2019re ever in a situation without native ISO 8601 parsing, you\u2019d probably not prefer looking at 20131113141341 compared to 2013-11-13T14:13:41. You can quickly glance at the latter and immediately understand it. Sure, you\u2019ll obviously still be able to interpret the un-delimited one, but it\u2019s going to take more time. If you\u2019re looking at a ton of dates, that time can add up. I\u2019ve been in debugging situations where I have to look at a bunch of files like:\n\n\n```\n20152115146121.csv\n20131133141341.csv\n20132513262452.csv\n20142141579449.csv\n20122943594418.csv\n20182313179436.csv\n20144163929251.csv\n20191845412338.csv\n20134193144619.csv\n20142921594531.csv\n```\n\ntimes 1000. It\u2019s an eye sore, especially if the task requires you to pay closer attention to the less significant digits than the more significant ones. And if the numbers are in a small font and aren\u2019t displayed with much padding, they can even kind of mentally blend together a little.\n\nWe already have a readable, naturally sortable, standard format most technologists and systems have agreed on since 1988; why not use it?"
+        },
+        {
+            "id": "f9wboxb",
+            "parent": "t1_eth4f3d",
+            "ans": "> naturally lexicographically sortable\n\nThis is a huge plus.",
+            "score": 1,
+            "que": "All programming languages, libraries, system utilities, and just about anything you\u2019ll ever use should sort YYYY-MM-DDThh:mm:ss (and similar) exactly the same as YYYYMMDDhhmmss. All dates similar to that - which are considered ISO 8601 dates / datetimes - are naturally lexicographically sortable.\n\nThe only difference between YYYY-MM-DD and YYYYMMDD is the first is way more human-readable, which is why it should always be preferred over the un-delimited one, IMO. Code is for humans to read, not machines. I\u2019d also say it\u2019s much easier to parse out with the delimiters than without. If you\u2019re ever in a situation without native ISO 8601 parsing, you\u2019d probably not prefer looking at 20131113141341 compared to 2013-11-13T14:13:41. You can quickly glance at the latter and immediately understand it. Sure, you\u2019ll obviously still be able to interpret the un-delimited one, but it\u2019s going to take more time. If you\u2019re looking at a ton of dates, that time can add up. I\u2019ve been in debugging situations where I have to look at a bunch of files like:\n\n\n```\n20152115146121.csv\n20131133141341.csv\n20132513262452.csv\n20142141579449.csv\n20122943594418.csv\n20182313179436.csv\n20144163929251.csv\n20191845412338.csv\n20134193144619.csv\n20142921594531.csv\n```\n\ntimes 1000. It\u2019s an eye sore, especially if the task requires you to pay closer attention to the less significant digits than the more significant ones. And if the numbers are in a small font and aren\u2019t displayed with much padding, they can even kind of mentally blend together a little.\n\nWe already have a readable, naturally sortable, standard format most technologists and systems have agreed on since 1988; why not use it?"
+        },
+        {
+            "id": "eteapdm",
+            "parent": "t1_eteamgb",
+            "ans": "I think I speak for the planet when we say that format blows",
+            "score": 1,
+            "que": "It's also the one that's not confusing, @femscie is wrong. Both MM/DD/YYYY (USA) and DD/MM/YYYY (everyone else) are used, but no one uses YYYY-DD-MM."
+        },
+        {
+            "id": "etcpn74",
+            "parent": "t1_etcp9kj",
+            "ans": "My point is that the way a formatted number is written (like a date/time or dollar amount) is irrelevant to the way it's pronounced, obviously.",
+            "score": 3,
+            "que": "Nope, and the vast majority of Americans wouldn't either. Your point?"
+        },
+        {
+            "id": "etcpfl2",
+            "parent": "t1_etcpcs5",
+            "ans": "?\n\nThe point is that the date format and the way it's spoken aloud don't really need to be the same.",
+            "score": 1,
+            "que": "For that matter, who cares how *you* say it?"
+        },
+        {
+            "id": "etcbe7d",
+            "parent": "t1_etcar0t",
+            "ans": "Genuine question why superior",
+            "score": 1,
+            "que": "...to you, perhaps. `MM-dd-yyyy` feels just as legit to me. However, `yyyy-MM-dd` is the superior date format."
+        },
+        {
+            "id": "etha9fq",
+            "parent": "t1_eth3qk6",
+            "ans": "ISO 8601 only uses ASCII characters, so calling it UTF-8 is technically correct but misguiding. You can also call it Markdown.",
+            "score": 2,
+            "que": "UTF-8 is effectively a superset of ASCII, but it isn\u2019t ASCII."
+        },
+        {
+            "id": "etcgijw",
+            "parent": "t1_etcfetd",
+            "ans": "Yeah, that's really about the only caveat to storing dates that way. It's easy enough to write a function or wrapper around whatever date class you're using that does the incrementing correctly.",
+            "score": 1,
+            "que": "Just don't increment it.."
+        },
+        {
+            "id": "etcagwy",
+            "parent": "t1_etcac8g",
+            "ans": "Yeah, an eight character string takes eight bytes (assuming we're not using a weird encoding like UTF-16) whereas a 32 bit integer only takes up four bytes. Also, integer comparisons are generally quicker than string comparisons.",
+            "score": 12,
+            "que": "And integers are lower memory right?"
+        },
+        {
+            "id": "etcqzhh",
+            "parent": "t1_etcpn74",
+            "ans": "Depends on whether, eg, the dollars are US, Canadian, etc. :)",
+            "score": 0,
+            "que": "My point is that the way a formatted number is written (like a date/time or dollar amount) is irrelevant to the way it's pronounced, obviously."
+        },
+        {
+            "id": "etcpibx",
+            "parent": "t1_etcpfl2",
+            "ans": "Yes, hence the yyyy-mm-dd format. Again, do you have a point?",
+            "score": -1,
+            "que": "?\n\nThe point is that the date format and the way it's spoken aloud don't really need to be the same."
+        },
+        {
+            "id": "etcblxt",
+            "parent": "t1_etcbe7d",
+            "ans": "Never ambiguous, sorting order is the string order and chronological order at the same time. You got the \"most significant\" numbers on the left always. You can add a timestamp at the end easily and keep this property. ISO standard 8601 is the more formal way to do this format, but for day-to-day stuff I use YYYY-MM-DD hh:mm:ss or a left substring, depending on the accuracy I need. Even in real life. Saves on ambiguity and thinking time. ;)",
+            "score": 13,
+            "que": "Genuine question why superior"
+        },
+        {
+            "id": "etigus1",
+            "parent": "t1_etcgijw",
+            "ans": "But ... Why?",
+            "score": 1,
+            "que": "Yeah, that's really about the only caveat to storing dates that way. It's easy enough to write a function or wrapper around whatever date class you're using that does the incrementing correctly."
+        },
+        {
+            "id": "etcyqjl",
+            "parent": "t1_etcqzhh",
+            "ans": "But that's exactly my point. The fact that how formatted numbers are written vs spoken matches up in some languages but not in others is proof that in general the two are independent of each other. Therefore, the way we say dates aloud shouldn't dictate how we write timestamps.",
+            "score": 0,
+            "que": "Depends on whether, eg, the dollars are US, Canadian, etc. :)"
+        },
+        {
+            "id": "etcq625",
+            "parent": "t1_etcpibx",
+            "ans": "What in the fuck is going on. The comment to which I replied - your comment - says that dd-mm-yyyy makes no sense because it isn't aligned with what's spoken aloud. My point has been made several times, you're just an idiot. \n\nI've literally never seen someone so worked up about something so trivial, go drink a Monster and chill out, Kyle. It's not a big deal.",
+            "score": 1,
+            "que": "Yes, hence the yyyy-mm-dd format. Again, do you have a point?"
+        },
+        {
+            "id": "etccw2m",
+            "parent": "t1_etcblxt",
+            "ans": "Thanks fo the schooling",
+            "score": 2,
+            "que": "Never ambiguous, sorting order is the string order and chronological order at the same time. You got the \"most significant\" numbers on the left always. You can add a timestamp at the end easily and keep this property. ISO standard 8601 is the more formal way to do this format, but for day-to-day stuff I use YYYY-MM-DD hh:mm:ss or a left substring, depending on the accuracy I need. Even in real life. Saves on ambiguity and thinking time. ;)"
+        },
+        {
+            "id": "etcr1ks",
+            "parent": "t1_etcq625",
+            "ans": "> My point has been made several times, you're just an idiot.\n\nAaaand there's a report for targeted harassment.\n\n> I've literally never seen someone so worked up about something so trivial\n\nLOL it's amusing that you think I'm \"worked up\" over this.",
+            "score": -1,
+            "que": "What in the fuck is going on. The comment to which I replied - your comment - says that dd-mm-yyyy makes no sense because it isn't aligned with what's spoken aloud. My point has been made several times, you're just an idiot. \n\nI've literally never seen someone so worked up about something so trivial, go drink a Monster and chill out, Kyle. It's not a big deal."
+        },
+        {
+            "id": "etcrogt",
+            "parent": "t1_etcr1ks",
+            "ans": "\"I'm not worked up, but I am reporting you, because I feel victimized\"",
+            "score": 1,
+            "que": "> My point has been made several times, you're just an idiot.\n\nAaaand there's a report for targeted harassment.\n\n> I've literally never seen someone so worked up about something so trivial\n\nLOL it's amusing that you think I'm \"worked up\" over this."
+        },
+        {
+            "id": "etcrwgb",
+            "parent": "t1_etcrogt",
+            "ans": "LOL And there you go again assuming that I feel a certain way. If you can read my mind, then tell me the number that I'm thinking of. Hint: It's between one and one billion.",
+            "score": -1,
+            "que": "\"I'm not worked up, but I am reporting you, because I feel victimized\""
+        },
+        {
+            "id": "etcsjid",
+            "parent": "t1_etcrwgb",
+            "ans": "You either feel that way or it's a false report, dingus.",
+            "score": 0,
+            "que": "LOL And there you go again assuming that I feel a certain way. If you can read my mind, then tell me the number that I'm thinking of. Hint: It's between one and one billion."
+        },
+        {
+            "id": "etcsnkk",
+            "parent": "t1_etcsjid",
+            "ans": "What's \"false\" about the report?",
+            "score": 0,
+            "que": "You either feel that way or it's a false report, dingus."
+        }
+    ]
+}

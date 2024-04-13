@@ -1,0 +1,561 @@
+{
+    "title": "Imposter Detected",
+    "id": "vwlmoo",
+    "create_at": 1657554677.0,
+    "score": 2573,
+    "comments": [
+        {
+            "id": "ifrmth0",
+            "parent": "t1_ifqhkwu",
+            "ans": "Whereas I, a true data scientist have mastered both .fit() and .predict(). Among the initiated, these are colloquially referred to as the data science \u201cmethods.\u201d \n\nIt\u2019s super advanced stuff. I\u2019m not even supposed to be talking about it. In fact, my manager told me I shouldn\u2019t ever try to talk in meetings.",
+            "score": 250,
+            "que": "This is me. I am a \"Data Scientist\" that has only built a handful of linear/logistic regression models that have never gotten used. I mostly use SQL, Tableau, and Python for data cleaning.\n\nNot that I am complaining, but if I ever talk to another business or individual that does do true Data Science work, it feels like this."
+        },
+        {
+            "id": "ifr1xof",
+            "parent": "t1_ifqhkwu",
+            "ans": "[deleted]",
+            "score": 38,
+            "que": "This is me. I am a \"Data Scientist\" that has only built a handful of linear/logistic regression models that have never gotten used. I mostly use SQL, Tableau, and Python for data cleaning.\n\nNot that I am complaining, but if I ever talk to another business or individual that does do true Data Science work, it feels like this."
+        },
+        {
+            "id": "ifsz2ex",
+            "parent": "t1_ifqhkwu",
+            "ans": "You sound like a straight-shooter with upper-management written all over you.",
+            "score": 15,
+            "que": "This is me. I am a \"Data Scientist\" that has only built a handful of linear/logistic regression models that have never gotten used. I mostly use SQL, Tableau, and Python for data cleaning.\n\nNot that I am complaining, but if I ever talk to another business or individual that does do true Data Science work, it feels like this."
+        },
+        {
+            "id": "ifqlt18",
+            "parent": "t1_ifqhkwu",
+            "ans": "have your linear/logistics regressions cut spending or increased earnings? because then I would think you're golden.",
+            "score": 37,
+            "que": "This is me. I am a \"Data Scientist\" that has only built a handful of linear/logistic regression models that have never gotten used. I mostly use SQL, Tableau, and Python for data cleaning.\n\nNot that I am complaining, but if I ever talk to another business or individual that does do true Data Science work, it feels like this."
+        },
+        {
+            "id": "ifuh43u",
+            "parent": "t1_ifqhkwu",
+            "ans": "Then change your title to \"data engineer\" and wear it proudly ;)",
+            "score": 1,
+            "que": "This is me. I am a \"Data Scientist\" that has only built a handful of linear/logistic regression models that have never gotten used. I mostly use SQL, Tableau, and Python for data cleaning.\n\nNot that I am complaining, but if I ever talk to another business or individual that does do true Data Science work, it feels like this."
+        },
+        {
+            "id": "iigzh4t",
+            "parent": "t1_ifqhkwu",
+            "ans": "Really curious what your TC is - obv not asking you to share. At my company they are very specific with the distinction here. The fit predict people absolutely make more money than the tableau sql people.",
+            "score": 1,
+            "que": "This is me. I am a \"Data Scientist\" that has only built a handful of linear/logistic regression models that have never gotten used. I mostly use SQL, Tableau, and Python for data cleaning.\n\nNot that I am complaining, but if I ever talk to another business or individual that does do true Data Science work, it feels like this."
+        },
+        {
+            "id": "ifqvclj",
+            "parent": "t1_ifqqadz",
+            "ans": "As this hits so close to my reality let me add to the last point:\n\nAnd even if you try to show something more advanced/useful/ecc they ignore/reject it because they feels the implementation is too much of a hassle compared to what they would gain.\n\nBonus point if it was something they thought they were implementing but they were doing it all wrong",
+            "score": 45,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifsenmx",
+            "parent": "t1_ifqqadz",
+            "ans": "My government job in a nutshell (Federal, USA). They hired a dream team of qualified people (including myself) but everyone on the team is effectively a glorified business analyst.",
+            "score": 16,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifrvnia",
+            "parent": "t1_ifqqadz",
+            "ans": "You\u2019ve just described my situation quite well. I am a \u2018data scientist\u2019 at a large European pharmaceutical company. Kinda relieved to hear this may be a common experience tbh",
+            "score": 8,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifto5h4",
+            "parent": "t1_ifqqadz",
+            "ans": "Currently checking the jobmarket, and yess either they want an \"Datascientist\" and the description reads like\" yeah you better do the architecture, engineering, Automation, transforming and the analysis\" or \"pls know powerbi and maybe if you know some sql that would be a plus\"",
+            "score": 9,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifr649x",
+            "parent": "t1_ifqqadz",
+            "ans": "I can with all honesty say that my starter job in the company i work was said to be \"Data Science Operator\" or something like that, but I've did next to nothing that's said on this sub and i've REALLY felt like impostor, lol.\n\nNo programming, mostly excel or weird, local programs that took some sweet time to get to know them.",
+            "score": 14,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ift7m8r",
+            "parent": "t1_ifqqadz",
+            "ans": "That\u2019s not just Europe. You just described my current American employer so dead on target it\u2019s scary. My biggest impediment to making real progress is that upper management can\u2019t understand or remember from day-to-day what it is I said yesterday. Everyone wants instant miracles with zero work, minimal involvement and post-covid budgets",
+            "score": 5,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifsxwbd",
+            "parent": "t1_ifqqadz",
+            "ans": "Fuck this described my last two jobs so cleanly and it's why I exited the career path. I was stagnating bad.",
+            "score": 3,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ig14rmv",
+            "parent": "t1_ifqqadz",
+            "ans": "Live in the US and work for the US branch of a German company, with a masters in econ that was very stats-heavy. Ouch this hits close to home. I spend my time studying DE and MLOps for the next gig in hopes that I can finally use Python or R again. 0 software or data engineers, and their SQL database isn't maintained. Going through all the expense of getting consultants to set up Snowflake but only as a way to get data between SAP implementations.",
+            "score": 3,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifucsbo",
+            "parent": "t1_ifqqadz",
+            "ans": "I am Europe based too. And I see the economies here suffering from poor productivity growth. And then my bosses constantly refuse to try anything new because it\u2019s not what has always been done. Even while they say things like \u201cusing data is critical to our future.\u201d With this mentality productivity cannot increase.",
+            "score": 2,
+            "que": "I would say that a solid 60% of \"data science\" jobs in Europe are exactly that, or even worse. Most DS I know are basically smart people with decent ML and stats knowledge, trapped in a dinosaur company acting more like business analysts that anything else, because the company does not know otherwise"
+        },
+        {
+            "id": "ifrlwy0",
+            "parent": "t1_ifrjzfp",
+            "ans": "LMAO",
+            "score": 11,
+            "que": "All I know is import Pandas as PD and lie"
+        },
+        {
+            "id": "ifsgka1",
+            "parent": "t1_ifrjzfp",
+            "ans": "I'm Monte Carlo all the way down ....",
+            "score": 4,
+            "que": "All I know is import Pandas as PD and lie"
+        },
+        {
+            "id": "ifrv5ns",
+            "parent": "t1_ifrkerj",
+            "ans": "This made me giggle.",
+            "score": 5,
+            "que": ">Data Scientologist"
+        },
+        {
+            "id": "iftlu2k",
+            "parent": "t1_ifrkerj",
+            "ans": "I knew SQL would become a cult some day",
+            "score": 1,
+            "que": ">Data Scientologist"
+        },
+        {
+            "id": "igfz98s",
+            "parent": "t1_ifqtsap",
+            "ans": "Bruh same. It\u2019s awful. Im actually tired of doing nothing everyday. I\u2019m not learning. Idk how people can take some gov jobs seriously. My biggest mistake to date was taking a gov job out of college. This is no way to grow.",
+            "score": 3,
+            "que": "My current role in the goverement I only use excel...I use python alittle here and there but it's been mostly been me studying to get the hell outta here...\\*sigh\\*\n\nI am paid well but like many other posters these types of positions have a very hard pay cap comapred to if you are actually doing real research. My goal is to get into fang and make those big bucks haha."
+        },
+        {
+            "id": "iftc1q2",
+            "parent": "t1_ifqtsap",
+            "ans": "Ditto!",
+            "score": 1,
+            "que": "My current role in the goverement I only use excel...I use python alittle here and there but it's been mostly been me studying to get the hell outta here...\\*sigh\\*\n\nI am paid well but like many other posters these types of positions have a very hard pay cap comapred to if you are actually doing real research. My goal is to get into fang and make those big bucks haha."
+        },
+        {
+            "id": "iglgqxr",
+            "parent": "t1_ifqtsap",
+            "ans": "What is your pay if you don\u2019t mind me asking? I wonder how governments pay compared to private",
+            "score": 1,
+            "que": "My current role in the goverement I only use excel...I use python alittle here and there but it's been mostly been me studying to get the hell outta here...\\*sigh\\*\n\nI am paid well but like many other posters these types of positions have a very hard pay cap comapred to if you are actually doing real research. My goal is to get into fang and make those big bucks haha."
+        },
+        {
+            "id": "ift8yty",
+            "parent": "t1_ifqj9iz",
+            "ans": "Dataviz. Let us observe a moment of silence for our stricken colleague.",
+            "score": 4,
+            "que": "My last internship I did dataviz with metabase and SQL views instead of deep learning... I feel you buddy"
+        },
+        {
+            "id": "ifr6yuj",
+            "parent": "t1_ifr15d7",
+            "ans": "I have a counter argument, a company\u2019s toolset shows their attitude towards innovation, creativity and willingness to take risks.\n\nExcel is like a hammer, it works and it works well. Python is like a drill, not only does it work well but it\u2019s 10x more effective for most projects. If I\u2019m building a house I\u2019m going to opt for a drill. Excel is a valuable spreadsheet software, but that\u2019s all it is, it doesn\u2019t provide the capabilities to do modern data science.\n\nSource: data \u201cscientist\u201d that works with large amounts of very important data and primarily use Excel",
+            "score": 13,
+            "que": "Focusing on tools and programming languages is a bit amateur hour in my honest opinion. Businesses hire data people to help them understand the past, understand the present, and maybe try to predict the future kinda all around their business needs & goals.\n\nIf SQL and Tableau are what's needed at your organization to drive decision making using data, then lean into those tools! Other places may use Python or, god forbid, C. \n\nWhat matters more is -- are you working on high impact problems that affect the business?\n\nThis can be generalized to nonprofits as well. Is your work helping to drive outcomes that the leadership team cares about? If not, you should be concerned even if you're doing awesome neural networks programming but aren't able to explain your connection to the business, product, etc.\n\nBtw Vin's Substack and LinkedIn are great resources for people looking to understand data + business impact: https://vinvashishta.substack.com/"
+        },
+        {
+            "id": "ifqvpaf",
+            "parent": "t1_ifqmefl",
+            "ans": ">work toward working for myself and not rely on ONE single source of income.  \n  \n>  \n>have much more fun in my 20s\r  \n\r\n\nHow do you have fun but also have more than one source of income?",
+            "score": 22,
+            "que": "[removed]"
+        },
+        {
+            "id": "ifqmupc",
+            "parent": "t1_ifqmefl",
+            "ans": "[deleted]",
+            "score": 4,
+            "que": "[removed]"
+        },
+        {
+            "id": "ifsudtb",
+            "parent": "t1_ifqmefl",
+            "ans": "Yup pay check is checked that is good. Keep your skills updated by working in other related jobs or start business.",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "ifrtwpe",
+            "parent": "t1_ifronb1",
+            "ans": "Data Analyst",
+            "score": 7,
+            "que": "My title is data analyst, but i am configuring reporting automation using r studio and google sheet. What am I?"
+        },
+        {
+            "id": "ifr25d3",
+            "parent": "t1_ifr1ud3",
+            "ans": "PBI user detected. ;)",
+            "score": 13,
+            "que": "\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21 Tableau \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21"
+        },
+        {
+            "id": "igqzj0k",
+            "parent": "t1_ifsxvv2",
+            "ans": "> I've been the guy who sets up a new data science team\n\nMind if I send you a DM about this? I've sort of been tasked with this in my job and have a few questions.",
+            "score": 1,
+            "que": "I think companies want to hire a data scientist to say they have one, but aren't sure what to do with us. Most of my career I've been the guy who sets up a new data science team, so its mostly data architecture and data engineering."
+        },
+        {
+            "id": "ifsborz",
+            "parent": "t1_ifrmth0",
+            "ans": "As someone that used fit_transform a couple of time, I cannot help but feel immensely superior. Plus I can write my name without looking at the keyboard, which is, imho, one of the greatest skill a data scientist can master.",
+            "score": 100,
+            "que": "Whereas I, a true data scientist have mastered both .fit() and .predict(). Among the initiated, these are colloquially referred to as the data science \u201cmethods.\u201d \n\nIt\u2019s super advanced stuff. I\u2019m not even supposed to be talking about it. In fact, my manager told me I shouldn\u2019t ever try to talk in meetings."
+        },
+        {
+            "id": "ift8dqn",
+            "parent": "t1_ifrmth0",
+            "ans": "This. The advanced stuff is easily automated. Even if you do it, you don\u2019t do it for long. SQL, data cleaning and simple analysis usually bring more value to analytics teams.",
+            "score": 16,
+            "que": "Whereas I, a true data scientist have mastered both .fit() and .predict(). Among the initiated, these are colloquially referred to as the data science \u201cmethods.\u201d \n\nIt\u2019s super advanced stuff. I\u2019m not even supposed to be talking about it. In fact, my manager told me I shouldn\u2019t ever try to talk in meetings."
+        },
+        {
+            "id": "ift5y8v",
+            "parent": "t1_ifrmth0",
+            "ans": "You\u2019re not supposed to know about it.  You shouldn\u2019t even talk about it on Reddit.  Wait\u2026 Reddit is the place where almost everyone talks about things they know nothing about, so never mind. Go ahead. I\u2019m all ears.",
+            "score": 2,
+            "que": "Whereas I, a true data scientist have mastered both .fit() and .predict(). Among the initiated, these are colloquially referred to as the data science \u201cmethods.\u201d \n\nIt\u2019s super advanced stuff. I\u2019m not even supposed to be talking about it. In fact, my manager told me I shouldn\u2019t ever try to talk in meetings."
+        },
+        {
+            "id": "ifufxxw",
+            "parent": "t1_ifrmth0",
+            "ans": "Hehe, \"methods\", I see what you did there.",
+            "score": 2,
+            "que": "Whereas I, a true data scientist have mastered both .fit() and .predict(). Among the initiated, these are colloquially referred to as the data science \u201cmethods.\u201d \n\nIt\u2019s super advanced stuff. I\u2019m not even supposed to be talking about it. In fact, my manager told me I shouldn\u2019t ever try to talk in meetings."
+        },
+        {
+            "id": "ifuodnc",
+            "parent": "t1_ifrmth0",
+            "ans": "Lmao!",
+            "score": 1,
+            "que": "Whereas I, a true data scientist have mastered both .fit() and .predict(). Among the initiated, these are colloquially referred to as the data science \u201cmethods.\u201d \n\nIt\u2019s super advanced stuff. I\u2019m not even supposed to be talking about it. In fact, my manager told me I shouldn\u2019t ever try to talk in meetings."
+        },
+        {
+            "id": "ifr2hr4",
+            "parent": "t1_ifr1xof",
+            "ans": "I was originally interviewed for a Data Analyst position and that's what I accepted. They had the need for some automation and regression modeling, so I studied up and took a stab at it.\n\nThey changed my title to \"Data Scientist\" because I have built a few models and use Python for some automation. I am mainly in SQL + Tableau\n\nEDIT: To answer your question more - I had a 10 question SQL + 10 question Tableau technical portion, then the rest were behavioral interview questions.",
+            "score": 68,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ift6p7q",
+            "parent": "t1_ifsz2ex",
+            "ans": "Man, I can\u2019t believe I\u2019m the first one to upvote this. Long live Mike Judge!",
+            "score": 4,
+            "que": "You sound like a straight-shooter with upper-management written all over you."
+        },
+        {
+            "id": "ifqm0ob",
+            "parent": "t1_ifqlt18",
+            "ans": "Unfortunately, no. They have brought up interesting results but their has been no reasonable action taken from them.",
+            "score": 45,
+            "que": "have your linear/logistics regressions cut spending or increased earnings? because then I would think you're golden."
+        },
+        {
+            "id": "ifuhjbu",
+            "parent": "t1_ifsenmx",
+            "ans": "I feel your pain...",
+            "score": 1,
+            "que": "My government job in a nutshell (Federal, USA). They hired a dream team of qualified people (including myself) but everyone on the team is effectively a glorified business analyst."
+        },
+        {
+            "id": "ifsmizs",
+            "parent": "t1_ifrvnia",
+            "ans": "Pretty common in pharma and generics businesses. I used to work at one of those and it was the most boring job in the world",
+            "score": 3,
+            "que": "You\u2019ve just described my situation quite well. I am a \u2018data scientist\u2019 at a large European pharmaceutical company. Kinda relieved to hear this may be a common experience tbh"
+        },
+        {
+            "id": "ig1gmhj",
+            "parent": "t1_ig14rmv",
+            "ans": "Snowflake is actually a pretty neat database and MPP. But I hear you, it is usually managed by externals with zero idea on what they are doing. The lack of ownership on data and their processes in data science/engineering teams is a common anti-pattern in Europe unfortunately.\n\nMost places where a data driven approach actually works share some points in common:\n\n- Modern company culture, with real support from top management\n- Solid internal data teams that are able to control most of their workflow and end to end process\n- Failure is an option, as long as risks are properly measured\n\nFix those in a company, and data science has a chance of improving the business. Otherwise, there is not much to do",
+            "score": 3,
+            "que": "Live in the US and work for the US branch of a German company, with a masters in econ that was very stats-heavy. Ouch this hits close to home. I spend my time studying DE and MLOps for the next gig in hopes that I can finally use Python or R again. 0 software or data engineers, and their SQL database isn't maintained. Going through all the expense of getting consultants to set up Snowflake but only as a way to get data between SAP implementations."
+        },
+        {
+            "id": "iggpk01",
+            "parent": "t1_igfz98s",
+            "ans": "Being in the goverement is literally like standing in quicksand. The longer you stay in the harder it is to get out. Plus it is stagnant..I have told myself if I don't find anything in the next 2 months I'll start on my ph.d just to open up doors for me again. I am more interested in research type roles, so getting a ph.d maybe better for that anyway. In the meantime I am just leetcoding and praciting model building using kaggle data. \n\nI have gotten some good feedback on what I need to work on from my interviews thus far...just eh..gotta keep grinding to get out...if the economy wasn't so bad I would've just quit by now...still tempted to do so.",
+            "score": 6,
+            "que": "Bruh same. It\u2019s awful. Im actually tired of doing nothing everyday. I\u2019m not learning. Idk how people can take some gov jobs seriously. My biggest mistake to date was taking a gov job out of college. This is no way to grow."
+        },
+        {
+            "id": "iglq26b",
+            "parent": "t1_iglgqxr",
+            "ans": "I am at 111k. \n\n[https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2022/saltbl.pdf](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2022/saltbl.pdf)\n\nThe max yo ucan get in the gov under the \"GS\" schedule is right around 176k. \n\nCompared to FANG and other top places my peers with the same amount of experience are making 170-300k  +. I coworker of mine her son is at microsoft..guy is like 22 making 200k >\\_>.",
+            "score": 2,
+            "que": "What is your pay if you don\u2019t mind me asking? I wonder how governments pay compared to private"
+        },
+        {
+            "id": "ifui4yo",
+            "parent": "t1_ift8yty",
+            "ans": ".... I....I actually enjoy dataviz. And I think people seriously under appreciate how important it is. If your stuff looks nice, you can get away with murder.",
+            "score": 3,
+            "que": "Dataviz. Let us observe a moment of silence for our stricken colleague."
+        },
+        {
+            "id": "ifr7huy",
+            "parent": "t1_ifr6yuj",
+            "ans": "Oh for sure, I don't disagree. Excel and C are both extreme opposites. Most orgs are in the middle that want to hire a Data Engineer, Data Scientist, etc.\n\nBut at Facebook / Meta, for example, SQL still dominates as the tool of choice for their data science teams and arguably their entire business is more or less a giant data problem. So SQL and Tableau there would still be very very high value.",
+            "score": 9,
+            "que": "I have a counter argument, a company\u2019s toolset shows their attitude towards innovation, creativity and willingness to take risks.\n\nExcel is like a hammer, it works and it works well. Python is like a drill, not only does it work well but it\u2019s 10x more effective for most projects. If I\u2019m building a house I\u2019m going to opt for a drill. Excel is a valuable spreadsheet software, but that\u2019s all it is, it doesn\u2019t provide the capabilities to do modern data science.\n\nSource: data \u201cscientist\u201d that works with large amounts of very important data and primarily use Excel"
+        },
+        {
+            "id": "ifqy82b",
+            "parent": "t1_ifqvpaf",
+            "ans": "Onlyfans?",
+            "score": 38,
+            "que": ">work toward working for myself and not rely on ONE single source of income.  \n  \n>  \n>have much more fun in my 20s\r  \n\r\n\nHow do you have fun but also have more than one source of income?"
+        },
+        {
+            "id": "ifra3u0",
+            "parent": "t1_ifqvpaf",
+            "ans": "[removed]",
+            "score": 1,
+            "que": ">work toward working for myself and not rely on ONE single source of income.  \n  \n>  \n>have much more fun in my 20s\r  \n\r\n\nHow do you have fun but also have more than one source of income?"
+        },
+        {
+            "id": "ifsszof",
+            "parent": "t1_ifqmupc",
+            "ans": "happy birthday!",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ifrf7gi",
+            "parent": "t1_ifr25d3",
+            "ans": "Hahahah I have to work with PBI and definitely like it better than Tableau so you're right about that. But my absolute preference is in Python native visualisation tools like Matplotlib, Seaborn & Bokeh. Working with that in Ipynb is the best. PBI supports more extensive database connections, odbc is amazing for instance. This is also possible in Jupyter notebooks but is a hassle. I digress xddd",
+            "score": -2,
+            "que": "PBI user detected. ;)"
+        },
+        {
+            "id": "ift8auu",
+            "parent": "t1_ifsborz",
+            "ans": "Like...with a pencil?",
+            "score": 27,
+            "que": "As someone that used fit_transform a couple of time, I cannot help but feel immensely superior. Plus I can write my name without looking at the keyboard, which is, imho, one of the greatest skill a data scientist can master."
+        },
+        {
+            "id": "iftvx0q",
+            "parent": "t1_ifsborz",
+            "ans": "This makes me feel better haha\u2019",
+            "score": 6,
+            "que": "As someone that used fit_transform a couple of time, I cannot help but feel immensely superior. Plus I can write my name without looking at the keyboard, which is, imho, one of the greatest skill a data scientist can master."
+        },
+        {
+            "id": "ifuy77h",
+            "parent": "t1_ifsborz",
+            "ans": "I have also used predict_proba and fit_resample \ud83c\udfa9",
+            "score": 3,
+            "que": "As someone that used fit_transform a couple of time, I cannot help but feel immensely superior. Plus I can write my name without looking at the keyboard, which is, imho, one of the greatest skill a data scientist can master."
+        },
+        {
+            "id": "iftekle",
+            "parent": "t1_ift5y8v",
+            "ans": "All I'm gonna say is r/dataisbeautiful",
+            "score": 1,
+            "que": "You\u2019re not supposed to know about it.  You shouldn\u2019t even talk about it on Reddit.  Wait\u2026 Reddit is the place where almost everyone talks about things they know nothing about, so never mind. Go ahead. I\u2019m all ears."
+        },
+        {
+            "id": "ifrm801",
+            "parent": "t1_ifr2hr4",
+            "ans": "SQL is well documented, but I'm curious, what did they ask you when it comes to Tableau?",
+            "score": 13,
+            "que": "I was originally interviewed for a Data Analyst position and that's what I accepted. They had the need for some automation and regression modeling, so I studied up and took a stab at it.\n\nThey changed my title to \"Data Scientist\" because I have built a few models and use Python for some automation. I am mainly in SQL + Tableau\n\nEDIT: To answer your question more - I had a 10 question SQL + 10 question Tableau technical portion, then the rest were behavioral interview questions."
+        },
+        {
+            "id": "ifr9hjs",
+            "parent": "t1_ifr2hr4",
+            "ans": "Where did you learn SQL and Tableau?",
+            "score": 16,
+            "que": "I was originally interviewed for a Data Analyst position and that's what I accepted. They had the need for some automation and regression modeling, so I studied up and took a stab at it.\n\nThey changed my title to \"Data Scientist\" because I have built a few models and use Python for some automation. I am mainly in SQL + Tableau\n\nEDIT: To answer your question more - I had a 10 question SQL + 10 question Tableau technical portion, then the rest were behavioral interview questions."
+        },
+        {
+            "id": "ifrft4d",
+            "parent": "t1_ifr2hr4",
+            "ans": "how do you use Python for automation?\nI am even a worse imposter. I started my job as a business analyst and became a data scientist because I invested my learning into power bi platforms. SQL dax and mdx. im a magician in DAX. thats how I became a data scientist. but homestly I wouldnt even get accepted as a data analyst in another company unless if they were as into power bi as my company. I use power bi dataflows for automated MDX scripts. I have been learning python hardcore since the start of the year, still shopping for a way to automate the python scripts. how do you do it?",
+            "score": 17,
+            "que": "I was originally interviewed for a Data Analyst position and that's what I accepted. They had the need for some automation and regression modeling, so I studied up and took a stab at it.\n\nThey changed my title to \"Data Scientist\" because I have built a few models and use Python for some automation. I am mainly in SQL + Tableau\n\nEDIT: To answer your question more - I had a 10 question SQL + 10 question Tableau technical portion, then the rest were behavioral interview questions."
+        },
+        {
+            "id": "ifqmd0l",
+            "parent": "t1_ifqm0ob",
+            "ans": "keep at it, and keep studying on the sidelines, what's important is that you do honest work, do your best to help the business thrive, and choose your evaluation metrics and thresholds before you see the results XD",
+            "score": 47,
+            "que": "Unfortunately, no. They have brought up interesting results but their has been no reasonable action taken from them."
+        },
+        {
+            "id": "ifqn62u",
+            "parent": "t1_ifqm0ob",
+            "ans": "also, consider other popular models that can be used to sub for regressions like xgboost. This might be useful when exploring new models in python https://scikit-learn.org/stable/model_selection.html. Best of luck and don't get disheartened, we all have to start somewhere :)",
+            "score": 7,
+            "que": "Unfortunately, no. They have brought up interesting results but their has been no reasonable action taken from them."
+        },
+        {
+            "id": "iglqva7",
+            "parent": "t1_iglq26b",
+            "ans": "Gotcha. Yeah I\u2019m technically a data scientist by title but I just use sql and tableau so right there with you. Do you have a masters? I hear the government roles pay more just for having that piece of paper",
+            "score": 2,
+            "que": "I am at 111k. \n\n[https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2022/saltbl.pdf](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2022/saltbl.pdf)\n\nThe max yo ucan get in the gov under the \"GS\" schedule is right around 176k. \n\nCompared to FANG and other top places my peers with the same amount of experience are making 170-300k  +. I coworker of mine her son is at microsoft..guy is like 22 making 200k >\\_>."
+        },
+        {
+            "id": "ifr7s02",
+            "parent": "t1_ifr7huy",
+            "ans": "SQL dominates as a data analysis tool?",
+            "score": 4,
+            "que": "Oh for sure, I don't disagree. Excel and C are both extreme opposites. Most orgs are in the middle that want to hire a Data Engineer, Data Scientist, etc.\n\nBut at Facebook / Meta, for example, SQL still dominates as the tool of choice for their data science teams and arguably their entire business is more or less a giant data problem. So SQL and Tableau there would still be very very high value."
+        },
+        {
+            "id": "ifrv6v7",
+            "parent": "t1_ifqy82b",
+            "ans": "So rule 1 + 2 apply",
+            "score": 2,
+            "que": "Onlyfans?"
+        },
+        {
+            "id": "ifs1hvm",
+            "parent": "t1_ifrf7gi",
+            "ans": "*cries in ssrs*",
+            "score": 2,
+            "que": "Hahahah I have to work with PBI and definitely like it better than Tableau so you're right about that. But my absolute preference is in Python native visualisation tools like Matplotlib, Seaborn & Bokeh. Working with that in Ipynb is the best. PBI supports more extensive database connections, odbc is amazing for instance. This is also possible in Jupyter notebooks but is a hassle. I digress xddd"
+        },
+        {
+            "id": "ifrrbn6",
+            "parent": "t1_ifrft4d",
+            "ans": "I think you\u2019d be most interested in the Python implementation that PowerBI has. I can\u2019t give you much more advice about how PowerBI Python works but you could really drill into that niche of yours and go even deeper with Python in PowerBI. Best wishes",
+            "score": 13,
+            "que": "how do you use Python for automation?\nI am even a worse imposter. I started my job as a business analyst and became a data scientist because I invested my learning into power bi platforms. SQL dax and mdx. im a magician in DAX. thats how I became a data scientist. but homestly I wouldnt even get accepted as a data analyst in another company unless if they were as into power bi as my company. I use power bi dataflows for automated MDX scripts. I have been learning python hardcore since the start of the year, still shopping for a way to automate the python scripts. how do you do it?"
+        },
+        {
+            "id": "ifsl1ap",
+            "parent": "t1_ifrft4d",
+            "ans": "Just curious, what has your pay looked like throughout your journey?",
+            "score": 5,
+            "que": "how do you use Python for automation?\nI am even a worse imposter. I started my job as a business analyst and became a data scientist because I invested my learning into power bi platforms. SQL dax and mdx. im a magician in DAX. thats how I became a data scientist. but homestly I wouldnt even get accepted as a data analyst in another company unless if they were as into power bi as my company. I use power bi dataflows for automated MDX scripts. I have been learning python hardcore since the start of the year, still shopping for a way to automate the python scripts. how do you do it?"
+        },
+        {
+            "id": "ifujtk6",
+            "parent": "t1_ifrft4d",
+            "ans": "In terms of how to deploy python functions using a Microsoft stack, I'd look at Azure FunctionApps. Those are probably the easiest way depending on what it is.",
+            "score": 4,
+            "que": "how do you use Python for automation?\nI am even a worse imposter. I started my job as a business analyst and became a data scientist because I invested my learning into power bi platforms. SQL dax and mdx. im a magician in DAX. thats how I became a data scientist. but homestly I wouldnt even get accepted as a data analyst in another company unless if they were as into power bi as my company. I use power bi dataflows for automated MDX scripts. I have been learning python hardcore since the start of the year, still shopping for a way to automate the python scripts. how do you do it?"
+        },
+        {
+            "id": "ifseimj",
+            "parent": "t1_ifrft4d",
+            "ans": "Hi, where did you learn dax?",
+            "score": 2,
+            "que": "how do you use Python for automation?\nI am even a worse imposter. I started my job as a business analyst and became a data scientist because I invested my learning into power bi platforms. SQL dax and mdx. im a magician in DAX. thats how I became a data scientist. but homestly I wouldnt even get accepted as a data analyst in another company unless if they were as into power bi as my company. I use power bi dataflows for automated MDX scripts. I have been learning python hardcore since the start of the year, still shopping for a way to automate the python scripts. how do you do it?"
+        },
+        {
+            "id": "ifqmip0",
+            "parent": "t1_ifqmd0l",
+            "ans": "Haha thanks for the words of confidence! I am still enjoying the experience and always trying Kaggle competitions too just to keep my skills sharp!",
+            "score": 22,
+            "que": "keep at it, and keep studying on the sidelines, what's important is that you do honest work, do your best to help the business thrive, and choose your evaluation metrics and thresholds before you see the results XD"
+        },
+        {
+            "id": "igmjk6k",
+            "parent": "t1_iglqva7",
+            "ans": "I do have a masters,  but I was already at this point before I got my masters haaha. Having a masters does open doors in govt and a few other places however, it's better to focus on really just uping your skills. Generally places that care about how many papers you have it's a clear sign that they probably have no idea what they are doing. \n\nPublications now those do help.",
+            "score": 2,
+            "que": "Gotcha. Yeah I\u2019m technically a data scientist by title but I just use sql and tableau so right there with you. Do you have a masters? I hear the government roles pay more just for having that piece of paper"
+        },
+        {
+            "id": "ifrhkc9",
+            "parent": "t1_ifr7s02",
+            "ans": "Yup. Most companies store their data in some type of data lake / database that exposes a SQL interface for querying. Facebook and others have pushed the idea of separating the underlying storage system from the interface for analysts. Heck they helped create tools like Presto and Trino to query federated data sources, where analysts can focus on writing ANSI-compliant SQL and data engineers / infrastructure team can focus on doing w/e it takes to make data available in the system that makes sense.\n\nIt's also worth noting that there are two approaches to data at many companies:\n\n\\- Data Science\n\n\\- Analytics\n\nData science often is either its own team, or lives under Product or sometimes Engineering. DS uses Python, Julia, SQL, Scala / Spark, and more to focus more on modeling. Of course there are still plenty of R / Matlab folks writing core algorithms and these are usually former academics or phd students.\n\nAnalytics tends to live in SQL. dbt is a popular tool here as well to help you express data transformation / ELT logic as connected SQL queries ([http://dbt.com/](http://dbt.com/)). There's even a new profession called Analytics Engineer that focuses on using SQL to describe business logic.\n\nBusinesses, nonprofits, etc need WAY more people in **Analytics** than they do in DS. Analytics is about counting all of the important things reliably. This is INSANELY hard even though it shouldn't feel that way. \n\nData Science is often more about driving Product stuff. Like recommendations at Netflix and Spotify. Or identifying faces in images at Meta. Cool DS stuff gets 90% of the headlines but ironically 90% of the jobs (including very high paying ones) are more in \"Analytics\" than DS.\n\nAnyway I detect that I'm going off on a long rant here now so I will stop / pause!",
+            "score": 20,
+            "que": "SQL dominates as a data analysis tool?"
+        },
+        {
+            "id": "ifruhbf",
+            "parent": "t1_ifr7s02",
+            "ans": "Yes.\n\nYou can work in Python (yeah) or anything else (meeh ... QS, PBI, Tableau or even Excel) but there is nothing to analyze if you can't get the data out of the DB.",
+            "score": 2,
+            "que": "SQL dominates as a data analysis tool?"
+        },
+        {
+            "id": "ifrvg4c",
+            "parent": "t1_ifrv6v7",
+            "ans": "They always do",
+            "score": 2,
+            "que": "So rule 1 + 2 apply"
+        },
+        {
+            "id": "ifsmm60",
+            "parent": "t1_ifsl1ap",
+            "ans": "started entry level at $70k base in 2017. by 2020 it was $84k. this year it became 96k. and I just got a promotion to $140k",
+            "score": 13,
+            "que": "Just curious, what has your pay looked like throughout your journey?"
+        },
+        {
+            "id": "ifsmq29",
+            "parent": "t1_ifseimj",
+            "ans": "a lot of trial and error. youtube (a guy in a cube). and sqlbi for advanced stuff.\nit is an amazing language. the only issue with it is no iterations (for loops)",
+            "score": 7,
+            "que": "Hi, where did you learn dax?"
+        },
+        {
+            "id": "ifttbve",
+            "parent": "t1_ifseimj",
+            "ans": "You can check out sqlbi.com and their YouTube videos. I think Alberto and Marco might be the only people who fully understand it.  You can use dax in excel powerpivot as well as in powerbi.",
+            "score": 2,
+            "que": "Hi, where did you learn dax?"
+        },
+        {
+            "id": "iftuk6q",
+            "parent": "t1_ifqmip0",
+            "ans": "Honestly I\u2019ve interviewed like 1000 people. Do a ML project you actually give a shit about and that passion will show in an interview. I hate Kaggle tbh.",
+            "score": 3,
+            "que": "Haha thanks for the words of confidence! I am still enjoying the experience and always trying Kaggle competitions too just to keep my skills sharp!"
+        },
+        {
+            "id": "ifs04a7",
+            "parent": "t1_ifruhbf",
+            "ans": "I mean I know SQL, but I have never heard of using SQL as anything more than a querying tool to put into a format to be ingested into Excel, Python, R, etc.",
+            "score": 1,
+            "que": "Yes.\n\nYou can work in Python (yeah) or anything else (meeh ... QS, PBI, Tableau or even Excel) but there is nothing to analyze if you can't get the data out of the DB."
+        },
+        {
+            "id": "il0kvfa",
+            "parent": "t1_iftuk6q",
+            "ans": "Hi - late reply, but could you elaborate what you mean by a ml project?\n\nI'm graduating with a PhD in psychology soon and need to make my resume and skill set more industry-appropriate",
+            "score": 1,
+            "que": "Honestly I\u2019ve interviewed like 1000 people. Do a ML project you actually give a shit about and that passion will show in an interview. I hate Kaggle tbh."
+        },
+        {
+            "id": "ifs8wyp",
+            "parent": "t1_ifs04a7",
+            "ans": "You can do a simple SELECT.\n\nOr you can a SELECT * PARTITION OVER FROM LEFT JOIN INNER JOIN WHERE AND AND AND AND AND CASE WHEN GROUP BY ORDER BY\n\nand get a 300 line script that is fast, scaleable business logic that lives in the DWH and can be maintained by the BI/DE team without problems.\n\nHaving an automatic report in Python requires a backend that can run Python, you need to store the creds somewhere, you need to write the output back into the DWH, you need git hooks for auto formatting, TDD, CI/CD etc. Then you're in DE/SWE territory already and that's totally okay but most companies suck at that.",
+            "score": 6,
+            "que": "I mean I know SQL, but I have never heard of using SQL as anything more than a querying tool to put into a format to be ingested into Excel, Python, R, etc."
+        },
+        {
+            "id": "ifu2966",
+            "parent": "t1_ifs8wyp",
+            "ans": "The current / new paradigm is to \"push back\" the dataset complexity to your data pipeline layer (or by using a semantic layer) and then you can have very shallow queries in your BI layer.\n\n\\- [https://benn.substack.com/p/metrics-layer](https://benn.substack.com/p/metrics-layer)\n\n\\- [https://preset.io/blog/dataset-centric-visualization/](https://preset.io/blog/dataset-centric-visualization/)\n\nAll of this \\^ is specific to the **Analytics** part of your business. People putting forecasting models or recommendation engines into the Product (who often have a \"Data Scientist\" title). Most businesses are stuck even getting logging, data storage, and BI / insights right:\n\n[https://medium.com/@hugh\\_data\\_science/the-pyramid-of-data-needs-and-why-it-matters-for-your-career-b0f695c13f11](https://medium.com/@hugh_data_science/the-pyramid-of-data-needs-and-why-it-matters-for-your-career-b0f695c13f11)",
+            "score": 2,
+            "que": "You can do a simple SELECT.\n\nOr you can a SELECT * PARTITION OVER FROM LEFT JOIN INNER JOIN WHERE AND AND AND AND AND CASE WHEN GROUP BY ORDER BY\n\nand get a 300 line script that is fast, scaleable business logic that lives in the DWH and can be maintained by the BI/DE team without problems.\n\nHaving an automatic report in Python requires a backend that can run Python, you need to store the creds somewhere, you need to write the output back into the DWH, you need git hooks for auto formatting, TDD, CI/CD etc. Then you're in DE/SWE territory already and that's totally okay but most companies suck at that."
+        }
+    ]
+}

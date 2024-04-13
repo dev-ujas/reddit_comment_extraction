@@ -1,0 +1,267 @@
+{
+    "title": "Remember it always.",
+    "id": "peremu",
+    "create_at": 1630358182.0,
+    "score": 2865,
+    "comments": [
+        {
+            "id": "hb0131a",
+            "parent": "t1_hazpg1i",
+            "ans": "I 100% agree with what you say about story representing reality but the example you give can come off as the opposite.\nHaving the house, (the story) before the data and constructing it from there makes it seem like you\u2019re selectively choosing data to tell a story. Almost like confirmation bias or p-hacking. \nI completely understand what you mean but when you said your example it sounded wrong haha",
+            "score": 37,
+            "que": "The story should represent reality, not fabricate it.\n\nI think a better version of this would start with the house, THEN show the house deconstructed into raw data, and finally display a low fidelity scale model of a house at the end."
+        },
+        {
+            "id": "hb1fo3l",
+            "parent": "t1_hazpg1i",
+            "ans": "Yeah, that's where my brain went, too. As a longtime enjoyer of metaphors, this one missed, a bit.",
+            "score": 6,
+            "que": "The story should represent reality, not fabricate it.\n\nI think a better version of this would start with the house, THEN show the house deconstructed into raw data, and finally display a low fidelity scale model of a house at the end."
+        },
+        {
+            "id": "hb3nuoa",
+            "parent": "t1_hazpg1i",
+            "ans": "The lego house here is the visual equivalent of [this legendary SE thread](https://stats.stackexchange.com/questions/185507/what-happens-if-the-explanatory-and-response-variables-are-sorted-independently) where someone had been sorting the elements of ordered pairs independently.",
+            "score": 3,
+            "que": "The story should represent reality, not fabricate it.\n\nI think a better version of this would start with the house, THEN show the house deconstructed into raw data, and finally display a low fidelity scale model of a house at the end."
+        },
+        {
+            "id": "hb2quyk",
+            "parent": "t1_hazpg1i",
+            "ans": "I fully get with what you're saying, but you assume there's only one story and one reality where with data we rarely get to see what the final looks like. One could take the same number of bricks and build an array of different house styles and sizes. Isn't the goal to optimize the model using the bricks at hand to try to gauge reality so when we see similar bricks we know what to look for?",
+            "score": 2,
+            "que": "The story should represent reality, not fabricate it.\n\nI think a better version of this would start with the house, THEN show the house deconstructed into raw data, and finally display a low fidelity scale model of a house at the end."
+        },
+        {
+            "id": "hb0ficu",
+            "parent": "t1_hazpg1i",
+            "ans": "Don\u2019t tell the CDC that..",
+            "score": -10,
+            "que": "The story should represent reality, not fabricate it.\n\nI think a better version of this would start with the house, THEN show the house deconstructed into raw data, and finally display a low fidelity scale model of a house at the end."
+        },
+        {
+            "id": "hb3wdbs",
+            "parent": "t1_hazpg1i",
+            "ans": "To me, the \"real\" house represents the reality of the thing we are studying, which is something that is unknown to us. So we gather data and build a model to try to understand what the real house might be like. I think this illustration is probably missing a few steps to arrive at the model in the end, but I think it conveys the idea pretty well anyway. That is, our analysis doesn't come alive until we tell the story that our data analysis has uncovered.",
+            "score": 1,
+            "que": "The story should represent reality, not fabricate it.\n\nI think a better version of this would start with the house, THEN show the house deconstructed into raw data, and finally display a low fidelity scale model of a house at the end."
+        },
+        {
+            "id": "hb0jgyu",
+            "parent": "t1_hb07mz6",
+            "ans": " I thought this also. Dafuq is \"arranged\"?",
+            "score": 37,
+            "que": "> Data\n\nYes\n\n> Sorted\n\nOk\n\n> Arranged\n\nOk?\n\n> Presented visually\n\n\nLooks more like sorted in ascending order to me but whatever\n\n> Explained with a story\n\n...what?"
+        },
+        {
+            "id": "hb2brcv",
+            "parent": "t1_hb07mz6",
+            "ans": "Data->yes\n\nSolid business model right there!",
+            "score": 8,
+            "que": "> Data\n\nYes\n\n> Sorted\n\nOk\n\n> Arranged\n\nOk?\n\n> Presented visually\n\n\nLooks more like sorted in ascending order to me but whatever\n\n> Explained with a story\n\n...what?"
+        },
+        {
+            "id": "hb1enz2",
+            "parent": "t1_hb07mz6",
+            "ans": "Yeah it's weird, but it's just a Lego \"ad\" that they've been posting on LinkedIn",
+            "score": 4,
+            "que": "> Data\n\nYes\n\n> Sorted\n\nOk\n\n> Arranged\n\nOk?\n\n> Presented visually\n\n\nLooks more like sorted in ascending order to me but whatever\n\n> Explained with a story\n\n...what?"
+        },
+        {
+            "id": "hazpbqr",
+            "parent": "t1_hazodgd",
+            "ans": "Exactly. The story should represent reality, not invent reality. Your comment deserves to be at the top.",
+            "score": 20,
+            "que": "That last panel does not belong there. If a Lego model belongs anywhere, it should be the first panel, representing the complex real world scenario that we decompose and analyse to make sense of it. The useful story building comes from identifying the parts within the whole, not just showing the whole."
+        },
+        {
+            "id": "hb2ng9q",
+            "parent": "t1_hazodgd",
+            "ans": "Or the \"house\" metaphor really represents infographics and this whole thing is meant to tickle managers rather than data scientists.",
+            "score": 2,
+            "que": "That last panel does not belong there. If a Lego model belongs anywhere, it should be the first panel, representing the complex real world scenario that we decompose and analyse to make sense of it. The useful story building comes from identifying the parts within the whole, not just showing the whole."
+        },
+        {
+            "id": "hb1x7l1",
+            "parent": "t1_hazodgd",
+            "ans": "Unless you are first given messy data and you don't know what the surface representation actually is (yet).",
+            "score": 1,
+            "que": "That last panel does not belong there. If a Lego model belongs anywhere, it should be the first panel, representing the complex real world scenario that we decompose and analyse to make sense of it. The useful story building comes from identifying the parts within the whole, not just showing the whole."
+        },
+        {
+            "id": "hb0fj3j",
+            "parent": "t1_hazv816",
+            "ans": "Gotta trim those outliers if you want the data to tell your story...",
+            "score": 33,
+            "que": "Umm, where did most of the yellow and red go in the final story shown? \ud83e\udd14\n\n(no harm intended, just couldn't resist making the joke lol)"
+        },
+        {
+            "id": "hb2byrr",
+            "parent": "t1_hb1r71j",
+            "ans": "*hired*",
+            "score": 4,
+            "que": "What is this shit, are we on linkedin?"
+        },
+        {
+            "id": "hb3cedz",
+            "parent": "t1_hb1r71j",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "What is this shit, are we on linkedin?"
+        },
+        {
+            "id": "hb3lm35",
+            "parent": "t1_hb1r71j",
+            "ans": "I prefer the term \"data storyteller\"",
+            "score": 1,
+            "que": "What is this shit, are we on linkedin?"
+        },
+        {
+            "id": "hazodp7",
+            "parent": "t1_hazcq5e",
+            "ans": "Sort/arrange are one-liners in most analysis packages or programming languages. Implementing an effective visualisation is more of an art - requiring you to understand both foundational principles of charting and info/data visualisation as well as human perception and communication.\n\nAlthough I can't vouch for them personally, Coursera has reputable specialisations in this. I think they're even free.",
+            "score": 8,
+            "que": "How to get from first to last?"
+        },
+        {
+            "id": "hazljri",
+            "parent": "t1_hazcq5e",
+            "ans": "Well it looks like you'd need different \"data\"",
+            "score": 6,
+            "que": "How to get from first to last?"
+        },
+        {
+            "id": "hb0bf51",
+            "parent": "t1_hb0131a",
+            "ans": "In my mind the house is reality. But we're blind and all we can look at is the blocks, not the house. The story is our approximation to reconstruct and explain reality. If reality is just a noisy jumble, then no story should result from it.",
+            "score": 12,
+            "que": "I 100% agree with what you say about story representing reality but the example you give can come off as the opposite.\nHaving the house, (the story) before the data and constructing it from there makes it seem like you\u2019re selectively choosing data to tell a story. Almost like confirmation bias or p-hacking. \nI completely understand what you mean but when you said your example it sounded wrong haha"
+        },
+        {
+            "id": "hb2gz6j",
+            "parent": "t1_hb1fo3l",
+            "ans": "Metaphors are a good start, but they eventually run off the rails.",
+            "score": 1,
+            "que": "Yeah, that's where my brain went, too. As a longtime enjoyer of metaphors, this one missed, a bit."
+        },
+        {
+            "id": "hb4255f",
+            "parent": "t1_hb2quyk",
+            "ans": "I'm saying there's one reality. The house. There are many similar-looking replicas you could build to the tell a story. But there's only reality.",
+            "score": 1,
+            "que": "I fully get with what you're saying, but you assume there's only one story and one reality where with data we rarely get to see what the final looks like. One could take the same number of bricks and build an array of different house styles and sizes. Isn't the goal to optimize the model using the bricks at hand to try to gauge reality so when we see similar bricks we know what to look for?"
+        },
+        {
+            "id": "hb0l50q",
+            "parent": "t1_hb0jgyu",
+            "ans": "The same thing as sorted, just do it again, duh.",
+            "score": 29,
+            "que": " I thought this also. Dafuq is \"arranged\"?"
+        },
+        {
+            "id": "hb2m22p",
+            "parent": "t1_hb0jgyu",
+            "ans": "I think something more like:\n\nData -> Insights -> Stories -> Wisdom\n\nis a more useful way to think about it. Each level of the taxonomy represents an increase in meaning.",
+            "score": 5,
+            "que": " I thought this also. Dafuq is \"arranged\"?"
+        },
+        {
+            "id": "hbfquu4",
+            "parent": "t1_hb2brcv",
+            "ans": "Thanks for the good laugh :D",
+            "score": 2,
+            "que": "Data->yes\n\nSolid business model right there!"
+        },
+        {
+            "id": "hazseq0",
+            "parent": "t1_hazpbqr",
+            "ans": "Attempts at explaining of the common data science techniques for story telling in relation to the data.\n\nHypothesis testing: assuming my lego distribution is totally random, what is the likelihood it can build lego house (low p-value means it came from the house, not random).\n\nMachine learning: I don't know what my Lego structure looks like, but I'd like to estimate it from the legos. How house like, how airplane like, etc.\n\nConfidence interval: given this sample of legos, give me the probably range for how house-like the houses usually are.",
+            "score": 5,
+            "que": "Exactly. The story should represent reality, not invent reality. Your comment deserves to be at the top."
+        },
+        {
+            "id": "hb0jzv3",
+            "parent": "t1_hb0fj3j",
+            "ans": "Sounds fair!",
+            "score": 3,
+            "que": "Gotta trim those outliers if you want the data to tell your story..."
+        },
+        {
+            "id": "hb2qpo8",
+            "parent": "t1_hb0fj3j",
+            "ans": "[\"I have an idea for how to clean up the data, what do you think?\"](https://imgs.xkcd.com/comics/curve_fitting.png)",
+            "score": 3,
+            "que": "Gotta trim those outliers if you want the data to tell your story..."
+        },
+        {
+            "id": "hb3kee8",
+            "parent": "t1_hb3cedz",
+            "ans": "Lol, right? This sub is full of nobodies. I'm pretty much the only bigshot here.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hazoi8p",
+            "parent": "t1_hazodp7",
+            "ans": "Thanks stranger. I am still new to this.",
+            "score": 1,
+            "que": "Sort/arrange are one-liners in most analysis packages or programming languages. Implementing an effective visualisation is more of an art - requiring you to understand both foundational principles of charting and info/data visualisation as well as human perception and communication.\n\nAlthough I can't vouch for them personally, Coursera has reputable specialisations in this. I think they're even free."
+        },
+        {
+            "id": "hb1420z",
+            "parent": "t1_hazodp7",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Sort/arrange are one-liners in most analysis packages or programming languages. Implementing an effective visualisation is more of an art - requiring you to understand both foundational principles of charting and info/data visualisation as well as human perception and communication.\n\nAlthough I can't vouch for them personally, Coursera has reputable specialisations in this. I think they're even free."
+        },
+        {
+            "id": "hazm4x3",
+            "parent": "t1_hazljri",
+            "ans": "True, but again I am asking for some proper courses where I can learn these.",
+            "score": 1,
+            "que": "Well it looks like you'd need different \"data\""
+        },
+        {
+            "id": "hb4cxvc",
+            "parent": "t1_hb2gz6j",
+            "ans": "Good point.",
+            "score": 1,
+            "que": "Metaphors are a good start, but they eventually run off the rails."
+        },
+        {
+            "id": "hbfqxn9",
+            "parent": "t1_hb2gz6j",
+            "ans": "Is that a train metaphor?",
+            "score": 1,
+            "que": "Metaphors are a good start, but they eventually run off the rails."
+        },
+        {
+            "id": "hb0layw",
+            "parent": "t1_hb0l50q",
+            "ans": "lol these data science types don't know anything",
+            "score": 11,
+            "que": "The same thing as sorted, just do it again, duh."
+        },
+        {
+            "id": "hb2na7r",
+            "parent": "t1_hb0l50q",
+            "ans": "Just sort them in arbitrary shapes that manager finds pretty. Obv, guys.",
+            "score": 4,
+            "que": "The same thing as sorted, just do it again, duh."
+        },
+        {
+            "id": "hb2n2q9",
+            "parent": "t1_hb2m22p",
+            "ans": "of course, but this lego picture is silly",
+            "score": 9,
+            "que": "I think something more like:\n\nData -> Insights -> Stories -> Wisdom\n\nis a more useful way to think about it. Each level of the taxonomy represents an increase in meaning."
+        },
+        {
+            "id": "hb149lz",
+            "parent": "t1_hb1420z",
+            "ans": "Not in particular, no. Look through those tagged datavis/infovis and select the one that suits your needs best.",
+            "score": 1,
+            "que": "[deleted]"
+        }
+    ]
+}

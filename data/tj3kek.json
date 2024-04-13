@@ -1,0 +1,1534 @@
+{
+    "title": "Guys, we\u2019ve been doing it wrong this whole time",
+    "id": "tj3kek",
+    "create_at": 1647837277.0,
+    "score": 3464,
+    "comments": [
+        {
+            "id": "i1i0a6w",
+            "parent": "t1_i1hwrgb",
+            "ans": "Don't worry, \n\nhttps://xkcd.com/327/ \"Bobby\" signed up for class.",
+            "score": 276,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i1i4xzo",
+            "parent": "t1_i1hwrgb",
+            "ans": "SQL is a communication skill if you really think about it.",
+            "score": 125,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i1jgqyw",
+            "parent": "t1_i1hwrgb",
+            "ans": "Probably my most used skill is SQL lol",
+            "score": 12,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i1ks1fq",
+            "parent": "t1_i1hwrgb",
+            "ans": "As well as linear algebra and probability theory.",
+            "score": 2,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i1ixbjn",
+            "parent": "t1_i1hwrgb",
+            "ans": "If python includes the pyspark tutorials for CRUD, do not really need to know SQL, just spark",
+            "score": 7,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i2xtsvd",
+            "parent": "t1_i1hwrgb",
+            "ans": "Also left out PHP, C+. Pearl, Java, and several other classic languages that upon which the modern internet's data structure is built in our post- ARPA Net world. Oh but that's right - most of you twits don't know how to fire up an apple 8080 with T3 networking or how to use a tokenring system.",
+            "score": 1,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i4f0arc",
+            "parent": "t1_i1hwrgb",
+            "ans": "SQL is by far my most used lol",
+            "score": 1,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "inxgqtk",
+            "parent": "t1_i1hwrgb",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "SQL sobbing in the corner! \ud83e\udd23"
+        },
+        {
+            "id": "i1i1d0f",
+            "parent": "t1_i1htgq2",
+            "ans": "Is the titanic project a real thing?",
+            "score": 106,
+            "que": "Newton & Leibniz would be impressed to see people learning all of calculus in 5 days, and probably disgusted to know the titanic project took just as long."
+        },
+        {
+            "id": "i1k59s4",
+            "parent": "t1_i1htgq2",
+            "ans": "The chart is right, it's just that the author misspelled \"months\" as \"days\"",
+            "score": 4,
+            "que": "Newton & Leibniz would be impressed to see people learning all of calculus in 5 days, and probably disgusted to know the titanic project took just as long."
+        },
+        {
+            "id": "i1kfhot",
+            "parent": "t1_i1htgq2",
+            "ans": "Tf you mean? It's huge, *Titanic* in proportion.",
+            "score": 1,
+            "que": "Newton & Leibniz would be impressed to see people learning all of calculus in 5 days, and probably disgusted to know the titanic project took just as long."
+        },
+        {
+            "id": "iuovx2g",
+            "parent": "t1_i1htgq2",
+            "ans": "I like people learning statistics before calculus.  That seems natural lol",
+            "score": 1,
+            "que": "Newton & Leibniz would be impressed to see people learning all of calculus in 5 days, and probably disgusted to know the titanic project took just as long."
+        },
+        {
+            "id": "i1i616a",
+            "parent": "t1_i1huvnl",
+            "ans": "As a Mathematician, I can assure you, that calculus is several semesters long.",
+            "score": 281,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1ipxnk",
+            "parent": "t1_i1huvnl",
+            "ans": "As a Statistician, I can assure you that statistics is several semesters long.",
+            "score": 35,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1hwyra",
+            "parent": "t1_i1huvnl",
+            "ans": "To be fair I only spent 32 hours each in calc and statistics classes, per semester in college. So 64 hours in 9 days is only 7 hrs a day. Not impossible, but not fun either.",
+            "score": 29,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1jmxrj",
+            "parent": "t1_i1huvnl",
+            "ans": "Yeah lol there\u2019s a reason why it\u2019s a semester long and not 4 days like I\u2019m this post",
+            "score": 3,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1jaj0e",
+            "parent": "t1_i1huvnl",
+            "ans": "How do you learn the Statistics required in DS just a few days ?",
+            "score": 2,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1i6k5m",
+            "parent": "t1_i1huvnl",
+            "ans": "Haha came for this comment \ud83d\ude02 what a bs.",
+            "score": 2,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1iwkbq",
+            "parent": "t1_i1huvnl",
+            "ans": "I had 3 semesters of calculus.   And there was a separate engineering class in stats.",
+            "score": 1,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1jgt2r",
+            "parent": "t1_i1huvnl",
+            "ans": "I concur. My uni crammed Statistics, Multivariate stats, and Time Series (3 math subjects, 1 where I had some idea, the rest two no idea) into 2 semesters (each 3 months long). \n\nAnd the course is advertised as \"No advanced math and Programming experience needed\". And now I struggle :(",
+            "score": 1,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1jm0jy",
+            "parent": "t1_i1huvnl",
+            "ans": "Lol my high school days be dammed",
+            "score": 1,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1kjlom",
+            "parent": "t1_i1huvnl",
+            "ans": "Is this a curriculum or some individual\u2019s idealistic path to becoming a DS?",
+            "score": 1,
+            "que": "University courses are such scams. Statistics and calculus are a semester long but apparently it only takes a few days. /s"
+        },
+        {
+            "id": "i1hwzo2",
+            "parent": "t1_i1huooi",
+            "ans": "Don't forget to do your ML before you visualise any aggregates.",
+            "score": 168,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1hxdo2",
+            "parent": "t1_i1huooi",
+            "ans": "Jumping ahead just like IRL newb",
+            "score": 19,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1i09km",
+            "parent": "t1_i1huooi",
+            "ans": "That's not bad, to know what you're dealing with. Not for consumption though.",
+            "score": 26,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1j4bj1",
+            "parent": "t1_i1huooi",
+            "ans": "Just use clean data. What's the problem?",
+            "score": 3,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1itlvg",
+            "parent": "t1_i1huooi",
+            "ans": "Well... Easier to spot the waste and discrepancies!",
+            "score": 2,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1jf6gh",
+            "parent": "t1_i1huooi",
+            "ans": "That isnt right either.\n\nIts really better if its a loop that you iterate on. Visualization can help verify what has been cleaned and what should be cleaned.",
+            "score": 2,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1jjnk4",
+            "parent": "t1_i1huooi",
+            "ans": "Why is that bad? It will give you clues on what the problem is with the data in the first place. Not like you can\u2019t visualize again after cleaning.",
+            "score": 2,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1kqsbo",
+            "parent": "t1_i1huooi",
+            "ans": "Wait, am I not supposed to visualize before cleaning? That's how I spot data issues, outliers, missing data, formatting issues, and pretty much everything that will need to be cleaned.\n\nHow are you cleaning large datasets without visualizing first?",
+            "score": 2,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1j2awz",
+            "parent": "t1_i1huooi",
+            "ans": "Well, this is the order in which you are supposed to learn it according to the program, not the order in which you do it in projects later. You could make an argument for learning visualization first, in order to keep people motivated, give them positive feedback for their progress and to stress why cleaning is so important.",
+            "score": 3,
+            "que": "Visualize your data before cleaning it, great idea\n\nETA- lots of points about visualization being a step in an iterative process with cleaning. My visualization before cleaning is rough, ugly, and has an audience of one. My visualization post cleaning looks very different and highlights the most salient data points. So yes, technically I have multiple rounds of visualisation but I guess I think of the first round as part of cleaning."
+        },
+        {
+            "id": "i1ifevb",
+            "parent": "t1_i1hwg3i",
+            "ans": "Which would then force the person in this track to rework the schedule which would force them to take longer, learning more, which would force them to rework the schedule and then they get stuck in recursion \u2026 \n\nOh hey \u2026 username checks out.",
+            "score": 36,
+            "que": "I especially like that you learn R before you learn statistics.  Maybe this hypothetical program should add an hour for project management, with special focus on dependency management and estimating work."
+        },
+        {
+            "id": "i1j1a6g",
+            "parent": "t1_i1hwg3i",
+            "ans": "I would imagine the course introduces you to R and then the statistics section does tie that in to R, so the order makes perfect sense to me.",
+            "score": 7,
+            "que": "I especially like that you learn R before you learn statistics.  Maybe this hypothetical program should add an hour for project management, with special focus on dependency management and estimating work."
+        },
+        {
+            "id": "i1ji2hm",
+            "parent": "t1_i1hwg3i",
+            "ans": "And you kinda need to learn calculus before you can learn statistics properly",
+            "score": 2,
+            "que": "I especially like that you learn R before you learn statistics.  Maybe this hypothetical program should add an hour for project management, with special focus on dependency management and estimating work."
+        },
+        {
+            "id": "i1jjvry",
+            "parent": "t1_i1hwg3i",
+            "ans": "\ud83d\ude02\ud83d\ude00",
+            "score": 1,
+            "que": "I especially like that you learn R before you learn statistics.  Maybe this hypothetical program should add an hour for project management, with special focus on dependency management and estimating work."
+        },
+        {
+            "id": "i1iexe7",
+            "parent": "t1_i1hy17f",
+            "ans": "Just don't post it there, people LOVE to find silver lining in that sub",
+            "score": 6,
+            "que": "This is some r/restofthefuckingowl type shit"
+        },
+        {
+            "id": "i1ju0l3",
+            "parent": "t1_i1hy17f",
+            "ans": "\"Communication skills\" \n\n\n5 days",
+            "score": 3,
+            "que": "This is some r/restofthefuckingowl type shit"
+        },
+        {
+            "id": "i1i0fjp",
+            "parent": "t1_i1htyxu",
+            "ans": "It sounds like it.",
+            "score": 16,
+            "que": "I hope the project is not using the Titanic dataset LMAO"
+        },
+        {
+            "id": "i1i0c0n",
+            "parent": "t1_i1hxcys",
+            "ans": "Look what [a masters degree in communication](https://www.youtube.com/watch?v=nd_JAo5cfdg&t=42s) gets you.\n\nYouTube comment: \"They showed this to us in class for speech competitions for what not to do in public speaking. I'm serious.\"",
+            "score": 37,
+            "que": "5 day for communication skills eh? I\u2019ll take that course"
+        },
+        {
+            "id": "i1jhvl6",
+            "parent": "t1_i1hxcys",
+            "ans": "There is a really good MIT talk on talking, [https://www.youtube.com/watch?v=Unzc731iCUY](https://www.youtube.com/watch?v=Unzc731iCUY)",
+            "score": 2,
+            "que": "5 day for communication skills eh? I\u2019ll take that course"
+        },
+        {
+            "id": "i1jg28p",
+            "parent": "t1_i1htfus",
+            "ans": "That's what happens when you go off on a tangent.",
+            "score": 14,
+            "que": "I feel like stats and calc in 9 days is a little excessive. 5 days... 6 tops. Anything beyond that is just sightseeing."
+        },
+        {
+            "id": "i1i9zpc",
+            "parent": "t1_i1i5wvb",
+            "ans": "And with a 95% discount!!  I'm getting a course worth 2.3k just for 50 bucks!",
+            "score": 22,
+            "que": "50 days ???? I\u2019ve been promised a 30 day from zero to data scientist from at least 20 different courses !"
+        },
+        {
+            "id": "i1jkvte",
+            "parent": "t1_i1i5wvb",
+            "ans": "Harvard Business School [says](https://hbr.org/2018/10/prioritize-which-data-skills-your-company-needs-with-this-2x2-matrix) most of that stuff isn't very important anyway. [Skills matrix](https://hbr.org/resources/images/article_assets/2018/10/W181004_LITTLEWOOD_ANEXAMPLE-1.png)",
+            "score": 1,
+            "que": "50 days ???? I\u2019ve been promised a 30 day from zero to data scientist from at least 20 different courses !"
+        },
+        {
+            "id": "i1i58yj",
+            "parent": "t1_i1i0933",
+            "ans": "And 4 more days to revise the Titanic project.",
+            "score": 17,
+            "que": "How does someone spend four whole days working only on the Titanic dataset? Four hours I could understand, but four days!?!?"
+        },
+        {
+            "id": "i1i8x31",
+            "parent": "t1_i1i0933",
+            "ans": "Everyone going through this course is going to need their hands held very tightly. It's 4\\*20 students for the teacher.",
+            "score": 5,
+            "que": "How does someone spend four whole days working only on the Titanic dataset? Four hours I could understand, but four days!?!?"
+        },
+        {
+            "id": "i1jkbdn",
+            "parent": "t1_i1i0933",
+            "ans": "We used Kaggle and the Titanic dataset in our Intro to Machine Learning course. It was the first thing I'd ever done from scratch and I spent at least a week on it.\n\nI went back and got the reports that the US and British governments wrote that determined what led to so many deaths.  I thought it would be a good way to get features. Not so much; the model wasn't complex enough.\n\nWe were also coding everything from scratch and I had trouble incorporating kernels into SVMs. \n\nI don't think it's a bad first/early dataset.",
+            "score": 4,
+            "que": "How does someone spend four whole days working only on the Titanic dataset? Four hours I could understand, but four days!?!?"
+        },
+        {
+            "id": "i1i5nec",
+            "parent": "t1_i1htw1e",
+            "ans": "It's the Hello World of data science.",
+            "score": 78,
+            "que": "What is titanic project?"
+        },
+        {
+            "id": "i1hu13n",
+            "parent": "t1_i1htw1e",
+            "ans": "Very popular Kaggle contest based on a dataset about Titanic survivors.",
+            "score": 33,
+            "que": "What is titanic project?"
+        },
+        {
+            "id": "i1i0ixj",
+            "parent": "t1_i1hx1l0",
+            "ans": "Let\u2019s be honest: sql would be the only thing that can really be done in 5 days.",
+            "score": 62,
+            "que": "I don\u2019t see sql here\u2026"
+        },
+        {
+            "id": "i1i5gxk",
+            "parent": "t1_i1i4bf7",
+            "ans": "That part is probably accurate as it's all Youtube courses until then.",
+            "score": 3,
+            "que": "Remember don't talk to anyone until day 36"
+        },
+        {
+            "id": "i1i53i4",
+            "parent": "t1_i1hvsc1",
+            "ans": "Bro don't you know there's a Youtube video that teaches Python in 3 hours? If you watch that at 2x speed then you can even learn Python in 1.5 hours so you have more time to practice communication skills which requires 4 days.",
+            "score": 28,
+            "que": "lmaooooo yeah so easy. Python in 5 days off the bat with no prior experience. And yeah learning data visualizations takes the same amount of time as learning calculus. \n\nAnd oh, can't forget that I can master my communication skills in 5 days, despite the fact that I've been speaking almost every day of my life. I just didn't follow this regiment."
+        },
+        {
+            "id": "i1ijowo",
+            "parent": "t1_i1hvsc1",
+            "ans": "In 5 days, you can use the first 2 days to understand basic concept/data types of python and spend the rest learning how to use stackoverflow and you are good to go!",
+            "score": 9,
+            "que": "lmaooooo yeah so easy. Python in 5 days off the bat with no prior experience. And yeah learning data visualizations takes the same amount of time as learning calculus. \n\nAnd oh, can't forget that I can master my communication skills in 5 days, despite the fact that I've been speaking almost every day of my life. I just didn't follow this regiment."
+        },
+        {
+            "id": "i1ibnop",
+            "parent": "t1_i1hvsc1",
+            "ans": "just playing devil\u2019s advocate here: I don\u2019t think this post implies you need to learn all of calculus. in fact I think this subreddit\u2019s emphasis on calculus is way overblown. \n\nwhen I first switched to the field of ML Engineering I was so intimidated reading posts here because I didn\u2019t like calculus. I kept on studying ML sort of waiting for that knowledge gap to jump out at me. today, I\u2019m a Senior ML Engineer at a very reputable startup and that gap never appeared.\n\nI mean really, what calculus is required? understanding the partial derivative of the cost function? sure, but researchers created gradient descent in a way that updating gradients is a simple formula, and added some terms and exponents so the derivative is more intuitive.\n\nwhat else is there, the chain rule in a deep neural network? do you really need to do that from scratch? most libraries are like TensorFlow/PyTorch do the heavy lifting of creating layers so training can be accelerated through GPUs and certain infrastructure. just understanding that learning is backpropogated throughout various layers and we can add regularization or dropout and fancier layers like convolutional ones is probably enough.\n\nI do acknowledge that the field of ML research is much more into the weeds and would require a deeper math background but I get the feeling that most folks here aren\u2019t pursuing that.",
+            "score": 17,
+            "que": "lmaooooo yeah so easy. Python in 5 days off the bat with no prior experience. And yeah learning data visualizations takes the same amount of time as learning calculus. \n\nAnd oh, can't forget that I can master my communication skills in 5 days, despite the fact that I've been speaking almost every day of my life. I just didn't follow this regiment."
+        },
+        {
+            "id": "i1kh49a",
+            "parent": "t1_i1hvsc1",
+            "ans": "It will take the average person 5 days just to install pip properly.",
+            "score": 3,
+            "que": "lmaooooo yeah so easy. Python in 5 days off the bat with no prior experience. And yeah learning data visualizations takes the same amount of time as learning calculus. \n\nAnd oh, can't forget that I can master my communication skills in 5 days, despite the fact that I've been speaking almost every day of my life. I just didn't follow this regiment."
+        },
+        {
+            "id": "i1iwloi",
+            "parent": "t1_i1ic59j",
+            "ans": "Communication skills in 5 days\u2026 it\u2019s gotta be a troll.",
+            "score": 5,
+            "que": "Learn python in 1-5 days? Was this written for someone with an IQ of 180?"
+        },
+        {
+            "id": "i1jrgrh",
+            "parent": "t1_i1iik4x",
+            "ans": "As someone who is fluent in both there are somethings that are absolutely better to do in R.  But if you only knew one python would be the one to learn for sure.",
+            "score": 2,
+            "que": "Why would anyone bother learning R if they know python?"
+        },
+        {
+            "id": "i1i07zw",
+            "parent": "t1_i1hw1x9",
+            "ans": "Yeah 2 years of stats and calc each will get you to a baccalaureate degree level.",
+            "score": 9,
+            "que": "At least 1-2months for each"
+        },
+        {
+            "id": "i1kk48g",
+            "parent": "t1_i1kiuvh",
+            "ans": "Leave now, the hole only gets deeper the more you dig",
+            "score": 1,
+            "que": "I absolutely love this type of sub. I have effectively zero knowledge of a thing coming in, and while still knowing nothing leaving, I develop an addiction to knowing enough to understand what is being said. Off to the books and pencils I go to learn things for the simple sake of learning things."
+        },
+        {
+            "id": "i1ixxai",
+            "parent": "t1_i1i3qj3",
+            "ans": "Import scikit-learn \n\nDone!",
+            "score": 3,
+            "que": "This is more accurate:\n\n1. Learn Python\n2. Learn Basic Stats\n3. Learn some Data science stuff\n\nVoila, you are now a data scientist!"
+        },
+        {
+            "id": "i1i5msc",
+            "parent": "t1_i1i3qj3",
+            "ans": "Replace Data science with Informatics, Python with Java and Stats with general Math and it works too",
+            "score": 2,
+            "que": "This is more accurate:\n\n1. Learn Python\n2. Learn Basic Stats\n3. Learn some Data science stuff\n\nVoila, you are now a data scientist!"
+        },
+        {
+            "id": "i1lyso4",
+            "parent": "t1_i1lp6zn",
+            "ans": "I fundamentally and whole heartedly agree with you. \nI also agree with everyone else that this is garbage. \n\nBut for fun let\u2019s say you did work in this order. I guess I\u2019m like make the argument that everything up to this point wasn\u2019t real. So if your data wasn\u2019t clean and your model was wonk - ok? Now you can clean the data and re-run the model and see the effect on the result. Same in visualization. \n\nBut yeah - I still agree with you.",
+            "score": 2,
+            "que": "data cleaning should be right after python / r / sql. otherwise all the results in stats to viz are garbage."
+        },
+        {
+            "id": "i1i6c3h",
+            "parent": "t1_i1i14sd",
+            "ans": "Georgia Tech has a well regarded online MS Analytics program, and their better known online MSCS program. If you're doing full time they have full time on campus versions too. Other schools (e.g. Northwestern, UIUC) have graduate MS/DS and similar such programs.",
+            "score": 4,
+            "que": "Ok real talk, I've been thinking about going to school for data science. Recommendations/advice? I'm a veteran who already has about a year of college credit and I work in the military intelligence community."
+        },
+        {
+            "id": "i1khqyt",
+            "parent": "t1_i1i14sd",
+            "ans": "Make sure you give yourself time to learn and study. A degree doesn't mean anything if you only do the bare minimum and can't explain why you used a model or do anything in a business context.\n\nMost STEM degrees work as long as you take Calculus 1-3, Linear Algebra, and statistics/probability courses. Math, CS, engineering are good options if there isn't a specific data science program. Take advantage of office hours for professors and don't be afraid to ask dumb questions.\n\nAlso, create a portfolio of projects that you can share with prospective employers/clients. Having something other than words on a resume helps.",
+            "score": 2,
+            "que": "Ok real talk, I've been thinking about going to school for data science. Recommendations/advice? I'm a veteran who already has about a year of college credit and I work in the military intelligence community."
+        },
+        {
+            "id": "i1i5e4q",
+            "parent": "t1_i1i191z",
+            "ans": "Deep learning is not becoming a requirement. If anything the industry is finally coming to terms with that deep learning can't just be tacked onto any problem they can think. This means data science positions are now more specific about whether they need you to actually work on deep learning or broader statistics.",
+            "score": 2,
+            "que": "This is mislead..  there are many other techniques which takes time to learn .. and deep learning is becoming a requirement these days which is not added here.."
+        },
+        {
+            "id": "i1jqsl2",
+            "parent": "t1_i1icr38",
+            "ans": "Yeah... I spent 6 years teaching myself.  If only I knew it could have been done in a couple months.",
+            "score": 1,
+            "que": "And stupid me is doing a 2 years Masters Degree in Data Science \ud83d\ude48 ..."
+        },
+        {
+            "id": "i1j62pd",
+            "parent": "t1_i1j0nah",
+            "ans": "Leave me and my tidyverse alone",
+            "score": 10,
+            "que": "Don't learn R"
+        },
+        {
+            "id": "i1i53jj",
+            "parent": "t1_i1hyjm7",
+            "ans": "Yeah you definitely learn basic ML and Dara visualization before you learn how to clean your data.",
+            "score": 3,
+            "que": "I\u2019ll give em this- the order is correct. You definitely want some foundational R and Python knowledge before doing shit in I assume R studio and Jupyter\n\nE: or like, what order would *you* put these things in? Does it really matter if cleaning comes after visualization? Or calculus comes after R and Python?"
+        },
+        {
+            "id": "i1iwtar",
+            "parent": "t1_i1hyjm7",
+            "ans": "The order is the worst part about this",
+            "score": 2,
+            "que": "I\u2019ll give em this- the order is correct. You definitely want some foundational R and Python knowledge before doing shit in I assume R studio and Jupyter\n\nE: or like, what order would *you* put these things in? Does it really matter if cleaning comes after visualization? Or calculus comes after R and Python?"
+        },
+        {
+            "id": "i1iwg1a",
+            "parent": "t1_i1iu3m6",
+            "ans": "Easy to make $300 a month, very hard to convince someone to hire you 1099 remote part time if you\u2019re still in college.",
+            "score": 3,
+            "que": "Question: how long would I realistically take to be able to do some basic Data Analysis/visualization remote freelance, enough to make 300 bucks a month?\n\nI already know calculus and i am taking statistics at uni right now."
+        },
+        {
+            "id": "i1kjts0",
+            "parent": "t1_i1iyuwn",
+            "ans": "\"Everything is approximated to a random normal distribution! How is that calculated? Magic and computers. We're data scientists, not mathemagicians!\"\n\nThat's my guess.",
+            "score": 2,
+            "que": "I like how stats is before calculus\u2026"
+        },
+        {
+            "id": "i1jgxok",
+            "parent": "t1_i1jf456",
+            "ans": "I think \u201cmonth\u201d would actually lead to rather realistic timeframes",
+            "score": 1,
+            "que": "Any steps I can think of to fix this chart start by replacing \"Day\" with \"Year\""
+        },
+        {
+            "id": "i46af7k",
+            "parent": "t1_i1kbrku",
+            "ans": "Fine. Just not worthy of you then.",
+            "score": 1,
+            "que": "I\u2019m actually stupid\n\nCould someone enlighten me? Is this post /s ?"
+        },
+        {
+            "id": "i1w29sk",
+            "parent": "t1_i1tmupe",
+            "ans": "Learn or learn well?",
+            "score": 1,
+            "que": "How long does python generally take the average person to learn?"
+        },
+        {
+            "id": "i1ihmsi",
+            "parent": "t1_i1i0a6w",
+            "ans": "A man of culture. This is my background at work \ud83d\ude02",
+            "score": 64,
+            "que": "Don't worry, \n\nhttps://xkcd.com/327/ \"Bobby\" signed up for class."
+        },
+        {
+            "id": "i1ibps5",
+            "parent": "t1_i1i4xzo",
+            "ans": "IT INVOLVES A LOT OF SHOUTING",
+            "score": 199,
+            "que": "SQL is a communication skill if you really think about it."
+        },
+        {
+            "id": "i1kyjpa",
+            "parent": "t1_i1i4xzo",
+            "ans": "yeah, begging someone who knows it",
+            "score": 1,
+            "que": "SQL is a communication skill if you really think about it."
+        },
+        {
+            "id": "i1kwuxq",
+            "parent": "t1_i1ks1fq",
+            "ans": "5 days each.",
+            "score": 1,
+            "que": "As well as linear algebra and probability theory."
+        },
+        {
+            "id": "i1jlxme",
+            "parent": "t1_i1ixbjn",
+            "ans": "I could honestly say no",
+            "score": 13,
+            "que": "If python includes the pyspark tutorials for CRUD, do not really need to know SQL, just spark"
+        },
+        {
+            "id": "i1jy1b3",
+            "parent": "t1_i1ixbjn",
+            "ans": "lol, no.",
+            "score": 8,
+            "que": "If python includes the pyspark tutorials for CRUD, do not really need to know SQL, just spark"
+        },
+        {
+            "id": "i1i1jgi",
+            "parent": "t1_i1i1d0f",
+            "ans": "It\u2019s a popular kaggle dataset. Classify whether a person would survive the titanic. Not hard to get 70%+ accuracy with a small NN",
+            "score": 256,
+            "que": "Is the titanic project a real thing?"
+        },
+        {
+            "id": "i1i9j5w",
+            "parent": "t1_i1i616a",
+            "ans": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing.",
+            "score": 174,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1ia8py",
+            "parent": "t1_i1i616a",
+            "ans": "I was thinking they just meant Calculus I because learning Calculus I, II and III in a few days would just be ridiculous. /s",
+            "score": 20,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1i97kc",
+            "parent": "t1_i1i616a",
+            "ans": "I don't think they're teaching Cauchy and Weierstrass.",
+            "score": 20,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1iwlep",
+            "parent": "t1_i1i616a",
+            "ans": "How quickly do you think someone could learn Calculus I decent enough? I was debating this with my wife last night as there's a ~7 or 8 hour video on freeCodeCamp's YouTube channel on that topic. If someone watched an 8 hour video lecture over a week...?",
+            "score": 7,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1i9nlr",
+            "parent": "t1_i1i616a",
+            "ans": "To be fair, it could probably be much shorter for most people, and involve learning way fewer tricks that only work for specific nice functions anyways",
+            "score": 10,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1j4av8",
+            "parent": "t1_i1i616a",
+            "ans": "stupid question here, but what do you do as a mathematician? as in, what are your duties? is it similar to a statistician? Ive never really seen one in the wild before but Im wondering if its more research-based or analytical",
+            "score": 3,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1k1ytn",
+            "parent": "t1_i1i616a",
+            "ans": "I know what you mean, but I hate you for reminding me.",
+            "score": 2,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i7kxz2e",
+            "parent": "t1_i1i616a",
+            "ans": "Maybe without a calculator, Nerd! /s",
+            "score": 2,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1jnro2",
+            "parent": "t1_i1i616a",
+            "ans": "As a physicist let me tell you it actually never ends.",
+            "score": 1,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1jog8w",
+            "parent": "t1_i1i616a",
+            "ans": "To be fair though, 99% of calc 2 is just methods for solving integrals, and calc 3 is just calc 1 in more dimensions",
+            "score": 1,
+            "que": "As a Mathematician, I can assure you, that calculus is several semesters long."
+        },
+        {
+            "id": "i1jhval",
+            "parent": "t1_i1ipxnk",
+            "ans": "You might say it's even an entire discipline",
+            "score": 16,
+            "que": "As a Statistician, I can assure you that statistics is several semesters long."
+        },
+        {
+            "id": "i1kao81",
+            "parent": "t1_i1ipxnk",
+            "ans": "I got the feeling everybody wants to do ML while at the same time not having understood Bayessian Probability Theory.",
+            "score": 7,
+            "que": "As a Statistician, I can assure you that statistics is several semesters long."
+        },
+        {
+            "id": "i1i0bvb",
+            "parent": "t1_i1hwyra",
+            "ans": "How many hours did you spend on homework, though?",
+            "score": 56,
+            "que": "To be fair I only spent 32 hours each in calc and statistics classes, per semester in college. So 64 hours in 9 days is only 7 hrs a day. Not impossible, but not fun either."
+        },
+        {
+            "id": "i1lj709",
+            "parent": "t1_i1jaj0e",
+            "ans": "I took a semester long DS Stats class and I can tell we barely scratched the surface",
+            "score": 1,
+            "que": "How do you learn the Statistics required in DS just a few days ?"
+        },
+        {
+            "id": "i1i498j",
+            "parent": "t1_i1hxdo2",
+            "ans": "I see you are an advanced student in the 'Revise' phase!",
+            "score": 7,
+            "que": "Jumping ahead just like IRL newb"
+        },
+        {
+            "id": "i1j73b3",
+            "parent": "t1_i1i09km",
+            "ans": "tSNE go brrrr",
+            "score": 1,
+            "que": "That's not bad, to know what you're dealing with. Not for consumption though."
+        },
+        {
+            "id": "i1j5qdv",
+            "parent": "t1_i1ifevb",
+            "ans": "What is this r\u2026r\u2026recursion you\u2019re talking about? What day do we learn about that?",
+            "score": 8,
+            "que": "Which would then force the person in this track to rework the schedule which would force them to take longer, learning more, which would force them to rework the schedule and then they get stuck in recursion \u2026 \n\nOh hey \u2026 username checks out."
+        },
+        {
+            "id": "i1luda2",
+            "parent": "t1_i1ifevb",
+            "ans": "And that folks is how we get 15 meetings a week.  Sigh.",
+            "score": 2,
+            "que": "Which would then force the person in this track to rework the schedule which would force them to take longer, learning more, which would force them to rework the schedule and then they get stuck in recursion \u2026 \n\nOh hey \u2026 username checks out."
+        },
+        {
+            "id": "i1jcwye",
+            "parent": "t1_i1j1a6g",
+            "ans": "Yeah . You seriously cant assume you are actually learning anything other than the most surface level stuff for each node",
+            "score": 4,
+            "que": "I would imagine the course introduces you to R and then the statistics section does tie that in to R, so the order makes perfect sense to me."
+        },
+        {
+            "id": "i1ks8pp",
+            "parent": "t1_i1i0c0n",
+            "ans": "That was magical. The guy checks his notes every 3 seconds, like before he introduces himself, and takes a breath every 5th word, but why's my dude yelling at the audience?",
+            "score": 9,
+            "que": "Look what [a masters degree in communication](https://www.youtube.com/watch?v=nd_JAo5cfdg&t=42s) gets you.\n\nYouTube comment: \"They showed this to us in class for speech competitions for what not to do in public speaking. I'm serious.\""
+        },
+        {
+            "id": "i1ietjj",
+            "parent": "t1_i1i9zpc",
+            "ans": "That\u2019s an offer you can\u2019t refuse!!!",
+            "score": 5,
+            "que": "And with a 95% discount!!  I'm getting a course worth 2.3k just for 50 bucks!"
+        },
+        {
+            "id": "i1ivcsy",
+            "parent": "t1_i1i9zpc",
+            "ans": "Insert Share affiliate link meme \u2026",
+            "score": 2,
+            "que": "And with a 95% discount!!  I'm getting a course worth 2.3k just for 50 bucks!"
+        },
+        {
+            "id": "i1iaelv",
+            "parent": "t1_i1i5nec",
+            "ans": "Well for about 70% of the passengers it wasn't so much a \"Hello World\" as a \"Goodbye Cruel World\".",
+            "score": 53,
+            "que": "It's the Hello World of data science."
+        },
+        {
+            "id": "i1isjcp",
+            "parent": "t1_i1i5nec",
+            "ans": "I thought that was the Iris flower data set?",
+            "score": 14,
+            "que": "It's the Hello World of data science."
+        },
+        {
+            "id": "i1if5ml",
+            "parent": "t1_i1i0ixj",
+            "ans": "TRUE",
+            "score": 14,
+            "que": "Let\u2019s be honest: sql would be the only thing that can really be done in 5 days."
+        },
+        {
+            "id": "i1kw1g9",
+            "parent": "t1_i1i0ixj",
+            "ans": "6 days, tops, if they ask you to explain the query plan /s",
+            "score": 3,
+            "que": "Let\u2019s be honest: sql would be the only thing that can really be done in 5 days."
+        },
+        {
+            "id": "i1kivcp",
+            "parent": "t1_i1i0ixj",
+            "ans": "While True:",
+            "score": 6,
+            "que": "Let\u2019s be honest: sql would be the only thing that can really be done in 5 days."
+        },
+        {
+            "id": "i1jvuqk",
+            "parent": "t1_i1i0ixj",
+            "ans": "The basics yeah. Enough to get a job too.",
+            "score": 2,
+            "que": "Let\u2019s be honest: sql would be the only thing that can really be done in 5 days."
+        },
+        {
+            "id": "i1jg0vq",
+            "parent": "t1_i1ibnop",
+            "ans": "I am upvoting for the wrong reasons.\n\nThis is why pretty much hyperopt and more compute is the most common way to attempt to make a model better because the skill set isn\u2019t there for anything else",
+            "score": 5,
+            "que": "just playing devil\u2019s advocate here: I don\u2019t think this post implies you need to learn all of calculus. in fact I think this subreddit\u2019s emphasis on calculus is way overblown. \n\nwhen I first switched to the field of ML Engineering I was so intimidated reading posts here because I didn\u2019t like calculus. I kept on studying ML sort of waiting for that knowledge gap to jump out at me. today, I\u2019m a Senior ML Engineer at a very reputable startup and that gap never appeared.\n\nI mean really, what calculus is required? understanding the partial derivative of the cost function? sure, but researchers created gradient descent in a way that updating gradients is a simple formula, and added some terms and exponents so the derivative is more intuitive.\n\nwhat else is there, the chain rule in a deep neural network? do you really need to do that from scratch? most libraries are like TensorFlow/PyTorch do the heavy lifting of creating layers so training can be accelerated through GPUs and certain infrastructure. just understanding that learning is backpropogated throughout various layers and we can add regularization or dropout and fancier layers like convolutional ones is probably enough.\n\nI do acknowledge that the field of ML research is much more into the weeds and would require a deeper math background but I get the feeling that most folks here aren\u2019t pursuing that."
+        },
+        {
+            "id": "i1o608i",
+            "parent": "t1_i1ibnop",
+            "ans": ">researchers created gradient descent in a way that updating gradients is a simple formula, and added some terms and exponents so the derivative is more intuitive.\n\n&#x200B;\n\n... What?",
+            "score": 1,
+            "que": "just playing devil\u2019s advocate here: I don\u2019t think this post implies you need to learn all of calculus. in fact I think this subreddit\u2019s emphasis on calculus is way overblown. \n\nwhen I first switched to the field of ML Engineering I was so intimidated reading posts here because I didn\u2019t like calculus. I kept on studying ML sort of waiting for that knowledge gap to jump out at me. today, I\u2019m a Senior ML Engineer at a very reputable startup and that gap never appeared.\n\nI mean really, what calculus is required? understanding the partial derivative of the cost function? sure, but researchers created gradient descent in a way that updating gradients is a simple formula, and added some terms and exponents so the derivative is more intuitive.\n\nwhat else is there, the chain rule in a deep neural network? do you really need to do that from scratch? most libraries are like TensorFlow/PyTorch do the heavy lifting of creating layers so training can be accelerated through GPUs and certain infrastructure. just understanding that learning is backpropogated throughout various layers and we can add regularization or dropout and fancier layers like convolutional ones is probably enough.\n\nI do acknowledge that the field of ML research is much more into the weeds and would require a deeper math background but I get the feeling that most folks here aren\u2019t pursuing that."
+        },
+        {
+            "id": "i1mk05z",
+            "parent": "t1_i1lyso4",
+            "ans": "Ah, yes. For fun. Possibly, with a good foundation in stats, you could supplant the data cleaning skill. In someways inform it. Taking some standard deviations, modelling some good QA data structure rules you could in some way make a proper pure. Possible a lot of us came to this that way. lol",
+            "score": 2,
+            "que": "I fundamentally and whole heartedly agree with you. \nI also agree with everyone else that this is garbage. \n\nBut for fun let\u2019s say you did work in this order. I guess I\u2019m like make the argument that everything up to this point wasn\u2019t real. So if your data wasn\u2019t clean and your model was wonk - ok? Now you can clean the data and re-run the model and see the effect on the result. Same in visualization. \n\nBut yeah - I still agree with you."
+        },
+        {
+            "id": "i1kmty6",
+            "parent": "t1_i1khqyt",
+            "ans": "Thanks a lot! That's super useful!",
+            "score": 1,
+            "que": "Make sure you give yourself time to learn and study. A degree doesn't mean anything if you only do the bare minimum and can't explain why you used a model or do anything in a business context.\n\nMost STEM degrees work as long as you take Calculus 1-3, Linear Algebra, and statistics/probability courses. Math, CS, engineering are good options if there isn't a specific data science program. Take advantage of office hours for professors and don't be afraid to ask dumb questions.\n\nAlso, create a portfolio of projects that you can share with prospective employers/clients. Having something other than words on a resume helps."
+        },
+        {
+            "id": "i1jtw6n",
+            "parent": "t1_i1i5e4q",
+            "ans": "Second this... busting out any model is a good day.  And after in years in the space, I have never run into a problem where xgboost wasn't a better option than a neural network.  But I work mostly with tabular and time serise data.",
+            "score": 1,
+            "que": "Deep learning is not becoming a requirement. If anything the industry is finally coming to terms with that deep learning can't just be tacked onto any problem they can think. This means data science positions are now more specific about whether they need you to actually work on deep learning or broader statistics."
+        },
+        {
+            "id": "i1j0y6m",
+            "parent": "t1_i1iwtar",
+            "ans": "Oh",
+            "score": 1,
+            "que": "The order is the worst part about this"
+        },
+        {
+            "id": "i1j4qad",
+            "parent": "t1_i1iwg1a",
+            "ans": "What is \"remote 1099\"? What do you mean \"easy\" to earn 300?\n\nI don't want someone to hire me. I was thinking of having a project-based approach, like the ones on fiverr.com\n\nIf I can make 10 projects costing 30 dollars each, I reach my goals. I just don't know if this is realistic. I am aiming at really basic projects too, I know I'm not qualified for more complicated stuff yet.",
+            "score": 1,
+            "que": "Easy to make $300 a month, very hard to convince someone to hire you 1099 remote part time if you\u2019re still in college."
+        },
+        {
+            "id": "i1l2evx",
+            "parent": "t1_i1kjts0",
+            "ans": "Lmao, probably. I remember having to go back and brush up on my calculus books to keep up in my graduate stat courses.",
+            "score": 1,
+            "que": "\"Everything is approximated to a random normal distribution! How is that calculated? Magic and computers. We're data scientists, not mathemagicians!\"\n\nThat's my guess."
+        },
+        {
+            "id": "i1irhe6",
+            "parent": "t1_i1ihmsi",
+            "ans": "Good ole Bobby Tables",
+            "score": 29,
+            "que": "A man of culture. This is my background at work \ud83d\ude02"
+        },
+        {
+            "id": "i1ig55f",
+            "parent": "t1_i1ibps5",
+            "ans": "CASE statements are so passive aggressive",
+            "score": 56,
+            "que": "IT INVOLVES A LOT OF SHOUTING"
+        },
+        {
+            "id": "i1jf55o",
+            "parent": "t1_i1ibps5",
+            "ans": "I'm shy so I write my queries in lowercase and without line breaks",
+            "score": 14,
+            "que": "IT INVOLVES A LOT OF SHOUTING"
+        },
+        {
+            "id": "i1kqbc6",
+            "parent": "t1_i1ibps5",
+            "ans": "Is it weird that I eschew convention and just use lowercase?\n\nIf the SQL formatter doesn't fix it, it it doesn't get fixed.",
+            "score": 4,
+            "que": "IT INVOLVES A LOT OF SHOUTING"
+        },
+        {
+            "id": "ik5bx2q",
+            "parent": "t1_i1ibps5",
+            "ans": "AND RUN-ON SENTENCES",
+            "score": 1,
+            "que": "IT INVOLVES A LOT OF SHOUTING"
+        },
+        {
+            "id": "i1kawu5",
+            "parent": "t1_i1jlxme",
+            "ans": "Love my Python guys but all they do is try to make Python do literally everything.",
+            "score": 7,
+            "que": "I could honestly say no"
+        },
+        {
+            "id": "i1i3rx3",
+            "parent": "t1_i1i1jgi",
+            "ans": "Or with a logistic regression",
+            "score": 136,
+            "que": "It\u2019s a popular kaggle dataset. Classify whether a person would survive the titanic. Not hard to get 70%+ accuracy with a small NN"
+        },
+        {
+            "id": "i1i6ipk",
+            "parent": "t1_i1i1jgi",
+            "ans": "Couldn't you get almost 70% accuracy with the dumb \"everyone dies\" prediction?",
+            "score": 233,
+            "que": "It\u2019s a popular kaggle dataset. Classify whether a person would survive the titanic. Not hard to get 70%+ accuracy with a small NN"
+        },
+        {
+            "id": "i1i6fgm",
+            "parent": "t1_i1i1jgi",
+            "ans": "An untuned XGBoost on the uncleaned titanic dataset will give you probably 75% accuracy.",
+            "score": 34,
+            "que": "It\u2019s a popular kaggle dataset. Classify whether a person would survive the titanic. Not hard to get 70%+ accuracy with a small NN"
+        },
+        {
+            "id": "i1klj9c",
+            "parent": "t1_i1i1jgi",
+            "ans": "I actually really like it as a practice dataset. Everyone knows what it's about and has at least some understanding of what aspects are relevant. It's tabular data and the size is very manageable. So it's really easy to get started.\n\nThere's a bunch of missing values that can be inferred from some of the other features in the dataset. There's features that appear categorical at first glance but are actually ordinal. There's a features that appear scalar but are categorical. If you clean all of this stuff properly there's some improvement to your model.\n\nThere's a real risk of overfit, and most importantly, it's impossible to get a perfect score (without looking up the answers) as there was a significant amount of chance involved.",
+            "score": 7,
+            "que": "It\u2019s a popular kaggle dataset. Classify whether a person would survive the titanic. Not hard to get 70%+ accuracy with a small NN"
+        },
+        {
+            "id": "i1lccai",
+            "parent": "t1_i1i1jgi",
+            "ans": "Can I guess that they all died? No ml necessary!",
+            "score": 2,
+            "que": "It\u2019s a popular kaggle dataset. Classify whether a person would survive the titanic. Not hard to get 70%+ accuracy with a small NN"
+        },
+        {
+            "id": "i1io82k",
+            "parent": "t1_i1i9j5w",
+            "ans": "It looks like you just spent too much time on it. 5 days max!",
+            "score": 52,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "i1in5nn",
+            "parent": "t1_i1i9j5w",
+            "ans": "I just know how to Wolfram alpha",
+            "score": 57,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "i1ixhz3",
+            "parent": "t1_i1i9j5w",
+            "ans": "[deleted]",
+            "score": 28,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "i1ish8t",
+            "parent": "t1_i1i9j5w",
+            "ans": "That's only if you read all the pages. The hack seems to be to limit yourself to less than 20 and you'll \"know calculus\" in a weekend",
+            "score": 15,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "i1iw5km",
+            "parent": "t1_i1i9j5w",
+            "ans": "Phew. It\u2019s not just me then.",
+            "score": 4,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "i1lvqc8",
+            "parent": "t1_i1i9j5w",
+            "ans": "I stopped getting 90s at manifolds and got my first F in orbifolds and that\u2019s when I knew I was at the limit. Pun intended. Ended up doing my masters in CS.",
+            "score": 1,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "idwqcmk",
+            "parent": "t1_i1i9j5w",
+            "ans": "Watch 3blue1brown on YouTube",
+            "score": 1,
+            "que": "I have taken well over a dozen calculus based courses and still don't know what the hell I'm doing."
+        },
+        {
+            "id": "i1lis1s",
+            "parent": "t1_i1ia8py",
+            "ans": "Calculus I the first day, Calculus Ii second day and Calculus III day 3",
+            "score": 6,
+            "que": "I was thinking they just meant Calculus I because learning Calculus I, II and III in a few days would just be ridiculous. /s"
+        },
+        {
+            "id": "i1ii74s",
+            "parent": "t1_i1ia8py",
+            "ans": "Idk, learning limit, derivative, integral (and their fomulas) in just a few days doesn't sound easy to me.",
+            "score": 13,
+            "que": "I was thinking they just meant Calculus I because learning Calculus I, II and III in a few days would just be ridiculous. /s"
+        },
+        {
+            "id": "i1j4za7",
+            "parent": "t1_i1ia8py",
+            "ans": "Programming calculus, I'm guessing you need some knowledge already.\n\nSame way they're not teaching English in the communication portion",
+            "score": 1,
+            "que": "I was thinking they just meant Calculus I because learning Calculus I, II and III in a few days would just be ridiculous. /s"
+        },
+        {
+            "id": "i1ixwit",
+            "parent": "t1_i1iwlep",
+            "ans": "[deleted]",
+            "score": 18,
+            "que": "How quickly do you think someone could learn Calculus I decent enough? I was debating this with my wife last night as there's a ~7 or 8 hour video on freeCodeCamp's YouTube channel on that topic. If someone watched an 8 hour video lecture over a week...?"
+        },
+        {
+            "id": "i1j0kp6",
+            "parent": "t1_i1iwlep",
+            "ans": "[deleted]",
+            "score": 10,
+            "que": "How quickly do you think someone could learn Calculus I decent enough? I was debating this with my wife last night as there's a ~7 or 8 hour video on freeCodeCamp's YouTube channel on that topic. If someone watched an 8 hour video lecture over a week...?"
+        },
+        {
+            "id": "i1j7sa4",
+            "parent": "t1_i1iwlep",
+            "ans": "I legitimately think you could learn Calc 1 in Khan Academy in a week, but it'd be a full time job 40 hours thing unless you had prior knowledge.",
+            "score": 5,
+            "que": "How quickly do you think someone could learn Calculus I decent enough? I was debating this with my wife last night as there's a ~7 or 8 hour video on freeCodeCamp's YouTube channel on that topic. If someone watched an 8 hour video lecture over a week...?"
+        },
+        {
+            "id": "i1izbsn",
+            "parent": "t1_i1iwlep",
+            "ans": "Decent enough to what, though? \n\nI took Calc I once and Calc II twice and passed both times with a low A/high B (had to retake because of some weird loophole where taking it the first time didn't count because I was 15/16), but I STILL don't understand this one concept and just skipped questions relating to it on the final. \n\nCan't believe I can't remember the name of it... It was this thing where we'd write formulas that created a sort of best fit line for formulas that couldn't exist. Like, in order to integrate formulas that could not be integrated. It wasn't integration by parts, it was named after a mathematician. Not Riemann or Euler... hmm. That's going to drive me nuts.\n\nEDIT: TAYLOR POLYNOMIALS. And it was regarding series, not integrals. Hmmmm. Well, like I said, I never understood it.",
+            "score": 4,
+            "que": "How quickly do you think someone could learn Calculus I decent enough? I was debating this with my wife last night as there's a ~7 or 8 hour video on freeCodeCamp's YouTube channel on that topic. If someone watched an 8 hour video lecture over a week...?"
+        },
+        {
+            "id": "i1jedmf",
+            "parent": "t1_i1iwlep",
+            "ans": "As someone who has taught . \n\nThere is a huge issue with not being able to view those videos from a beginners eye. There is a huge difference between materials to teach you something at different levels.\n\n\n Some videos are great for review for folks who learned it , some videos are great for people learning something that is basically something they already learned but conceptualized differently like a mathematician with a great probability and stats background learning statistical mechanics, and someone learning something as a complete beginner .",
+            "score": 1,
+            "que": "How quickly do you think someone could learn Calculus I decent enough? I was debating this with my wife last night as there's a ~7 or 8 hour video on freeCodeCamp's YouTube channel on that topic. If someone watched an 8 hour video lecture over a week...?"
+        },
+        {
+            "id": "i1j4vml",
+            "parent": "t1_i1j4av8",
+            "ans": "I am a Data Scientist! I have a bachelors degree in Mathematics, and a Master's Degree in Statistics/Operational Research.",
+            "score": 4,
+            "que": "stupid question here, but what do you do as a mathematician? as in, what are your duties? is it similar to a statistician? Ive never really seen one in the wild before but Im wondering if its more research-based or analytical"
+        },
+        {
+            "id": "i1npug7",
+            "parent": "t1_i1k1ytn",
+            "ans": "Life is unfair...",
+            "score": 1,
+            "que": "I know what you mean, but I hate you for reminding me."
+        },
+        {
+            "id": "i1i19cu",
+            "parent": "t1_i1i0bvb",
+            "ans": "Also it takes time for these concepts to really sink in....",
+            "score": 59,
+            "que": "How many hours did you spend on homework, though?"
+        },
+        {
+            "id": "i1iq3f3",
+            "parent": "t1_i1i0bvb",
+            "ans": "Why would you give yourself homework though?\n\nI didnt have a lot. Calc was 5 problems per class, so 5 minutes. Stat class was maybe 20 minutes every week.",
+            "score": -5,
+            "que": "How many hours did you spend on homework, though?"
+        },
+        {
+            "id": "i1ksbva",
+            "parent": "t1_i1iaelv",
+            "ans": "\"Hello, Cruel Sea\"",
+            "score": 3,
+            "que": "Well for about 70% of the passengers it wasn't so much a \"Hello World\" as a \"Goodbye Cruel World\"."
+        },
+        {
+            "id": "i1iwv8l",
+            "parent": "t1_i1isjcp",
+            "ans": "I like the wine classification one better.  I can drink while I\u2019m coding the classification model.",
+            "score": 9,
+            "que": "I thought that was the Iris flower data set?"
+        },
+        {
+            "id": "i1ittd0",
+            "parent": "t1_i1isjcp",
+            "ans": "Iris got canceled.",
+            "score": 4,
+            "que": "I thought that was the Iris flower data set?"
+        },
+        {
+            "id": "i1pjcgo",
+            "parent": "t1_i1o608i",
+            "ans": "the partial derivative of the cost function for several algorithms is relatively simple, and added terms such as the 1/2 in standard linear regression makes it so the squared term cancels it out, and we\u2019re left with an even simpler method of updating gradients",
+            "score": 2,
+            "que": ">researchers created gradient descent in a way that updating gradients is a simple formula, and added some terms and exponents so the derivative is more intuitive.\n\n&#x200B;\n\n... What?"
+        },
+        {
+            "id": "i1j5xdv",
+            "parent": "t1_i1j4qad",
+            "ans": "1099 - contract work  \nRemote - remote\n\nAs someone who works in industry all I\u2019m gonna say is that most clients of any repute or size aren\u2019t going to want their data off-sited, *especially* not to randoms off Fiverr. Data work is almost entirely done in-house.\n\nEasy to make $300 a month in analytics, hard to make it the way you want.",
+            "score": 2,
+            "que": "What is \"remote 1099\"? What do you mean \"easy\" to earn 300?\n\nI don't want someone to hire me. I was thinking of having a project-based approach, like the ones on fiverr.com\n\nIf I can make 10 projects costing 30 dollars each, I reach my goals. I just don't know if this is realistic. I am aiming at really basic projects too, I know I'm not qualified for more complicated stuff yet."
+        },
+        {
+            "id": "i2yl3o4",
+            "parent": "t1_i1ig55f",
+            "ans": "Slave commands",
+            "score": 5,
+            "que": "CASE statements are so passive aggressive"
+        },
+        {
+            "id": "i1kyvmg",
+            "parent": "t1_i1jf55o",
+            "ans": "And without exclamation marks.",
+            "score": 3,
+            "que": "I'm shy so I write my queries in lowercase and without line breaks"
+        },
+        {
+            "id": "ik5c1bf",
+            "parent": "t1_i1kqbc6",
+            "ans": "No it\u2019s not weird that you\u2019re an anarchist who wants to watch the world burn, you absolute psychopath. In a friendly way.",
+            "score": 1,
+            "que": "Is it weird that I eschew convention and just use lowercase?\n\nIf the SQL formatter doesn't fix it, it it doesn't get fixed."
+        },
+        {
+            "id": "i1i7hd9",
+            "parent": "t1_i1i6ipk",
+            "ans": "yes and if you say everyone dies but first class, you'd be even better",
+            "score": 206,
+            "que": "Couldn't you get almost 70% accuracy with the dumb \"everyone dies\" prediction?"
+        },
+        {
+            "id": "i1io47v",
+            "parent": "t1_i1i6ipk",
+            "ans": "Is Rose one if the survivors?",
+            "score": 9,
+            "que": "Couldn't you get almost 70% accuracy with the dumb \"everyone dies\" prediction?"
+        },
+        {
+            "id": "i1jwh66",
+            "parent": "t1_i1i6ipk",
+            "ans": "Yeah, it's a small, dumb dataset where the baselibe model is good enough, and you have to fight and scratch for really marginal improvements.\n\nUnless the lesson you learn is \"When you know the right answer, use a lookup table\", then it's a valuabke exercise ;)",
+            "score": 1,
+            "que": "Couldn't you get almost 70% accuracy with the dumb \"everyone dies\" prediction?"
+        },
+        {
+            "id": "j0bi6jj",
+            "parent": "t1_i1io82k",
+            "ans": "If you can learn it slowly, you can learn it quickly!",
+            "score": 1,
+            "que": "It looks like you just spent too much time on it. 5 days max!"
+        },
+        {
+            "id": "i1jm2fy",
+            "parent": "t1_i1in5nn",
+            "ans": "Sir that\u2019s al I do too hehe \ud83d\ude09",
+            "score": 3,
+            "que": "I just know how to Wolfram alpha"
+        },
+        {
+            "id": "i1j813k",
+            "parent": "t1_i1ixhz3",
+            "ans": " \u2206C if you will",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i1jwvud",
+            "parent": "t1_i1ii74s",
+            "ans": "Don\u2019t you learn limits and derivation in high school (11th and 12th grade)? I know when I took calc I it was mostly stuff I already knew from high school. The only new thing was integration.",
+            "score": 5,
+            "que": "Idk, learning limit, derivative, integral (and their fomulas) in just a few days doesn't sound easy to me."
+        },
+        {
+            "id": "i1jpr05",
+            "parent": "t1_i1ii74s",
+            "ans": "idk, a good teacher could definitely do it imo, assuming that base of math knowledge is there. Memorizing the formulas may take a bit longer/more practice, but to learn the base concepts, I think it could be done in a day.",
+            "score": 1,
+            "que": "Idk, learning limit, derivative, integral (and their fomulas) in just a few days doesn't sound easy to me."
+        },
+        {
+            "id": "i1m52yg",
+            "parent": "t1_i1ii74s",
+            "ans": "[Urban Dictionary](https://www.urbandictionary.com/define.php?term=%2FS):\n\n>The /S is known as the sarcasm switch. When you are typing a post use it at the end of your post so people know you are actually being sarcastic.",
+            "score": 1,
+            "que": "Idk, learning limit, derivative, integral (and their fomulas) in just a few days doesn't sound easy to me."
+        },
+        {
+            "id": "i1iypfk",
+            "parent": "t1_i1ixwit",
+            "ans": "I don't know Calculus yet, it's just a bucket list item of mine. Maybe it would be better learning from a book, doing their practice problems, and supplementing with videos when I don't understand. Or Khan Academy, but I'm not a big fan of their layout. What do you think?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i1jrj21",
+            "parent": "t1_i1j0kp6",
+            "ans": "You do directly need calc I to interpret some models that are not linear too. Eg splines/GAM. If you assume everything is linear in x and additive then you don\u2019t but that assumption is broken plenty of times and then you need to use a concept of the derivative numerically to get an average effect size even in the code. Its not particularly complicated calc and there are packages that could do this in R but you still kind of need to know that to use them. If you are interpreting LIME/SHAP then it uses some similar calc concepts too.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i1p3hq6",
+            "parent": "t1_i1j7sa4",
+            "ans": "Realistically, a college Calc I class is 1 hr/class, 3-4 days/week, with roughly 16 weeks in a semester so 48-64 hours is the lecture time so one \"work week\" isn't that far off. That said, it's obviously the homework problems that's going to really teach you calculus and that's a lot more in-depth (plus college has recitations or other TA sessions as well)",
+            "score": 1,
+            "que": "I legitimately think you could learn Calc 1 in Khan Academy in a week, but it'd be a full time job 40 hours thing unless you had prior knowledge."
+        },
+        {
+            "id": "i1i1soh",
+            "parent": "t1_i1i19cu",
+            "ans": "And I had 4 calc classes, linear algebra and diffeq. Then two 400 level stats classes were 30 hours each and included calculus, so they might also have that order backwards. Unsurprising to us all, that was all done before the masters degree with 600ish hours of coursework. Hierarchical models with well selected priors by day 60 confirmed.",
+            "score": 16,
+            "que": "Also it takes time for these concepts to really sink in...."
+        },
+        {
+            "id": "i1ixjnd",
+            "parent": "t1_i1iq3f3",
+            "ans": "Because most people do not actually learn math from just listening/reading, and they don\u2019t even appreciate that they don\u2019t understand until they try to work problems and realize that there are gaps in their comprehension. \n\nWhere I went to undergrad, classes were designed for you to spend 3 hours outside of class for every hour in class.",
+            "score": 16,
+            "que": "Why would you give yourself homework though?\n\nI didnt have a lot. Calc was 5 problems per class, so 5 minutes. Stat class was maybe 20 minutes every week."
+        },
+        {
+            "id": "i1ivc74",
+            "parent": "t1_i1ittd0",
+            "ans": "I missed this",
+            "score": 3,
+            "que": "Iris got canceled."
+        },
+        {
+            "id": "i1q0bou",
+            "parent": "t1_i1pjcgo",
+            "ans": "We don't update gradients... We use them to update some parameter(s) \u03b8 and compute the gradient again after each update... Unless you're referring to gradient descent for convex / concave Lipschitz functions where momentum is used to effectively \"update\" the gradient...",
+            "score": 1,
+            "que": "the partial derivative of the cost function for several algorithms is relatively simple, and added terms such as the 1/2 in standard linear regression makes it so the squared term cancels it out, and we\u2019re left with an even simpler method of updating gradients"
+        },
+        {
+            "id": "i1j6dfw",
+            "parent": "t1_i1j5xdv",
+            "ans": "Ok, that makes sense. Thanks for the info.\n\nDo you have any suggestion on how to make these 300 bucks then? I understand most jobs would pay much more but also need more qualification.",
+            "score": 1,
+            "que": "1099 - contract work  \nRemote - remote\n\nAs someone who works in industry all I\u2019m gonna say is that most clients of any repute or size aren\u2019t going to want their data off-sited, *especially* not to randoms off Fiverr. Data work is almost entirely done in-house.\n\nEasy to make $300 a month in analytics, hard to make it the way you want."
+        },
+        {
+            "id": "i2yl4fs",
+            "parent": "t1_i2yl3o4",
+            "ans": "MADNESS, CURSE YOUR FEEBLE HORDE",
+            "score": 7,
+            "que": "Slave commands"
+        },
+        {
+            "id": "i1i8znr",
+            "parent": "t1_i1i7hd9",
+            "ans": "Even better: Men die, women survive.",
+            "score": 115,
+            "que": "yes and if you say everyone dies but first class, you'd be even better"
+        },
+        {
+            "id": "i1jcnzn",
+            "parent": "t1_i1i7hd9",
+            "ans": "Some features are always good",
+            "score": 4,
+            "que": "yes and if you say everyone dies but first class, you'd be even better"
+        },
+        {
+            "id": "i1iu3eb",
+            "parent": "t1_i1io47v",
+            "ans": "Would\n\nA Rose By Any Other Name \n\nalso survive?",
+            "score": 20,
+            "que": "Is Rose one if the survivors?"
+        },
+        {
+            "id": "i1iwgum",
+            "parent": "t1_i1io47v",
+            "ans": "What the probability of a survivor having a ginormous diamond necklace?",
+            "score": 5,
+            "que": "Is Rose one if the survivors?"
+        },
+        {
+            "id": "i1l9ynq",
+            "parent": "t1_i1io47v",
+            "ans": "Yes, but no Jack, the \"door wasnt big enough\".",
+            "score": 4,
+            "que": "Is Rose one if the survivors?"
+        },
+        {
+            "id": "i1mhldf",
+            "parent": "t1_i1jwvud",
+            "ans": "I didn't take any of that stuff in high school. We took Algebra 1,2 and Geometry. 4th year we didn't have to take math at all and I was planning to be a music major soo didn't. Now I'm a retired musician taking Calculus and hating life lol.",
+            "score": 3,
+            "que": "Don\u2019t you learn limits and derivation in high school (11th and 12th grade)? I know when I took calc I it was mostly stuff I already knew from high school. The only new thing was integration."
+        },
+        {
+            "id": "i1jy8kb",
+            "parent": "t1_i1jwvud",
+            "ans": "I learnt pretty much everything in Calc I back in high school but I'm talking about learning it from scratch.",
+            "score": 1,
+            "que": "Don\u2019t you learn limits and derivation in high school (11th and 12th grade)? I know when I took calc I it was mostly stuff I already knew from high school. The only new thing was integration."
+        },
+        {
+            "id": "i1j6upw",
+            "parent": "t1_i1iypfk",
+            "ans": "There's three things you need from Calc 1: limits, derivatives, and integrals. \n\nLimits you could easily learn in a few hours with dedication, derivatives are also pretty quick if you're mathematically minded (it's really easy to think about a rate of change for me at least). These are what I call the \"fun\" of calc 1. \n\nIntegrals are, well, integral to understanding a lot of math after Calc 1. Probability especially likes integrating over functions (which is probably the most common data science application of integrals) to find the probability of an event in a sample space. However, there are functions that are easy to integrate, and there are functions that will make you through your book at the wall trying to integrate, and it gets even worse in Calc 2 with trig subs and integration by parts. \n\nRealistically, if you wanted to understand what's actually happening with these three topics you could get the gist of it over a weekend: limits describe how the function behaves to that limit, derivatives describe the rate of change of a function, and integrals are the area under the curve of a function. That's super simplified, but you get the point. I don't have to know every car to be able to explain how an engine uses gas, spark, and air to turn a crankshaft. \n\nIf you want to be able to look at a function and apply all three learning objectives of calc 1, it'll probably take a few weeks, if you just want to understand what you can learn from a function (and you're driven to figure it out) I'd bet you could do it in around a week.",
+            "score": 9,
+            "que": "I don't know Calculus yet, it's just a bucket list item of mine. Maybe it would be better learning from a book, doing their practice problems, and supplementing with videos when I don't understand. Or Khan Academy, but I'm not a big fan of their layout. What do you think?"
+        },
+        {
+            "id": "i1jgax0",
+            "parent": "t1_i1iypfk",
+            "ans": "Most of what is done in calculus classes is solving problems, like different types of intervals.  If you're learning it on your own you could skip a lot of that and focus on the concepts but would still take more than 8 hours I think because you have to do at least some problems yourself and not just watch.",
+            "score": 4,
+            "que": "I don't know Calculus yet, it's just a bucket list item of mine. Maybe it would be better learning from a book, doing their practice problems, and supplementing with videos when I don't understand. Or Khan Academy, but I'm not a big fan of their layout. What do you think?"
+        },
+        {
+            "id": "i1jibyn",
+            "parent": "t1_i1iypfk",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "I don't know Calculus yet, it's just a bucket list item of mine. Maybe it would be better learning from a book, doing their practice problems, and supplementing with videos when I don't understand. Or Khan Academy, but I'm not a big fan of their layout. What do you think?"
+        },
+        {
+            "id": "i1jvx5u",
+            "parent": "t1_i1iypfk",
+            "ans": "Calculus is a specific application of the Mathmatics branch of Analysis. Analysis concerns itself with the behavior of infinity and particularly infinite sequences.\n\nFor the Calculus concept of \"the Derivative\" of a function, used to give the slope of a tangent to a curve, we take a sequence of points which converge to the point we are calculating a derivative for, in this case x:\n\n    (f(x+h)-f(x))/h\n\nTaking a sequence of values for h which converges to 0 will give the slope of the tangent to the curve f() at x when h reaches infinity.\n\nFortunately, rather than waiting for infinity we can simplify the above equation in many cases. The classic example is f(x)=x^(2). In this case the above equation becomes:\n\n    ((x+h)^2 - x^2) / h =\n    (x^2 + 2hx + h^2 - x^2) / h =\n    (2hx +h^(2)) / h=\n    2x + h\n\nNow we can safely substitute 0 for h and get an answer without having to worry about an undefined arithmetic operation. The derivative of x^2 is in fact 2x.\n\nNow you theoretically know calculus. You can use this method to derive all the common computational results of calculus. Unless you are in a real-world engineering domain of some kind (computer vision counts, but I mean like building bridges mainly) you probably will only really need to work with polynomial expressions and not worry about trigonometry too much.\n\nDo you actually know calculus now? Eh. You definitely don't have the muscle memory developed by working problem sets or seeing example sets worked by the professor for 100 minutes per week for a year.\n\nAs an exercise, consider deriving the derivative using the above method for the following functions:\n\n    x^2 + 2\n    x^2 + x\n\nAnd watch more videos and instructionals. If you can get the derivative you get the important part for understanding Gradient Descent in ML (well, this and realizing that when a curve bottoms out there must be a spot where the derivative is 0, same goes for when a curve tops out though). Integrals are important for understanding statistics at a higher level. The area under a curve (the integral) is used to define probabilities from a curved probability density function, like the Bell Curve. That said, this is kinda high-level and I have not had to use understanding of integrals the way I have frequently used derivatives in optimization problems of various kinds.",
+            "score": 2,
+            "que": "I don't know Calculus yet, it's just a bucket list item of mine. Maybe it would be better learning from a book, doing their practice problems, and supplementing with videos when I don't understand. Or Khan Academy, but I'm not a big fan of their layout. What do you think?"
+        },
+        {
+            "id": "i1jep4h",
+            "parent": "t1_i1ixjnd",
+            "ans": "> realize that there are gaps in their comprehension.\n\nFor some people finding those gaps are a negative since the goal is to say they learned not actually learn",
+            "score": 5,
+            "que": "Because most people do not actually learn math from just listening/reading, and they don\u2019t even appreciate that they don\u2019t understand until they try to work problems and realize that there are gaps in their comprehension. \n\nWhere I went to undergrad, classes were designed for you to spend 3 hours outside of class for every hour in class."
+        },
+        {
+            "id": "i1iyrcq",
+            "parent": "t1_i1ixjnd",
+            "ans": "3 hours? I had class for 8 hrs a day 5 days a week. I would have to spend 160 out of 168 hrs in the week on class and homework.\nAs long as you could prove you understand and could apply the concepts then there wasnt much use for homework.",
+            "score": -2,
+            "que": "Because most people do not actually learn math from just listening/reading, and they don\u2019t even appreciate that they don\u2019t understand until they try to work problems and realize that there are gaps in their comprehension. \n\nWhere I went to undergrad, classes were designed for you to spend 3 hours outside of class for every hour in class."
+        },
+        {
+            "id": "i1ivhm9",
+            "parent": "t1_i1ivc74",
+            "ans": "https://www.garrickadenbuie.com/blog/lets-move-on-from-iris/",
+            "score": 0,
+            "que": "I missed this"
+        },
+        {
+            "id": "i1q29ub",
+            "parent": "t1_i1q0bou",
+            "ans": "actually, the gradient represents the direction in which the parameters are updated. in essence, the gradients are overwritten, and some would describe as \u201cupdated\u201d \u2014 so the parameters can be modified accordingly. my original point still stands.",
+            "score": 1,
+            "que": "We don't update gradients... We use them to update some parameter(s) \u03b8 and compute the gradient again after each update... Unless you're referring to gradient descent for convex / concave Lipschitz functions where momentum is used to effectively \"update\" the gradient..."
+        },
+        {
+            "id": "i1jchcz",
+            "parent": "t1_i1j6dfw",
+            "ans": "If you\u2019re in college just get a job waiting tables lol, tipped wage is actually pretty high",
+            "score": 1,
+            "que": "Ok, that makes sense. Thanks for the info.\n\nDo you have any suggestion on how to make these 300 bucks then? I understand most jobs would pay much more but also need more qualification."
+        },
+        {
+            "id": "i1iiv8y",
+            "parent": "t1_i1i8znr",
+            "ans": "Woah, we did a decision tree with this comments",
+            "score": 207,
+            "que": "Even better: Men die, women survive."
+        },
+        {
+            "id": "i1jwore",
+            "parent": "t1_i1i8znr",
+            "ans": "You can add \"kids survive\" and \"women die if kids with the same last name died\" for some marginal gains too.",
+            "score": 1,
+            "que": "Even better: Men die, women survive."
+        },
+        {
+            "id": "i1jq6f0",
+            "parent": "t1_i1iwgum",
+            "ans": "I'd say about 1 in 700",
+            "score": 7,
+            "que": "What the probability of a survivor having a ginormous diamond necklace?"
+        },
+        {
+            "id": "i1jzk9w",
+            "parent": "t1_i1jy8kb",
+            "ans": "Fair enough, I assumed the person wanting to learn it at least completed high school.",
+            "score": 1,
+            "que": "I learnt pretty much everything in Calc I back in high school but I'm talking about learning it from scratch."
+        },
+        {
+            "id": "i1jiual",
+            "parent": "t1_i1jibyn",
+            "ans": "On the spectrum of \"recognize\" to \"know,\" closer to \"know.\"",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "i1j1607",
+            "parent": "t1_i1iyrcq",
+            "ans": "And now I understand why some people think diplomas aren\u2019t worth the paper they are printed on. \n\nHow would you prove that you knew the concepts without doing a fairly comprehensive problem set? And good problem sets will teach you things you didn\u2019t have a chance to learn in class, as well as grow your problem solving and critical thinking skills. \n\nYou spent 40 hours a week in class in college? 3-4 courses was a normal load, 6 was quite heavy, 13 would have been completely unheard of. Though, with the size of campus and the time of classes, scheduling that many classes you actually wanted would have been impossible.",
+            "score": 6,
+            "que": "3 hours? I had class for 8 hrs a day 5 days a week. I would have to spend 160 out of 168 hrs in the week on class and homework.\nAs long as you could prove you understand and could apply the concepts then there wasnt much use for homework."
+        },
+        {
+            "id": "i1j89xh",
+            "parent": "t1_i1iyrcq",
+            "ans": "I've had proof-based math classes where I've easily spent 15-20+ hours on homework set per week. That is a single class. The same for challenging CS classes.",
+            "score": 1,
+            "que": "3 hours? I had class for 8 hrs a day 5 days a week. I would have to spend 160 out of 168 hrs in the week on class and homework.\nAs long as you could prove you understand and could apply the concepts then there wasnt much use for homework."
+        },
+        {
+            "id": "i1ixefs",
+            "parent": "t1_i1ivhm9",
+            "ans": "That is... dumb.",
+            "score": 2,
+            "que": "https://www.garrickadenbuie.com/blog/lets-move-on-from-iris/"
+        },
+        {
+            "id": "i1q32gv",
+            "parent": "t1_i1q29ub",
+            "ans": "Literally nobody describes \u2207f(x\\_t+1) as the update of \u2207f(x\\_t) lol.",
+            "score": 1,
+            "que": "actually, the gradient represents the direction in which the parameters are updated. in essence, the gradients are overwritten, and some would describe as \u201cupdated\u201d \u2014 so the parameters can be modified accordingly. my original point still stands."
+        },
+        {
+            "id": "i1jcre5",
+            "parent": "t1_i1jchcz",
+            "ans": "I'm not from the US, not so simple for me",
+            "score": 2,
+            "que": "If you\u2019re in college just get a job waiting tables lol, tipped wage is actually pretty high"
+        },
+        {
+            "id": "i1j688r",
+            "parent": "t1_i1iiv8y",
+            "ans": "Even better(only on training set): Predict by name",
+            "score": 32,
+            "que": "Woah, we did a decision tree with this comments"
+        },
+        {
+            "id": "i1jbti8",
+            "parent": "t1_i1iiv8y",
+            "ans": "r/askCART",
+            "score": 1,
+            "que": "Woah, we did a decision tree with this comments"
+        },
+        {
+            "id": "i1j1y6j",
+            "parent": "t1_i1j1607",
+            "ans": "Tests taken during class proved what you knew or didnt know. Class sizes were 10-30 people. 40 hours a week isnt that bad when it takes you 5 hours to do all the homework for a week.",
+            "score": -1,
+            "que": "And now I understand why some people think diplomas aren\u2019t worth the paper they are printed on. \n\nHow would you prove that you knew the concepts without doing a fairly comprehensive problem set? And good problem sets will teach you things you didn\u2019t have a chance to learn in class, as well as grow your problem solving and critical thinking skills. \n\nYou spent 40 hours a week in class in college? 3-4 courses was a normal load, 6 was quite heavy, 13 would have been completely unheard of. Though, with the size of campus and the time of classes, scheduling that many classes you actually wanted would have been impossible."
+        },
+        {
+            "id": "i1ixfqz",
+            "parent": "t1_i1ixefs",
+            "ans": "No it isn\u2019t.",
+            "score": 0,
+            "que": "That is... dumb."
+        },
+        {
+            "id": "i1q4046",
+            "parent": "t1_i1q32gv",
+            "ans": "I\u2019d agree that the use of \u201cparameters\u201d would be more precise but I get the feeling that you understood the point I was trying to make regardless",
+            "score": 2,
+            "que": "Literally nobody describes \u2207f(x\\_t+1) as the update of \u2207f(x\\_t) lol."
+        },
+        {
+            "id": "i1jgs5z",
+            "parent": "t1_i1jcre5",
+            "ans": "Then you\u2019re *definitely* not going to get gig work doing data analytics lol",
+            "score": 2,
+            "que": "I'm not from the US, not so simple for me"
+        },
+        {
+            "id": "i1jh951",
+            "parent": "t1_i1j688r",
+            "ans": "Better still (on the training set): Predict by survival",
+            "score": 50,
+            "que": "Even better(only on training set): Predict by name"
+        },
+        {
+            "id": "i1jbveq",
+            "parent": "t1_i1jbti8",
+            "ans": "The subreddit r/askCART does not exist.\n\nDid you mean?:\n\n* r/AskABrit (subscribers: 27,809)\n* r/asciiart (subscribers: 1,221)\n* r/NASCAR (subscribers: 734,899)\n* r/SpecArt (subscribers: 1,481,264)\n\nConsider [**creating a new subreddit** r/askCART](/subreddits/create?name=askCART).\n\n---\n^(\ud83e\udd16 this comment was written by a bot. beep boop \ud83e\udd16)\n\n^(feel welcome to respond 'Bad bot'/'Good bot', it's useful feedback.)\n^[github](https://github.com/Toldry/RedditAutoCrosspostBot) ^| ^[Rank](https://botranks.com?bot=sub_doesnt_exist_bot)",
+            "score": 1,
+            "que": "r/askCART"
+        },
+        {
+            "id": "i1j26zv",
+            "parent": "t1_i1j1y6j",
+            "ans": "Wouldn\u2019t you want to prove to yourself that you knew the concepts before a test came and wrecked your life because you had misjudged your abilities?",
+            "score": 3,
+            "que": "Tests taken during class proved what you knew or didnt know. Class sizes were 10-30 people. 40 hours a week isnt that bad when it takes you 5 hours to do all the homework for a week."
+        },
+        {
+            "id": "i1izcxv",
+            "parent": "t1_i1ixfqz",
+            "ans": "\"Let's all stop using a dataset that has been used with success for 70+ years in academia to demonstrate various methods because the dude who compiled it was an eugenicist\"\n\nThis is the definition of dumb, the fact that Fisher was an eugenicist is irrelevant, lets not even get into the fact that when we say eugenics here it probably doesn't mean what you think it does.\n\nFrom this Nature [article](https://www.nature.com/articles/s41437-020-00394-6): \n>Nearly all of Fisher\u2019s statements were about populations, groups of populations, or the human species as a whole. In addition, Fisher\u2019s discussion of the consequences of race mixture in humans (Fisher 1930a, pp 238\u2013239) dispels any notion that he was a racist in the Nazi and white supremacist sense of believing in the importance of racial purity.\n\nFisher believed people with congenital diseases should be offered **voluntary** sterilization, if you want to argue that this is immoral that's another topic and I would likely agree with you (even though the voluntary part makes it a bit gray), but trying to portray Fisher as if he was Josef Mengele is dumb.\n\nLet's not forget that another founding member of this Eugenics society was none other than Keynes, should we discard all of his contributions to economy due to that? That's gonna be a hard pill to swallow, considering Keynesianism is the basis for social democracy.\n\nFisher was also very close friends with Mahalanobis, so clearly Mahalanobis is guilty by association, lets all stop using the Mahalanobis distance as an outlier detection method, as doing so is clearly racist.",
+            "score": 7,
+            "que": "No it isn\u2019t."
+        },
+        {
+            "id": "i1jhkg0",
+            "parent": "t1_i1jgs5z",
+            "ans": "Well that sucks. thanks for being straightforward i guess",
+            "score": 1,
+            "que": "Then you\u2019re *definitely* not going to get gig work doing data analytics lol"
+        },
+        {
+            "id": "it1q8c6",
+            "parent": "t1_i1jh951",
+            "ans": "This reminds me of a youtube video called \"Using deep neural network to predict someone's age, given age as the input\"",
+            "score": 1,
+            "que": "Better still (on the training set): Predict by survival"
+        },
+        {
+            "id": "i1kg4c4",
+            "parent": "t1_i1jbveq",
+            "ans": "Good bot, we did indeed want r/NASCAR",
+            "score": 2,
+            "que": "The subreddit r/askCART does not exist.\n\nDid you mean?:\n\n* r/AskABrit (subscribers: 27,809)\n* r/asciiart (subscribers: 1,221)\n* r/NASCAR (subscribers: 734,899)\n* r/SpecArt (subscribers: 1,481,264)\n\nConsider [**creating a new subreddit** r/askCART](/subreddits/create?name=askCART).\n\n---\n^(\ud83e\udd16 this comment was written by a bot. beep boop \ud83e\udd16)\n\n^(feel welcome to respond 'Bad bot'/'Good bot', it's useful feedback.)\n^[github](https://github.com/Toldry/RedditAutoCrosspostBot) ^| ^[Rank](https://botranks.com?bot=sub_doesnt_exist_bot)"
+        },
+        {
+            "id": "i1j9401",
+            "parent": "t1_i1j26zv",
+            "ans": "There was usually enough practice in class that I wasnt worried. Btw I love the downvotes because you had to waste a bunch of time on homework and I didnt.",
+            "score": 1,
+            "que": "Wouldn\u2019t you want to prove to yourself that you knew the concepts before a test came and wrecked your life because you had misjudged your abilities?"
+        },
+        {
+            "id": "i1jht7s",
+            "parent": "t1_i1izcxv",
+            "ans": ">He believes that human groups differ profoundly \"in their innate capacity for intellectual and emotional development\"\n\nhttps://statmodeling.stat.columbia.edu/2020/08/01/ra-fisher-and-the-science-of-hatred/\n\nWhen there are viable alternatives to the iris dataset, why not use them?",
+            "score": -1,
+            "que": "\"Let's all stop using a dataset that has been used with success for 70+ years in academia to demonstrate various methods because the dude who compiled it was an eugenicist\"\n\nThis is the definition of dumb, the fact that Fisher was an eugenicist is irrelevant, lets not even get into the fact that when we say eugenics here it probably doesn't mean what you think it does.\n\nFrom this Nature [article](https://www.nature.com/articles/s41437-020-00394-6): \n>Nearly all of Fisher\u2019s statements were about populations, groups of populations, or the human species as a whole. In addition, Fisher\u2019s discussion of the consequences of race mixture in humans (Fisher 1930a, pp 238\u2013239) dispels any notion that he was a racist in the Nazi and white supremacist sense of believing in the importance of racial purity.\n\nFisher believed people with congenital diseases should be offered **voluntary** sterilization, if you want to argue that this is immoral that's another topic and I would likely agree with you (even though the voluntary part makes it a bit gray), but trying to portray Fisher as if he was Josef Mengele is dumb.\n\nLet's not forget that another founding member of this Eugenics society was none other than Keynes, should we discard all of his contributions to economy due to that? That's gonna be a hard pill to swallow, considering Keynesianism is the basis for social democracy.\n\nFisher was also very close friends with Mahalanobis, so clearly Mahalanobis is guilty by association, lets all stop using the Mahalanobis distance as an outlier detection method, as doing so is clearly racist."
+        },
+        {
+            "id": "i1izlcz",
+            "parent": "t1_i1izcxv",
+            "ans": "Wild to know that when you look up the word dumb in the dictionary it mentions this issue specifically",
+            "score": -2,
+            "que": "\"Let's all stop using a dataset that has been used with success for 70+ years in academia to demonstrate various methods because the dude who compiled it was an eugenicist\"\n\nThis is the definition of dumb, the fact that Fisher was an eugenicist is irrelevant, lets not even get into the fact that when we say eugenics here it probably doesn't mean what you think it does.\n\nFrom this Nature [article](https://www.nature.com/articles/s41437-020-00394-6): \n>Nearly all of Fisher\u2019s statements were about populations, groups of populations, or the human species as a whole. In addition, Fisher\u2019s discussion of the consequences of race mixture in humans (Fisher 1930a, pp 238\u2013239) dispels any notion that he was a racist in the Nazi and white supremacist sense of believing in the importance of racial purity.\n\nFisher believed people with congenital diseases should be offered **voluntary** sterilization, if you want to argue that this is immoral that's another topic and I would likely agree with you (even though the voluntary part makes it a bit gray), but trying to portray Fisher as if he was Josef Mengele is dumb.\n\nLet's not forget that another founding member of this Eugenics society was none other than Keynes, should we discard all of his contributions to economy due to that? That's gonna be a hard pill to swallow, considering Keynesianism is the basis for social democracy.\n\nFisher was also very close friends with Mahalanobis, so clearly Mahalanobis is guilty by association, lets all stop using the Mahalanobis distance as an outlier detection method, as doing so is clearly racist."
+        },
+        {
+            "id": "i1kvos8",
+            "parent": "t1_i1kg4c4",
+            "ans": "I don't know much about data science but VROOM VROOOOOM",
+            "score": 1,
+            "que": "Good bot, we did indeed want r/NASCAR"
+        },
+        {
+            "id": "i1j9hvl",
+            "parent": "t1_i1j9401",
+            "ans": "I didn\u2019t downvote you. As a rule I don\u2019t downvote people unless they are either clearly trolling or are spreading misinformation. Downvoting when you disagree stifles discussion.  Downvotes when you don\u2019t like what someone has to say are toxic.\n\nEdit: though, 40 hours a week of college classes does sound like complete and utter bullshit.  When I was in high school, I was in a program at a college where I was able to get high school credit for taking college classes.  It was significantly easier than where I eventually went to undergrad, and I took 6-7 classes per term, which I had to get special permission to do because it was unheard of for anybody in the school to do that much.  And that was only half of what you claimed to be taking.  Assuming your claims are true, which I highly doubt, you would have to be the best student at the shittiest school I have ever heard of.  A school that is easier than most high schools.  Which is not adequately preparing its students for anything.  What you are describing is so foreign to my experiences that I literally cannot believe it.\n\nBut still, I didn't downvote.",
+            "score": 1,
+            "que": "There was usually enough practice in class that I wasnt worried. Btw I love the downvotes because you had to waste a bunch of time on homework and I didnt."
+        },
+        {
+            "id": "i1jkrk2",
+            "parent": "t1_i1jht7s",
+            "ans": "The article I posted addresses the claims made there.\n\nThe way the author of the post you linked chose to portray what happened makes Fisher's statements sound a lot worse than they were.",
+            "score": 1,
+            "que": ">He believes that human groups differ profoundly \"in their innate capacity for intellectual and emotional development\"\n\nhttps://statmodeling.stat.columbia.edu/2020/08/01/ra-fisher-and-the-science-of-hatred/\n\nWhen there are viable alternatives to the iris dataset, why not use them?"
+        },
+        {
+            "id": "i1j046c",
+            "parent": "t1_i1izlcz",
+            "ans": "Good to know that you also don't know what a metaphor is.",
+            "score": 1,
+            "que": "Wild to know that when you look up the word dumb in the dictionary it mentions this issue specifically"
+        }
+    ]
+}

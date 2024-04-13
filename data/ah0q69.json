@@ -1,0 +1,449 @@
+{
+    "title": ":)",
+    "id": "ah0q69",
+    "create_at": 1547749323.0,
+    "score": 1995,
+    "comments": [
+        {
+            "id": "eeapx3n",
+            "parent": "t1_eeamvmc",
+            "ans": "There's gotta be a \"deep\" in there somewhere",
+            "score": 105,
+            "que": "Machine learning is so 2017. Try \"AI-powered machine intelligence\".\n\nEdit: the people have spoken, \"AI-powered deep machine intelligence\" is the correct term here."
+        },
+        {
+            "id": "eeaylvt",
+            "parent": "t1_eeamvmc",
+            "ans": "Fog computed AI, on the blockchain.",
+            "score": 11,
+            "que": "Machine learning is so 2017. Try \"AI-powered machine intelligence\".\n\nEdit: the people have spoken, \"AI-powered deep machine intelligence\" is the correct term here."
+        },
+        {
+            "id": "eeb2qzl",
+            "parent": "t1_eeamvmc",
+            "ans": "Differential Programming is something I've recently come across as well.",
+            "score": 8,
+            "que": "Machine learning is so 2017. Try \"AI-powered machine intelligence\".\n\nEdit: the people have spoken, \"AI-powered deep machine intelligence\" is the correct term here."
+        },
+        {
+            "id": "eiwc05d",
+            "parent": "t1_eeamvmc",
+            "ans": "can someone explain this to a tourist?",
+            "score": 2,
+            "que": "Machine learning is so 2017. Try \"AI-powered machine intelligence\".\n\nEdit: the people have spoken, \"AI-powered deep machine intelligence\" is the correct term here."
+        },
+        {
+            "id": "eec1eio",
+            "parent": "t1_eeb03wo",
+            "ans": "This comment being underrated according to timestamp and score tells me that not only programming related subreddits but even this one like any another science/math/engineering related is just full of uneducated kids who don't even understand what they are laughing at.\n\nUPD: ahah, kids got triggered.",
+            "score": -14,
+            "que": "Now facebook can use data from the meme to predict what linear regression will look like in 2029"
+        },
+        {
+            "id": "eealaus",
+            "parent": "t1_eeailms",
+            "ans": "Zoig ",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeauakj",
+            "parent": "t1_eealr6r",
+            "ans": "We used y = mx + b\n\nHow long ago was middle school for you? ",
+            "score": 41,
+            "que": "Back in middel school: just a linear function but with greek letters. y = kx+d"
+        },
+        {
+            "id": "eeb3ldq",
+            "parent": "t1_eealr6r",
+            "ans": "X =KC+D",
+            "score": 11,
+            "que": "Back in middel school: just a linear function but with greek letters. y = kx+d"
+        },
+        {
+            "id": "eebl51q",
+            "parent": "t1_eeb0dsz",
+            "ans": "It is machine learning, it's just the simplest kind there is.\n\nSo you can have 10 models and you start with linear and work your way up to neural nets and other fancy stuff. Neural networks are linear regression with an activation function slapped to it.\n\nJust like a kids tricycle is still a vehicle and an inflatable mattress is a watercraft/marine vessel.",
+            "score": 20,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eeb5e93",
+            "parent": "t1_eeb0dsz",
+            "ans": "Yes, some people are calling it even artificial intelligence.\n\nEvery prediction or 'statistical' model nowadays is called these buzzwords by industry",
+            "score": 18,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eebhh6t",
+            "parent": "t1_eeb0dsz",
+            "ans": "It is technically machine learning. That's why it's called that.",
+            "score": 6,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eebyhu1",
+            "parent": "t1_eeb0dsz",
+            "ans": "I just started a graduate level machine learning course and linear regression is the first thing being taught. ",
+            "score": 2,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eedh98x",
+            "parent": "t1_eeb0dsz",
+            "ans": "well one aspect is size of data set, where computational issues become important.. see eg vowpal wabbit",
+            "score": 1,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eee58ew",
+            "parent": "t1_eeb0dsz",
+            "ans": "Technically, I guess you can call it machine learning since you can re-calculate the least-square solution with novel data, but simple optimization problems have been around way before machine learning. \n\nIt gets re-branded nowadays I suppose by people who think they\u2019ve discovered some new shit. If I put four wheels on a cart and have a dude push it, is it a car? Technically, yes..\n\nTo me, it\u2019s machine learning in a sense that the way you solve this problem is relevant to machine learning and what ML inspires from. ",
+            "score": 1,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eeeaqcl",
+            "parent": "t1_eeb0dsz",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I know this is a joke, but are there really people out there using linear regression and calling it \"machine learning\"?\n\nEdit: y'all are right that linear regression is certainly a form of statistical learning. I think the main reason I instinctively think of it as being \"not machine learning\" is that it has a simple closed-form solution--so the \"machine\" part of statistical learning with linear regression is unnecessary. The same can't be said for a lot of other algorithms that are more comfortably referred to as \"machine learning\", you know?"
+        },
+        {
+            "id": "eecmott",
+            "parent": "t1_eebvge0",
+            "ans": "Lol there are VCs who actually understand this stuff?  I had one that asked me to build then a model for predicting which startups would receive follow on funding (including the data acquisition, data pipelines as well as the actual model) and thought it would only cost a few hundred bucks to do.",
+            "score": 1,
+            "que": "This gave me a chuckle.\n\nI work with a lot of VCs and this is actually a red flag they look for, trying to use machine learning or AI to describe something else."
+        },
+        {
+            "id": "eebe950",
+            "parent": "t1_eeb35zs",
+            "ans": "He's just trying to throw off the handwriting recognition algorithm.",
+            "score": 12,
+            "que": "Damn your handwriting sucks."
+        },
+        {
+            "id": "eeb3pa2",
+            "parent": "t1_eeb35zs",
+            "ans": "he could study either calligraphy or ML.",
+            "score": 7,
+            "que": "Damn your handwriting sucks."
+        },
+        {
+            "id": "eee5m0v",
+            "parent": "t1_eedi8jm",
+            "ans": "The latest trendy term. Linear regression ain\u2019t going nowhere, but there will be plenty of new people finding out about it. ",
+            "score": 1,
+            "que": "Wonder what we'll be calling it 10 years from now?"
+        },
+        {
+            "id": "eeapo76",
+            "parent": "t1_eeajq9v",
+            "ans": "I think we have the first output of the machine learning solution, which program have you used to reach that conclusion? Is your code in GitHub?",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeavho3",
+            "parent": "t1_eeajq9v",
+            "ans": "This is not my letter :/ a friend sent me this ",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeashlw",
+            "parent": "t1_eeaktjv",
+            "ans": "10 year challenge: Post yourself now. Post yourself 10 years ago. \n\nNOT 10 year challenge: Post yourself now. Post yourself as a baby. \n\nHere to help. ",
+            "score": 3,
+            "que": "2009, more like 1809"
+        },
+        {
+            "id": "eearevq",
+            "parent": "t1_eeapx3n",
+            "ans": "[deleted]",
+            "score": 87,
+            "que": "There's gotta be a \"deep\" in there somewhere"
+        },
+        {
+            "id": "eebcf9d",
+            "parent": "t1_eeb2qzl",
+            "ans": "At least for the time being, this has a specific meaning and looks to be the start of some real innovation. I assume it will be co-opted for marketing BS some time this year, though.",
+            "score": 5,
+            "que": "Differential Programming is something I've recently come across as well."
+        },
+        {
+            "id": "eiwrp0n",
+            "parent": "t1_eiwc05d",
+            "ans": "\"Machine learning\" was the hot buzzword a few years ago. The media have moved on to other buzzwords like \"AI\".",
+            "score": 2,
+            "que": "can someone explain this to a tourist?"
+        },
+        {
+            "id": "eeeg3vp",
+            "parent": "t1_eec1eio",
+            "ans": "[/r/iamverysmart](https://reddit.com/r/iamverysmart)",
+            "score": 5,
+            "que": "This comment being underrated according to timestamp and score tells me that not only programming related subreddits but even this one like any another science/math/engineering related is just full of uneducated kids who don't even understand what they are laughing at.\n\nUPD: ahah, kids got triggered."
+        },
+        {
+            "id": "eeb2duw",
+            "parent": "t1_eeauakj",
+            "ans": "\\#mx+b  4lyfe",
+            "score": 20,
+            "que": "We used y = mx + b\n\nHow long ago was middle school for you? "
+        },
+        {
+            "id": "eeausiu",
+            "parent": "t1_eeauakj",
+            "ans": "I think the better question is how old was their teacher.\n\nI had middle school teachers use mxb and a high school teacher and one college professor use kxd. ",
+            "score": 7,
+            "que": "We used y = mx + b\n\nHow long ago was middle school for you? "
+        },
+        {
+            "id": "eebpciy",
+            "parent": "t1_eeauakj",
+            "ans": "It's more where in the world they are from, likely: https://services.math.duke.edu/education/webfeats/Slope/Slopederiv.html",
+            "score": 1,
+            "que": "We used y = mx + b\n\nHow long ago was middle school for you? "
+        },
+        {
+            "id": "eebci1g",
+            "parent": "t1_eeb3ldq",
+            "ans": "That's the one. Romance, Sarcasm, something, doodles.",
+            "score": 3,
+            "que": "X =KC+D"
+        },
+        {
+            "id": "eedehc7",
+            "parent": "t1_eeb3ldq",
+            "ans": "By the Ceasar this is not equal!",
+            "score": 1,
+            "que": "X =KC+D"
+        },
+        {
+            "id": "eec4ujg",
+            "parent": "t1_eebl51q",
+            "ans": "You've just changed my perspective on inflatable mattresses... ",
+            "score": 11,
+            "que": "It is machine learning, it's just the simplest kind there is.\n\nSo you can have 10 models and you start with linear and work your way up to neural nets and other fancy stuff. Neural networks are linear regression with an activation function slapped to it.\n\nJust like a kids tricycle is still a vehicle and an inflatable mattress is a watercraft/marine vessel."
+        },
+        {
+            "id": "eeblj5b",
+            "parent": "t1_eeb5e93",
+            "ans": "Statistical machine learning is a thing. Machine learning is used in statistics and statistics is used in machine learning.\n\nIt all works fine if you stop trying to classify it one or the other and just call it applied mathematics.",
+            "score": 9,
+            "que": "Yes, some people are calling it even artificial intelligence.\n\nEvery prediction or 'statistical' model nowadays is called these buzzwords by industry"
+        },
+        {
+            "id": "eebhhyk",
+            "parent": "t1_eeb5e93",
+            "ans": "It is technically both of those things.",
+            "score": 6,
+            "que": "Yes, some people are calling it even artificial intelligence.\n\nEvery prediction or 'statistical' model nowadays is called these buzzwords by industry"
+        },
+        {
+            "id": "eebo7r8",
+            "parent": "t1_eeb5e93",
+            "ans": "Who cares what it's called? You guys sound like curmudgeons.",
+            "score": 4,
+            "que": "Yes, some people are calling it even artificial intelligence.\n\nEvery prediction or 'statistical' model nowadays is called these buzzwords by industry"
+        },
+        {
+            "id": "eeemv9c",
+            "parent": "t1_eeeaqcl",
+            "ans": "Ha, whoa there , I don\u2019t think they\u2019re subordinate at all! I use traditional statistical methods WAY more than \u201cmachine learning\u201d at my job. In fact, if there\u2019s one thing I think most data scientists could benefit from, its learning how very useful linear mixed models are",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eee5ik1",
+            "parent": "t1_eecmott",
+            "ans": "On another note, how many data scientists are there who can formulate the optimization equation and solve it?",
+            "score": 2,
+            "que": "Lol there are VCs who actually understand this stuff?  I had one that asked me to build then a model for predicting which startups would receive follow on funding (including the data acquisition, data pipelines as well as the actual model) and thought it would only cost a few hundred bucks to do."
+        },
+        {
+            "id": "eecr0ks",
+            "parent": "t1_eecmott",
+            "ans": "Name which VC firm.",
+            "score": 1,
+            "que": "Lol there are VCs who actually understand this stuff?  I had one that asked me to build then a model for predicting which startups would receive follow on funding (including the data acquisition, data pipelines as well as the actual model) and thought it would only cost a few hundred bucks to do."
+        },
+        {
+            "id": "eearvxq",
+            "parent": "t1_eeapo76",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "I think we have the first output of the machine learning solution, which program have you used to reach that conclusion? Is your code in GitHub?"
+        },
+        {
+            "id": "eeawuq9",
+            "parent": "t1_eeavho3",
+            "ans": "Is your friend left handed?",
+            "score": 7,
+            "que": "This is not my letter :/ a friend sent me this "
+        },
+        {
+            "id": "eeauwhw",
+            "parent": "t1_eeashlw",
+            "ans": "It's a joke for a joke.  Get your head out of your ass.",
+            "score": -4,
+            "que": "10 year challenge: Post yourself now. Post yourself 10 years ago. \n\nNOT 10 year challenge: Post yourself now. Post yourself as a baby. \n\nHere to help. "
+        },
+        {
+            "id": "eeayk6c",
+            "parent": "t1_eearevq",
+            "ans": "Reinforced gpu-accelerated deep neural machine learning AI multilayered network - find out more today! (ads powered by reddit)",
+            "score": 39,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeb3m6c",
+            "parent": "t1_eeb2duw",
+            "ans": "neverforget, but we used mx+q (in italian, q is for \"quota\" = \"height\")",
+            "score": 5,
+            "que": "\\#mx+b  4lyfe"
+        },
+        {
+            "id": "eebh20i",
+            "parent": "t1_eeb2duw",
+            "ans": "model and bias. It makes sense, thats what it should be.",
+            "score": 8,
+            "que": "\\#mx+b  4lyfe"
+        },
+        {
+            "id": "eeb362y",
+            "parent": "t1_eeausiu",
+            "ans": "We had mxc. :)",
+            "score": 7,
+            "que": "I think the better question is how old was their teacher.\n\nI had middle school teachers use mxb and a high school teacher and one college professor use kxd. "
+        },
+        {
+            "id": "eed13bi",
+            "parent": "t1_eebpciy",
+            "ans": "This explains my undergraduate math coursework. I had professors from Russia, Africa, Western Europe and the United States. As long as you use quantity_one times x plus quantity two, nothing phases me at this point.",
+            "score": 2,
+            "que": "It's more where in the world they are from, likely: https://services.math.duke.edu/education/webfeats/Slope/Slopederiv.html"
+        },
+        {
+            "id": "eebpf3h",
+            "parent": "t1_eeblj5b",
+            "ans": "> It all works fine if you stop trying to classify it\n\nbut...",
+            "score": 12,
+            "que": "Statistical machine learning is a thing. Machine learning is used in statistics and statistics is used in machine learning.\n\nIt all works fine if you stop trying to classify it one or the other and just call it applied mathematics."
+        },
+        {
+            "id": "eekh3is",
+            "parent": "t1_eee5ik1",
+            "ans": "They wouldnt be a data scientist if they couldnt do it.",
+            "score": 1,
+            "que": "On another note, how many data scientists are there who can formulate the optimization equation and solve it?"
+        },
+        {
+            "id": "eeasa78",
+            "parent": "t1_eearvxq",
+            "ans": "To be honest, I am impressed of your skills to determine if the op is left-handed as also, machine learning can be applied to discover patterns, however I never pretended to make fun of you, maybe just to have fun. ",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeavdvd",
+            "parent": "t1_eearvxq",
+            "ans": "This comment has been deleted due to failed Reddit leadership.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeawld7",
+            "parent": "t1_eearvxq",
+            "ans": "It's the S's huh",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeawutq",
+            "parent": "t1_eeauwhw",
+            "ans": "Oh. I must have missed the funny part. My apologies. Didn't know pedantism was en vogue. ",
+            "score": -4,
+            "que": "It's a joke for a joke.  Get your head out of your ass."
+        },
+        {
+            "id": "eeb58w6",
+            "parent": "t1_eeayk6c",
+            "ans": ">>Yeah we've decided to run a deep learning estimator on this structured dataset with a quadratic error function\n\n>u discovered ols neffew",
+            "score": 14,
+            "que": "Reinforced gpu-accelerated deep neural machine learning AI multilayered network - find out more today! (ads powered by reddit)"
+        },
+        {
+            "id": "eec1z9u",
+            "parent": "t1_eeayk6c",
+            "ans": "Hyper-mesh overlay",
+            "score": 1,
+            "que": "Reinforced gpu-accelerated deep neural machine learning AI multilayered network - find out more today! (ads powered by reddit)"
+        },
+        {
+            "id": "eee0q0n",
+            "parent": "t1_eebh20i",
+            "ans": "We also learn m*x+b in Germany.",
+            "score": 1,
+            "que": "model and bias. It makes sense, thats what it should be."
+        },
+        {
+            "id": "eebm7el",
+            "parent": "t1_eeb362y",
+            "ans": "Right you are, Ken! ",
+            "score": 3,
+            "que": "We had mxc. :)"
+        },
+        {
+            "id": "eeasoms",
+            "parent": "t1_eeasa78",
+            "ans": "[deleted]",
+            "score": 0,
+            "que": "To be honest, I am impressed of your skills to determine if the op is left-handed as also, machine learning can be applied to discover patterns, however I never pretended to make fun of you, maybe just to have fun. "
+        },
+        {
+            "id": "eebbdjw",
+            "parent": "t1_eeb58w6",
+            "ans": "yeah but theirs is stored on the CLOUD! ",
+            "score": 7,
+            "que": ">>Yeah we've decided to run a deep learning estimator on this structured dataset with a quadratic error function\n\n>u discovered ols neffew"
+        },
+        {
+            "id": "eecf8lq",
+            "parent": "t1_eec1z9u",
+            "ans": "Man I gotta get me one of those...",
+            "score": 1,
+            "que": "Hyper-mesh overlay"
+        },
+        {
+            "id": "eeauv53",
+            "parent": "t1_eeasoms",
+            "ans": "No no, don't need to apologize, seriously, if you believe that you identify patterns go for it, education will be happy with it. If I were you I will try to concatenate the patterns to determine the probability of right or left handed, like if they were DNA sequences, abca, abab, bcda, etc. ",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eeddmw4",
+            "parent": "t1_eeasoms",
+            "ans": "But it\u2019s successful undirected learning. You may not have classified lefties, but you\u2019ve discovered \u201cfolks who do _this.\u201d_",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "eebbws2",
+            "parent": "t1_eebbdjw",
+            "ans": "With blockchain technology!",
+            "score": 16,
+            "que": "yeah but theirs is stored on the CLOUD! "
+        },
+        {
+            "id": "eebmavb",
+            "parent": "t1_eebbws2",
+            "ans": "Double upvote for block chain mention. ",
+            "score": 5,
+            "que": "With blockchain technology!"
+        }
+    ]
+}

@@ -1,0 +1,673 @@
+{
+    "title": "As a hiring manager - this, this right here",
+    "id": "10mmm38",
+    "create_at": 1674830901.0,
+    "score": 2644,
+    "comments": [
+        {
+            "id": "j64piia",
+            "parent": "t1_j64c2t6",
+            "ans": "There it is lol",
+            "score": 161,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j66jgu2",
+            "parent": "t1_j64c2t6",
+            "ans": "This is 90% of \"I'm a self-taught DS, here's how I did it\" guides. Step 1 is always \"have a graduate degree in a technical field\".",
+            "score": 103,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j66phu2",
+            "parent": "t1_j64c2t6",
+            "ans": "His self-written bio from his website:  \n\n\n\"Keith McNulty is an applied mathematician/statistician, psychometrician and data scientist based in the UK. He started his career as a Pure Mathematician with a focus on Matrix Algebra and Group Representation Theory. He then transitioned into the private sector where he developed expertise in the application of mathematics and measurement theory to questions of people, talent, skills and organizational science. He is currently the Global Leader of Talent Science and Analytics at McKinsey & Company, the leading global professional services firm.\"  \n\n\nIt sounds like he was an applied mathematicia/ statistician for many years before data science and online courses were a thing. So emulating his success is basically   \n\n\nstep 1. Maths PhD  \nstep 2. Around 10 years work experience as applied mathematician/ statistician  \nstep 3.  A few online courses towards the end to transition to data science.",
+            "score": 48,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j656sff",
+            "parent": "t1_j64c2t6",
+            "ans": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me.",
+            "score": 72,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j66exyh",
+            "parent": "t1_j64c2t6",
+            "ans": "He also works for McKinsey, the place you call when you need to fire whole departments of people.",
+            "score": 13,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j6b4mlv",
+            "parent": "t1_j64c2t6",
+            "ans": "But does he know Tableau and is able to communicate complex points in simple terms to a suitable audience?",
+            "score": 5,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j6u4eb3",
+            "parent": "t1_j64c2t6",
+            "ans": "That goes with the \"scientist\" part of the job title.\n\nHow could you not understand that?\n\nIt kills me the number of job applicants we have for data scientist roles who are essentially just programmers that learned how to string together some black box software tools with zero understand of how they work.\n\nThe whole idea of problem solving to them is you just \"try things out in code.\"\n\nIt's a joke in the DS field. Forget learning to code. A monkey can write code. Learn how to do proofs and then continue on from there. \n\nSeriously I'd hire someone who has never written a line of code in their life as long as they understand the actual applied theory behind DS. And yes, that's about 10+ years of hard work in academia first.",
+            "score": 2,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j77qwh0",
+            "parent": "t1_j64c2t6",
+            "ans": "yeah. Self-taught DS/programmers turns out to have engineering/math degrees",
+            "score": 2,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j9dtbsr",
+            "parent": "t1_j64c2t6",
+            "ans": "Sure it helped but it\u2019s not like the steps he took only apply to people with the highest level of academic knowledge. I do think that you should have a pretty decent technical (programming) and statistical background before starting a personal DS project, but once you have that then I would say the steps he outlined will work for most.",
+            "score": 2,
+            "que": "He also has a PhD in mathematics so I'm sure that helped"
+        },
+        {
+            "id": "j64tnsn",
+            "parent": "t1_j649fq9",
+            "ans": "PhD in Math",
+            "score": 44,
+            "que": "I\u2019m assuming he had a strong mathematical/statistical background prior to taking the data science courses."
+        },
+        {
+            "id": "j643hv6",
+            "parent": "t1_j642d69",
+            "ans": "A well-done personal project can be huge. It makes it easier to evaluate the quality of your work, your ability to communicate, your ability to ask an interesting question, etc. \n\nBut the caveat is that I think its tough to a good personal project. If someone sends their github that has a bunch of low-value projects, I get nothing out of that. I've seen a lot of candidates that have like 4-5 prediction projects that take standard datasets (iris, titanic, some move review things, etc) and then do a standard \"here's how I cleaned the data, here's where I trained the model, this is the AUC, and here's some feature importances\". If there's nothing interesting about the datasets or the approach, then I'm just going to ignore them. It certainly wont count against the candidate but it feels like they wasted their time putting up these very vanilla analyses. \n\nThe best personal projects have been ones where people were really interested in the topic, likely had to construct their own dataset to get something to answer, and then wrote it up to highlight the results and only the most interesting technique needed to get that result.",
+            "score": 104,
+            "que": "How seriously are personal projects taken? I'm trying to transition/move-adjacent from software engineering. Unfortunately, my current team has literally no work in this area and I haven't been able to find a internal move. I'm seeing what I can do over next 6-12 months to improve my resume when things get better"
+        },
+        {
+            "id": "j65egsc",
+            "parent": "t1_j642d69",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "How seriously are personal projects taken? I'm trying to transition/move-adjacent from software engineering. Unfortunately, my current team has literally no work in this area and I haven't been able to find a internal move. I'm seeing what I can do over next 6-12 months to improve my resume when things get better"
+        },
+        {
+            "id": "j65xesn",
+            "parent": "t1_j642d69",
+            "ans": "I just hired someone based on the projects they posted on their resume. The panel immediately recognized how we could use her skills even though she didn't have a lot of years experience. I had her start by walking us through her projects, without them we'd only have those awful behavior questions to rely on which is death for people starting out. \n\nI always recommend everyone to put a few project links on their resume. At the top",
+            "score": 4,
+            "que": "How seriously are personal projects taken? I'm trying to transition/move-adjacent from software engineering. Unfortunately, my current team has literally no work in this area and I haven't been able to find a internal move. I'm seeing what I can do over next 6-12 months to improve my resume when things get better"
+        },
+        {
+            "id": "j6697sk",
+            "parent": "t1_j642d69",
+            "ans": "I gained an applied research internship that led to a full time job the summer between my two year MS in Psychology, and I think my personal project had something to do with it. I did multiple personal projects on topics I\u2019m passionate about - suicide prevention, Psychometrics. I pushed them to my public GitHub, linked my GitHub to my resume/CL, and wrote about the projects in my CL. \n\nThe hiring manager actually asked me about my personal projects in the interview. This is one anecdotal experience, but it seemed to help me.",
+            "score": 3,
+            "que": "How seriously are personal projects taken? I'm trying to transition/move-adjacent from software engineering. Unfortunately, my current team has literally no work in this area and I haven't been able to find a internal move. I'm seeing what I can do over next 6-12 months to improve my resume when things get better"
+        },
+        {
+            "id": "j675ryd",
+            "parent": "t1_j642d69",
+            "ans": "I got a job by placing in the top 10 of numerai for a few weeks",
+            "score": 1,
+            "que": "How seriously are personal projects taken? I'm trying to transition/move-adjacent from software engineering. Unfortunately, my current team has literally no work in this area and I haven't been able to find a internal move. I'm seeing what I can do over next 6-12 months to improve my resume when things get better"
+        },
+        {
+            "id": "j6agbop",
+            "parent": "t1_j642d69",
+            "ans": "It's very hard to evaluate the quality of personal projects, so I take them as a sign of enthusiasm and little more.",
+            "score": 1,
+            "que": "How seriously are personal projects taken? I'm trying to transition/move-adjacent from software engineering. Unfortunately, my current team has literally no work in this area and I haven't been able to find a internal move. I'm seeing what I can do over next 6-12 months to improve my resume when things get better"
+        },
+        {
+            "id": "j64cvcw",
+            "parent": "t1_j644nhr",
+            "ans": "Which is why he's posting on linkedin",
+            "score": 35,
+            "que": "He\u2019s a leader at McKinsey by doing the minimum."
+        },
+        {
+            "id": "j66f4sh",
+            "parent": "t1_j644nhr",
+            "ans": "It\u2019s McKinsey. They answer questions like \u201chow can I find 1000 people to get rid of before the next earnings call?",
+            "score": 15,
+            "que": "He\u2019s a leader at McKinsey by doing the minimum."
+        },
+        {
+            "id": "j65hkqo",
+            "parent": "t1_j64dfz4",
+            "ans": "Congrats on the pub!",
+            "score": 5,
+            "que": "I recently published a paper in a reasonably high impact journal in my field (cancer genomics).\n\nI initiated the study and performed all of the data collection, tidying, analysis, statistics, and visualization. This included a fair amount of bioinformatics, including sequence alignment and variant calling, RNA expression analysis, DNA methylation analysis, and survival analyses.\n\nI did this *exactly* as stated above; my background is in cancer biology (I have a PhD in it), so I had subject area expertise, but I had no formal DS background.\n\nBut I picked a problem and went to work on it. Did sooooo much Googling, and eventually developed those skills.\n\nToday, I can do all of those things - and so much more - because not only did I learn the skills, I learned how to learn new skills. That, to me, is the critical bit; no one will know everything, but understanding how to ingest new knowledge is so critical."
+        },
+        {
+            "id": "j64il70",
+            "parent": "t1_j6434yo",
+            "ans": "You can pass all of these courses and still know nothing. Besides that, most of the courses are pretty similar and only cover the basics without teaching a lot of math.",
+            "score": 11,
+            "que": "\u2018Minimum number of online courses...\u2019 is what leads to \u2018candidates not knowing the fundamentals\u2019.\n\nhttps://www.reddit.com/r/datascience/comments/10m6kpq/im_a_tired_of_interviewing_fresh_graduates_that/"
+        },
+        {
+            "id": "j6472hx",
+            "parent": "t1_j6434yo",
+            "ans": "[deleted]",
+            "score": 41,
+            "que": "\u2018Minimum number of online courses...\u2019 is what leads to \u2018candidates not knowing the fundamentals\u2019.\n\nhttps://www.reddit.com/r/datascience/comments/10m6kpq/im_a_tired_of_interviewing_fresh_graduates_that/"
+        },
+        {
+            "id": "j65q6xn",
+            "parent": "t1_j6434yo",
+            "ans": "That looks an awful lot like confirmation bias in that thread. There are a lot of assumptions being implied there that aren't necessarily true.",
+            "score": 3,
+            "que": "\u2018Minimum number of online courses...\u2019 is what leads to \u2018candidates not knowing the fundamentals\u2019.\n\nhttps://www.reddit.com/r/datascience/comments/10m6kpq/im_a_tired_of_interviewing_fresh_graduates_that/"
+        },
+        {
+            "id": "j652ll8",
+            "parent": "t1_j64cjvm",
+            "ans": "[deleted]",
+            "score": 20,
+            "que": "Doesn't say what \"real\" problem he worked on. No github link. Classic linkedin."
+        },
+        {
+            "id": "j98my9t",
+            "parent": "t1_j64cjvm",
+            "ans": "I mean, Iris is a real dataset :)",
+            "score": 1,
+            "que": "Doesn't say what \"real\" problem he worked on. No github link. Classic linkedin."
+        },
+        {
+            "id": "j659fvn",
+            "parent": "t1_j64b2we",
+            "ans": "McNutty!",
+            "score": 4,
+            "que": "MCCNULTY!"
+        },
+        {
+            "id": "j66p6i5",
+            "parent": "t1_j65jkm7",
+            "ans": "I am beginner and I find learning aided by chatGPT extremely useful. That thing is magic. I know that it sometimes spews shit confidently. So, I use a textbook, google and chatGPT simultaneously to check whether it is right or wrong. So far I was able to learn things which previously used to just go above my head. I think everyone should incorporate chatGPT into their learning process.",
+            "score": 8,
+            "que": "Point #3 becomes a lot easier when you replace stackoverflow with chatGPT \ud83d\ude05\n\nEdit: well maybe it does, maybe not. I find it super useful, but I've been writing code for like 10 years now so I know what I'm looking at when it spits out code. \n\nI'd be interested to know how beginners find learning aided by chatGPT."
+        },
+        {
+            "id": "j64dhw9",
+            "parent": "t1_j64cfvs",
+            "ans": "[deleted]",
+            "score": 26,
+            "que": "This is 100% correct. If you\u2019re hiring a plumber to fix your toilet do you want someone who completed many tutorials or someone who has actually fixed a toilet."
+        },
+        {
+            "id": "j63z96i",
+            "parent": "t1_j63xi5x",
+            "ans": "Untrue. In interviews they will want you to talk through real projects you've worked on.",
+            "score": 17,
+            "que": "Doesn't matter much to the recruiters though. They prefer to see badges and certificates."
+        },
+        {
+            "id": "j647133",
+            "parent": "t1_j63xi5x",
+            "ans": "I couldn\u2019t disagree more. Often I find that recruiters only care about the buzzwords and never care or ask about awards.",
+            "score": 3,
+            "que": "Doesn't matter much to the recruiters though. They prefer to see badges and certificates."
+        },
+        {
+            "id": "j64pqyy",
+            "parent": "t1_j63xi5x",
+            "ans": "That might help get the interview but if you don\u2019t have actual projects to talk about where you\u2019ve used data to solve problems, you probably won\u2019t get past the recruiter screening call or at least not the hiring manager.",
+            "score": 1,
+            "que": "Doesn't matter much to the recruiters though. They prefer to see badges and certificates."
+        },
+        {
+            "id": "j655ljd",
+            "parent": "t1_j64ckif",
+            "ans": "It doesn't really matter. It's better to show that you can apply tools to real data - any data.",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "j65imr8",
+            "parent": "t1_j64ehjh",
+            "ans": "You have to remember that the most important KPI at McKinsey is the number of slides generated.",
+            "score": 7,
+            "que": "Sorry, but if this guy is \"Leader\" level, his advice on how to learn data science _right now_ is probably horribly outdated\n\nEdit: and his advice is also stupid"
+        },
+        {
+            "id": "j65ck4s",
+            "parent": "t1_j64xlq6",
+            "ans": "\u201c I once asked somebody very high in consulting and they said well you should get a PhD in maths like me\u2026\u201d\n\nI guess they were never told about selection bias in their PhD.",
+            "score": 2,
+            "que": "Hmmm\u2026 ok, as a math major he could have recommend some courses which he would say are helpful.\n\nThen maybe a course on data cleaning and working with a dataset that has uneven distributions\u2026\n\nIt\u2019s weird that he isn\u2019t at quantum black either\u2026 so this all seems very LinkedIn look at me type feel. \n\nSometimes what I have found is that people that are already working in analytics and have their place set give pretty bad advice on how they got there - I once asked somebody very high in consulting and they said well you should get a PhD in maths like me\u2026"
+        },
+        {
+            "id": "j66080u",
+            "parent": "t1_j65y5gk",
+            "ans": "> I'm honestly getting tired of people saying courses don't matter and think this is a feasible route for anyone. \n\nThe poster didn't say that.",
+            "score": 2,
+            "que": "I'm honestly getting tired of people saying courses don't matter and think this is a feasible route for anyone. \n\nHow tf are you going to learn how to wrangle data properly if you don't do an in depth SQL, dplyr, or pandas course? How do you expect a candidate to develop a model without knowledge of evaluation metrics? How is a candidate going to know how/when to convert a data structure from wide to long? \n\nThese responses are typically gate-keeper or assume that everyone has a similar background as the person spouting this shallow garbage. \n\nCourses are critical to essential fundamentals."
+        },
+        {
+            "id": "j646fuo",
+            "parent": "t1_j642dre",
+            "ans": "Nice try promoting your shitty subreddit",
+            "score": 6,
+            "que": "[removed]"
+        },
+        {
+            "id": "j64hyld",
+            "parent": "t1_j642dre",
+            "ans": "Didn\u2019t even break out the sock puppet account for this one?",
+            "score": 1,
+            "que": "[removed]"
+        },
+        {
+            "id": "j65755m",
+            "parent": "t1_j656sff",
+            "ans": "It may have taken you two years to educate yourself on DS, but the PhD in math greatly aided in finding a job,  in terms of brand.  However,  I agree that there are no guarantees",
+            "score": 59,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j65ehix",
+            "parent": "t1_j656sff",
+            "ans": "I think the phd is less for job app and more for learning . Not having to take the time to understand the underlying mathematics is a huge bonus",
+            "score": 19,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j65ia1v",
+            "parent": "t1_j656sff",
+            "ans": "[deleted]",
+            "score": 12,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j6749cv",
+            "parent": "t1_j656sff",
+            "ans": "I also have a PhD in math. I found it very difficult to get interviews without any sort of internship experience. After 3 years, it took me enrolling in undergrad CS classes again just to be eligible for internships again. Got an internship relatively quickly, then after getting to know my boss and show him I was very capable, I managed to transition to full-time. I think that's probably the best way to get in.",
+            "score": 4,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j65c89w",
+            "parent": "t1_j656sff",
+            "ans": "More guarantee than a high school diploma and 100 MOOC course certs all dated within a month of each other.",
+            "score": 2,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j65gy51",
+            "parent": "t1_j656sff",
+            "ans": "You are pretty overqualified with a math PhD, I'm guessing that actually hindered your job search to an extent, or was a factor.  \n\nI have a PhD in biology and chemistry stuff (like geochemical molecular microbiology), I've done a variety of things since then and I know for a fact when I've looked at pretty low level or entry level positions seeing the PhD and some things associated with that can be intimidating in other fields, as there are a lot of fancy sounding words I guess.  Also, people kinda just think \"why the fuck do you want to work here with this fancy sounding PhD?\".  Which sucks when you just need a job. \n\nOne of my good friends is a math PhD in academia on the financial side of things.  He kinda says the same thing, as he considered leaving academia because of academia stuff.  While he would have probably been looking at more financial jobs, my understanding of his PhD/math is it can be kind of difficult to transition from the theoretical proofs and research to application (or whatever you guys do.... he explains it to me and my eyes glaze over...).  That being said, his mastery of math makes me think it could be incredibly universal to the point it's just about picking a direction and spending some time focusing there (like you did) before trying to directly get into the industry.  An important thing, I've noticed, is a lot of the time people don't recognize the breadth of experience that comes with a PhD a lot of the time.  Like, knowing a bunch of about your dissertation topic is kinda a small part of everything else you are doing.  It's kinda frustrating, because I gained a ton of non-science specific skills that are pretty universal in application, but the focus is on the topic.  \n\nBasically, having a PhD is a blessing and a curse in terms of employment opportunities.  It also sucks with academia being so impacted, that the transition to industry can be funky with topics and skills.",
+            "score": 3,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j9i6f0u",
+            "parent": "t1_j656sff",
+            "ans": "His PhD was applied math though, so I'd expect him to get some programming in there.\n\nBut yeah, just math doesn't really cut it in my experience.  I did math for undergrad and was told the whole time \"math is such a valuable skills, it will be easy to get a job.\"  After graduating, potential employers basically told me the exact opposite.  \"We value math skills but are looking for someone more specialized for the role.\"\n\nI ended up joining the Army and having them pay for me to get a Masters in Data Science, after which I finally found a real job.  Funnily enough, it turns out I enjoy the software engineering side way more than the data science side, so I'm now a software engineer working on a large data platform. It scratches that \"create, extend, and decipher abstract systems\" itch that drove me to math in the first place much more than predictive modeling does.\n\nI imagine having a PhD in math is basically the same story, just on steroids because you'll command a higher salary off the bat, making it a bigger risk.",
+            "score": 1,
+            "que": "Having a PhD in math isn't some sort of guarantee for a job.  I have one, and it still took me 2+ years to transition from academia to an industry job in DS.  My phd work involved no programming or DS skills, so I had to learn from scratch, and I did that by inventing problems that were interesting to me and building up a profile just like the post suggests.  But I only did that because my math background helped me be creative when thinking of interesting problems; the kaggle stuff just didn't interest me."
+        },
+        {
+            "id": "j64c0dp",
+            "parent": "t1_j643hv6",
+            "ans": "I am not a hiring manager, so grain of salt and all that, but the biggest thing that has been great for me has been that my projects always have context to them. So like even with the gapminder dataset, which was one of my first projects in school, I found some interesting things in the data. So I looked into what was going on in that country at that period of time. Was there a war, or a famine, or a policy change, etc. Now you're getting to know your data better, and you can ask better questions that will inform the direction you go with analysis. And that kind of thing goes really well with most audiences. It's looking at more than just the numbers, but the reason *for* the numbers. Anybody can copy some code, but do you have an analyst mindset? Are you going to be able to justify your analysis to stakeholders who don't know about the numbers? Do you know why the numbers are turning out the way they are, or are you just trusting a model?",
+            "score": 9,
+            "que": "A well-done personal project can be huge. It makes it easier to evaluate the quality of your work, your ability to communicate, your ability to ask an interesting question, etc. \n\nBut the caveat is that I think its tough to a good personal project. If someone sends their github that has a bunch of low-value projects, I get nothing out of that. I've seen a lot of candidates that have like 4-5 prediction projects that take standard datasets (iris, titanic, some move review things, etc) and then do a standard \"here's how I cleaned the data, here's where I trained the model, this is the AUC, and here's some feature importances\". If there's nothing interesting about the datasets or the approach, then I'm just going to ignore them. It certainly wont count against the candidate but it feels like they wasted their time putting up these very vanilla analyses. \n\nThe best personal projects have been ones where people were really interested in the topic, likely had to construct their own dataset to get something to answer, and then wrote it up to highlight the results and only the most interesting technique needed to get that result."
+        },
+        {
+            "id": "j646zvg",
+            "parent": "t1_j643hv6",
+            "ans": "[deleted]",
+            "score": 28,
+            "que": "A well-done personal project can be huge. It makes it easier to evaluate the quality of your work, your ability to communicate, your ability to ask an interesting question, etc. \n\nBut the caveat is that I think its tough to a good personal project. If someone sends their github that has a bunch of low-value projects, I get nothing out of that. I've seen a lot of candidates that have like 4-5 prediction projects that take standard datasets (iris, titanic, some move review things, etc) and then do a standard \"here's how I cleaned the data, here's where I trained the model, this is the AUC, and here's some feature importances\". If there's nothing interesting about the datasets or the approach, then I'm just going to ignore them. It certainly wont count against the candidate but it feels like they wasted their time putting up these very vanilla analyses. \n\nThe best personal projects have been ones where people were really interested in the topic, likely had to construct their own dataset to get something to answer, and then wrote it up to highlight the results and only the most interesting technique needed to get that result."
+        },
+        {
+            "id": "j646w0i",
+            "parent": "t1_j643hv6",
+            "ans": "This is correct and a very well thought out response. I could not agree more",
+            "score": 7,
+            "que": "A well-done personal project can be huge. It makes it easier to evaluate the quality of your work, your ability to communicate, your ability to ask an interesting question, etc. \n\nBut the caveat is that I think its tough to a good personal project. If someone sends their github that has a bunch of low-value projects, I get nothing out of that. I've seen a lot of candidates that have like 4-5 prediction projects that take standard datasets (iris, titanic, some move review things, etc) and then do a standard \"here's how I cleaned the data, here's where I trained the model, this is the AUC, and here's some feature importances\". If there's nothing interesting about the datasets or the approach, then I'm just going to ignore them. It certainly wont count against the candidate but it feels like they wasted their time putting up these very vanilla analyses. \n\nThe best personal projects have been ones where people were really interested in the topic, likely had to construct their own dataset to get something to answer, and then wrote it up to highlight the results and only the most interesting technique needed to get that result."
+        },
+        {
+            "id": "j65xqu6",
+            "parent": "t1_j643hv6",
+            "ans": "100 this. Use the project to show me your skills and functionality, it should help me imagine how we could use your skills instead of focusing that you only have a few years experience",
+            "score": 2,
+            "que": "A well-done personal project can be huge. It makes it easier to evaluate the quality of your work, your ability to communicate, your ability to ask an interesting question, etc. \n\nBut the caveat is that I think its tough to a good personal project. If someone sends their github that has a bunch of low-value projects, I get nothing out of that. I've seen a lot of candidates that have like 4-5 prediction projects that take standard datasets (iris, titanic, some move review things, etc) and then do a standard \"here's how I cleaned the data, here's where I trained the model, this is the AUC, and here's some feature importances\". If there's nothing interesting about the datasets or the approach, then I'm just going to ignore them. It certainly wont count against the candidate but it feels like they wasted their time putting up these very vanilla analyses. \n\nThe best personal projects have been ones where people were really interested in the topic, likely had to construct their own dataset to get something to answer, and then wrote it up to highlight the results and only the most interesting technique needed to get that result."
+        },
+        {
+            "id": "j68t4nr",
+            "parent": "t1_j643hv6",
+            "ans": "Thank you very much for the detail answer!!",
+            "score": 1,
+            "que": "A well-done personal project can be huge. It makes it easier to evaluate the quality of your work, your ability to communicate, your ability to ask an interesting question, etc. \n\nBut the caveat is that I think its tough to a good personal project. If someone sends their github that has a bunch of low-value projects, I get nothing out of that. I've seen a lot of candidates that have like 4-5 prediction projects that take standard datasets (iris, titanic, some move review things, etc) and then do a standard \"here's how I cleaned the data, here's where I trained the model, this is the AUC, and here's some feature importances\". If there's nothing interesting about the datasets or the approach, then I'm just going to ignore them. It certainly wont count against the candidate but it feels like they wasted their time putting up these very vanilla analyses. \n\nThe best personal projects have been ones where people were really interested in the topic, likely had to construct their own dataset to get something to answer, and then wrote it up to highlight the results and only the most interesting technique needed to get that result."
+        },
+        {
+            "id": "j65xzlo",
+            "parent": "t1_j65egsc",
+            "ans": "I am a hiring manager you are 100% correct",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j6fudxv",
+            "parent": "t1_j6697sk",
+            "ans": "How is ML/AI important in these topics?",
+            "score": 1,
+            "que": "I gained an applied research internship that led to a full time job the summer between my two year MS in Psychology, and I think my personal project had something to do with it. I did multiple personal projects on topics I\u2019m passionate about - suicide prevention, Psychometrics. I pushed them to my public GitHub, linked my GitHub to my resume/CL, and wrote about the projects in my CL. \n\nThe hiring manager actually asked me about my personal projects in the interview. This is one anecdotal experience, but it seemed to help me."
+        },
+        {
+            "id": "j64o8by",
+            "parent": "t1_j64cvcw",
+            "ans": "Now I don't feel so bad about being on reddit all the time.",
+            "score": 16,
+            "que": "Which is why he's posting on linkedin"
+        },
+        {
+            "id": "j68bagz",
+            "parent": "t1_j65hkqo",
+            "ans": "I saw your comment and thought this was going to end with them dropping out and buying a pub. Now I'm disappointed",
+            "score": 5,
+            "que": "Congrats on the pub!"
+        },
+        {
+            "id": "j65hp2z",
+            "parent": "t1_j65hkqo",
+            "ans": "Thanks!",
+            "score": 1,
+            "que": "Congrats on the pub!"
+        },
+        {
+            "id": "j64t1r4",
+            "parent": "t1_j64il70",
+            "ans": "So what is a better approach then? If you just do a project you wont know the math as well.",
+            "score": 4,
+            "que": "You can pass all of these courses and still know nothing. Besides that, most of the courses are pretty similar and only cover the basics without teaching a lot of math."
+        },
+        {
+            "id": "j64cix9",
+            "parent": "t1_j6472hx",
+            "ans": "He's not wrong, but he's not mature.",
+            "score": 13,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j66m833",
+            "parent": "t1_j65q6xn",
+            "ans": "This thread too.",
+            "score": 5,
+            "que": "That looks an awful lot like confirmation bias in that thread. There are a lot of assumptions being implied there that aren't necessarily true."
+        },
+        {
+            "id": "j659ca8",
+            "parent": "t1_j652ll8",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j6615qu",
+            "parent": "t1_j659fvn",
+            "ans": "I\u2019m hoping you got the reference to The Wire",
+            "score": 2,
+            "que": "McNutty!"
+        },
+        {
+            "id": "j66pn6o",
+            "parent": "t1_j66p6i5",
+            "ans": "That's cool to hear! I use it in my job as a senior data scientist and it is incredibly helpful to me, too",
+            "score": 3,
+            "que": "I am beginner and I find learning aided by chatGPT extremely useful. That thing is magic. I know that it sometimes spews shit confidently. So, I use a textbook, google and chatGPT simultaneously to check whether it is right or wrong. So far I was able to learn things which previously used to just go above my head. I think everyone should incorporate chatGPT into their learning process."
+        },
+        {
+            "id": "j64hijh",
+            "parent": "t1_j64dhw9",
+            "ans": "Yup, you need both, it\u2019s not one or the other",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j641t50",
+            "parent": "t1_j63z96i",
+            "ans": "I have never been asked by recruiters about projects. I have been asked by the IT department though. However, in order to get to the IT department, you need to pass the recruiter first.",
+            "score": 38,
+            "que": "Untrue. In interviews they will want you to talk through real projects you've worked on."
+        },
+        {
+            "id": "j65l3hd",
+            "parent": "t1_j647133",
+            "ans": "Recruiters rarely have any technical knowledge so they're just checking off boxes. How many years experience do you have with x? y? z?",
+            "score": 5,
+            "que": "I couldn\u2019t disagree more. Often I find that recruiters only care about the buzzwords and never care or ask about awards."
+        },
+        {
+            "id": "j68k4gq",
+            "parent": "t1_j65imr8",
+            "ans": "Hahahah",
+            "score": 2,
+            "que": "You have to remember that the most important KPI at McKinsey is the number of slides generated."
+        },
+        {
+            "id": "j658b5f",
+            "parent": "t1_j65755m",
+            "ans": "The frustration was that nobody believed me when I applied for entry level, which is all I was qualified for.",
+            "score": 23,
+            "que": "It may have taken you two years to educate yourself on DS, but the PhD in math greatly aided in finding a job,  in terms of brand.  However,  I agree that there are no guarantees"
+        },
+        {
+            "id": "j66im0p",
+            "parent": "t1_j65755m",
+            "ans": "Possibly, but it is a weird market. A lot of freshly-minted PhDs are in a limbo of \"overqualified\" for basic work but \"underqualified\" for advanced positions, which can make it difficult to get a position that you feel is fitting.\n\nI got a job after my PhD through connections, but I had only heard back from one company before this alternative... And they were curious as to why I was trying to apply for a position that I was overqualified for.",
+            "score": 11,
+            "que": "It may have taken you two years to educate yourself on DS, but the PhD in math greatly aided in finding a job,  in terms of brand.  However,  I agree that there are no guarantees"
+        },
+        {
+            "id": "j65hhu5",
+            "parent": "t1_j65ehix",
+            "ans": "No a Ph.D does ton for the job app. Places like Amazon, Facebook, Google, Uber recruit directly from conferences where graduating Ph.Ds attend for applied researcher roles. My group masters or Ph.D is a hard requirement.",
+            "score": 9,
+            "que": "I think the phd is less for job app and more for learning . Not having to take the time to understand the underlying mathematics is a huge bonus"
+        },
+        {
+            "id": "j67eiqc",
+            "parent": "t1_j65ia1v",
+            "ans": "Considering there\u2019s more to learn about data sci even post a 4-year CS degree program, someone straight out of HS is def at the start of a steep hill.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j67fmrg",
+            "parent": "t1_j65ia1v",
+            "ans": "I had no programming experience.  My dissertation and research work was entirely pen and paper theoretical math.  So I had a good knowledge of basic statistics because I taught that course.  But yeah, a high school graduate trying to get a technical job is definitely a lower starting point.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j67ffy4",
+            "parent": "t1_j6749cv",
+            "ans": "I never thought of that option.  I happened to run into a physics phd early in my networking, so I sort of latched onto him and worked my way into that group.",
+            "score": 3,
+            "que": "I also have a PhD in math. I found it very difficult to get interviews without any sort of internship experience. After 3 years, it took me enrolling in undergrad CS classes again just to be eligible for internships again. Got an internship relatively quickly, then after getting to know my boss and show him I was very capable, I managed to transition to full-time. I think that's probably the best way to get in."
+        },
+        {
+            "id": "j65mcmu",
+            "parent": "t1_j65gy51",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "You are pretty overqualified with a math PhD, I'm guessing that actually hindered your job search to an extent, or was a factor.  \n\nI have a PhD in biology and chemistry stuff (like geochemical molecular microbiology), I've done a variety of things since then and I know for a fact when I've looked at pretty low level or entry level positions seeing the PhD and some things associated with that can be intimidating in other fields, as there are a lot of fancy sounding words I guess.  Also, people kinda just think \"why the fuck do you want to work here with this fancy sounding PhD?\".  Which sucks when you just need a job. \n\nOne of my good friends is a math PhD in academia on the financial side of things.  He kinda says the same thing, as he considered leaving academia because of academia stuff.  While he would have probably been looking at more financial jobs, my understanding of his PhD/math is it can be kind of difficult to transition from the theoretical proofs and research to application (or whatever you guys do.... he explains it to me and my eyes glaze over...).  That being said, his mastery of math makes me think it could be incredibly universal to the point it's just about picking a direction and spending some time focusing there (like you did) before trying to directly get into the industry.  An important thing, I've noticed, is a lot of the time people don't recognize the breadth of experience that comes with a PhD a lot of the time.  Like, knowing a bunch of about your dissertation topic is kinda a small part of everything else you are doing.  It's kinda frustrating, because I gained a ton of non-science specific skills that are pretty universal in application, but the focus is on the topic.  \n\nBasically, having a PhD is a blessing and a curse in terms of employment opportunities.  It also sucks with academia being so impacted, that the transition to industry can be funky with topics and skills."
+        },
+        {
+            "id": "j64ek3n",
+            "parent": "t1_j646zvg",
+            "ans": "[deleted]",
+            "score": 17,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j67u7ic",
+            "parent": "t1_j64cix9",
+            "ans": "I mean he's completely wrong in terms of expectations.\n\n\"The most junior people I recruit have no idea what do when their tools break or how to identify it.\"\n\nNo shit. They're fresh out of university and have no experience in proper projects. Lower your bar, or hire more experienced people.",
+            "score": 5,
+            "que": "He's not wrong, but he's not mature."
+        },
+        {
+            "id": "j679mvr",
+            "parent": "t1_j66m833",
+            "ans": "Indeed.",
+            "score": 3,
+            "que": "This thread too."
+        },
+        {
+            "id": "j6646l6",
+            "parent": "t1_j6615qu",
+            "ans": "Yeah they call him McNutty sometimes. I watched with subtitles lol",
+            "score": 3,
+            "que": "I\u2019m hoping you got the reference to The Wire"
+        },
+        {
+            "id": "j65nx08",
+            "parent": "t1_j65l3hd",
+            "ans": "Yes exactly",
+            "score": 1,
+            "que": "Recruiters rarely have any technical knowledge so they're just checking off boxes. How many years experience do you have with x? y? z?"
+        },
+        {
+            "id": "j65edfm",
+            "parent": "t1_j658b5f",
+            "ans": " How did you overcome this problem? Sometimes I wonder if I should just leave the degree out of the resume.",
+            "score": 12,
+            "que": "The frustration was that nobody believed me when I applied for entry level, which is all I was qualified for."
+        },
+        {
+            "id": "j6b2alw",
+            "parent": "t1_j66im0p",
+            "ans": "The cheat code is government work. PhD = GS 11/12/13",
+            "score": 5,
+            "que": "Possibly, but it is a weird market. A lot of freshly-minted PhDs are in a limbo of \"overqualified\" for basic work but \"underqualified\" for advanced positions, which can make it difficult to get a position that you feel is fitting.\n\nI got a job after my PhD through connections, but I had only heard back from one company before this alternative... And they were curious as to why I was trying to apply for a position that I was overqualified for."
+        },
+        {
+            "id": "j65pb7c",
+            "parent": "t1_j65hhu5",
+            "ans": "There is a wide gulf between a random STEM Ph.D and having a Ph.D where your research was specifically applicable to some company's applied research needs.",
+            "score": 14,
+            "que": "No a Ph.D does ton for the job app. Places like Amazon, Facebook, Google, Uber recruit directly from conferences where graduating Ph.Ds attend for applied researcher roles. My group masters or Ph.D is a hard requirement."
+        },
+        {
+            "id": "j65um6q",
+            "parent": "t1_j65mcmu",
+            "ans": "Yeah, switching fields is hard work. It was a lot of work in the past - so why would that be any different in the present?",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "jiy7wd3",
+            "parent": "t1_j64ek3n",
+            "ans": "Any advice on how to write good documentation?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j66kwv8",
+            "parent": "t1_j6646l6",
+            "ans": "Bubs calls him McNutty.",
+            "score": 3,
+            "que": "Yeah they call him McNutty sometimes. I watched with subtitles lol"
+        },
+        {
+            "id": "j67ag4h",
+            "parent": "t1_j65edfm",
+            "ans": "Lucky break in the end. A guy was impressed by the PhD and have me a senior role with no experience. I sucked, but learned a lot. I bet he regrets it now.",
+            "score": 20,
+            "que": " How did you overcome this problem? Sometimes I wonder if I should just leave the degree out of the resume."
+        },
+        {
+            "id": "j674erj",
+            "parent": "t1_j65edfm",
+            "ans": "I re-enrolled in undergrad classes to be eligible for internships. Transitioned to full-time after one semester of being an intern.",
+            "score": 13,
+            "que": " How did you overcome this problem? Sometimes I wonder if I should just leave the degree out of the resume."
+        },
+        {
+            "id": "j9i787n",
+            "parent": "t1_j6b2alw",
+            "ans": "Government work is always significantly behind them private sector when it comes to tech stack and capabilities, though.  I made the mistake of going the \"government contracting\" route my first year in the field and ended up leaving for private sector because it was so routine and boring.\n\nI was military for a while and the mil -> GS/contractor pipeline is strong, so I have quite a few friends working across the government sector that feel the same way.  Only ones I know that say the work is cutting edge are at NSA and can't actually talk about what they do.",
+            "score": 2,
+            "que": "The cheat code is government work. PhD = GS 11/12/13"
+        },
+        {
+            "id": "j65q9uf",
+            "parent": "t1_j65pb7c",
+            "ans": "Most applied research roles don't require you to have done research in their specific field. How do I know ?  FAANG hiring managers have to recruit me for those jobs before.\n\nNo matter how much people don't want to hear it top companies do value Ph.D talent and have pipelines for talent coming from Ph.D.  Sure they don't take  Ph.D from any field, but they take a pretty broad diversity.\n\nWe do the same in my world (Big 4 banks). We have early talent programs that are tailored specifically bring in Ph.Ds from a variety of quantitative fields that haven't don't necessarily have any background in banking/finance or what we do. Its a key way we recruit technical talent including for pure DS roles. These aren't a small number of roles, we are hiring 50+ people every year through these programs.",
+            "score": 13,
+            "que": "There is a wide gulf between a random STEM Ph.D and having a Ph.D where your research was specifically applicable to some company's applied research needs."
+        },
+        {
+            "id": "jbbpgmr",
+            "parent": "t1_j674erj",
+            "ans": "Did u drop classes or continue? Thx",
+            "score": 2,
+            "que": "I re-enrolled in undergrad classes to be eligible for internships. Transitioned to full-time after one semester of being an intern."
+        },
+        {
+            "id": "ji5azjn",
+            "parent": "t1_j674erj",
+            "ans": "Im 33 from a completely different field, thinking am I going to be too old for internships? What do you think?",
+            "score": 2,
+            "que": "I re-enrolled in undergrad classes to be eligible for internships. Transitioned to full-time after one semester of being an intern."
+        },
+        {
+            "id": "j65ste2",
+            "parent": "t1_j65q9uf",
+            "ans": "I've got a Ph.D in Physics, postdocs at 3 big-name US universities, and work as a garden variety DS for a tech company - I'm all ears if you have a line on specific pipelines for my kind!",
+            "score": 9,
+            "que": "Most applied research roles don't require you to have done research in their specific field. How do I know ?  FAANG hiring managers have to recruit me for those jobs before.\n\nNo matter how much people don't want to hear it top companies do value Ph.D talent and have pipelines for talent coming from Ph.D.  Sure they don't take  Ph.D from any field, but they take a pretty broad diversity.\n\nWe do the same in my world (Big 4 banks). We have early talent programs that are tailored specifically bring in Ph.Ds from a variety of quantitative fields that haven't don't necessarily have any background in banking/finance or what we do. Its a key way we recruit technical talent including for pure DS roles. These aren't a small number of roles, we are hiring 50+ people every year through these programs."
+        },
+        {
+            "id": "j674odj",
+            "parent": "t1_j65q9uf",
+            "ans": "> Most applied research roles don't require you to have done research in their specific field.\n\nThere's still a big difference between research that includes coding or statistics and research that doesn't.",
+            "score": 2,
+            "que": "Most applied research roles don't require you to have done research in their specific field. How do I know ?  FAANG hiring managers have to recruit me for those jobs before.\n\nNo matter how much people don't want to hear it top companies do value Ph.D talent and have pipelines for talent coming from Ph.D.  Sure they don't take  Ph.D from any field, but they take a pretty broad diversity.\n\nWe do the same in my world (Big 4 banks). We have early talent programs that are tailored specifically bring in Ph.Ds from a variety of quantitative fields that haven't don't necessarily have any background in banking/finance or what we do. Its a key way we recruit technical talent including for pure DS roles. These aren't a small number of roles, we are hiring 50+ people every year through these programs."
+        },
+        {
+            "id": "jbc1wog",
+            "parent": "t1_jbbpgmr",
+            "ans": "I got hired in January, so I just didn't enroll in Spring classes. I did finish the Fall ones. When I was interviewing, they said they didn't care if I finished or not since I already had my degrees.",
+            "score": 2,
+            "que": "Did u drop classes or continue? Thx"
+        },
+        {
+            "id": "ji5ck1y",
+            "parent": "t1_ji5azjn",
+            "ans": "I was 31 when I started mine. Shouldn't be an issue at all imo.",
+            "score": 2,
+            "que": "Im 33 from a completely different field, thinking am I going to be too old for internships? What do you think?"
+        },
+        {
+            "id": "j67uqto",
+            "parent": "t1_j674odj",
+            "ans": "And you think a mathematician doesn't do coding or know statistics? Statics is a branch of mathematics, literally half the undergrad stats programs in the united states at flagship state schools are taught out of math departments.",
+            "score": -2,
+            "que": "> Most applied research roles don't require you to have done research in their specific field.\n\nThere's still a big difference between research that includes coding or statistics and research that doesn't."
+        },
+        {
+            "id": "j68rem7",
+            "parent": "t1_j67uqto",
+            "ans": "Knowing statistics and how to code isn't the same as it being part of your research. I took statistics classes in undergrad and multiple probability classes at the grad school level. I did a lot of coding in both Python and Matlab in my classes. Nobody cares. Now if you used Python to solve a problem in your research or your research involved applying statistics, then that would probably help.",
+            "score": 3,
+            "que": "And you think a mathematician doesn't do coding or know statistics? Statics is a branch of mathematics, literally half the undergrad stats programs in the united states at flagship state schools are taught out of math departments."
+        },
+        {
+            "id": "j6abpi7",
+            "parent": "t1_j68rem7",
+            "ans": "Ph.Ds write a dissertation.  That is doing research. Most applied mathematicians have to write code for their research.  For Ph.D. candidates the bigger issue is are they interested enough to actually succeed at the job. There are some people that really just want to be in an academic environment, working in a corporate is not going to ever be as stimulating.",
+            "score": 1,
+            "que": "Knowing statistics and how to code isn't the same as it being part of your research. I took statistics classes in undergrad and multiple probability classes at the grad school level. I did a lot of coding in both Python and Matlab in my classes. Nobody cares. Now if you used Python to solve a problem in your research or your research involved applying statistics, then that would probably help."
+        },
+        {
+            "id": "j6aszg2",
+            "parent": "t1_j6abpi7",
+            "ans": "> Ph.Ds write a dissertation. That is doing research. Most applied mathematicians have to write code for their research.\n\nYes, I'm aware. I wrote one. Yes, most applied mathematicians will write code or apply statistical methodology. There are however very many people that graduate with PhDs in mathematics that don't use statistics or write code as part of their dissertation. You're talking about a very specific subset of all math PhD graduates. There are a lot more factors that help qualify you for a job at one of these companies than just having a PhD.",
+            "score": 1,
+            "que": "Ph.Ds write a dissertation.  That is doing research. Most applied mathematicians have to write code for their research.  For Ph.D. candidates the bigger issue is are they interested enough to actually succeed at the job. There are some people that really just want to be in an academic environment, working in a corporate is not going to ever be as stimulating."
+        }
+    ]
+}

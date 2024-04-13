@@ -1,0 +1,869 @@
+{
+    "title": "Offend a data scientist in one tweet",
+    "id": "zo5bwf",
+    "create_at": 1671280215.0,
+    "score": 1882,
+    "comments": [
+        {
+            "id": "j0kxdq7",
+            "parent": "t1_j0kvi1l",
+            "ans": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag",
+            "score": 182,
+            "que": "Every data scientist at a senior level that I have spoken to: \"I'm a data scientist at xxxx but I wouldn't consider what I do as data science\""
+        },
+        {
+            "id": "j0kxayi",
+            "parent": "t1_j0kvi1l",
+            "ans": "Probably because they're doing more management of other TBH",
+            "score": 6,
+            "que": "Every data scientist at a senior level that I have spoken to: \"I'm a data scientist at xxxx but I wouldn't consider what I do as data science\""
+        },
+        {
+            "id": "j0nl2fp",
+            "parent": "t1_j0kvi1l",
+            "ans": "\u201cI\u2019m a data scientist but really I get paid to complain.\u201d - how I introduce my job.",
+            "score": 3,
+            "que": "Every data scientist at a senior level that I have spoken to: \"I'm a data scientist at xxxx but I wouldn't consider what I do as data science\""
+        },
+        {
+            "id": "j0lzvj6",
+            "parent": "t1_j0kvi1l",
+            "ans": "Precisely what I tell people about my job that is titled data science.",
+            "score": 3,
+            "que": "Every data scientist at a senior level that I have spoken to: \"I'm a data scientist at xxxx but I wouldn't consider what I do as data science\""
+        },
+        {
+            "id": "j0oyyo9",
+            "parent": "t1_j0kvi1l",
+            "ans": "Wow, so if you want to seek for a expert data scientist, look at whose title does not directly speicifed as DS, but rather 'feature specialist', 'data XX engineer'...  \nThat sounds realistic",
+            "score": 1,
+            "que": "Every data scientist at a senior level that I have spoken to: \"I'm a data scientist at xxxx but I wouldn't consider what I do as data science\""
+        },
+        {
+            "id": "j1wtlv6",
+            "parent": "t1_j0kvi1l",
+            "ans": "Senior Data Scientist here doing mostly mining and engineering. \ud83e\udd37\u200d\u2640\ufe0f",
+            "score": 1,
+            "que": "Every data scientist at a senior level that I have spoken to: \"I'm a data scientist at xxxx but I wouldn't consider what I do as data science\""
+        },
+        {
+            "id": "j0kywks",
+            "parent": "t1_j0kvjcw",
+            "ans": "The most offensive thing to me about that tweet was her grammar",
+            "score": 228,
+            "que": "component your are"
+        },
+        {
+            "id": "j0l462h",
+            "parent": "t1_j0kvjcw",
+            "ans": "How principal component you are",
+            "score": 49,
+            "que": "component your are"
+        },
+        {
+            "id": "j0ladu0",
+            "parent": "t1_j0kvjcw",
+            "ans": "[deleted]",
+            "score": 17,
+            "que": "component your are"
+        },
+        {
+            "id": "j0lzcro",
+            "parent": "t1_j0kx3k7",
+            "ans": "Why would you say something so controversial yet so brave?",
+            "score": 29,
+            "que": "Q: How many data scientists does it take to change a bulb?\n\nA: as much as you can hire, they will work tirelessly for a year to come up with the best light radiating device, at the end of the slotted time they submit their well put report, the ML engineer reads said report, assigns hydrogen fusion as not production ready and instead replaces the bulb with a one from the storage cabin."
+        },
+        {
+            "id": "j0ovwd0",
+            "parent": "t1_j0kx3k7",
+            "ans": "How do I get a job at a company with a storage cabin",
+            "score": 4,
+            "que": "Q: How many data scientists does it take to change a bulb?\n\nA: as much as you can hire, they will work tirelessly for a year to come up with the best light radiating device, at the end of the slotted time they submit their well put report, the ML engineer reads said report, assigns hydrogen fusion as not production ready and instead replaces the bulb with a one from the storage cabin."
+        },
+        {
+            "id": "j0lexx0",
+            "parent": "t1_j0l2pkz",
+            "ans": "I had a candidate tell me they were an expert with pandas and numpy (ok, jan...) then I asked his general Python proficiency and he said \"Oh I don't know how to code.\"",
+            "score": 78,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0l3x2a",
+            "parent": "t1_j0l2pkz",
+            "ans": "My company got acquired a few years ago, and our whole DS team had to do the same training as new hires.\nThe guy doing the intro to DS training asked us to rate our current DS skills on a scale from 1-10, where 10 was \u201clike if you just finished a MASTERS in data science\u201d (the trainer had a masters in data science). There was some heckling.",
+            "score": 68,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0lz73n",
+            "parent": "t1_j0l2pkz",
+            "ans": "Lol I don't even dare to say I mastered Excel (with 18 years of experience including vba, macros, dax, etc)",
+            "score": 7,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0lpzjd",
+            "parent": "t1_j0l2pkz",
+            "ans": "I've completed a bootcamp and understand that I have a pretty good start in DS, but am by no means perfect. Out of the 80 or so jobs I applied to, I got exactly one final interview. The main tool they use is not one I have any experience with whatsoever, and when they asked about it, I was straightforward and said so, but I have organized my resume in such a way that they could also see I have enough agent skills. I also pointed out that I had experience in almost nothing listed under my technical skills section before starting the bootcamp.\n\nI got the job.\n\nThe kicker? The interview was for a good job at the same school I took the bootcamp, and I was already accepted and enrolled in their master's program as well. Now I have better pay than I've ever had before as well as tuition paid (plus the potential to pay for most of my wife's upcoming master's degree).\n\nI'm really, really excited for the next couple of years. What's funny is that I'll drive to school to work, then drive home to attend class.\n\nBut what's the best thing you can do to land a job? Networking. That doesn't mean you ask everyone you meet for a job, but building up a network can mean you make your own marketing plan, make your skills known, and make yourself easy to find. There's a lot involved in building up a great career, and unfortunately, technical skills are not enough. I'm going to spend my next few years building connections with influential people. I don't know what my future holds, but I do feel confident that I'll be in a better position when I complete my degree.",
+            "score": 11,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0lcbxd",
+            "parent": "t1_j0l2pkz",
+            "ans": "I wouldn't be able to stop myself from blurting \"you did?!\" on that call to them.",
+            "score": 6,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0m6bnl",
+            "parent": "t1_j0l2pkz",
+            "ans": "On the other hand, I had an experienced Finance grad tell me that it takes years to learn time series analysis on Python. Yeah, maybe if you didn't do any of that at university.",
+            "score": 2,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0m74z8",
+            "parent": "t1_j0l2pkz",
+            "ans": "This is something I think I would say about myslef and python, even though I\u2019m a highschooler who uses it for visualization in STEM classes. I would never proclaim that I am an expert, but in my native language \u00abmastering\u00bb something means you\u2019ve got the hang of someting. If I was rejected simply because I picked the wrong adjective during my interview I\u2019d be pretty dissapointed. \n\nHowever if the guy ment mastered as in actually knows everything about something he defenetly didn\u2019t, I understand.",
+            "score": 1,
+            "que": "\"I have mastered data science\"\n\nActually said to me in a phone screen. Candidate was 24 yo and had just finished an MS in Finance with two projects under his belt. He said the same thing about Python. He did not get an invitation to interview."
+        },
+        {
+            "id": "j0mbxqt",
+            "parent": "t1_j0l3bp0",
+            "ans": "I param search for a good random seed.",
+            "score": 11,
+            "que": "I use unique_ID as a feature"
+        },
+        {
+            "id": "j0l4c35",
+            "parent": "t1_j0l3bp0",
+            "ans": "I laughed with that, but I wouldn\u2019t be surprised if that happened.",
+            "score": 13,
+            "que": "I use unique_ID as a feature"
+        },
+        {
+            "id": "j0lcg13",
+            "parent": "t1_j0l3bp0",
+            "ans": "I thought it was funny when someone mentioned that in an interview, and then I went to work at FAANG.",
+            "score": -5,
+            "que": "I use unique_ID as a feature"
+        },
+        {
+            "id": "j0lziqu",
+            "parent": "t1_j0l3bp0",
+            "ans": "Mfw it could actually work with as first adapters would behave differently from new ones",
+            "score": 1,
+            "que": "I use unique_ID as a feature"
+        },
+        {
+            "id": "j0nv6xl",
+            "parent": "t1_j0l3bp0",
+            "ans": "I got 100% train accuracy.",
+            "score": 1,
+            "que": "I use unique_ID as a feature"
+        },
+        {
+            "id": "j0l5rtb",
+            "parent": "t1_j0kydcu",
+            "ans": "your are",
+            "score": 26,
+            "que": "Component?"
+        },
+        {
+            "id": "j0ljntu",
+            "parent": "t1_j0kydcu",
+            "ans": "I think they meant competent?",
+            "score": 6,
+            "que": "Component?"
+        },
+        {
+            "id": "j0msi3c",
+            "parent": "t1_j0lbfmi",
+            "ans": "My response: \"There is no such thing as good data.  Data quality ranges from 'not very bad' to 'data for litigation, supplied by the opposition'.  \"",
+            "score": 6,
+            "que": "\"You're data is probably bad\" - criticism from someone who doesn't agree with your findings nor do they understand data"
+        },
+        {
+            "id": "j0m17rt",
+            "parent": "t1_j0lbfmi",
+            "ans": "I saw that happen, I was helping on something minor in a project one of my colleagues was doing. I was warned that one of the PM was \"difficult\" and to make sure I compose myself when dealing with them. The PM kept on insisting we have bad data, and every time they bring up an example of \"type\" of data we must have included, it turns out my colleague already thought of that. At some point, she just lost cool and asked the PM: Is there any evidence that we can present that will help you see that our approach is sound. It sort of shut them up for a moment, then a TPM stepped in and said: We need to stop quibbling over trivial matters. We have our results, we need to think how to proceed.  \n\n\nNo idea what happened later, as my part was concluded and frankly never bothered asking.",
+            "score": 3,
+            "que": "\"You're data is probably bad\" - criticism from someone who doesn't agree with your findings nor do they understand data"
+        },
+        {
+            "id": "j0m28s3",
+            "parent": "t1_j0lbfmi",
+            "ans": "\"you're\" data?",
+            "score": 1,
+            "que": "\"You're data is probably bad\" - criticism from someone who doesn't agree with your findings nor do they understand data"
+        },
+        {
+            "id": "j0mso88",
+            "parent": "t1_j0ljttc",
+            "ans": "This is far from the worst way I have heard this described.",
+            "score": 5,
+            "que": "I kinda think we should have kept up with the mining analogy.\n\nData mining\n\nData transport\n\nData refining\n\nData reactions and synthesis\n\nData product manufacturing\n\nData product delivery\n\nWhat do you do?  Oh, I work mostly in data synthesis and raw data logistics."
+        },
+        {
+            "id": "j0nj7cp",
+            "parent": "t1_j0ljttc",
+            "ans": "Damn I really like this actually.",
+            "score": 3,
+            "que": "I kinda think we should have kept up with the mining analogy.\n\nData mining\n\nData transport\n\nData refining\n\nData reactions and synthesis\n\nData product manufacturing\n\nData product delivery\n\nWhat do you do?  Oh, I work mostly in data synthesis and raw data logistics."
+        },
+        {
+            "id": "j0la0u8",
+            "parent": "t1_j0l6gim",
+            "ans": "lmao. You win this one.",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0ozy94",
+            "parent": "t1_j0l6gim",
+            "ans": "Why?\nIs kaggle not good?",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0l4k1n",
+            "parent": "t1_j0l35lj",
+            "ans": "Peak data science",
+            "score": 22,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0lf3e8",
+            "parent": "t1_j0l35lj",
+            "ans": "I'm confused, were they using that \"target variable\" weekly? So, for each week they had the avg weekly sales as a target rather than the actual sales?\n\nWouldn't the output just be whatever the avg weekly sales was for every new week then?\n\nit sounds very chaotic",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0lmpe7",
+            "parent": "t1_j0l35lj",
+            "ans": "Lmao I love the keep me in the loop part. So blatantly oblivious to their own skill sets.\n\nSounds like several people I work with, but they get away with it because senior leadership also doesn\u2019t know jack about DS or any Engineering-related skills.",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0m68kl",
+            "parent": "t1_j0l35lj",
+            "ans": "MAPE?",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0lvgwg",
+            "parent": "t1_j0lvapi",
+            "ans": "And I take it all back. The most insufferable woman I ever met was a pediatric anesthesiologist from Stanford who was 100% humorless. Like pathologically had no sense of humor.",
+            "score": 12,
+            "que": "The most insufferable woman I ever met was a \u201cdata scientist.\u201d I was at a bar in San Francisco known to be a hangout spot for UCSF nurses and doctors. She approaches me at the bar and we start talking but it was immediately odd and confrontational. She flat out asked me  what I thought she did for a living and I guessed \u201cnurse practitioner in onco or neuro departments\u201d (which UCSF is heavy with). It was a shot in the dark but I figured if I was very specific and correct it would be funny.\n\nShe audibly scoffed and I thought I had maybe insulted a physician (which is fair, the nurse/doctor divide is unnecessarily gendered) but instead she acted all incredulous and indignant, called a friend over, and was like \u201cthis guy thinks I\u2019m just a nurse.\u201d\n\nAfter some back and forth about how \u201cjust a nurse\u201d seemed like a more condescending position than assuming someone was a nurse\u2026 she finally says something like \u201choney, I\u2019m a DATA SCIENTIST.\u201d\n\nBy this point I knew I was going to keep poking the bear. I asked her where she published her methods or results, what company she worked for (some advertising leads/marketing shop, iirc), and what kind of data she worked with. It was becoming apparent that she was another data science bootcamp attendee that were flooding SF at the time (2017ish). She replied to the last question with \u201cdata is data, it\u2019s all just math.\u201d \n\nAfter some more back and forth about how a table of values on a persons last 5 web searches, ad engagements, or magazine subscriptions is a helluva lot different than time series sensor data from a device, genomic data from a targeted/functional assay,  or spatial/geo data - she started to get more\u2026 coquettish? She finally asked what I do and I replied \u201cI\u2019m a nurse.\u201d I ended explaining that I wasn\u2019t a nurse (just a grad student in bioinformatics) but my mother was a nurse and that I suggest she look at some of the data around what a nurse practitioner at UCSF makes."
+        },
+        {
+            "id": "j0lbbmg",
+            "parent": "t1_j0l2skl",
+            "ans": "Uhh... Who's gonna tell him?",
+            "score": 34,
+            "que": "\"Data Science is just marketing dribble for half-ass programming and basic business statistics.\"\n\nMy current boss, and why I'm looking for a new job."
+        },
+        {
+            "id": "j0l9sv3",
+            "parent": "t1_j0l2skl",
+            "ans": "I mean, is he that far off though lol",
+            "score": 44,
+            "que": "\"Data Science is just marketing dribble for half-ass programming and basic business statistics.\"\n\nMy current boss, and why I'm looking for a new job."
+        },
+        {
+            "id": "j0m4nwa",
+            "parent": "t1_j0llnrq",
+            "ans": "I think they ment competent",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0p0njp",
+            "parent": "t1_j0mlzj0",
+            "ans": "It is\nDjango is an amazing framework for web development.",
+            "score": 1,
+            "que": "Python isnt a real programming language"
+        },
+        {
+            "id": "j0kycl4",
+            "parent": "t1_j0kxdq7",
+            "ans": "Yeah this is one of the main issues I\u2019m having when I interview for positions in other companies: everything they do is different, starting from the processes, way of working and tools, to the point I can\u2019t say I\u2019ve worked with every scenario they demand experience in, so I get disqualified as they are looking for a magical being that cannot exist outside their company.\n\nSwitched to interviewing for data engineering positions and the requirements and processes are more straightforward and relatable, so unless a company accepts me as a data scientist in my next job, I\u2019m going to pivot to DE and that\u2019s it.",
+            "score": 61,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0kxmc2",
+            "parent": "t1_j0kxdq7",
+            "ans": "Applied scientist is my new favorite term. Or decision scientist. Both include the core skills of a data scientist but normally you have someone who cares about titles doing the work",
+            "score": 17,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0lgsac",
+            "parent": "t1_j0kxdq7",
+            "ans": "Yeah they often call me data scientist and my team \"data science team\" but it's absolutely not what I/we do.\n\n I got a software dev background, got a PhD in a specific domain that happened to use ML at some point. So i got into ML.\nBut I don't do reports, statistical tests, use any ML methods to solve other problems than the system I have been working on for years. I don't use linear regressions, PCAs, SVMs, xgboost, random forests, never work with structured data or databases, never write SQL.\n\nI think without heavy prep i would fail most generic DS interview questions you see floating around.\n\nOn the other hand this high degree of specialization also means that i didn't have to do technical job interviews for over 10 years now. \n\nI also advertise our jobs as \"Applied Scientist (for) X\". And with a field small enough i had some contact with lots of the applicants at some point or at least some pretty direct connection - like ah yes your PhD advisor at the University of Edinburgh was at my PhD defense a decade ago when he still was Prof in Tokyo. Or oh your previous company was founded by someone who worked with me at a research center.",
+            "score": 16,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0n4s4c",
+            "parent": "t1_j0kxdq7",
+            "ans": "Sure, but \"component?\"",
+            "score": 7,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0n3rnt",
+            "parent": "t1_j0kxdq7",
+            "ans": "I just tell people I\u2019m a programmer. They immediately understand what I do without further explanation.",
+            "score": 3,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0nkzdo",
+            "parent": "t1_j0kxdq7",
+            "ans": "Only the first two would ever make sense to describe as a DS. The rest are types of software engineering.",
+            "score": 3,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0lda66",
+            "parent": "t1_j0kxdq7",
+            "ans": "Well said",
+            "score": 0,
+            "que": "Yeah I think this is what the tweet is getting at. DS is too broad for someone with any claim to expertise would strongly identify as an 'expert data scientist'. Rather they are more likely to identify with their chosen specialism as a feature engineer/data explorer, researcher/modelling, ML engineering, systems, MLOps, data engineer. So someone claiming to be good at data science without having developed a specialism is a red flag"
+        },
+        {
+            "id": "j0ley85",
+            "parent": "t1_j0kxayi",
+            "ans": "But this is also the role of faculty in universities. They understand enough to guide the process and look into others work and identify improvements, but generally someone else spending the time to do the work makes more sense. Most PIs create and guide projects, not actually do any of the legwork outside of the design and write up.",
+            "score": 4,
+            "que": "Probably because they're doing more management of other TBH"
+        },
+        {
+            "id": "j0lsmsn",
+            "parent": "t1_j0kywks",
+            "ans": "Same here. I don't mind grammar mistakes in general but it's really dumb when someone is trying to be snarky or clever and then ruin the whole thing with an elementary grammar mistake. In this case it's not even grammar but a \"I don't know how to spell a simple word\" type of a mistake. Hopefully just a matter of autocorrect gone bad but it does deflate the otherwise great tweet",
+            "score": 28,
+            "que": "The most offensive thing to me about that tweet was her grammar"
+        },
+        {
+            "id": "j0l0s9x",
+            "parent": "t1_j0kywks",
+            "ans": "yes, it's actually really bothering me. Normally not, but this one is nails on a chalkboard",
+            "score": 57,
+            "que": "The most offensive thing to me about that tweet was her grammar"
+        },
+        {
+            "id": "j0lp9f6",
+            "parent": "t1_j0l462h",
+            "ans": "I thought the same thing. Do you think it was supposed to be a DS pun?",
+            "score": 6,
+            "que": "How principal component you are"
+        },
+        {
+            "id": "j0lahs7",
+            "parent": "t1_j0l462h",
+            "ans": "Your*",
+            "score": 4,
+            "que": "How principal component you are"
+        },
+        {
+            "id": "j0lnilc",
+            "parent": "t1_j0ladu0",
+            "ans": "They meant to say \"competent\"",
+            "score": 25,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0o4cid",
+            "parent": "t1_j0lzcro",
+            "ans": "Do you think Margret Thatcher had girl power?",
+            "score": 4,
+            "que": "Why would you say something so controversial yet so brave?"
+        },
+        {
+            "id": "j0lm56d",
+            "parent": "t1_j0lexx0",
+            "ans": ">\t\u201cOh I don\u2019t know how to code.\u201d\n\nMe trying to make sense of my own code: big same.",
+            "score": 80,
+            "que": "I had a candidate tell me they were an expert with pandas and numpy (ok, jan...) then I asked his general Python proficiency and he said \"Oh I don't know how to code.\""
+        },
+        {
+            "id": "j0ls04y",
+            "parent": "t1_j0lexx0",
+            "ans": "Maybe he knows how to get pandas to fuck and thought he was interviewing at the zoo.",
+            "score": 14,
+            "que": "I had a candidate tell me they were an expert with pandas and numpy (ok, jan...) then I asked his general Python proficiency and he said \"Oh I don't know how to code.\""
+        },
+        {
+            "id": "j0lphw1",
+            "parent": "t1_j0lexx0",
+            "ans": "I'm glad I didn't read this 5 minutes ago when I was finishing up my tattoo - laughing would've ruined it",
+            "score": 4,
+            "que": "I had a candidate tell me they were an expert with pandas and numpy (ok, jan...) then I asked his general Python proficiency and he said \"Oh I don't know how to code.\""
+        },
+        {
+            "id": "j0lsnci",
+            "parent": "t1_j0lexx0",
+            "ans": "what type of questions would you have asked him on python if he had replied otherwise?",
+            "score": 2,
+            "que": "I had a candidate tell me they were an expert with pandas and numpy (ok, jan...) then I asked his general Python proficiency and he said \"Oh I don't know how to code.\""
+        },
+        {
+            "id": "j0lajt4",
+            "parent": "t1_j0l3x2a",
+            "ans": "I just finished a masters of data science and I wouldn\u2019t give myself a 10 but I would ask for more nuanced topics on which to rate myself to better understand how they define data science \u2026",
+            "score": 13,
+            "que": "My company got acquired a few years ago, and our whole DS team had to do the same training as new hires.\nThe guy doing the intro to DS training asked us to rate our current DS skills on a scale from 1-10, where 10 was \u201clike if you just finished a MASTERS in data science\u201d (the trainer had a masters in data science). There was some heckling."
+        },
+        {
+            "id": "j0mcrnx",
+            "parent": "t1_j0lz73n",
+            "ans": "I think only the guy that ran doom on excel can say he mastered excel",
+            "score": 4,
+            "que": "Lol I don't even dare to say I mastered Excel (with 18 years of experience including vba, macros, dax, etc)"
+        },
+        {
+            "id": "j10xpnt",
+            "parent": "t1_j0m6bnl",
+            "ans": "I wonder what tools the finance grad used. Some are easier than others. I will say that time series can be very difficult to do right. Sure,a simple ARIMA model with two lags is a textbook case. How about lags by nested groups?",
+            "score": 0,
+            "que": "On the other hand, I had an experienced Finance grad tell me that it takes years to learn time series analysis on Python. Yeah, maybe if you didn't do any of that at university."
+        },
+        {
+            "id": "j0law2s",
+            "parent": "t1_j0l4c35",
+            "ans": "I have seen it help models. It can be an ordinal substitution for time parameters, assuming the unique id is created sequentially. Obviously, \"create date\" features are more precise and stable, but there could be something there.",
+            "score": 26,
+            "que": "I laughed with that, but I wouldn\u2019t be surprised if that happened."
+        },
+        {
+            "id": "j0lxjwc",
+            "parent": "t1_j0l4c35",
+            "ans": "It is a perfectly okay to use that, but you have to be careful on how you do it. Specifically if you are going to encounter new and unseen values in the future. Embedding these values in a layer then feed that output to the resr of your network. New unseen values can be zeroed.",
+            "score": 2,
+            "que": "I laughed with that, but I wouldn\u2019t be surprised if that happened."
+        },
+        {
+            "id": "j0lketl",
+            "parent": "t1_j0ljntu",
+            "ans": "Too many typos but ya I think I finally decided they meant \"competent you are\" which I tend to agree with",
+            "score": 5,
+            "que": "I think they meant competent?"
+        },
+        {
+            "id": "j0p8uth",
+            "parent": "t1_j0ozy94",
+            "ans": "Kaggle (modelling / feature engineering), is actually the smallest part of a real life project.",
+            "score": 2,
+            "que": "Why?\nIs kaggle not good?"
+        },
+        {
+            "id": "j0wz2xh",
+            "parent": "t1_j0ozy94",
+            "ans": "The most difficult part of data science is understanding what they want, where that data can be found, and making the data you pull representative enough of the current state of things to make future predictions.\n\n(Obviously imo)",
+            "score": 1,
+            "que": "Why?\nIs kaggle not good?"
+        },
+        {
+            "id": "j0lpy4u",
+            "parent": "t1_j0lf3e8",
+            "ans": "> So, for each week they had the avg weekly sales as a target rather than the actual sales?\n\n> it sounds very chaotic\n\nBoth of those were my impression as well \ud83d\ude2d",
+            "score": 3,
+            "que": "I'm confused, were they using that \"target variable\" weekly? So, for each week they had the avg weekly sales as a target rather than the actual sales?\n\nWouldn't the output just be whatever the avg weekly sales was for every new week then?\n\nit sounds very chaotic"
+        },
+        {
+            "id": "j0meolj",
+            "parent": "t1_j0lf3e8",
+            "ans": "Yea this is what I thought too. So he\u2019s bragging about being within 10% of the \u2018target\u2019, which is essentially just an average of the yearly demand\u2026.",
+            "score": 2,
+            "que": "I'm confused, were they using that \"target variable\" weekly? So, for each week they had the avg weekly sales as a target rather than the actual sales?\n\nWouldn't the output just be whatever the avg weekly sales was for every new week then?\n\nit sounds very chaotic"
+        },
+        {
+            "id": "j0m6ugt",
+            "parent": "t1_j0m68kl",
+            "ans": "mean absolute percent error",
+            "score": 3,
+            "que": "MAPE?"
+        },
+        {
+            "id": "j0lkoq8",
+            "parent": "t1_j0l9sv3",
+            "ans": "At crappy companies",
+            "score": -3,
+            "que": "I mean, is he that far off though lol"
+        },
+        {
+            "id": "j0ldjlh",
+            "parent": "t1_j0kycl4",
+            "ans": "I hear this all the time but it doesn't match up too strongly with my experience. Sure there are a few recruiters out there that have no concept that skills from AWS could possibly transfer to GCP or Azure, but it's not _that_ bad (and where it does exist, this would apply to DE jobs, too). If instead what you mean is that the screeners are looking for certain keywords they don't understand and won't recognize that their posting's request for familiarity with gradient boosted trees matches your listed use of XGBoost, sure, that happens. Though again, that happens with any tech job.\n\nI don't want to presume too much, but I have to ask: is this actually an issue with interviews? Or is it getting stuck at the phone screen/application stage?",
+            "score": 15,
+            "que": "Yeah this is one of the main issues I\u2019m having when I interview for positions in other companies: everything they do is different, starting from the processes, way of working and tools, to the point I can\u2019t say I\u2019ve worked with every scenario they demand experience in, so I get disqualified as they are looking for a magical being that cannot exist outside their company.\n\nSwitched to interviewing for data engineering positions and the requirements and processes are more straightforward and relatable, so unless a company accepts me as a data scientist in my next job, I\u2019m going to pivot to DE and that\u2019s it."
+        },
+        {
+            "id": "j0l92id",
+            "parent": "t1_j0kycl4",
+            "ans": "Yeah, you aren't going to fit every skill set they need. The important thing is to show you have a baseline knowledge of the field, are capable of acquiring new skills, and that you are a person they want to work with. \n\nThat last one carries a lot more weight than most people think.",
+            "score": 11,
+            "que": "Yeah this is one of the main issues I\u2019m having when I interview for positions in other companies: everything they do is different, starting from the processes, way of working and tools, to the point I can\u2019t say I\u2019ve worked with every scenario they demand experience in, so I get disqualified as they are looking for a magical being that cannot exist outside their company.\n\nSwitched to interviewing for data engineering positions and the requirements and processes are more straightforward and relatable, so unless a company accepts me as a data scientist in my next job, I\u2019m going to pivot to DE and that\u2019s it."
+        },
+        {
+            "id": "j0l5led",
+            "parent": "t1_j0kycl4",
+            "ans": "Same experience, also what bothers me is the narrative that if you can tick all the boxes you are overqualified and shouldn\u2019t apply and at the same time they are looking for someone that for some reason had the exact knowledge required for the role.\n\nTbh I think that\u2019s on them and their lack of understanding whether someone is capable for the role without having done the exact same role.\n\nAlso I\u2019m thinking about switching to DE myself, similar money less nonsense.",
+            "score": 9,
+            "que": "Yeah this is one of the main issues I\u2019m having when I interview for positions in other companies: everything they do is different, starting from the processes, way of working and tools, to the point I can\u2019t say I\u2019ve worked with every scenario they demand experience in, so I get disqualified as they are looking for a magical being that cannot exist outside their company.\n\nSwitched to interviewing for data engineering positions and the requirements and processes are more straightforward and relatable, so unless a company accepts me as a data scientist in my next job, I\u2019m going to pivot to DE and that\u2019s it."
+        },
+        {
+            "id": "j0llmmk",
+            "parent": "t1_j0kycl4",
+            "ans": "How long were you a data scientist before interviewing for data engineer roles? I\u2019ve been a data engineer with the title sr. data scientist for 2 years now. I mostly do systems admin/engineering and feature and data engineering. More wrangling computers, tables and code than any sort of modeling or statistics. No formal CS degree always has me feeling that imposter syndrome until I tell an actual engineer why they messed up a feature.",
+            "score": 8,
+            "que": "Yeah this is one of the main issues I\u2019m having when I interview for positions in other companies: everything they do is different, starting from the processes, way of working and tools, to the point I can\u2019t say I\u2019ve worked with every scenario they demand experience in, so I get disqualified as they are looking for a magical being that cannot exist outside their company.\n\nSwitched to interviewing for data engineering positions and the requirements and processes are more straightforward and relatable, so unless a company accepts me as a data scientist in my next job, I\u2019m going to pivot to DE and that\u2019s it."
+        },
+        {
+            "id": "j0nl5x4",
+            "parent": "t1_j0kycl4",
+            "ans": "lol I got this with data engineering. Now my title is MLE (same shit, this work just became fashionable to be called MLE in the last year or two) and\u2026also get this same issue. These are big fields and good employers understand you can pick up tools and stuff, bad ones don\u2019t.",
+            "score": 4,
+            "que": "Yeah this is one of the main issues I\u2019m having when I interview for positions in other companies: everything they do is different, starting from the processes, way of working and tools, to the point I can\u2019t say I\u2019ve worked with every scenario they demand experience in, so I get disqualified as they are looking for a magical being that cannot exist outside their company.\n\nSwitched to interviewing for data engineering positions and the requirements and processes are more straightforward and relatable, so unless a company accepts me as a data scientist in my next job, I\u2019m going to pivot to DE and that\u2019s it."
+        },
+        {
+            "id": "j0mli0f",
+            "parent": "t1_j0kxmc2",
+            "ans": "Honest question,  how is applied scientist more specific than data scientist? Decision scientist makes sense, but applied to me sounds also too broad.",
+            "score": 8,
+            "que": "Applied scientist is my new favorite term. Or decision scientist. Both include the core skills of a data scientist but normally you have someone who cares about titles doing the work"
+        },
+        {
+            "id": "j10x6ba",
+            "parent": "t1_j0kxmc2",
+            "ans": "Decision Scientist as a title has been around a long time but it was really focused on consumer decisions, ie marketing research. I started seeing it pop up recently in job searches outside of Marketing and thought it interesting.",
+            "score": 1,
+            "que": "Applied scientist is my new favorite term. Or decision scientist. Both include the core skills of a data scientist but normally you have someone who cares about titles doing the work"
+        },
+        {
+            "id": "j0mct6r",
+            "parent": "t1_j0lgsac",
+            "ans": "Then what do you actually do?",
+            "score": 5,
+            "que": "Yeah they often call me data scientist and my team \"data science team\" but it's absolutely not what I/we do.\n\n I got a software dev background, got a PhD in a specific domain that happened to use ML at some point. So i got into ML.\nBut I don't do reports, statistical tests, use any ML methods to solve other problems than the system I have been working on for years. I don't use linear regressions, PCAs, SVMs, xgboost, random forests, never work with structured data or databases, never write SQL.\n\nI think without heavy prep i would fail most generic DS interview questions you see floating around.\n\nOn the other hand this high degree of specialization also means that i didn't have to do technical job interviews for over 10 years now. \n\nI also advertise our jobs as \"Applied Scientist (for) X\". And with a field small enough i had some contact with lots of the applicants at some point or at least some pretty direct connection - like ah yes your PhD advisor at the University of Edinburgh was at my PhD defense a decade ago when he still was Prof in Tokyo. Or oh your previous company was founded by someone who worked with me at a research center."
+        },
+        {
+            "id": "j1df1s0",
+            "parent": "t1_j0lsmsn",
+            "ans": "Agree wholeheartedly.",
+            "score": 1,
+            "que": "Same here. I don't mind grammar mistakes in general but it's really dumb when someone is trying to be snarky or clever and then ruin the whole thing with an elementary grammar mistake. In this case it's not even grammar but a \"I don't know how to spell a simple word\" type of a mistake. Hopefully just a matter of autocorrect gone bad but it does deflate the otherwise great tweet"
+        },
+        {
+            "id": "j0l73n5",
+            "parent": "t1_j0l0s9x",
+            "ans": "And I thought it's me not being a native speaker that I don't know this meaning of component.",
+            "score": 22,
+            "que": "yes, it's actually really bothering me. Normally not, but this one is nails on a chalkboard"
+        },
+        {
+            "id": "j0m5etm",
+            "parent": "t1_j0l0s9x",
+            "ans": "Looks to be Just an errant \"r\".  Not a grammar issue.",
+            "score": -3,
+            "que": "yes, it's actually really bothering me. Normally not, but this one is nails on a chalkboard"
+        },
+        {
+            "id": "j0n4n02",
+            "parent": "t1_j0lp9f6",
+            "ans": "No.",
+            "score": 4,
+            "que": "I thought the same thing. Do you think it was supposed to be a DS pun?"
+        },
+        {
+            "id": "j0lbo75",
+            "parent": "t1_j0lahs7",
+            "ans": "No.",
+            "score": -5,
+            "que": "Your*"
+        },
+        {
+            "id": "j0mu13e",
+            "parent": "t1_j0lnilc",
+            "ans": "And \"you\"",
+            "score": 3,
+            "que": "They meant to say \"competent\""
+        },
+        {
+            "id": "j0m1054",
+            "parent": "t1_j0lm56d",
+            "ans": "TBH there's a difference between knowing the structure and syntax of a Python library and knowing how to start with a problem (like NLP on a web page) and end with analysis.",
+            "score": 4,
+            "que": ">\t\u201cOh I don\u2019t know how to code.\u201d\n\nMe trying to make sense of my own code: big same."
+        },
+        {
+            "id": "j0m1j8l",
+            "parent": "t1_j0ls04y",
+            "ans": "But the numpy are much more elusive. They live in hives underground.",
+            "score": 3,
+            "que": "Maybe he knows how to get pandas to fuck and thought he was interviewing at the zoo."
+        },
+        {
+            "id": "j10xgkd",
+            "parent": "t1_j0lajt4",
+            "ans": "I've wanted to find an online course of \"Intermediate data science projects\", y'know not cutting edge but not intro to dataframes.",
+            "score": 1,
+            "que": "I just finished a masters of data science and I wouldn\u2019t give myself a 10 but I would ask for more nuanced topics on which to rate myself to better understand how they define data science \u2026"
+        },
+        {
+            "id": "j0mox63",
+            "parent": "t1_j0mcrnx",
+            "ans": "So what do you have to run doom on to say you've mastered data science?",
+            "score": 3,
+            "que": "I think only the guy that ran doom on excel can say he mastered excel"
+        },
+        {
+            "id": "j0lr38q",
+            "parent": "t1_j0law2s",
+            "ans": "Time or Individual Fixed Effects.\n\nUnless, of course, you dont treat it as categorical... \ud83d\udc80",
+            "score": 3,
+            "que": "I have seen it help models. It can be an ordinal substitution for time parameters, assuming the unique id is created sequentially. Obviously, \"create date\" features are more precise and stable, but there could be something there."
+        },
+        {
+            "id": "j0lbmex",
+            "parent": "t1_j0law2s",
+            "ans": "Yeah, I guess that could happen. Although you would need \u201cdate\u201d to cross validate your assumption and if you have date you don\u2019t end up using ID. Maybe there is another sequence of events I\u2019m missing.",
+            "score": 2,
+            "que": "I have seen it help models. It can be an ordinal substitution for time parameters, assuming the unique id is created sequentially. Obviously, \"create date\" features are more precise and stable, but there could be something there."
+        },
+        {
+            "id": "j0ly9t6",
+            "parent": "t1_j0lxjwc",
+            "ans": "What\u2019s a use case where the ordinal nature of ID adds information not already there? assuming that ID behaves as expected.",
+            "score": 1,
+            "que": "It is a perfectly okay to use that, but you have to be careful on how you do it. Specifically if you are going to encounter new and unseen values in the future. Embedding these values in a layer then feed that output to the resr of your network. New unseen values can be zeroed."
+        },
+        {
+            "id": "j0m8cdm",
+            "parent": "t1_j0lpy4u",
+            "ans": "I don't recall the exact theory behind XgBoost, but at that point, I assume it would just return the same value every week... since the target is ALWAYS the same\n\nI have huge imposter syndrome in my data position, but I don't think I'd be remotely confident enough to pull that BS out.",
+            "score": 1,
+            "que": "> So, for each week they had the avg weekly sales as a target rather than the actual sales?\n\n> it sounds very chaotic\n\nBoth of those were my impression as well \ud83d\ude2d"
+        },
+        {
+            "id": "j0mi8kz",
+            "parent": "t1_j0meolj",
+            "ans": "If anything it would be a decent benchmark.",
+            "score": 3,
+            "que": "Yea this is what I thought too. So he\u2019s bragging about being within 10% of the \u2018target\u2019, which is essentially just an average of the yearly demand\u2026."
+        },
+        {
+            "id": "j0m7mbk",
+            "parent": "t1_j0m6ugt",
+            "ans": "Thank you, not familiar with all these acronyms all the time lol. Idk if I've ever used MAPE at my job before.",
+            "score": 3,
+            "que": "mean absolute percent error"
+        },
+        {
+            "id": "j0lsrtq",
+            "parent": "t1_j0lkoq8",
+            "ans": "tbf, this is pretty much how most of big tech treats their DS now. \n\nIm sure the guys boss was saying ot somewhat sarcastically (using hyperbole like 'half assed' and 'simple'), but there is some truth to it. Often DS are less adept at coding than say a MLE, SWE, etc...and there is a heavy reliance on using statistics to drive business value.",
+            "score": 10,
+            "que": "At crappy companies"
+        },
+        {
+            "id": "j10y4s2",
+            "parent": "t1_j0lkoq8",
+            "ans": "And where a sense of vision is lacking.\nWe have a sense of vision but I think leadership is fatigued by the constant bombardment of DS boutique companies peddling garbage, so leadership has a low level of expectations from me.",
+            "score": 2,
+            "que": "At crappy companies"
+        },
+        {
+            "id": "j0mqwhl",
+            "parent": "t1_j0mli0f",
+            "ans": "\"Decision scientist\" is succinct and appropriate (although perhaps wouldn't mean much to a layperson) but \"applied scientist\" is ridiculously vague lol.",
+            "score": 6,
+            "que": "Honest question,  how is applied scientist more specific than data scientist? Decision scientist makes sense, but applied to me sounds also too broad."
+        },
+        {
+            "id": "j0mi7ck",
+            "parent": "t1_j0mct6r",
+            "ans": "In my field went from hidden markov models to RNNs, sequence 2 sequence attention models, transformers, GANs, normalizing flows, now diffusion models.\n\nBeginning was still lots of C programming and wading through huge scheme and C++ and perl script messes, later when python and deep learning became relevant it became better. At first still got to implement lots of stuff in C++ myself to run on mobile (that included blackberry and Windows phone ;)) and as windows COM DLL. \nOptimized cache locality of age old C signal processing libraries to make it run on old crappy Android phones. \n\nEmbedded use case became less relevant as everything moved to the cloud so also AWS work, dockerizing stuff, writing data cleaning web tools with some data quality detectors.\nLots of applied work as well, during my PhD worked a lot with blind children to improve their tech.  Worked with motion capturing equipment at that point as well. Lots of annoying phonetics work, lots and lots of automation tooling. many things are more classic CS topics, like a knapsack problem to pick an optimal set of training data to gather.\n\nLast half year was lots of reworking experiment tracking infra (like soon dropped tensorboard for wandb and meanwhile set up our own aimstack server). Working on inference latency, caching policies. Everything up to setting up nginx as reverse proxy for authenticating our tools.\n\nWe have a meanwhile pretty sophisticated web app for comparing experiment results, generating stuff, comparing different versions, tuning some inference details etc. \n\nSo basically everything that needs to be done lol . Of course serving all the running projects.\n\nAnd of course keep the experiment pipeline busy.\nAs I recently gathered some stats - last 6 months trained about 400 models.\n\nAnd of course implement new features into our models. Recently domain adversarial training, a structural similaritiy loss, gaussian upsampling from some google paper and so on.\n\nMy backlog is too long...",
+            "score": 10,
+            "que": "Then what do you actually do?"
+        },
+        {
+            "id": "j0l8kav",
+            "parent": "t1_j0l73n5",
+            "ans": "[deleted]",
+            "score": 34,
+            "que": "And I thought it's me not being a native speaker that I don't know this meaning of component."
+        },
+        {
+            "id": "j0opqvt",
+            "parent": "t1_j0m5etm",
+            "ans": "what?",
+            "score": 1,
+            "que": "Looks to be Just an errant \"r\".  Not a grammar issue."
+        },
+        {
+            "id": "j0lbtj3",
+            "parent": "t1_j0lbo75",
+            "ans": "Look at the tweet, dummy. r/whoosh",
+            "score": -4,
+            "que": "No."
+        },
+        {
+            "id": "j0m32rf",
+            "parent": "t1_j0m1054",
+            "ans": "If someone tells me they\u2019re an expert in Pandas, that better include using it to solve business problems. Otherwise you\u2019re not an expert.",
+            "score": 14,
+            "que": "TBH there's a difference between knowing the structure and syntax of a Python library and knowing how to start with a problem (like NLP on a web page) and end with analysis."
+        },
+        {
+            "id": "j0mvgmt",
+            "parent": "t1_j0mox63",
+            "ans": "Numpy",
+            "score": 7,
+            "que": "So what do you have to run doom on to say you've mastered data science?"
+        },
+        {
+            "id": "j0nl91k",
+            "parent": "t1_j0lr38q",
+            "ans": "Worse, it was formatted in such a way that excel thought it was dates. And all you have is the xlsx",
+            "score": 3,
+            "que": "Time or Individual Fixed Effects.\n\nUnless, of course, you dont treat it as categorical... \ud83d\udc80"
+        },
+        {
+            "id": "j0m06no",
+            "parent": "t1_j0ly9t6",
+            "ans": "I don't know how to answer this question tbh because we have no idea what information is encoded by the IDs we create all the time. Imagine this scenario, you build a data center lineup made up from several different types of servers, and we need to model the probability of the entire lineup drawing more power than the a specific value. You can always add information of the individual components, but they have none-trivial none-linear interactions by the mere fact that they are lumped together, the unique ID which is created for the lineup can encode some of that none-trivial none-linear interactions. Do note, that by my experience, I find that there is a limit to when it stops being helpful. I was asked to investigate whether the embedding approach was helpful when we had millions of customers, and that ended up not working. You sort of need a lot of examples by ID for this approach to work. \n\n\nAlso, recommender systems using matrix decomposition basically use unique IDs all the time to make predictions, as the embedding representation is basically the ids.",
+            "score": -1,
+            "que": "What\u2019s a use case where the ordinal nature of ID adds information not already there? assuming that ID behaves as expected."
+        },
+        {
+            "id": "j0m8u0q",
+            "parent": "t1_j0m7mbk",
+            "ans": "It's used more with time series oriented models like forecasting. RSME doesn't mean much to stakeholders, but it's easy to explain you're off by 5% on average. \n\nUsually with forecasting, you train on historical data, test on newer data, and validate on newest data. As you get further out, scoring has a higher standard error and so predictions naturally get worse the further out you forecast. Your MAPE might by 5% for one month out, but 10% when forecasting out a year and you can use that to set internal expectations. When actuals start coming in and if the actual MAPE is much greater than the average model MAPE, then it's probably back to the drawing board with the model. That's what the validation set is to help with though.",
+            "score": 7,
+            "que": "Thank you, not familiar with all these acronyms all the time lol. Idk if I've ever used MAPE at my job before."
+        },
+        {
+            "id": "j0lwdfc",
+            "parent": "t1_j0lsrtq",
+            "ans": "Not sure I\u2019m getting the point.  Why would you expect any role to be as good at coding as the roles that are by definition the best at coding.  And why wouldn\u2019t you place high value on driving business value with statistics.  My point was that it\u2019s poor business to label a worker as a data scientist and have them do summary statistics, it\u2019s either title inflation which is bad for your reputation or it\u2019s overpaying for low level skills.",
+            "score": -1,
+            "que": "tbf, this is pretty much how most of big tech treats their DS now. \n\nIm sure the guys boss was saying ot somewhat sarcastically (using hyperbole like 'half assed' and 'simple'), but there is some truth to it. Often DS are less adept at coding than say a MLE, SWE, etc...and there is a heavy reliance on using statistics to drive business value."
+        },
+        {
+            "id": "j0mten8",
+            "parent": "t1_j0mqwhl",
+            "ans": "Applied scientist is the fancy new Amazon role iirc.",
+            "score": 1,
+            "que": "\"Decision scientist\" is succinct and appropriate (although perhaps wouldn't mean much to a layperson) but \"applied scientist\" is ridiculously vague lol."
+        },
+        {
+            "id": "j0mou9w",
+            "parent": "t1_j0mi7ck",
+            "ans": "Wow super cool. What a diverse set of tasks. \n\nWouldn't expect the same person doing SoTA DL be the same person optimizing low-level infrastructure stacks. You certainly can claim fullstack! :)",
+            "score": 7,
+            "que": "In my field went from hidden markov models to RNNs, sequence 2 sequence attention models, transformers, GANs, normalizing flows, now diffusion models.\n\nBeginning was still lots of C programming and wading through huge scheme and C++ and perl script messes, later when python and deep learning became relevant it became better. At first still got to implement lots of stuff in C++ myself to run on mobile (that included blackberry and Windows phone ;)) and as windows COM DLL. \nOptimized cache locality of age old C signal processing libraries to make it run on old crappy Android phones. \n\nEmbedded use case became less relevant as everything moved to the cloud so also AWS work, dockerizing stuff, writing data cleaning web tools with some data quality detectors.\nLots of applied work as well, during my PhD worked a lot with blind children to improve their tech.  Worked with motion capturing equipment at that point as well. Lots of annoying phonetics work, lots and lots of automation tooling. many things are more classic CS topics, like a knapsack problem to pick an optimal set of training data to gather.\n\nLast half year was lots of reworking experiment tracking infra (like soon dropped tensorboard for wandb and meanwhile set up our own aimstack server). Working on inference latency, caching policies. Everything up to setting up nginx as reverse proxy for authenticating our tools.\n\nWe have a meanwhile pretty sophisticated web app for comparing experiment results, generating stuff, comparing different versions, tuning some inference details etc. \n\nSo basically everything that needs to be done lol . Of course serving all the running projects.\n\nAnd of course keep the experiment pipeline busy.\nAs I recently gathered some stats - last 6 months trained about 400 models.\n\nAnd of course implement new features into our models. Recently domain adversarial training, a structural similaritiy loss, gaussian upsampling from some google paper and so on.\n\nMy backlog is too long..."
+        },
+        {
+            "id": "j0lamfr",
+            "parent": "t1_j0l8kav",
+            "ans": "Yeah likely. But somehow I didn't assume it's just wrong :)",
+            "score": 14,
+            "que": "[deleted]"
+        },
+        {
+            "id": "j0pf9wg",
+            "parent": "t1_j0opqvt",
+            "ans": "It looks like she meant to type you and typed an extra r.",
+            "score": 1,
+            "que": "what?"
+        },
+        {
+            "id": "j0lca9y",
+            "parent": "t1_j0lbtj3",
+            "ans": "Did I stutter",
+            "score": -6,
+            "que": "Look at the tweet, dummy. r/whoosh"
+        },
+        {
+            "id": "j10xcpk",
+            "parent": "t1_j0m32rf",
+            "ans": "Oh that's a good retort. I'll remember that next time I interview ... \"Tell me how to solve a problem involving churn using pandas.\"",
+            "score": 2,
+            "que": "If someone tells me they\u2019re an expert in Pandas, that better include using it to solve business problems. Otherwise you\u2019re not an expert."
+        },
+        {
+            "id": "j0m1fvv",
+            "parent": "t1_j0m06no",
+            "ans": "Do you ever feel that you\u2019ve bullishited your way in?",
+            "score": 3,
+            "que": "I don't know how to answer this question tbh because we have no idea what information is encoded by the IDs we create all the time. Imagine this scenario, you build a data center lineup made up from several different types of servers, and we need to model the probability of the entire lineup drawing more power than the a specific value. You can always add information of the individual components, but they have none-trivial none-linear interactions by the mere fact that they are lumped together, the unique ID which is created for the lineup can encode some of that none-trivial none-linear interactions. Do note, that by my experience, I find that there is a limit to when it stops being helpful. I was asked to investigate whether the embedding approach was helpful when we had millions of customers, and that ended up not working. You sort of need a lot of examples by ID for this approach to work. \n\n\nAlso, recommender systems using matrix decomposition basically use unique IDs all the time to make predictions, as the embedding representation is basically the ids."
+        },
+        {
+            "id": "j0m9za1",
+            "parent": "t1_j0lwdfc",
+            "ans": "You're taking a lot of liberties in your interpretation of my comments - to the point where youve kind of missed the point. It's not that deep bro \ud83d\ude44 \n\nEdit: I guess OPs comment offended you...10/10 for nailing the mark OP",
+            "score": 1,
+            "que": "Not sure I\u2019m getting the point.  Why would you expect any role to be as good at coding as the roles that are by definition the best at coding.  And why wouldn\u2019t you place high value on driving business value with statistics.  My point was that it\u2019s poor business to label a worker as a data scientist and have them do summary statistics, it\u2019s either title inflation which is bad for your reputation or it\u2019s overpaying for low level skills."
+        },
+        {
+            "id": "j0mwhv0",
+            "parent": "t1_j0mten8",
+            "ans": "Fwiw, I\u2019m neither professionally yet",
+            "score": 1,
+            "que": "Applied scientist is the fancy new Amazon role iirc."
+        },
+        {
+            "id": "j0lcid2",
+            "parent": "t1_j0lca9y",
+            "ans": "You probably do lmao",
+            "score": 4,
+            "que": "Did I stutter"
+        },
+        {
+            "id": "j0m2fbl",
+            "parent": "t1_j0m1fvv",
+            "ans": "10 years in, and yes.",
+            "score": 2,
+            "que": "Do you ever feel that you\u2019ve bullishited your way in?"
+        },
+        {
+            "id": "j0mkyt5",
+            "parent": "t1_j0m9za1",
+            "ans": "Nah, that\u2019s bs.  I\u2019m not offended I just think it\u2019s a bunch of circle jerking.  If I go on linkedin and look at job postings it\u2019s nowhere close to what you\u2019re acting like.",
+            "score": 1,
+            "que": "You're taking a lot of liberties in your interpretation of my comments - to the point where youve kind of missed the point. It's not that deep bro \ud83d\ude44 \n\nEdit: I guess OPs comment offended you...10/10 for nailing the mark OP"
+        },
+        {
+            "id": "j0mm61j",
+            "parent": "t1_j0mkyt5",
+            "ans": "I dunno, your jimmies are pretty rustled based on your response. But good to know you never use summary statistics, all your code is production ready, and you don't care about business value. \ud83e\udd37\u200d\u2642\ufe0f",
+            "score": 0,
+            "que": "Nah, that\u2019s bs.  I\u2019m not offended I just think it\u2019s a bunch of circle jerking.  If I go on linkedin and look at job postings it\u2019s nowhere close to what you\u2019re acting like."
+        },
+        {
+            "id": "j0mma7l",
+            "parent": "t1_j0mm61j",
+            "ans": "Lmfao ur all scrambled dude lets move on",
+            "score": 2,
+            "que": "I dunno, your jimmies are pretty rustled based on your response. But good to know you never use summary statistics, all your code is production ready, and you don't care about business value. \ud83e\udd37\u200d\u2642\ufe0f"
+        },
+        {
+            "id": "j0mo39t",
+            "parent": "t1_j0mma7l",
+            "ans": "Says the 'Data Scientist' \ud83d\ude02 \u270c\ufe0f",
+            "score": 1,
+            "que": "Lmfao ur all scrambled dude lets move on"
+        }
+    ]
+}

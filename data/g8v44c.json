@@ -1,0 +1,449 @@
+{
+    "title": "It's Meme Monday, so here's a python meme for DS folks",
+    "id": "g8v44c",
+    "create_at": 1587968470.0,
+    "score": 2082,
+    "comments": [
+        {
+            "id": "fopyoe5",
+            "parent": "t1_fopsbbh",
+            "ans": "Very good point. This confused me for a while until I actually read the manual.",
+            "score": 29,
+            "que": "[deleted]"
+        },
+        {
+            "id": "forjnll",
+            "parent": "t1_fopsbbh",
+            "ans": "Right! Unfortunate name.\nNumba.jit is the right thing to use if you have generic vectorization & optimization needs.",
+            "score": 9,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fopsz9b",
+            "parent": "t1_fopsbbh",
+            "ans": "[removed]",
+            "score": 9,
+            "que": "[deleted]"
+        },
+        {
+            "id": "foqhzw2",
+            "parent": "t1_fopyptc",
+            "ans": "As a C/C++ dev, you can't imagine at which point this horrifies me",
+            "score": 38,
+            "que": "Numpy is not well understood by a lot of people. I have seen people use it like a list basically and append results rather than create an array with zeros and then access the index and update the value."
+        },
+        {
+            "id": "foqq938",
+            "parent": "t1_fopyptc",
+            "ans": "Am new to python and I always do the first thing you said. Could you please elaborate on why it\u2019s better to create a zero array and update values?",
+            "score": 13,
+            "que": "Numpy is not well understood by a lot of people. I have seen people use it like a list basically and append results rather than create an array with zeros and then access the index and update the value."
+        },
+        {
+            "id": "forqb3i",
+            "parent": "t1_fopyptc",
+            "ans": "I'm not sure about the numpy.ndarray implementation but **appending an empty list is not wrong** to do in Python. Python's list/array implementation is done pretty well so that there's no performance gain appending an empty list vs assigning index to a size-initialize list.\n\nEDIT: Ahh this is about np.append, because it makes a copy the overhead is costly.",
+            "score": 6,
+            "que": "Numpy is not well understood by a lot of people. I have seen people use it like a list basically and append results rather than create an array with zeros and then access the index and update the value."
+        },
+        {
+            "id": "forsg22",
+            "parent": "t1_fopyptc",
+            "ans": "In other words, don't do this\n\n```py\narray = np.array()\nfor x in range(10):\n array = np.append(some_function(x))\n```\n\nThis is okay,\n\n```py\narray = []\nfor x in range(10):\n array.append(some_function(x))\n\narray = np.array(array)\n```\n\nOf course in this case, it's more than likely `some_function(np.arange(10))` works (depending on the function of course).",
+            "score": 4,
+            "que": "Numpy is not well understood by a lot of people. I have seen people use it like a list basically and append results rather than create an array with zeros and then access the index and update the value."
+        },
+        {
+            "id": "fot5nq5",
+            "parent": "t1_fopyptc",
+            "ans": "Yeah tell me. I took a class on Data Structures and Algorithms recently and can imagine the horror. Now, I check what's under the hood if I find something new that I'm working with(for example checking how numpy actually stores data, is it like a list or an array). Can you imagine an append method inside a for loop? God it gives me chills!",
+            "score": 1,
+            "que": "Numpy is not well understood by a lot of people. I have seen people use it like a list basically and append results rather than create an array with zeros and then access the index and update the value."
+        },
+        {
+            "id": "for6exg",
+            "parent": "t1_foprowi",
+            "ans": "An easy example is computing pairwise Euclidean distances. You can iterate through all possible combinations and calculate their distances, or you can write it as a linear-algebraic representation that gets you the same output. It\u2019s much quicker the second way",
+            "score": 26,
+            "que": "Well now I need to know what a vectorized numpy function is \ud83d\ude02"
+        },
+        {
+            "id": "foqejv4",
+            "parent": "t1_fopxc8t",
+            "ans": "Successfully using numba once is pretty much the highlight of my python career.",
+            "score": 18,
+            "que": "Try numba for more shit and giggles"
+        },
+        {
+            "id": "foqd25l",
+            "parent": "t1_fopxc8t",
+            "ans": "Or some cython",
+            "score": 5,
+            "que": "Try numba for more shit and giggles"
+        },
+        {
+            "id": "foqr2f5",
+            "parent": "t1_fopxc8t",
+            "ans": "Ah yes, my favorite python jit compiler. I see you are a man of culture as well.",
+            "score": 5,
+            "que": "Try numba for more shit and giggles"
+        },
+        {
+            "id": "foqpbs1",
+            "parent": "t1_fopxc8t",
+            "ans": "pypy is also pretty cool",
+            "score": 2,
+            "que": "Try numba for more shit and giggles"
+        },
+        {
+            "id": "fotcfo7",
+            "parent": "t1_fopxc8t",
+            "ans": "Numba is awesome",
+            "score": 2,
+            "que": "Try numba for more shit and giggles"
+        },
+        {
+            "id": "fqmizp4",
+            "parent": "t1_fopxc8t",
+            "ans": "Yep.. turned a reinforcement learning probably then would have taken hours to converge into 15 seconds. In the right context, it\u2019s a game changer.",
+            "score": 1,
+            "que": "Try numba for more shit and giggles"
+        },
+        {
+            "id": "fosr8wj",
+            "parent": "t1_for3zau",
+            "ans": "I literally just used fread() for the first time today, godly",
+            "score": 2,
+            "que": "For R users: When you replace read_csv() with fread()"
+        },
+        {
+            "id": "fosr9uv",
+            "parent": "t1_for3zau",
+            "ans": "I literally just used fread() for the first time today, godly",
+            "score": 2,
+            "que": "For R users: When you replace read_csv() with fread()"
+        },
+        {
+            "id": "fot7all",
+            "parent": "t1_for3zau",
+            "ans": "Or when you replace fread() with vroom()",
+            "score": 1,
+            "que": "For R users: When you replace read_csv() with fread()"
+        },
+        {
+            "id": "fot8o2e",
+            "parent": "t1_for3zau",
+            "ans": "When you replace a nested loop with mapply",
+            "score": 1,
+            "que": "For R users: When you replace read_csv() with fread()"
+        },
+        {
+            "id": "foq3ut5",
+            "parent": "t1_foprrnz",
+            "ans": ">I had that feeling a second time when I switched from data.frame to data.table in 2013. I was blown away!\n\nUNLIMITED POWEEEEER!",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fopv0eb",
+            "parent": "t1_fopucod",
+            "ans": "What about Julia? (Genuine question)",
+            "score": 6,
+            "que": "Laughs in Julia"
+        },
+        {
+            "id": "forgh7n",
+            "parent": "t1_foqon8u",
+            "ans": "No. Vectorized means on a per-element basis, but vectorized operations will obviously require broadcasting if the array sizes don\u2019t match. \n\nIf you\u2019re familiar with linear algebra, normally a matrix dot product operation with, say, a 3x3 matrix A and a 3x1 vector b will collapse one of the dimensions, and you\u2019ll get a 3x1 vector as an output. In Numpy, writing A * b will result in each column of A being multiplied element-wise by the vector b, which obviously requires broadcasting.",
+            "score": 1,
+            "que": "By \u201cvectorized\u201d we mean \u201cbroadcasted\u201d right?"
+        },
+        {
+            "id": "forqxay",
+            "parent": "t1_foqon8u",
+            "ans": "Close, vectorized functions inherit broadcast, but that's not all.",
+            "score": 1,
+            "que": "By \u201cvectorized\u201d we mean \u201cbroadcasted\u201d right?"
+        },
+        {
+            "id": "foqtf0x",
+            "parent": "t1_foqt711",
+            "ans": "https://twitter.com/datasciencetip1/status/1218039731134423040?s=20",
+            "score": 3,
+            "que": "Hi. I am begineer in Datascience. Can anyone give me an example of code so that I can understand the meme?"
+        },
+        {
+            "id": "fot6u4x",
+            "parent": "t1_for1qvp",
+            "ans": "Also numba, which makes your for loops fast if you take a little time to make sure they're compatible.",
+            "score": 1,
+            "que": "Just some days ago I asked the question if there's alternatives to using for loops in Python since they are so slow.. and noone answered with \"Numpy\". I feel a bit betrayed.\n\n\\*Btw. I mentioned \"Numpy\" in the question, but noone really elaborated"
+        },
+        {
+            "id": "for6lxj",
+            "parent": "t1_foptl7y",
+            "ans": "Ok boomer.... how are Pascal and Ada your two favorites dinosaurs langages ?",
+            "score": 0,
+            "que": "Python is optimized for lowest possible performance"
+        },
+        {
+            "id": "foq5v75",
+            "parent": "t1_fopyhxd",
+            "ans": "[deleted]",
+            "score": 3,
+            "que": "I was with you until \u201cvectorised numpy function...\u201d"
+        },
+        {
+            "id": "forps4s",
+            "parent": "t1_forjnll",
+            "ans": "I've never heard of Numba.jit, I'll look into it. Thanks!\n\nThey aren't affiliated with SciPy are they?",
+            "score": 1,
+            "que": "Right! Unfortunate name.\nNumba.jit is the right thing to use if you have generic vectorization & optimization needs."
+        },
+        {
+            "id": "foqmdyj",
+            "parent": "t1_foqhzw2",
+            "ans": "Will you elaborate? I use both of these I just want to make sure I\u2019m using them right lol.",
+            "score": 3,
+            "que": "As a C/C++ dev, you can't imagine at which point this horrifies me"
+        },
+        {
+            "id": "foqzc10",
+            "parent": "t1_foqq938",
+            "ans": "When you're appending, youre taking an array that's full and trying to add more.\n\nBecause it's full, you have to create an entirely new array, the same size as the original plus with extra space for your append and copy it all in. So now you have a second slightly larger array and you delete your first one and pretend it was the first one all along\n\nThe problem is, this second array is now also full!\n\nSo if you're appending in a loop that runs 10 times, you're doing this 10 times over, just to add an extra 10 lines. \n\nSo it's possible to save doing all this work if you know how big your array will be before you start, create that, and only change the pre existing values (the zeros)",
+            "score": 13,
+            "que": "Am new to python and I always do the first thing you said. Could you please elaborate on why it\u2019s better to create a zero array and update values?"
+        },
+        {
+            "id": "foqz5ei",
+            "parent": "t1_foqq938",
+            "ans": "think of a numpy array as a continuous block of memory. everytime you append, it has to create a new array and copy over the old array plus your the value you are adding. This has overhead and slows down code for larger arrays.",
+            "score": 2,
+            "que": "Am new to python and I always do the first thing you said. Could you please elaborate on why it\u2019s better to create a zero array and update values?"
+        },
+        {
+            "id": "fosq90x",
+            "parent": "t1_forsg22",
+            "ans": "Why did this get a downvote? I'm trying to learn via Reddit comments over here!",
+            "score": 2,
+            "que": "In other words, don't do this\n\n```py\narray = np.array()\nfor x in range(10):\n array = np.append(some_function(x))\n```\n\nThis is okay,\n\n```py\narray = []\nfor x in range(10):\n array.append(some_function(x))\n\narray = np.array(array)\n```\n\nOf course in this case, it's more than likely `some_function(np.arange(10))` works (depending on the function of course)."
+        },
+        {
+            "id": "fos9a7h",
+            "parent": "t1_for6exg",
+            "ans": "I remember installing Scipy from source a few years back and saw in the terminal it compile some linear algebra libraries from FORTRAN source code. There's no way in hell I want to manually replicate all the parallelized optimizations that go into numerical processing libraries.",
+            "score": 5,
+            "que": "An easy example is computing pairwise Euclidean distances. You can iterate through all possible combinations and calculate their distances, or you can write it as a linear-algebraic representation that gets you the same output. It\u2019s much quicker the second way"
+        },
+        {
+            "id": "fot5yxw",
+            "parent": "t1_foqd25l",
+            "ans": "In my experience numba is easier to use out of the box and has been faster in the situations I have tested.",
+            "score": 2,
+            "que": "Or some cython"
+        },
+        {
+            "id": "foq8wkl",
+            "parent": "t1_fopv0eb",
+            "ans": "Julia complies at runtime so for loops are basically just as fast. When I write code in Julia I never worry about vectorizing.",
+            "score": 17,
+            "que": "What about Julia? (Genuine question)"
+        },
+        {
+            "id": "forsxa4",
+            "parent": "t1_for6lxj",
+            "ans": "Mind you, you call me boomer over a language that's 30 years old.",
+            "score": 0,
+            "que": "Ok boomer.... how are Pascal and Ada your two favorites dinosaurs langages ?"
+        },
+        {
+            "id": "fotas5x",
+            "parent": "t1_foq5v75",
+            "ans": "Thanks might come in handy  \ud83d\ude00\n\nWow, didn\u2019t notice the downvotes - tough crowd for a beginner hack like me \ud83e\udd2a",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fot5ky6",
+            "parent": "t1_forps4s",
+            "ans": "The guy who started numba (Travis Oliphant) is the original creator of numpy and a \"founding contributor\" of scipy. Numba is basically a jit compiler for python + numba which uses llvm as a backend.",
+            "score": 2,
+            "que": "I've never heard of Numba.jit, I'll look into it. Thanks!\n\nThey aren't affiliated with SciPy are they?"
+        },
+        {
+            "id": "foqozrt",
+            "parent": "t1_foqmdyj",
+            "ans": "In Python, arrays are dynamically allocated. So when you append something to an array that\u2019s already full, it will double its size and copy over the new elements, then add that final element that you wanted to append. \n\nThis doesn\u2019t happen in C++ since you need to take care of memory manually. This means that if you wanted to append something to an array in C++, you would need to create a new array of size n+1, copy over the previous n elements, add the new element, and then deallocate the memory of the previous array you were using. \n\nThis is obviously a huge hassle if you\u2019re constantly appending items to an array, thus showcasing why creating an array of a certain size and then just updating its elements is much cleaner than the previously mentioned method. Just one of the reasons C++ is much faster than Python.",
+            "score": 26,
+            "que": "Will you elaborate? I use both of these I just want to make sure I\u2019m using them right lol."
+        },
+        {
+            "id": "for0wi5",
+            "parent": "t1_foqmdyj",
+            "ans": "Numpy arrays are contiguous, that is, they are meant to be a continuous block allocated in memory. The speed of numpy comes from moving the seek head on a block of memory where it knows the beginning and end of data is.\n\nBy appending to an array, it has to figure out whether it can add more space to the current block or not (and I believe it makes another array by default). Copying is expensive, so you want to start by making a zero array (allocating the block) and use insert (move the seek) to update values for maximum speed.",
+            "score": 6,
+            "que": "Will you elaborate? I use both of these I just want to make sure I\u2019m using them right lol."
+        },
+        {
+            "id": "forgxpa",
+            "parent": "t1_foqzc10",
+            "ans": "As someone who is fairly absolutely new to python, would it potentially be effective to just move all the appends to one move?   \n\n\nSo, for example, if I don't know the size an array is going to be, in my for loop I gather all the elements that will be added then add them all in one chunk (so we're working with a smaller list that is being appended, then one big append to the greater list) or is that not super helpful?   \n\n\nAlternative, have the for loop go and identify how many elements are going to need to be added, append that many blank spaces in one go, then go back and allocate the actual values afterwards?   \n\n\nI have no experience with optimisation, just trying to get some sense of what might be considered. Sorry for the lengthy (and potentially stupid) question.",
+            "score": 3,
+            "que": "When you're appending, youre taking an array that's full and trying to add more.\n\nBecause it's full, you have to create an entirely new array, the same size as the original plus with extra space for your append and copy it all in. So now you have a second slightly larger array and you delete your first one and pretend it was the first one all along\n\nThe problem is, this second array is now also full!\n\nSo if you're appending in a loop that runs 10 times, you're doing this 10 times over, just to add an extra 10 lines. \n\nSo it's possible to save doing all this work if you know how big your array will be before you start, create that, and only change the pre existing values (the zeros)"
+        },
+        {
+            "id": "fosknip",
+            "parent": "t1_foqzc10",
+            "ans": "So, if I'm working with a list of numpy arrays, appending numpy arrays as a list shouldn't be an issue? Is my understanding right?",
+            "score": 1,
+            "que": "When you're appending, youre taking an array that's full and trying to add more.\n\nBecause it's full, you have to create an entirely new array, the same size as the original plus with extra space for your append and copy it all in. So now you have a second slightly larger array and you delete your first one and pretend it was the first one all along\n\nThe problem is, this second array is now also full!\n\nSo if you're appending in a loop that runs 10 times, you're doing this 10 times over, just to add an extra 10 lines. \n\nSo it's possible to save doing all this work if you know how big your array will be before you start, create that, and only change the pre existing values (the zeros)"
+        },
+        {
+            "id": "foqmzx4",
+            "parent": "t1_foq8wkl",
+            "ans": "Yeah proper vectorization is not as simple as that. Even in C/C++ you need to meet a set of criteria to make sure your loop can actually be vectorized by the compiler.",
+            "score": 2,
+            "que": "Julia complies at runtime so for loops are basically just as fast. When I write code in Julia I never worry about vectorizing."
+        },
+        {
+            "id": "fot6edw",
+            "parent": "t1_foq8wkl",
+            "ans": "Vectorized code is more elegant and succinct. Just my opinion.",
+            "score": 1,
+            "que": "Julia complies at runtime so for loops are basically just as fast. When I write code in Julia I never worry about vectorizing."
+        },
+        {
+            "id": "foq965z",
+            "parent": "t1_foq8wkl",
+            "ans": "Is there a BioJulia as convenient as BioPython?",
+            "score": 1,
+            "que": "Julia complies at runtime so for loops are basically just as fast. When I write code in Julia I never worry about vectorizing."
+        },
+        {
+            "id": "fot0ylx",
+            "parent": "t1_forsxa4",
+            "ans": "Do you mean using the cython variation? Or if not, would you mind explaining what you mean by that?",
+            "score": 1,
+            "que": "Mind you, you call me boomer over a language that's 30 years old."
+        },
+        {
+            "id": "for5hde",
+            "parent": "t1_foqozrt",
+            "ans": "I think the answer are it depends.  If you're using an array, then the memory has to allocated beforehand.  But if you're using std::vector, which is usually the case for me, then reallocation happens automatically every power of 2.  Say if you define a vector of size 128, then try to append, it won't recreate a vector of size 129.  Instead it will allocate a vector of size 256, maybe thinking you might decide to append more.  This helps balance the tradeoff of memory usage and the time spent in reallocation.",
+            "score": 12,
+            "que": "In Python, arrays are dynamically allocated. So when you append something to an array that\u2019s already full, it will double its size and copy over the new elements, then add that final element that you wanted to append. \n\nThis doesn\u2019t happen in C++ since you need to take care of memory manually. This means that if you wanted to append something to an array in C++, you would need to create a new array of size n+1, copy over the previous n elements, add the new element, and then deallocate the memory of the previous array you were using. \n\nThis is obviously a huge hassle if you\u2019re constantly appending items to an array, thus showcasing why creating an array of a certain size and then just updating its elements is much cleaner than the previously mentioned method. Just one of the reasons C++ is much faster than Python."
+        },
+        {
+            "id": "fory68p",
+            "parent": "t1_forgxpa",
+            "ans": "I mean, in a for loop you usually have a well determined number of repeats right? Just preallocate before the loop using your loop variable.",
+            "score": 7,
+            "que": "As someone who is fairly absolutely new to python, would it potentially be effective to just move all the appends to one move?   \n\n\nSo, for example, if I don't know the size an array is going to be, in my for loop I gather all the elements that will be added then add them all in one chunk (so we're working with a smaller list that is being appended, then one big append to the greater list) or is that not super helpful?   \n\n\nAlternative, have the for loop go and identify how many elements are going to need to be added, append that many blank spaces in one go, then go back and allocate the actual values afterwards?   \n\n\nI have no experience with optimisation, just trying to get some sense of what might be considered. Sorry for the lengthy (and potentially stupid) question."
+        },
+        {
+            "id": "fottx1b",
+            "parent": "t1_fosknip",
+            "ans": "Sounds right to me, but to be clear just in case:\n\nAppending to an actual np.array is something you want to avoid (if you can!) - think of them as a bucket that can be filled, after which you need a new bucket.\n\nAppending to a python list, however, is encouraged and python is designed for this\n\nThe original comment was talking about the first example, but if you have multiple np.arrays in a \\_python list\\_ then adding more arrays to that list wont be a problem",
+            "score": 3,
+            "que": "So, if I'm working with a list of numpy arrays, appending numpy arrays as a list shouldn't be an issue? Is my understanding right?"
+        },
+        {
+            "id": "foqrwy5",
+            "parent": "t1_foqmzx4",
+            "ans": "Julia doesn't won't  automatically vectorize in the compiler as far as I know but you can use `@simd` in front of your loop to indicate that vectorization is okay. \n\nIf you use `@threads` it will also apply simd vectorization and parallelize the loop.",
+            "score": 3,
+            "que": "Yeah proper vectorization is not as simple as that. Even in C/C++ you need to meet a set of criteria to make sure your loop can actually be vectorized by the compiler."
+        },
+        {
+            "id": "foq9e6r",
+            "parent": "t1_foq965z",
+            "ans": "https://github.com/BioJulia\n\nCompletely outside my field so I have no idea what capabilities it lacks that python has",
+            "score": 8,
+            "que": "Is there a BioJulia as convenient as BioPython?"
+        },
+        {
+            "id": "foqggqu",
+            "parent": "t1_foq965z",
+            "ans": "Interesting read: https://biojulia.net/post/seq-lang/",
+            "score": 3,
+            "que": "Is there a BioJulia as convenient as BioPython?"
+        },
+        {
+            "id": "fouw8qz",
+            "parent": "t1_fot0ylx",
+            "ans": "I mean that Python is not new per se. Its popularity has though increased lately primarily for data science and machine learning, but also as a web backend language.\n\nCython as I understand it is either standalone or can be used to extend Python by compiling modules to machine code.\n\nThe core problem is Python itself, that is very slow, and for arguable reasons. That it's not usually noticed is because so much is done by NumPy, Pandas, Matplotlib etc.\n\nPython would be much more versatile if all types of logic could be efficiently implemented in Python.",
+            "score": 1,
+            "que": "Do you mean using the cython variation? Or if not, would you mind explaining what you mean by that?"
+        },
+        {
+            "id": "foryehc",
+            "parent": "t1_fory68p",
+            "ans": "Cool, that's what I was trying to express in the third paragraph (brevity being the soul of wit) of my comment. Good to hear!",
+            "score": 2,
+            "que": "I mean, in a for loop you usually have a well determined number of repeats right? Just preallocate before the loop using your loop variable."
+        },
+        {
+            "id": "forxj2d",
+            "parent": "t1_foqrwy5",
+            "ans": "Sure,  this is the equivalent of omp pragmas but you still need to meet certain criteria, e.g. your loop can\u2019t rely on the previous value, the reductions need to be defined outside of the loop, your loop can\u2019t change size, etc",
+            "score": 1,
+            "que": "Julia doesn't won't  automatically vectorize in the compiler as far as I know but you can use `@simd` in front of your loop to indicate that vectorization is okay. \n\nIf you use `@threads` it will also apply simd vectorization and parallelize the loop."
+        },
+        {
+            "id": "fot0rdu",
+            "parent": "t1_foq9e6r",
+            "ans": "Thank you so much. I'll give it a try.",
+            "score": 1,
+            "que": "https://github.com/BioJulia\n\nCompletely outside my field so I have no idea what capabilities it lacks that python has"
+        },
+        {
+            "id": "fot0q6a",
+            "parent": "t1_foqggqu",
+            "ans": "Thank you a lot.",
+            "score": 1,
+            "que": "Interesting read: https://biojulia.net/post/seq-lang/"
+        },
+        {
+            "id": "fos1psg",
+            "parent": "t1_foryehc",
+            "ans": "The thing you always have to remember with this type of stuff is if you're creating multi-purpose functions or something that is \"live\" then although optimisation is great to have, having the flexibility of changing the size of the array is super useful.\n\nOf course, if you're clever enough you can calculate the size the array is going to be and then create an array of that size and iterate up to the calculated size.\n\nA lot of comp sci people tend to emphasise speed of execution of code over how long it takes to write it. Generally if your code is going to run only a few times total it's not worth optimising the speed unless the time it takes to optimise it is less than the time you gain by having it optimised. Though writing optimised code like the example in this thread is always worth getting into the habit of.",
+            "score": 5,
+            "que": "Cool, that's what I was trying to express in the third paragraph (brevity being the soul of wit) of my comment. Good to hear!"
+        },
+        {
+            "id": "fos90zd",
+            "parent": "t1_forxj2d",
+            "ans": "I was more talking about the use of vector extensions like avx and neon but yeah @threads is like #omp parallel for\nOne nice thing is that julia's @threads is composable threading. So you don't have to worry about over subscribing threads. You just @threads every loop that meets those criteria and the compiler determines when to fork.",
+            "score": 2,
+            "que": "Sure,  this is the equivalent of omp pragmas but you still need to meet certain criteria, e.g. your loop can\u2019t rely on the previous value, the reductions need to be defined outside of the loop, your loop can\u2019t change size, etc"
+        },
+        {
+            "id": "fos2kjd",
+            "parent": "t1_fos1psg",
+            "ans": "Thank you so much. This makes a ton of sense.\n\nOne of the things I'm working up towards is working with polysomnography data. Which is approximately a 26x(2x10^10) array per night. So I suspect I'm going to have to learn some of these tricks when working with it. But good to know when the skills are worth employing and when it isn't.",
+            "score": 1,
+            "que": "The thing you always have to remember with this type of stuff is if you're creating multi-purpose functions or something that is \"live\" then although optimisation is great to have, having the flexibility of changing the size of the array is super useful.\n\nOf course, if you're clever enough you can calculate the size the array is going to be and then create an array of that size and iterate up to the calculated size.\n\nA lot of comp sci people tend to emphasise speed of execution of code over how long it takes to write it. Generally if your code is going to run only a few times total it's not worth optimising the speed unless the time it takes to optimise it is less than the time you gain by having it optimised. Though writing optimised code like the example in this thread is always worth getting into the habit of."
+        },
+        {
+            "id": "foshe1h",
+            "parent": "t1_fos90zd",
+            "ans": "I was thinking about #omp simd as well but also unmarked loops that get auto vectorized with the appropriate flags if possible. Hand writing AVX is certainly a lot more work.",
+            "score": 1,
+            "que": "I was more talking about the use of vector extensions like avx and neon but yeah @threads is like #omp parallel for\nOne nice thing is that julia's @threads is composable threading. So you don't have to worry about over subscribing threads. You just @threads every loop that meets those criteria and the compiler determines when to fork."
+        },
+        {
+            "id": "fos3wle",
+            "parent": "t1_fos2kjd",
+            "ans": "Might want to get into the habit of using the numpy .nbytes method then to make sure you're not stepping over the size of the capabilities of your processing unit. At a certain point you'll have to swap over from using your normal methods to using big data orientated approaches, though python numpy/pandas can generally be easily transferred over using something like Dask.",
+            "score": 3,
+            "que": "Thank you so much. This makes a ton of sense.\n\nOne of the things I'm working up towards is working with polysomnography data. Which is approximately a 26x(2x10^10) array per night. So I suspect I'm going to have to learn some of these tricks when working with it. But good to know when the skills are worth employing and when it isn't."
+        },
+        {
+            "id": "fosiro2",
+            "parent": "t1_foshe1h",
+            "ans": "Oh! I didn't know omp simd was one of the pragmas you could use! My bad",
+            "score": 2,
+            "que": "I was thinking about #omp simd as well but also unmarked loops that get auto vectorized with the appropriate flags if possible. Hand writing AVX is certainly a lot more work."
+        }
+    ]
+}

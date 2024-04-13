@@ -1,0 +1,701 @@
+{
+    "title": "Let's keep this on...",
+    "id": "xdv6nz",
+    "create_at": 1663139475.0,
+    "score": 3605,
+    "comments": [
+        {
+            "id": "ioe5fie",
+            "parent": "t1_iodh7xg",
+            "ans": "That's why I call all of my if-elif-else loops \"state-of-the-art AI algorithms\".",
+            "score": 176,
+            "que": "Small addendum. Slapping AI / ML on your statistics brings in atleast 30K dollars more in income so yeah , you lose absolutely nothing calling all your statistics as ML."
+        },
+        {
+            "id": "iodhy54",
+            "parent": "t1_iodh7xg",
+            "ans": "Haven't you heard, the new craze is \"proto-AGI\".",
+            "score": 32,
+            "que": "Small addendum. Slapping AI / ML on your statistics brings in atleast 30K dollars more in income so yeah , you lose absolutely nothing calling all your statistics as ML."
+        },
+        {
+            "id": "ioemgn5",
+            "parent": "t1_iodh7xg",
+            "ans": "Did you use ML to get that statistic?",
+            "score": 5,
+            "que": "Small addendum. Slapping AI / ML on your statistics brings in atleast 30K dollars more in income so yeah , you lose absolutely nothing calling all your statistics as ML."
+        },
+        {
+            "id": "iohsocb",
+            "parent": "t1_iodh7xg",
+            "ans": "Can confirm. My degree is in stats. But then. Back then ML degrees were just starting up. \n\nAfter graduating I quickly realized I can do better by doing prediction vs stats and re-learned the basics, learned Python, and my career thanks me ever since.",
+            "score": 6,
+            "que": "Small addendum. Slapping AI / ML on your statistics brings in atleast 30K dollars more in income so yeah , you lose absolutely nothing calling all your statistics as ML."
+        },
+        {
+            "id": "iogdygi",
+            "parent": "t1_iodh7xg",
+            "ans": "Except p-values and any concept of control variables in higher dimensional datasets : D",
+            "score": 2,
+            "que": "Small addendum. Slapping AI / ML on your statistics brings in atleast 30K dollars more in income so yeah , you lose absolutely nothing calling all your statistics as ML."
+        },
+        {
+            "id": "ioe296h",
+            "parent": "t1_iodsoph",
+            "ans": "Oi. Avg() and count() are technically stats mate!",
+            "score": 180,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ioe6vsx",
+            "parent": "t1_iodsoph",
+            "ans": "The upvotes tell me there\u2019s something to this joke, but I don\u2019t get it. Explain?",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ioecowp",
+            "parent": "t1_iodsoph",
+            "ans": "Because dealing with sample bias is totally not a thing for DS.",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ioj4j04",
+            "parent": "t1_iodsoph",
+            "ans": "At the very least the libraries that are used (without very much thought) use a lot of statistics!",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "iofm0ae",
+            "parent": "t1_iofhuq5",
+            "ans": "This was exactly what made me smile too. You spend weeks on an analysis, break the results down, create a presentation that nicely explains why this is a prediction problem and how a regression works on a high level. You build a system that regularly evaluates the accuracy of the model and is able to adjust itself to small changes and will throw alerts if things go south. You think you nailed it. You present it to C-Level.\n\nFirst question: \"This sounds very complicated. Why aren't we simply using ML instead? If this is a skill problem, maybe we should consider hiring a consultant.\"",
+            "score": 30,
+            "que": "Another way of looking at this is through the eyes of the end users. Companies *love* A.I., they want you to do A.I. stuff, to get A.I. generated results and A.I. answers. \n\nThen you provide them the results. But of course you warn them that ~10% of them are false positives. They ask \"What do mean, false positives? We can't have errors in our results.\"\n\n*Statistics.*"
+        },
+        {
+            "id": "ioefn9h",
+            "parent": "t1_iodu3f6",
+            "ans": "Yeah this is correct. There are actually some important differences between ML and stats as well regarding things like assumptions and causality.\n\nIt would be like saying Medicine is just Biology. True, but incomplete.",
+            "score": 22,
+            "que": "Machine = Available and affordable compute processing power for high volume repetitive / parallelized calculations\n\nLearning = Applied advanced statistics implemented in software \n\nIt's not just statistics.  It's about the machines that make it possible."
+        },
+        {
+            "id": "ioel5ah",
+            "parent": "t1_iodu3f6",
+            "ans": "This would be true but how come \u201cML\u201d textbooks pretty much solely focus on the latter? Eg ISLR/ESLR, ProbML, etc. Its not like you have to know anything about the internal details of computing in order to use or even write ML algorithms from the math itself. You might need that to make it more efficient, or if you are doing low level CUDA programming, but this is again not discussed in ML textbooks. So at least academically/going by textbooks, it would seem ML is part of stats. \n\nIts not like they discuss the inner computational machinery that makes it possible.",
+            "score": 3,
+            "que": "Machine = Available and affordable compute processing power for high volume repetitive / parallelized calculations\n\nLearning = Applied advanced statistics implemented in software \n\nIt's not just statistics.  It's about the machines that make it possible."
+        },
+        {
+            "id": "ioei5ky",
+            "parent": "t1_iodu3f6",
+            "ans": "Implementation of ideas and algorithms also isn't always straight forward. This requires some effort as well, though it could be argued you are cannibalizing code a fair amount of time off the internet haha.",
+            "score": 2,
+            "que": "Machine = Available and affordable compute processing power for high volume repetitive / parallelized calculations\n\nLearning = Applied advanced statistics implemented in software \n\nIt's not just statistics.  It's about the machines that make it possible."
+        },
+        {
+            "id": "iofhhef",
+            "parent": "t1_iodu3f6",
+            "ans": "Not really. It was called \"computational statistics\" before machine learning. \"Machine learning\" is a term invented by computer science to make it seem as if they invented something new, to claim it as their territory. \n\nDeep learning is new (basically) but that's one type of model case, and can easily be thought of as computational statistics.",
+            "score": 4,
+            "que": "Machine = Available and affordable compute processing power for high volume repetitive / parallelized calculations\n\nLearning = Applied advanced statistics implemented in software \n\nIt's not just statistics.  It's about the machines that make it possible."
+        },
+        {
+            "id": "iodqozk",
+            "parent": "t1_iodmk3e",
+            "ans": "True story",
+            "score": 12,
+            "que": "Peel off the face, maybe you'll see Maths written on it. \ud83d\ude05"
+        },
+        {
+            "id": "ioe72cu",
+            "parent": "t1_iodmk3e",
+            "ans": "Then peel off the math, and all you\u2019ll find are vibrating 1D strings.",
+            "score": 7,
+            "que": "Peel off the face, maybe you'll see Maths written on it. \ud83d\ude05"
+        },
+        {
+            "id": "ioe206n",
+            "parent": "t1_iodxhr2",
+            "ans": "I like methodological gatekeeping as much as the next person (obligatory harmonic mean shout-out), but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?",
+            "score": 53,
+            "que": "[deleted]"
+        },
+        {
+            "id": "iofqni4",
+            "parent": "t1_iodxhr2",
+            "ans": "You dont even have to go mixed effect model.\n 99% of AB testing reports are done in such a crappy way.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ioe7xvx",
+            "parent": "t1_ioe0m0e",
+            "ans": "Better that if-else one",
+            "score": 6,
+            "que": "Same old joke, it isn't funny anymore"
+        },
+        {
+            "id": "ioevtic",
+            "parent": "t1_ioe0m0e",
+            "ans": "Oh calm down",
+            "score": 1,
+            "que": "Same old joke, it isn't funny anymore"
+        },
+        {
+            "id": "ioema36",
+            "parent": "t1_iodjmbo",
+            "ans": ">If it was 'just' statistics we'd still be in the 1800's\n\nTell me you don't understand modern statistics without telling me...",
+            "score": 8,
+            "que": "If it was 'just' statistics we'd still be in the 1800's, modern computation and sophisticated implementations of the core concepts are the reason it's 'AI'.\n\nFurthermore, modern approaches for vision, NLP etc' are a lot more algorithms rather than rigorous statistics, sure some of the concepts are there and if you grossly oversimplify them then  you can make excuses for statistical theory, but that's about it, research approaches only sometimes, maybe, find statistical/mathematical excuses for their implementations after the fact."
+        },
+        {
+            "id": "ioduwur",
+            "parent": "t1_iodjmbo",
+            "ans": "[deleted]",
+            "score": 19,
+            "que": "If it was 'just' statistics we'd still be in the 1800's, modern computation and sophisticated implementations of the core concepts are the reason it's 'AI'.\n\nFurthermore, modern approaches for vision, NLP etc' are a lot more algorithms rather than rigorous statistics, sure some of the concepts are there and if you grossly oversimplify them then  you can make excuses for statistical theory, but that's about it, research approaches only sometimes, maybe, find statistical/mathematical excuses for their implementations after the fact."
+        },
+        {
+            "id": "iodkqmq",
+            "parent": "t1_iodjmbo",
+            "ans": "Been working on Neural Style Transfer for 4 days now calling it all just statistics is more of a Crime to me now",
+            "score": 8,
+            "que": "If it was 'just' statistics we'd still be in the 1800's, modern computation and sophisticated implementations of the core concepts are the reason it's 'AI'.\n\nFurthermore, modern approaches for vision, NLP etc' are a lot more algorithms rather than rigorous statistics, sure some of the concepts are there and if you grossly oversimplify them then  you can make excuses for statistical theory, but that's about it, research approaches only sometimes, maybe, find statistical/mathematical excuses for their implementations after the fact."
+        },
+        {
+            "id": "ioeju9n",
+            "parent": "t1_iodjmbo",
+            "ans": "I agree with you, but in my experience most of the things people are pitching as AI are not NLP or computer vision.",
+            "score": 2,
+            "que": "If it was 'just' statistics we'd still be in the 1800's, modern computation and sophisticated implementations of the core concepts are the reason it's 'AI'.\n\nFurthermore, modern approaches for vision, NLP etc' are a lot more algorithms rather than rigorous statistics, sure some of the concepts are there and if you grossly oversimplify them then  you can make excuses for statistical theory, but that's about it, research approaches only sometimes, maybe, find statistical/mathematical excuses for their implementations after the fact."
+        },
+        {
+            "id": "iodv23x",
+            "parent": "t1_iodjmbo",
+            "ans": "You can tell what kind of work people do by the kinds of memes they post here. I work supporting CV teams doing MLE/MLOps stuff, and these sorts of memes are nonsensical to me. But I get it if all you do is basic logistical regressions on clean tabular data.",
+            "score": 4,
+            "que": "If it was 'just' statistics we'd still be in the 1800's, modern computation and sophisticated implementations of the core concepts are the reason it's 'AI'.\n\nFurthermore, modern approaches for vision, NLP etc' are a lot more algorithms rather than rigorous statistics, sure some of the concepts are there and if you grossly oversimplify them then  you can make excuses for statistical theory, but that's about it, research approaches only sometimes, maybe, find statistical/mathematical excuses for their implementations after the fact."
+        },
+        {
+            "id": "iofgbvw",
+            "parent": "t1_iodjmbo",
+            "ans": "yea its like saying \"Duh, Rocket Science is basically just mechanical engineering\" or \"Huh, Doctors... i mean thats just Biology isnt it?\"\n\n&#x200B;\n\nsuper stupid",
+            "score": 2,
+            "que": "If it was 'just' statistics we'd still be in the 1800's, modern computation and sophisticated implementations of the core concepts are the reason it's 'AI'.\n\nFurthermore, modern approaches for vision, NLP etc' are a lot more algorithms rather than rigorous statistics, sure some of the concepts are there and if you grossly oversimplify them then  you can make excuses for statistical theory, but that's about it, research approaches only sometimes, maybe, find statistical/mathematical excuses for their implementations after the fact."
+        },
+        {
+            "id": "ioh3kwc",
+            "parent": "t1_iofsuo6",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "Classical ML is statistics, deep learning borrows a lot more from linear algebra and differential calculus. You can't achieve the results we see in CV and NLP from statistics, that's very much in the realm of deep learning and it's what a lot of people refer to when they say AI."
+        },
+        {
+            "id": "iogx5aj",
+            "parent": "t1_ioe5fie",
+            "ans": "I think what you meant was if-elif-elif-elif-elif-elif-elif-elif-elif-else",
+            "score": 32,
+            "que": "That's why I call all of my if-elif-else loops \"state-of-the-art AI algorithms\"."
+        },
+        {
+            "id": "ioet025",
+            "parent": "t1_ioe5fie",
+            "ans": "They're not state of the art, but they sure are algorithms, and that makes them AI!",
+            "score": 41,
+            "que": "That's why I call all of my if-elif-else loops \"state-of-the-art AI algorithms\"."
+        },
+        {
+            "id": "iofryex",
+            "parent": "t1_ioe5fie",
+            "ans": "No, those are just advanced business rules /s",
+            "score": 9,
+            "que": "That's why I call all of my if-elif-else loops \"state-of-the-art AI algorithms\"."
+        },
+        {
+            "id": "iog181k",
+            "parent": "t1_ioe5fie",
+            "ans": "And a control loop with an integrator in it is 'self-learning'.",
+            "score": 11,
+            "que": "That's why I call all of my if-elif-else loops \"state-of-the-art AI algorithms\"."
+        },
+        {
+            "id": "iodl8fk",
+            "parent": "t1_iodhy54",
+            "ans": "Don\u2019t forget:  Turing test depends on the intelligence of the human",
+            "score": 35,
+            "que": "Haven't you heard, the new craze is \"proto-AGI\"."
+        },
+        {
+            "id": "ioeg98e",
+            "parent": "t1_ioe6vsx",
+            "ans": "The joke is that there are many ds with no knowledge of what is happening when they run the code, and more who do not really ever write or run code, let alone know what the code is doing",
+            "score": 67,
+            "que": "The upvotes tell me there\u2019s something to this joke, but I don\u2019t get it. Explain?"
+        },
+        {
+            "id": "ioej5m0",
+            "parent": "t1_ioecowp",
+            "ans": "Based on some of the people I\u2019ve interacted with it would be easy to think it isn\u2019t.",
+            "score": 16,
+            "que": "Because dealing with sample bias is totally not a thing for DS."
+        },
+        {
+            "id": "iofrjed",
+            "parent": "t1_iofm0ae",
+            "ans": "ML **is** complicated statistics.",
+            "score": 8,
+            "que": "This was exactly what made me smile too. You spend weeks on an analysis, break the results down, create a presentation that nicely explains why this is a prediction problem and how a regression works on a high level. You build a system that regularly evaluates the accuracy of the model and is able to adjust itself to small changes and will throw alerts if things go south. You think you nailed it. You present it to C-Level.\n\nFirst question: \"This sounds very complicated. Why aren't we simply using ML instead? If this is a skill problem, maybe we should consider hiring a consultant.\""
+        },
+        {
+            "id": "iogpdba",
+            "parent": "t1_iofm0ae",
+            "ans": "Why are you presenting all the low level detail to C-Level? All they need to know is what does the model do. Extra points for how the model help the business.",
+            "score": 6,
+            "que": "This was exactly what made me smile too. You spend weeks on an analysis, break the results down, create a presentation that nicely explains why this is a prediction problem and how a regression works on a high level. You build a system that regularly evaluates the accuracy of the model and is able to adjust itself to small changes and will throw alerts if things go south. You think you nailed it. You present it to C-Level.\n\nFirst question: \"This sounds very complicated. Why aren't we simply using ML instead? If this is a skill problem, maybe we should consider hiring a consultant.\""
+        },
+        {
+            "id": "ioekhig",
+            "parent": "t1_ioefn9h",
+            "ans": "Neither ML nor stats deal with causality directly. Causal structure comes external to the model, and after you have that (like knowing the confounders to include and bad colliders to exclude in the model) then either can be used to estimate the effect-even uninterpretable ML models can be better at estimating causal effects since they can avoid residual confounding or Simpson\u2019s paradox from linearity/other functional form assumptions. \n\nSo what was once thought to be a weakness with ML is actually not if you use it correctly.",
+            "score": 14,
+            "que": "Yeah this is correct. There are actually some important differences between ML and stats as well regarding things like assumptions and causality.\n\nIt would be like saying Medicine is just Biology. True, but incomplete."
+        },
+        {
+            "id": "iofa86u",
+            "parent": "t1_ioefn9h",
+            "ans": "Eh, I think it's a bit murkier than that. Research in statistical learning, for example, led to the proposal of gradient boosting by Breiman and stochastic gradient boosting by Friedman.",
+            "score": 3,
+            "que": "Yeah this is correct. There are actually some important differences between ML and stats as well regarding things like assumptions and causality.\n\nIt would be like saying Medicine is just Biology. True, but incomplete."
+        },
+        {
+            "id": "ioe3s46",
+            "parent": "t1_iodqozk",
+            "ans": "peel that off and you'll get harmonic mean.",
+            "score": 43,
+            "que": "True story"
+        },
+        {
+            "id": "ioehi8y",
+            "parent": "t1_ioe72cu",
+            "ans": "[deleted]",
+            "score": 6,
+            "que": "Then peel off the math, and all you\u2019ll find are vibrating 1D strings."
+        },
+        {
+            "id": "ioem5yq",
+            "parent": "t1_ioe72cu",
+            "ans": "[Relevant xkcd](https://xkcd.com/435/)",
+            "score": 2,
+            "que": "Then peel off the math, and all you\u2019ll find are vibrating 1D strings."
+        },
+        {
+            "id": "iof1twn",
+            "parent": "t1_ioe206n",
+            "ans": "Data Scientists as a field is full of academics that spent many many years being rewarded for learning technical achievements and optimizing specific metrics in order to get a paper published.\n\nDelivering business impact is often a very different beast with an order of magnitude more dimensions and with multiple competing objectives.\n\nIt's easier to gatekeep on what's clear and tangible. Making business tradeoffs usually is not.",
+            "score": 10,
+            "que": "I like methodological gatekeeping as much as the next person (obligatory harmonic mean shout-out), but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?"
+        },
+        {
+            "id": "iofdr6z",
+            "parent": "t1_ioe206n",
+            "ans": "> but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?\n\nPride on your personal work",
+            "score": 5,
+            "que": "I like methodological gatekeeping as much as the next person (obligatory harmonic mean shout-out), but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?"
+        },
+        {
+            "id": "ioecxx6",
+            "parent": "t1_ioe206n",
+            "ans": "As long as they're not being led into disaster, their \"decision\" is \"supported\", so they're happy.",
+            "score": 8,
+            "que": "I like methodological gatekeeping as much as the next person (obligatory harmonic mean shout-out), but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?"
+        },
+        {
+            "id": "iof42ob",
+            "parent": "t1_ioe206n",
+            "ans": "Where did cross-validation and gradient boosting originate? I think there are too many people who equate the field of statistics with some of these more traditional methodologies.",
+            "score": 3,
+            "que": "I like methodological gatekeeping as much as the next person (obligatory harmonic mean shout-out), but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?"
+        },
+        {
+            "id": "iofq4lq",
+            "parent": "t1_ioe206n",
+            "ans": "Because you are data ***scientist***...\n\nHave some pride in your profession at least.",
+            "score": -4,
+            "que": "I like methodological gatekeeping as much as the next person (obligatory harmonic mean shout-out), but if management and/or customer is happy with a cross-validated XGBoost score pasted on a Tableau dashboard because they don\u2019t know any better, why do more?"
+        },
+        {
+            "id": "iodml77",
+            "parent": "t1_iodkqmq",
+            "ans": "I guess that the comic is more about those who call \"supervised learning algorithms\" the simple multivariate (in case logistics) regression.\n\nIn these case it's so true that it hurts.\n\n( But cases like Deep learning and NLP are the opposite, something that's offensive to be called \"only statistics\" )",
+            "score": 12,
+            "que": "Been working on Neural Style Transfer for 4 days now calling it all just statistics is more of a Crime to me now"
+        },
+        {
+            "id": "ioesgr0",
+            "parent": "t1_iodv23x",
+            "ans": "Well tabular data is still 95% of DS work, whether it involves logistic reg or other ML. \n\nCV is signal/image processing which can be seen as statistics too. When it comes to coming up with architectures thats more like an art even",
+            "score": 3,
+            "que": "You can tell what kind of work people do by the kinds of memes they post here. I work supporting CV teams doing MLE/MLOps stuff, and these sorts of memes are nonsensical to me. But I get it if all you do is basic logistical regressions on clean tabular data."
+        },
+        {
+            "id": "ioelcxh",
+            "parent": "t1_iodv23x",
+            "ans": "\u201cBasic logistic regression\u201d is not the extent to which the field of statistics is involved in machine learning.",
+            "score": 0,
+            "que": "You can tell what kind of work people do by the kinds of memes they post here. I work supporting CV teams doing MLE/MLOps stuff, and these sorts of memes are nonsensical to me. But I get it if all you do is basic logistical regressions on clean tabular data."
+        },
+        {
+            "id": "iogas63",
+            "parent": "t1_iofgbvw",
+            "ans": "X engineering? Lol thats just physics/chemistry/math.\n\nIt's ignorance mixed with other stuff.",
+            "score": 1,
+            "que": "yea its like saying \"Duh, Rocket Science is basically just mechanical engineering\" or \"Huh, Doctors... i mean thats just Biology isnt it?\"\n\n&#x200B;\n\nsuper stupid"
+        },
+        {
+            "id": "ioh8lxm",
+            "parent": "t1_ioh3kwc",
+            "ans": "Classical ML is a well known term have you not come across it? It is essentially all ML algorithms that are not deep learning algorithms. DL in its current incarnation is a feat of engineering not statistical learning, which is why it's under the banner of computer science not statistics. Furthermore it's responsible for the breakthroughs we see today in NLP/CV/RL, which are certainly not part of modern day statistics.\n\nHere is an article which highlights the difference between classical ML and deep learning. \n\nhttps://lamiae-hana.medium.com/classical-ml-vs-deep-learning-f8e28a52132d",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ioeclpx",
+            "parent": "t1_iodl8fk",
+            "ans": "I like how the Turing Test is still an open question, but there are also lines of research on the Reverse Turing Test ala ReCAPTCHA, where the machine verifies the human is a human, and a line of research on the Opposite Turing Test, spearheaded by dating sites where they try to find a bot account so obvious that lonely humans won't try to flirt with it.",
+            "score": 22,
+            "que": "Don\u2019t forget:  Turing test depends on the intelligence of the human"
+        },
+        {
+            "id": "ioek5n6",
+            "parent": "t1_ioeg98e",
+            "ans": "And that most of the technically advanced stat and fancy ML that you learn in school never gets used or is used by an increasingly smaller subset of people (RS, AS, MLE) in real life and not DSs",
+            "score": 21,
+            "que": "The joke is that there are many ds with no knowledge of what is happening when they run the code, and more who do not really ever write or run code, let alone know what the code is doing"
+        },
+        {
+            "id": "ioge9y1",
+            "parent": "t1_iofrjed",
+            "ans": "I'm not sure the stats component itself is more complicated, maybe the inputs and outputs are sourced differently. I'd describe it as cyclically repeated modelling that updates it's own priors and or feature weights each time it runs. It does it fast enough to make decisions at a moment's notice, so it's more like Fast Statistics.",
+            "score": 5,
+            "que": "ML **is** complicated statistics."
+        },
+        {
+            "id": "ir2v6cz",
+            "parent": "t1_iofrjed",
+            "ans": "ML is automated and continues statistics ;)",
+            "score": 2,
+            "que": "ML **is** complicated statistics."
+        },
+        {
+            "id": "ioi0jcp",
+            "parent": "t1_iogpdba",
+            "ans": "I absolutely agree that C-Level doesn't need to know the details if you can show that whatever stuff you built works (i.e. generates higher revenues, engagement, conversion etc.). This works most of the time. My comment was rather a bit sarcastic, because there were a couple of situations in my career in which I fell for the \"we really want to understand what is happening\" trap.",
+            "score": 3,
+            "que": "Why are you presenting all the low level detail to C-Level? All they need to know is what does the model do. Extra points for how the model help the business."
+        },
+        {
+            "id": "iof7p24",
+            "parent": "t1_ioekhig",
+            "ans": "We\u2019re really getting to the core of the discrepancy here.\n\nIf the desire is a model that **estimates** the effect of causality. Then yes, I agree.\n\nHowever, if the desire is a model that **explains** the effect of causality, then I disagree.\n\nCausality is treated different because the goal is *usually* different, because the goal is different, the requirements (assumptions) are different.\n\nThere has been a lot of research lately for causal analysis in machine learning, so there may already have been a shift, but when I was in graduate school, that was what we were taught about the difference.",
+            "score": 6,
+            "que": "Neither ML nor stats deal with causality directly. Causal structure comes external to the model, and after you have that (like knowing the confounders to include and bad colliders to exclude in the model) then either can be used to estimate the effect-even uninterpretable ML models can be better at estimating causal effects since they can avoid residual confounding or Simpson\u2019s paradox from linearity/other functional form assumptions. \n\nSo what was once thought to be a weakness with ML is actually not if you use it correctly."
+        },
+        {
+            "id": "ioej8bq",
+            "parent": "t1_ioe3s46",
+            "ans": "The one true god.",
+            "score": 9,
+            "que": "peel that off and you'll get harmonic mean."
+        },
+        {
+            "id": "jgjeih6",
+            "parent": "t1_ioe3s46",
+            "ans": "I\u2019m not understanding how that is not still just math?",
+            "score": 1,
+            "que": "peel that off and you'll get harmonic mean."
+        },
+        {
+            "id": "ioek64g",
+            "parent": "t1_ioehi8y",
+            "ans": "`Artificial intelligence: Powered by data. Powered by cheese.\u00ae`",
+            "score": 9,
+            "que": "[deleted]"
+        },
+        {
+            "id": "ir7vljg",
+            "parent": "t1_ioem5yq",
+            "ans": "This. Every time I see this discussion, this.",
+            "score": 1,
+            "que": "[Relevant xkcd](https://xkcd.com/435/)"
+        },
+        {
+            "id": "iofdbyx",
+            "parent": "t1_iodml77",
+            "ans": "A simple neural network though is nothing more than a bunch of logistic regressions layered on top of each other (with some function for nonlinearity though, but still, pure calc + stats).",
+            "score": 1,
+            "que": "I guess that the comic is more about those who call \"supervised learning algorithms\" the simple multivariate (in case logistics) regression.\n\nIn these case it's so true that it hurts.\n\n( But cases like Deep learning and NLP are the opposite, something that's offensive to be called \"only statistics\" )"
+        },
+        {
+            "id": "iodpu0x",
+            "parent": "t1_iodml77",
+            "ans": "Linear Regression = Adding a trend line in excel = Artificial Intelligence algorithm capable of taking over the world",
+            "score": -5,
+            "que": "I guess that the comic is more about those who call \"supervised learning algorithms\" the simple multivariate (in case logistics) regression.\n\nIn these case it's so true that it hurts.\n\n( But cases like Deep learning and NLP are the opposite, something that's offensive to be called \"only statistics\" )"
+        },
+        {
+            "id": "ioeuve3",
+            "parent": "t1_ioesgr0",
+            "ans": ">Well tabular data is still 95% of DS work, whether it involves logistic reg or other ML.\n\nIt's nowhere near that in most of the places I've worked, which was the point of the comment.\n\n> CV is signal/image processing which can be seen as statistics too. When it comes to coming up with architectures thats more like an art even\n\nThere's much more to it than plain old statistics (coming from someone who did a lot of traditional stats in a previous life in academia), and the layers of abstraction between the bit of stats one does for this kind of work and the actual work again make this meme and its intent (\"machine learning is just a fancy term for stats!\") no quite so applicable outside of the more basic work where you're closer to the actual statistics.",
+            "score": 2,
+            "que": "Well tabular data is still 95% of DS work, whether it involves logistic reg or other ML. \n\nCV is signal/image processing which can be seen as statistics too. When it comes to coming up with architectures thats more like an art even"
+        },
+        {
+            "id": "ioelqfv",
+            "parent": "t1_ioelcxh",
+            "ans": "Missing the point of the hyperbole by a mile",
+            "score": -1,
+            "que": "\u201cBasic logistic regression\u201d is not the extent to which the field of statistics is involved in machine learning."
+        },
+        {
+            "id": "iohjc33",
+            "parent": "t1_ioh8lxm",
+            "ans": "Those fields are a part of modern stats. RL has to do with bandits and decision theory which is used in modern experimental  design and causal inference-eg dynamic treatment regimens. \n\nEven the CS people who said for example double descent contradicts classical stats/ML were wrong, and the latest ISLR as well has a tweet by Daniela Witten has a great explanation using GAMs/splines about how it doesn\u2019t and is a result of regularization due to SGD",
+            "score": 1,
+            "que": "Classical ML is a well known term have you not come across it? It is essentially all ML algorithms that are not deep learning algorithms. DL in its current incarnation is a feat of engineering not statistical learning, which is why it's under the banner of computer science not statistics. Furthermore it's responsible for the breakthroughs we see today in NLP/CV/RL, which are certainly not part of modern day statistics.\n\nHere is an article which highlights the difference between classical ML and deep learning. \n\nhttps://lamiae-hana.medium.com/classical-ml-vs-deep-learning-f8e28a52132d"
+        },
+        {
+            "id": "ioem2ke",
+            "parent": "t1_ioek5n6",
+            "ans": "The job titles don\u2019t matter so much. Where I work (and an increasing number of places) MLEs productionize the code and build the infra for it (this used to be data engineers, but it has changed over the past 2 or so years), and the data scientists are computer vision PhDs building pretty advanced stuff for exploratory use.",
+            "score": 9,
+            "que": "And that most of the technically advanced stat and fancy ML that you learn in school never gets used or is used by an increasingly smaller subset of people (RS, AS, MLE) in real life and not DSs"
+        },
+        {
+            "id": "iogj9cr",
+            "parent": "t1_ioge9y1",
+            "ans": "I like \"fast statistics\". I meant complicated as in difficult (even for those who use it) to deeply understand or fully grasp.",
+            "score": 4,
+            "que": "I'm not sure the stats component itself is more complicated, maybe the inputs and outputs are sourced differently. I'd describe it as cyclically repeated modelling that updates it's own priors and or feature weights each time it runs. It does it fast enough to make decisions at a moment's notice, so it's more like Fast Statistics."
+        },
+        {
+            "id": "iohim5j",
+            "parent": "t1_ioge9y1",
+            "ans": "Most ML models aren\u2019t self-updating though, outside RL. Most of them except say NNs or stuff trained via SGD has to be retrained from scratch on new data. Even with Bayesian methods, since most posteriors aren\u2019t analytical, if you wanted to update the model you would either need to retrain with the old+new data or set new priors based on the old and retrain.",
+            "score": 3,
+            "que": "I'm not sure the stats component itself is more complicated, maybe the inputs and outputs are sourced differently. I'd describe it as cyclically repeated modelling that updates it's own priors and or feature weights each time it runs. It does it fast enough to make decisions at a moment's notice, so it's more like Fast Statistics."
+        },
+        {
+            "id": "iofhuqf",
+            "parent": "t1_iof7p24",
+            "ans": "I mean the core is not all causality is explainable though. Some of that id argue is just an illusion that humans have created.If you fit a linear \u201cexplainable\u201d model to something that is a nonlinear data generating process then strictly speaking that explanation is not correct and the model is not a \u201ccausal model\u201d even if everything else (causal assumptions) is fine. If that model for example estimates an effect in the opposite direction due to residual confounding then it doesn\u2019t matter how explainable it is, its wrong. If you have not removed all confounding then the model can\u2019t be causal. \n\nI play a lot of chess and you could consider what the AIs like Stockfish point out as the mistake that made you lose as \u201ccausal\u201d (its a deterministic game). In cases where its a simple hanging a piece its obvious, but some moves it suggests in place are not simply explainable even by the world champion but they are still \u201ccausal\u201d. \n\nEven in a simple RCT for say a drug\u2014the fact the t test was significant still doesn\u2019t tell me anything about \u201cwhy\u201d. That requires chemistry and biology/physiology. Its again not the job of either statistics nor ML. Statistics and ML are for estimation.",
+            "score": 2,
+            "que": "We\u2019re really getting to the core of the discrepancy here.\n\nIf the desire is a model that **estimates** the effect of causality. Then yes, I agree.\n\nHowever, if the desire is a model that **explains** the effect of causality, then I disagree.\n\nCausality is treated different because the goal is *usually* different, because the goal is different, the requirements (assumptions) are different.\n\nThere has been a lot of research lately for causal analysis in machine learning, so there may already have been a shift, but when I was in graduate school, that was what we were taught about the difference."
+        },
+        {
+            "id": "iogc0pn",
+            "parent": "t1_iofdbyx",
+            "ans": "And you think a simple neural network is good representation of the modern solutions for Vision and NLP?\n\nIts like arguing that a CPU is just aggregated boolean logic, completely nonsensical.",
+            "score": 2,
+            "que": "A simple neural network though is nothing more than a bunch of logistic regressions layered on top of each other (with some function for nonlinearity though, but still, pure calc + stats)."
+        },
+        {
+            "id": "ioegx97",
+            "parent": "t1_iodpu0x",
+            "ans": "Ah, the fabled Dunning Kruger regression in action.",
+            "score": 2,
+            "que": "Linear Regression = Adding a trend line in excel = Artificial Intelligence algorithm capable of taking over the world"
+        },
+        {
+            "id": "ioexi2n",
+            "parent": "t1_ioeuve3",
+            "ans": "I guess it has been where I work, in biotech. There are very few people who work on raw images directly and typically they are domain expert PhDs on the research end. The vast majority of the business is still tabular data, basically clinical data or omics microarray data. \n\nThe metabolomics or proteomics stuff does get extracted from a signal/image but those pipelines are pretty established and the actual data analysis ends up being on boring tabular data. \n\nBut even on this sub in other industries it seems most DSs are working on tabular data (and if its not tabular data then its often some other title)\n\n\nIt depends on what one defines as stats too, I would put  \u201ccoming up with a loss function and regularizer\u201d as statistics but to others stats= hypothesis testing and inference only.\n\nHow did you manage to go from traditional stats to CV?",
+            "score": 1,
+            "que": ">Well tabular data is still 95% of DS work, whether it involves logistic reg or other ML.\n\nIt's nowhere near that in most of the places I've worked, which was the point of the comment.\n\n> CV is signal/image processing which can be seen as statistics too. When it comes to coming up with architectures thats more like an art even\n\nThere's much more to it than plain old statistics (coming from someone who did a lot of traditional stats in a previous life in academia), and the layers of abstraction between the bit of stats one does for this kind of work and the actual work again make this meme and its intent (\"machine learning is just a fancy term for stats!\") no quite so applicable outside of the more basic work where you're closer to the actual statistics."
+        },
+        {
+            "id": "ioem06f",
+            "parent": "t1_ioelqfv",
+            "ans": "Please, explain it...",
+            "score": 1,
+            "que": "Missing the point of the hyperbole by a mile"
+        },
+        {
+            "id": "iohmldu",
+            "parent": "t1_iohjc33",
+            "ans": "I disagree. It's the same tired argument like biology is just chemistry, chemistry is just physics, physics is just math etc. Just because there are elements of stats in DL doesn't mean the field of DL is a form of statistics. Why haven't we seen any breakthroughs in NLP/CV from statisticians? Most wouldn't even know where to start. DL makes hardly any of the assumptions required for statistical inference and prediction, which would violate its use for most problems in the statistical paradigm, yet it regularly outperforms predictions made by statistical models. \n\nI really like this quora answer from Firdaus Janoos, a senior quant researcher who did his PhD in both Stats and ML. The question was \"how important is statistics to deep learning?\"\n\nThis is just a snippet of the end of his answer by I implore you to read the answer in full as he makes some excellent points. \n\n\"DL is the triumph of empiricism over theory. Theoreticians quiver in fear at the mention of DL - they don\u2019t understand it and it kicks the ass of their best wrought theories. \n\nThis may not be sexy or inspirational or \u201cTED-talk-worthy\u201d - but most deep learning successes have come from trial and error, computation-at-scale, good-ol \u201celbow grease\u201d and\u00a0writing code. \n\nYes -\u00a0writing code\u00a0is probably the thing that characterises 99% of successful DL ideas. No armchair theorizing here. If you were to ask the guys with the big successes in DL how they did it ... their honest answer would be \u201cwe stayed up long nights working hard and trying lots of different shit\u201d- and because \u201cwe wrote code\u201d. \n\nHowever, when anyone says \u201cmachine/deep learning is a form of statistics \u201d \u2014 please feel free (obliged) to say BULLSHIT. The person who says this understands neither statistics nor machine learning.\" \n\nhttps://www.quora.com/How-important-is-statistics-to-deep-learning",
+            "score": 1,
+            "que": "Those fields are a part of modern stats. RL has to do with bandits and decision theory which is used in modern experimental  design and causal inference-eg dynamic treatment regimens. \n\nEven the CS people who said for example double descent contradicts classical stats/ML were wrong, and the latest ISLR as well has a tweet by Daniela Witten has a great explanation using GAMs/splines about how it doesn\u2019t and is a result of regularization due to SGD"
+        },
+        {
+            "id": "ioepogz",
+            "parent": "t1_ioem2ke",
+            "ans": "So they are basically RS/ASs in terms of their role but don\u2019t have that title. But yea, essentially DS below a PhD is going to be SQL, regression, dashboards, etc. It sucks that modeling is gatekept behind PhD. Basically need PhD for advanced modeling credentials",
+            "score": 5,
+            "que": "The job titles don\u2019t matter so much. Where I work (and an increasing number of places) MLEs productionize the code and build the infra for it (this used to be data engineers, but it has changed over the past 2 or so years), and the data scientists are computer vision PhDs building pretty advanced stuff for exploratory use."
+        },
+        {
+            "id": "iogjszb",
+            "parent": "t1_iogj9cr",
+            "ans": "I see what you mean! Agreed. Also thank you!",
+            "score": 2,
+            "que": "I like \"fast statistics\". I meant complicated as in difficult (even for those who use it) to deeply understand or fully grasp."
+        },
+        {
+            "id": "iohms25",
+            "parent": "t1_iohim5j",
+            "ans": "Fair enough. I oversimplified there.",
+            "score": 2,
+            "que": "Most ML models aren\u2019t self-updating though, outside RL. Most of them except say NNs or stuff trained via SGD has to be retrained from scratch on new data. Even with Bayesian methods, since most posteriors aren\u2019t analytical, if you wanted to update the model you would either need to retrain with the old+new data or set new priors based on the old and retrain."
+        },
+        {
+            "id": "ioehzt4",
+            "parent": "t1_ioegx97",
+            "ans": "Sarcasm isn\u2019t taken too well on Reddit",
+            "score": 1,
+            "que": "Ah, the fabled Dunning Kruger regression in action."
+        },
+        {
+            "id": "iof5mht",
+            "parent": "t1_ioexi2n",
+            "ans": "Oh yeah I was on a research team of scientists from pharma at a healthtech startup a few years back, and it was much more heavily stats (and a surprising amount of bench bio) involved. One of our DSs had a PhD in particle physics and was a stats god. \n\nBut yeah the closeness to what I\u2019d call traditional stats (and the requisite underlying knowledge needed for that) is what I think the differentiator is - CV has stats and other things at the foundation, but you\u2019re not interacting with it much in the day to day, so it\u2019s hard to connect that to this meme implying that ML is just stats. If you\u2019re working with tabular data and closer to the actual statistics, then it would make more sense. \n\nI personally was working on a neuroscience PhD when I decided to duck out of the academic rat race after falling back in love with coding (which was a big chunk of my work in the lab). Left with my MS, got a software job, fell into data engineering and then started working at startups as the engineer adjunct to R&D teams. After a layoff at the previously mentioned healthtech startup, a referral got me doing similar work at a CV startup, and now I\u2019m at yet another one. Startup life is fun.",
+            "score": 2,
+            "que": "I guess it has been where I work, in biotech. There are very few people who work on raw images directly and typically they are domain expert PhDs on the research end. The vast majority of the business is still tabular data, basically clinical data or omics microarray data. \n\nThe metabolomics or proteomics stuff does get extracted from a signal/image but those pipelines are pretty established and the actual data analysis ends up being on boring tabular data. \n\nBut even on this sub in other industries it seems most DSs are working on tabular data (and if its not tabular data then its often some other title)\n\n\nIt depends on what one defines as stats too, I would put  \u201ccoming up with a loss function and regularizer\u201d as statistics but to others stats= hypothesis testing and inference only.\n\nHow did you manage to go from traditional stats to CV?"
+        },
+        {
+            "id": "ioemng2",
+            "parent": "t1_ioem06f",
+            "ans": "A complete accounting of all the more simple tabular work done by a subset of data scientists doesn\u2019t change the point of the first two sentences. I\u2019m not sure how much more simply I can explain it.",
+            "score": -1,
+            "que": "Please, explain it..."
+        },
+        {
+            "id": "iohp33i",
+            "parent": "t1_iohmldu",
+            "ans": "CV has been done in stats, Gaussian process kriging is something we did on images in a bayesian stats class. Its not exactly a cutting edge topic in CV now but its been done. In academia there are also biostatisticians working with medical imaging DL (not in industry though, its RS/AS only there). Eg this paper https://www.nature.com/articles/s41592-021-01255-8 is from a biostat dept\nrelated to using GCNs for differential expression on spatial transcriptomics data.\n\nAs he said it depends on the definition of statistics but I disagree with when he says essentially that stats=hypothesis testing. Hyp testing is only one form of stats and its mostly applicable to basic problems. Formulating a loss function or choosing certain architectures is making assumptions/inductive biases and can also be seen as stats or applied math as in the paper above\n\nModern CV is a bunch of messing around with architectures yes, but that is arguably hardly \u201cCS\u201d either . Like eg you don\u2019t need to know anything about low level compilers, PLs, etc to do CV in Pytorch either. If you were actually making PyTorch then you might. \n\nIf anything it seems more like substantial\ndomain-knowledge + applied math/stats\n\nGenerative DL is an area where a lot of stats shows up, like Bayesian networks, VAEs and KL div, etc. I mean at the end of the day, DL is a nonlinear regression model on steroids.",
+            "score": 1,
+            "que": "I disagree. It's the same tired argument like biology is just chemistry, chemistry is just physics, physics is just math etc. Just because there are elements of stats in DL doesn't mean the field of DL is a form of statistics. Why haven't we seen any breakthroughs in NLP/CV from statisticians? Most wouldn't even know where to start. DL makes hardly any of the assumptions required for statistical inference and prediction, which would violate its use for most problems in the statistical paradigm, yet it regularly outperforms predictions made by statistical models. \n\nI really like this quora answer from Firdaus Janoos, a senior quant researcher who did his PhD in both Stats and ML. The question was \"how important is statistics to deep learning?\"\n\nThis is just a snippet of the end of his answer by I implore you to read the answer in full as he makes some excellent points. \n\n\"DL is the triumph of empiricism over theory. Theoreticians quiver in fear at the mention of DL - they don\u2019t understand it and it kicks the ass of their best wrought theories. \n\nThis may not be sexy or inspirational or \u201cTED-talk-worthy\u201d - but most deep learning successes have come from trial and error, computation-at-scale, good-ol \u201celbow grease\u201d and\u00a0writing code. \n\nYes -\u00a0writing code\u00a0is probably the thing that characterises 99% of successful DL ideas. No armchair theorizing here. If you were to ask the guys with the big successes in DL how they did it ... their honest answer would be \u201cwe stayed up long nights working hard and trying lots of different shit\u201d- and because \u201cwe wrote code\u201d. \n\nHowever, when anyone says \u201cmachine/deep learning is a form of statistics \u201d \u2014 please feel free (obliged) to say BULLSHIT. The person who says this understands neither statistics nor machine learning.\" \n\nhttps://www.quora.com/How-important-is-statistics-to-deep-learning"
+        },
+        {
+            "id": "ioerr98",
+            "parent": "t1_ioepogz",
+            "ans": "> So they are basically RS/ASs in terms of their role but don\u2019t have that title\n\nYeah, I personally have mostly seen those titles in big tech, in the startups I've worked in or know people in the titles are all over the place.\n\n> It sucks that modeling is gatekept behind PhD. Basically need PhD for advanced modeling credentials\n\nOne the one hand I agree, on the other a lot of the work is publishable PhD-level work (and they also hold a ton of patents from this work) and seems to require that level of knowledge. I've been on hiring committees that reminded me of my own time in grad school (unrelated field) and we regularly went after academics, for better or for worse. Kept a bunch of easy work flowing my way because I understand the badness of academic code and how to make it actually useful beyond EDA, so I can't complain too much.",
+            "score": 7,
+            "que": "So they are basically RS/ASs in terms of their role but don\u2019t have that title. But yea, essentially DS below a PhD is going to be SQL, regression, dashboards, etc. It sucks that modeling is gatekept behind PhD. Basically need PhD for advanced modeling credentials"
+        },
+        {
+            "id": "ioeik88",
+            "parent": "t1_ioehzt4",
+            "ans": "To be fair, all written language has really struggled with sarcasm \u2e2e",
+            "score": 1,
+            "que": "Sarcasm isn\u2019t taken too well on Reddit"
+        },
+        {
+            "id": "iofymw6",
+            "parent": "t1_iof5mht",
+            "ans": "Oh wow, yea I myself want to do more unstructured data stuff. Sounds like you are working in CV even without a PhD, thats awesome. It also seems like some luck and timing was needed.\n\nYour experience also seems to reinforce what ive noticed that its ironically easier to go from engineering to cutting edge modeling than it is to go from typical data sci/stats.",
+            "score": 2,
+            "que": "Oh yeah I was on a research team of scientists from pharma at a healthtech startup a few years back, and it was much more heavily stats (and a surprising amount of bench bio) involved. One of our DSs had a PhD in particle physics and was a stats god. \n\nBut yeah the closeness to what I\u2019d call traditional stats (and the requisite underlying knowledge needed for that) is what I think the differentiator is - CV has stats and other things at the foundation, but you\u2019re not interacting with it much in the day to day, so it\u2019s hard to connect that to this meme implying that ML is just stats. If you\u2019re working with tabular data and closer to the actual statistics, then it would make more sense. \n\nI personally was working on a neuroscience PhD when I decided to duck out of the academic rat race after falling back in love with coding (which was a big chunk of my work in the lab). Left with my MS, got a software job, fell into data engineering and then started working at startups as the engineer adjunct to R&D teams. After a layoff at the previously mentioned healthtech startup, a referral got me doing similar work at a CV startup, and now I\u2019m at yet another one. Startup life is fun."
+        },
+        {
+            "id": "ioen3hi",
+            "parent": "t1_ioemng2",
+            "ans": "Yeah no, I was not missing your point at all. Thanks for talking down to me, though.",
+            "score": 1,
+            "que": "A complete accounting of all the more simple tabular work done by a subset of data scientists doesn\u2019t change the point of the first two sentences. I\u2019m not sure how much more simply I can explain it."
+        },
+        {
+            "id": "iohvuta",
+            "parent": "t1_iohp33i",
+            "ans": "\\> Its not exactly a cutting edge topic in CV now but its been done.\n\nBut this is exactly my point, even NLP used to be under the banner of statistical modelling e.g. ngrams and HMM, but the DL algorithms obliterated the performance of these traditional statistical techniques, hence the field has moved on and all advances in this space are firmly based on deep neural networks.\n\n\\> In academia there are also biostatisticians working with medical imaging DL\n\nThey're applying graph convolutional neural networks to solve a problem in genetics. They're not inventing a new CV algorithm. And GCNs were invented by Scarselli and Gori, two italian computer science researchers, who specialise in deep learning. \n\n\\> Formulating a loss function or choosing certain architectures is making assumptions/inductive biases and can also be seen as stats or applied math as in the paper above\n\nThe loss function is written entirely in terms of linear algebra and differential calculus, hence I said they were important to DL. Yes DL is applied math, even has some elements of statistics but to say DL is just statistics is incredibly reductionist and most researchers in both the fields of statistics and CS would disagree. \n\nHell, as a computational researcher I work with statisticians all day every day, and hardly any of them use or feel comfortable with DL, hence I'm switching to a CS lab to work with people who feel more comfortable applying DL to problems.",
+            "score": 1,
+            "que": "CV has been done in stats, Gaussian process kriging is something we did on images in a bayesian stats class. Its not exactly a cutting edge topic in CV now but its been done. In academia there are also biostatisticians working with medical imaging DL (not in industry though, its RS/AS only there). Eg this paper https://www.nature.com/articles/s41592-021-01255-8 is from a biostat dept\nrelated to using GCNs for differential expression on spatial transcriptomics data.\n\nAs he said it depends on the definition of statistics but I disagree with when he says essentially that stats=hypothesis testing. Hyp testing is only one form of stats and its mostly applicable to basic problems. Formulating a loss function or choosing certain architectures is making assumptions/inductive biases and can also be seen as stats or applied math as in the paper above\n\nModern CV is a bunch of messing around with architectures yes, but that is arguably hardly \u201cCS\u201d either . Like eg you don\u2019t need to know anything about low level compilers, PLs, etc to do CV in Pytorch either. If you were actually making PyTorch then you might. \n\nIf anything it seems more like substantial\ndomain-knowledge + applied math/stats\n\nGenerative DL is an area where a lot of stats shows up, like Bayesian networks, VAEs and KL div, etc. I mean at the end of the day, DL is a nonlinear regression model on steroids."
+        },
+        {
+            "id": "iof4pld",
+            "parent": "t1_ioeik88",
+            "ans": "This comment wasn\u2019t too ambiguous lol",
+            "score": 1,
+            "que": "To be fair, all written language has really struggled with sarcasm \u2e2e"
+        },
+        {
+            "id": "iog1iwp",
+            "parent": "t1_iofymw6",
+            "ans": "Oh no, I avoid modeling as much as possible, it's kind of boring to me but definitely had an opportunity to go that way so overall I think I'd agree with your sentiment. CV requires a lot more in the way of engineering know-how from my vantage point too, so it makes sense.\n\nPersonally, I prefer regular engineering but with enough knowledge on the ML side to be able to communicate with those teams and understand their needs to build for. I basically build internal products and thus get to wear a bunch of hats (I also have a bit of an entrepreneurial background, so being able to manage things end-to-end is really stimulating to me) without as much worry about things like downtime and on-call hours.\n\nLuck, timing, and really supportive leads/management all enabled a lot of my advancement, as well as working in startups where it was a necessity to rapidly pick up new skills and take on new responsibilities. All those things are like steroids for one's career, IMO.",
+            "score": 1,
+            "que": "Oh wow, yea I myself want to do more unstructured data stuff. Sounds like you are working in CV even without a PhD, thats awesome. It also seems like some luck and timing was needed.\n\nYour experience also seems to reinforce what ive noticed that its ironically easier to go from engineering to cutting edge modeling than it is to go from typical data sci/stats."
+        },
+        {
+            "id": "ioerv48",
+            "parent": "t1_ioen3hi",
+            "ans": "Well you condescendingly asked for an explanation of something that was already pretty simplified, so if you want to take it that way, have fun with it I guess.",
+            "score": -1,
+            "que": "Yeah no, I was not missing your point at all. Thanks for talking down to me, though."
+        },
+        {
+            "id": "iohzz2q",
+            "parent": "t1_iohvuta",
+            "ans": "What are these statisticians using instead of DL?\n\nAs I see it, the use of DL is based on the problem formulation. If the problem is amenable to a DL solution, I\u2019m not sure what there is in not being comfortable with it or what alternative there is. Nowadays DL is more widely known than some of the older techniques like kriging GPs anyways.\nIf its just vanilla tabular data then DL is just bad, if its images/NLP it comes up. \n\nA modern statistician would realize that if the goal is to mimic the data generating process in the best way, and the data is complex like images then you need to at least consider or benchmark against DL. If the method they propose is \u201cinterpretable\u201d but has like a 50% vs 90% performance then more then likely that interpretation is BS anyways since it doesn\u2019t capture the DGP.",
+            "score": 1,
+            "que": "\\> Its not exactly a cutting edge topic in CV now but its been done.\n\nBut this is exactly my point, even NLP used to be under the banner of statistical modelling e.g. ngrams and HMM, but the DL algorithms obliterated the performance of these traditional statistical techniques, hence the field has moved on and all advances in this space are firmly based on deep neural networks.\n\n\\> In academia there are also biostatisticians working with medical imaging DL\n\nThey're applying graph convolutional neural networks to solve a problem in genetics. They're not inventing a new CV algorithm. And GCNs were invented by Scarselli and Gori, two italian computer science researchers, who specialise in deep learning. \n\n\\> Formulating a loss function or choosing certain architectures is making assumptions/inductive biases and can also be seen as stats or applied math as in the paper above\n\nThe loss function is written entirely in terms of linear algebra and differential calculus, hence I said they were important to DL. Yes DL is applied math, even has some elements of statistics but to say DL is just statistics is incredibly reductionist and most researchers in both the fields of statistics and CS would disagree. \n\nHell, as a computational researcher I work with statisticians all day every day, and hardly any of them use or feel comfortable with DL, hence I'm switching to a CS lab to work with people who feel more comfortable applying DL to problems."
+        },
+        {
+            "id": "ioes4nn",
+            "parent": "t1_ioerv48",
+            "ans": "Were you expecting a kind response to a unnecessarily condescending comment? You started this, broh.",
+            "score": 0,
+            "que": "Well you condescendingly asked for an explanation of something that was already pretty simplified, so if you want to take it that way, have fun with it I guess."
+        },
+        {
+            "id": "ioi1no4",
+            "parent": "t1_iohzz2q",
+            "ans": "The project was NLP, named entity recognition for a large specialised corpus. None of them felt comfortable with it and they had to get a CS researcher who specialised in NLP to come in and advise. \n\nThey mainly use methods like logistic regression for case-control studies, poisson regression, k-means clustering,  and the \"most complicated\" ML technique we've used has been xgboost for classification. They've categorically told me they don't feel comfortable with DL which is fine, a lot of the DL guys don't feel comfortable with advanced stats, which is why I say they are two different fields with different people working in them.",
+            "score": 1,
+            "que": "What are these statisticians using instead of DL?\n\nAs I see it, the use of DL is based on the problem formulation. If the problem is amenable to a DL solution, I\u2019m not sure what there is in not being comfortable with it or what alternative there is. Nowadays DL is more widely known than some of the older techniques like kriging GPs anyways.\nIf its just vanilla tabular data then DL is just bad, if its images/NLP it comes up. \n\nA modern statistician would realize that if the goal is to mimic the data generating process in the best way, and the data is complex like images then you need to at least consider or benchmark against DL. If the method they propose is \u201cinterpretable\u201d but has like a 50% vs 90% performance then more then likely that interpretation is BS anyways since it doesn\u2019t capture the DGP."
+        },
+        {
+            "id": "ioeu3t7",
+            "parent": "t1_ioes4nn",
+            "ans": "Saying you missed the point with your nitpicking is condescending now? Don't nitpick if you can't handle any pushback.",
+            "score": 1,
+            "que": "Were you expecting a kind response to a unnecessarily condescending comment? You started this, broh."
+        },
+        {
+            "id": "ioj2uxq",
+            "parent": "t1_ioi1no4",
+            "ans": "It sounds like they don\u2019t feel comfortable with this unstructured data more than ML/DL itself. Considering that you say \u201ccase-control\u201d and xgboost, they probably have not worked with non-tabular data.\n\nMaybe not all of DL is statistics, but for example the formulation of a VAE or GAN itself is very statistical. Wherever you see an E() sign, that is statistics by definition. Even some measure theoretic math-stats can come up in the GAN theory. \n\n\nThe architecture building has theempirical trial and error and intuition so maybe this part is not statistics, im not sure what that is beyond domain knowledge or just an art in itself. The domain knowledge seems to be the critical part there. I bet they aren\u2019t comfortable with the domain knowledge enough to do it. \n\nAlso lot of old school statisticians who did not graduate in the last 5-10 years in a top program may not have covered much ML/DL. Its highly dependent on the program you go to. In UCLA for example, it is emphasized and the CV department falls under statistics too: https://vcla.stat.ucla.edu. NLP seems less stat than CV though. Programs that are not at the top however mostly do old school stats.",
+            "score": 1,
+            "que": "The project was NLP, named entity recognition for a large specialised corpus. None of them felt comfortable with it and they had to get a CS researcher who specialised in NLP to come in and advise. \n\nThey mainly use methods like logistic regression for case-control studies, poisson regression, k-means clustering,  and the \"most complicated\" ML technique we've used has been xgboost for classification. They've categorically told me they don't feel comfortable with DL which is fine, a lot of the DL guys don't feel comfortable with advanced stats, which is why I say they are two different fields with different people working in them."
+        },
+        {
+            "id": "ioexxu2",
+            "parent": "t1_ioeu3t7",
+            "ans": "How do you reckon that I'm nitpicking, given how vague my comment was? or missing the point, for that matter? I'm genuinely curious what you're filling in the blanks with.",
+            "score": 0,
+            "que": "Saying you missed the point with your nitpicking is condescending now? Don't nitpick if you can't handle any pushback."
+        },
+        {
+            "id": "ioyyo1c",
+            "parent": "t1_ioj2uxq",
+            "ans": ">Wherever you see an E() sign, that is statistics by definition\n\nI think still what most people call \"statistics\" is the statistical inference, which is beyond the field of interest in most machine learning solutions.\n\nHistorically (but not that long ago) statisticians used to do a slightly different job than more applied scientists among for example computer scientists, which is why ML originated mostly outside the community of statisticians. I find it almost ironic how the tables turned and the frowned upon ML would now be gloriously claimed part of stats.\n\nThere's a nice paper from Leo Breiman (2001) \"[Statistical Modeling: The two cultures](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full)\" which sheds some light on the atmosphere 20 years ago when the communities were still more split and it actually required writing a paper with examples when ML can be more useful than orthodox stats.",
+            "score": 1,
+            "que": "It sounds like they don\u2019t feel comfortable with this unstructured data more than ML/DL itself. Considering that you say \u201ccase-control\u201d and xgboost, they probably have not worked with non-tabular data.\n\nMaybe not all of DL is statistics, but for example the formulation of a VAE or GAN itself is very statistical. Wherever you see an E() sign, that is statistics by definition. Even some measure theoretic math-stats can come up in the GAN theory. \n\n\nThe architecture building has theempirical trial and error and intuition so maybe this part is not statistics, im not sure what that is beyond domain knowledge or just an art in itself. The domain knowledge seems to be the critical part there. I bet they aren\u2019t comfortable with the domain knowledge enough to do it. \n\nAlso lot of old school statisticians who did not graduate in the last 5-10 years in a top program may not have covered much ML/DL. Its highly dependent on the program you go to. In UCLA for example, it is emphasized and the CV department falls under statistics too: https://vcla.stat.ucla.edu. NLP seems less stat than CV though. Programs that are not at the top however mostly do old school stats."
+        },
+        {
+            "id": "iof4x4c",
+            "parent": "t1_ioexxu2",
+            "ans": "Because, like I already said to you, the extent of stats used in tabular data science has little to do with the main point.",
+            "score": 1,
+            "que": "How do you reckon that I'm nitpicking, given how vague my comment was? or missing the point, for that matter? I'm genuinely curious what you're filling in the blanks with."
+        },
+        {
+            "id": "ioz1295",
+            "parent": "t1_ioyyo1c",
+            "ans": "I think thats the issue, statistical inference is a subset of statistics but not the whole thing. That stereotype has imo damaged the field of statistics. \n\nYea that paper is famous but even now I think the 2 are merging. We have for example discovered that traditional statistics is inadequate for causal inference\u2014you need the DAGs and also using very flexible ML  models guards against residual confounding:  https://multithreaded.stitchfix.com/blog/2021/07/23/double-robust-estimator/\n\nThat discovery to me pretty much means traditional statistics is outdated today from a strict perspective. Unless you have a very small sample size, but in tech thats not a problem. \n\nPeople are even coming up with GANs for causal inference now: https://www.ohdsi.org/2019-us-symposium-showcase-30/\n\nSo ironically even in causal inference these modern methods have shown to be better. Unless you want to make naive linearity assumptions and just justify the mistake with \u201call models are wrong\u201d, I think more modern stat and ML researchers have done the right thing by relentlessly not falling into that.",
+            "score": 1,
+            "que": ">Wherever you see an E() sign, that is statistics by definition\n\nI think still what most people call \"statistics\" is the statistical inference, which is beyond the field of interest in most machine learning solutions.\n\nHistorically (but not that long ago) statisticians used to do a slightly different job than more applied scientists among for example computer scientists, which is why ML originated mostly outside the community of statisticians. I find it almost ironic how the tables turned and the frowned upon ML would now be gloriously claimed part of stats.\n\nThere's a nice paper from Leo Breiman (2001) \"[Statistical Modeling: The two cultures](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full)\" which sheds some light on the atmosphere 20 years ago when the communities were still more split and it actually required writing a paper with examples when ML can be more useful than orthodox stats."
+        }
+    ]
+}

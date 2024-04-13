@@ -1,0 +1,820 @@
+{
+    "title": "Today\u2019s edition of unreasonable job descriptions\u2026",
+    "id": "qbnf3s",
+    "create_at": 1634684935.0,
+    "score": 1668,
+    "comments": [
+        {
+            "id": "hhay6k1",
+            "parent": "t1_hhasshz",
+            "ans": "No, it's telling that a list so exhaustive and repetitive excludes it ;-)",
+            "score": 148,
+            "que": "Its crazy..\n\n..That you forgot R."
+        },
+        {
+            "id": "hhck3m3",
+            "parent": "t1_hhasshz",
+            "ans": "Ummm our technical architects have put a lot of thought into this technical landscape. We don't use R here.",
+            "score": 6,
+            "que": "Its crazy..\n\n..That you forgot R."
+        },
+        {
+            "id": "hheg092",
+            "parent": "t1_hhasshz",
+            "ans": "Piggy backing the top comment:\n\nOh hey, it's one of my dev teams. I've got the answer for how this happened.\n\nThis was a list used for tools used by the ~30-40 person dev organization (that includes engineers, DS, Data engineering, and research) as part of annual reviews. Somehow that got translated by HR into \"technical requirements for a single position.\"",
+            "score": 1,
+            "que": "Its crazy..\n\n..That you forgot R."
+        },
+        {
+            "id": "hhb6f6v",
+            "parent": "t1_hhavmmo",
+            "ans": "[removed]",
+            "score": 174,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hhbc317",
+            "parent": "t1_hhavmmo",
+            "ans": "Technical Requirements:\n- Yes",
+            "score": 68,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hhay5kg",
+            "parent": "t1_hhavmmo",
+            "ans": "started learning SQL today, this gave me a good laugh",
+            "score": 92,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hhazq0p",
+            "parent": "t1_hhavmmo",
+            "ans": "Ha! Nice",
+            "score": 6,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hhb3ndr",
+            "parent": "t1_hhavmmo",
+            "ans": "Honestly, my attitude when I was working and applying for jobs, I think this is meant to be the tech mentality, be a confident bullshit artist who\u2019s prepared to be flexible and self-driven. \u201cYou need me to do that? I\u2019ll do, I mean, learn that. ...Now if you want DEEP knowledge, you\u2019ll have to pay me extra for that specific thing, but in general I\u2019ll learn anything on the spot.\u201d",
+            "score": 11,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hhewbh6",
+            "parent": "t1_hhavmmo",
+            "ans": "WHERE makes_sense IS NULL",
+            "score": 1,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hpw69ty",
+            "parent": "t1_hhavmmo",
+            "ans": "I\u2019d also say SELECT * from skills",
+            "score": 1,
+            "que": "SELECT * from job_requirements"
+        },
+        {
+            "id": "hhckc74",
+            "parent": "t1_hhasu8c",
+            "ans": "He reminds me, I applied for DS role the other day that requires a masters but pays 50,000 euro. If they get back to me about my lack of a masters intend to say based on the pay grade I didn't think they were being serious about the masters part.\n\nI don't expect to get this job either way so I am not to bothered about losing this one.",
+            "score": 42,
+            "que": "PhD, Walks on water. Starts at 60K."
+        },
+        {
+            "id": "hheowfq",
+            "parent": "t1_hhasu8c",
+            "ans": "This. So much this.",
+            "score": 0,
+            "que": "PhD, Walks on water. Starts at 60K."
+        },
+        {
+            "id": "hheks0f",
+            "parent": "t1_hhasu8c",
+            "ans": "If you're willing to work seven days a week, 18 hours a day.",
+            "score": 1,
+            "que": "PhD, Walks on water. Starts at 60K."
+        },
+        {
+            "id": "hhat17z",
+            "parent": "t1_hhaqvsn",
+            "ans": "I should have taken a scrolling screenshot for added absurdity.  \n  \nIt\u2019s like they were almost out of buzzwords and realized they forgot \u201cBig Data\u201d, \u201cMicroservices\u201d, and \u201cML/AI\u201d",
+            "score": 71,
+            "que": "Their list of what they'd like to ask Santa for Christmas actually keeps going on LinkedIn:\n\nEnterprise software development \n\nAPI Design \n\nML / AI \n\nReg / Fintech\n\nGrafana\n\nLoki\n\nIstio \n\nI also find it hilarious that they threw all this in but thought it would be wise to add 'Big Data', you know, just in case someone knew all of these but never interacted with a large dataset"
+        },
+        {
+            "id": "hhbzrza",
+            "parent": "t1_hhaqvsn",
+            "ans": "The list seems also unordered, except for some terms that are clustered in groups of 2 or 3. Almost as if someone just asked around for requirements and appended missing ones to the list.",
+            "score": 12,
+            "que": "Their list of what they'd like to ask Santa for Christmas actually keeps going on LinkedIn:\n\nEnterprise software development \n\nAPI Design \n\nML / AI \n\nReg / Fintech\n\nGrafana\n\nLoki\n\nIstio \n\nI also find it hilarious that they threw all this in but thought it would be wise to add 'Big Data', you know, just in case someone knew all of these but never interacted with a large dataset"
+        },
+        {
+            "id": "hhb4rnz",
+            "parent": "t1_hhaslf2",
+            "ans": "I was about to say this was just the cherry on top of their incompetence.",
+            "score": 37,
+            "que": "Ah yes,  \"Speach Transcription\". Learned it in first year machine learning."
+        },
+        {
+            "id": "hhcrc7q",
+            "parent": "t1_hhaslf2",
+            "ans": "Was gonna say this but I was scared some developer somewhere made a package called this ironically",
+            "score": 9,
+            "que": "Ah yes,  \"Speach Transcription\". Learned it in first year machine learning."
+        },
+        {
+            "id": "hhela8m",
+            "parent": "t1_hhaslf2",
+            "ans": "So, see, I can explain the rest of it. This is the one that hurts.",
+            "score": 1,
+            "que": "Ah yes,  \"Speach Transcription\". Learned it in first year machine learning."
+        },
+        {
+            "id": "hhavl3i",
+            "parent": "t1_hhanel2",
+            "ans": "Add to that super duper low level backend engineer too. Ha it's only missing COBOL.",
+            "score": 67,
+            "que": "So data engineer, data scientist, devops and full stack web developer all rolled into one individual. Gotcha. May aswell add a \ud83e\udd21 at the end because that \"team\" sounds like an absolute circus."
+        },
+        {
+            "id": "hhb58bk",
+            "parent": "t1_hhanel2",
+            "ans": "Absolutely lost it. \n\nThe clown did me in.",
+            "score": 14,
+            "que": "So data engineer, data scientist, devops and full stack web developer all rolled into one individual. Gotcha. May aswell add a \ud83e\udd21 at the end because that \"team\" sounds like an absolute circus."
+        },
+        {
+            "id": "hhchfsd",
+            "parent": "t1_hhanel2",
+            "ans": "Pays $11.50/hr\n\nEntry level position.",
+            "score": 6,
+            "que": "So data engineer, data scientist, devops and full stack web developer all rolled into one individual. Gotcha. May aswell add a \ud83e\udd21 at the end because that \"team\" sounds like an absolute circus."
+        },
+        {
+            "id": "hhbbwf7",
+            "parent": "t1_hhanel2",
+            "ans": "This was well delivered and funny. It actually made me laugh, which is rare on Reddit.",
+            "score": 3,
+            "que": "So data engineer, data scientist, devops and full stack web developer all rolled into one individual. Gotcha. May aswell add a \ud83e\udd21 at the end because that \"team\" sounds like an absolute circus."
+        },
+        {
+            "id": "hhaziau",
+            "parent": "t1_hhaperp",
+            "ans": "[deleted]",
+            "score": 24,
+            "que": "Starting pay: $41,000 a year"
+        },
+        {
+            "id": "hhbbf4l",
+            "parent": "t1_hhaperp",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "Starting pay: $41,000 a year"
+        },
+        {
+            "id": "hhctdiq",
+            "parent": "t1_hhaw047",
+            "ans": "I had a recruiter ask if I have experience with big data. \n\nI had to stifle a chuckle. I paused to figure out what she was really asking. Realized she was just reading a script. So I just replied \u201c\u2026 yes.\u201d",
+            "score": 31,
+            "que": "imagine a recruiter asking you about your experience with Jupyter Notebooks."
+        },
+        {
+            "id": "hhbqpls",
+            "parent": "t1_hhaw047",
+            "ans": "\u201cHave I been to Jupiter? Uhh, no. But take a gander at this:\u201d\nI pull a small diary out of my back pocket and slam it on the table\n\u201cHeh. Maybe you\u2019re the right man for the job after all\u201d",
+            "score": 14,
+            "que": "imagine a recruiter asking you about your experience with Jupyter Notebooks."
+        },
+        {
+            "id": "hhaqsdk",
+            "parent": "t1_hhaow8s",
+            "ans": "\u201cJunior\u201d position that requires internships, publications, and 5+ years experience",
+            "score": 52,
+            "que": "Missing the 'Junior' tag and salary."
+        },
+        {
+            "id": "hhbtdkz",
+            "parent": "t1_hhaow8s",
+            "ans": "Looking up the position on LinkedIn, it does say Entry Level on the seniority level and asks for 4 years of experience + BS/Masters in CS.",
+            "score": 23,
+            "que": "Missing the 'Junior' tag and salary."
+        },
+        {
+            "id": "hhd4vs9",
+            "parent": "t1_hhaow8s",
+            "ans": "That is not a mistake. It's a senior position without pay.",
+            "score": 4,
+            "que": "Missing the 'Junior' tag and salary."
+        },
+        {
+            "id": "hhd7ivb",
+            "parent": "t1_hhbfr68",
+            "ans": "That\u2019s a very plausible theory. Later in the JD they state something like \u201cwe are not offering sponsorship at this time\u201d, so those without visas/citizenship can\u2019t apply to this position",
+            "score": 9,
+            "que": "This is done on purpose.\n\nThey probably have someone applying for a greencard, so they have to post job openings and once no one shows up they can say to the government: \"you see? There's no one around that can do that job so we need this immigrant who gets paid 1/3 of the typical salary and works 3x more than regular people\"\n\nIt's pretty typical for most firms to guarantee their guy/gal gets a greencard thus keeping them in indenture servitude for a few more years while the greencard is in process"
+        },
+        {
+            "id": "hhb80tf",
+            "parent": "t1_hhapyc2",
+            "ans": "Looks easy, I'm going to apply\n\n>Can answer phones\n\nThat would be a no from me dog",
+            "score": 29,
+            "que": "Looking for a customer service rep. Minimum qualifications:\n\n- PHD in particle physics\n\n- Chartered Accountant\n\n- Masters in Project Management\n\n- 30+ years experience as a C-suite exectuive managing a company with at least $1b turnover\n\n- Can answer phones\n\n*HR*: \"Why aren't we getting any applications? Do we need to review our flexible work arrangements?\""
+        },
+        {
+            "id": "hhc9bdi",
+            "parent": "t1_hhapyc2",
+            "ans": "Must be 29 or younger",
+            "score": 9,
+            "que": "Looking for a customer service rep. Minimum qualifications:\n\n- PHD in particle physics\n\n- Chartered Accountant\n\n- Masters in Project Management\n\n- 30+ years experience as a C-suite exectuive managing a company with at least $1b turnover\n\n- Can answer phones\n\n*HR*: \"Why aren't we getting any applications? Do we need to review our flexible work arrangements?\""
+        },
+        {
+            "id": "hhc8s0o",
+            "parent": "t1_hhapyc2",
+            "ans": "\"We should tell them about our wacky ties Tuesday!\"",
+            "score": 7,
+            "que": "Looking for a customer service rep. Minimum qualifications:\n\n- PHD in particle physics\n\n- Chartered Accountant\n\n- Masters in Project Management\n\n- 30+ years experience as a C-suite exectuive managing a company with at least $1b turnover\n\n- Can answer phones\n\n*HR*: \"Why aren't we getting any applications? Do we need to review our flexible work arrangements?\""
+        },
+        {
+            "id": "hjer2sy",
+            "parent": "t1_hhapyc2",
+            "ans": "You forgot \"Bring Your Own Device\"?",
+            "score": 1,
+            "que": "Looking for a customer service rep. Minimum qualifications:\n\n- PHD in particle physics\n\n- Chartered Accountant\n\n- Masters in Project Management\n\n- 30+ years experience as a C-suite exectuive managing a company with at least $1b turnover\n\n- Can answer phones\n\n*HR*: \"Why aren't we getting any applications? Do we need to review our flexible work arrangements?\""
+        },
+        {
+            "id": "hhauhac",
+            "parent": "t1_hhannv8",
+            "ans": "Yeah this looks like it was made by an HR rep that looked up everything tangentially related to ML engineer and pasted it onto the job posting.",
+            "score": 17,
+            "que": "They must be out of their minds if they believe a one-man army of a software guy who somehow possesses all these skills would apply to their shitty jobs instead of starting his own company.\n\n\nNo I\u2019ll give them a benefit of doubt and assume they just require any number of combinations of what is given in the list."
+        },
+        {
+            "id": "hhekmhd",
+            "parent": "t1_hhaul9o",
+            "ans": "Oh we have a researcher that keeps trying to add Julia to the list. We've held off for now though...",
+            "score": 1,
+            "que": "No Julia, R or Matlab?? So sad\u2026"
+        },
+        {
+            "id": "hhbo6rk",
+            "parent": "t1_hhaz3yv",
+            "ans": "I'm convinced some are made up",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhburcw",
+            "parent": "t1_hhaz3yv",
+            "ans": "A lot of enterprise data tools. We use a lot of tools on this list.\n\nFor example, to serve an API I might make the model in python, provide swagger documentation for the API, check the code into git, build the docker image as part of a bamboo pipeline, load that image to artifactory, define the deployment with a helm chart, deploy to kubernetes with argo CD, and monitor my app with Prometheus and bam you just check off like 10 technologies off the list.\n\nThe list is over the top, but I think most people on the deployment side of the enterprise data world have at least touched a fair number of these tools. The list is not for a pure DS (lack of statistics and ML tools and libraries, I only see pytorch)",
+            "score": 8,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhdffuu",
+            "parent": "t1_hhaz3yv",
+            "ans": "I used about 75% of those at my last job, which was a devops engineer, and have used almost all the rest in my own tinkering.  That said, you should never hire me for ML, since that's not my area of expertise.",
+            "score": 3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhbjb3m",
+            "parent": "t1_hhb0d3p",
+            "ans": "Possibly, can you spell speech correctly?",
+            "score": 7,
+            "que": "I just learned how to plot a **histogram** yesterday, do you guys think it's too ambitious for me?"
+        },
+        {
+            "id": "hhbdmkj",
+            "parent": "t1_hhau24o",
+            "ans": "Time travellers need not apply...",
+            "score": 3,
+            "que": "20 years Kubernetes experience minimum"
+        },
+        {
+            "id": "hhbfmya",
+            "parent": "t1_hhbe3wv",
+            "ans": "I think the biggest struggle is that all employers expect data scientists to be T-shaped (lots of breadth and a little bit of depth), but the \u201cdepth\u201d requirements differ significantly between each employer. So ultimately data scientists have to be square-shaped to get a job/promotion. This is probably true across a lot of technical fields but it\u2019s even more annoying when math and stats are thrown in the mix lol",
+            "score": 11,
+            "que": "Wow! I've been a Linux admin, a DBA, SWE. I've been in DevOps, DevOps for ML and now an SRE and I still can't meet all the requirements on that list. \n\nI joined this sub looking for pointers to transition to DS. Is this what you all constantly go through?\n\nThey should add purple Unicorns to the list."
+        },
+        {
+            "id": "hhbs04c",
+            "parent": "t1_hhbe3wv",
+            "ans": "Yeah! I heard Purple Unicorn is the next big thing, even bigger than Big Data.",
+            "score": 2,
+            "que": "Wow! I've been a Linux admin, a DBA, SWE. I've been in DevOps, DevOps for ML and now an SRE and I still can't meet all the requirements on that list. \n\nI joined this sub looking for pointers to transition to DS. Is this what you all constantly go through?\n\nThey should add purple Unicorns to the list."
+        },
+        {
+            "id": "hhbrsj5",
+            "parent": "t1_hhbb190",
+            "ans": "Nah I definately disagree. Many of us might work in big corps, then you are not even getting cursory experience with 70% of this list.\n\nAlso, what does cursory mean? If I am going to a restaurant, and I hear someone speak French, that does not mean I have learned speaking French.",
+            "score": 4,
+            "que": "It\u2019s actually not that unreasonable as long as everyone\u2019s clear your going to have a cursory understanding of each. I mean I\u2019m pretty sure most devs could write down a list 10x this with frameworks and tools they use on the job or have a high level understanding of.\n\nJob seekers just need to realize they should just apply. Apply apply apply. It\u2019s a numbers game that favors those with experience and or competence."
+        },
+        {
+            "id": "hhbiqo9",
+            "parent": "t1_hhbb190",
+            "ans": "This. Just working you get a cursory experience in like 90% of the list.\n\nI also dont think they expect someone to know all of them but making the list comprehensive so that a scala dev would apply as well as a python dev where only one of those would apply if they listed one of the 2",
+            "score": 2,
+            "que": "It\u2019s actually not that unreasonable as long as everyone\u2019s clear your going to have a cursory understanding of each. I mean I\u2019m pretty sure most devs could write down a list 10x this with frameworks and tools they use on the job or have a high level understanding of.\n\nJob seekers just need to realize they should just apply. Apply apply apply. It\u2019s a numbers game that favors those with experience and or competence."
+        },
+        {
+            "id": "hhbnu7v",
+            "parent": "t1_hhaxyxm",
+            "ans": "This.",
+            "score": 2,
+            "que": "This is the H1B job description. \u201cWe couldn\u2019t find anyone with the appropriate skill set so we\u2019re going to need a visa for X (who lies on his resume to match this description)\u201d"
+        },
+        {
+            "id": "hhap5k9",
+            "parent": "t1_hhao8gq",
+            "ans": "Too bad all of those technologies will be replaced with the newest hotness by then",
+            "score": 23,
+            "que": "I see, yes I'll come back after about 3-5 years of studying specifically to fulfill these requirements, no problem."
+        },
+        {
+            "id": "hhbkx6z",
+            "parent": "t1_hhb4645",
+            "ans": "Also Excel",
+            "score": 2,
+            "que": "Where\u2019s PowerPoint?"
+        },
+        {
+            "id": "hhazrj3",
+            "parent": "t1_hhaqbjw",
+            "ans": "Seriously, if someone is actually *proficient* in all of these tools then they\u2019re easily worth the combined market rate of 3 devs",
+            "score": 4,
+            "que": "This job should pay like 400k or more.\n\nEdit: base salary. Total comp would need to be much higher"
+        },
+        {
+            "id": "hhbb7si",
+            "parent": "t1_hhaqbjw",
+            "ans": "Thats lowballing it. If they want to have all those in one guy, they should atleast pay a million.",
+            "score": 3,
+            "que": "This job should pay like 400k or more.\n\nEdit: base salary. Total comp would need to be much higher"
+        },
+        {
+            "id": "hhas7t2",
+            "parent": "t1_hhaolv4",
+            "ans": "$16.50/hour. \n\n24/7 on call for the production website. Overtime pay is 1.1x the hourly wage, paid out quarterly.",
+            "score": 11,
+            "que": "Let's pretend I have all that. What's the pay?"
+        },
+        {
+            "id": "hhaovx6",
+            "parent": "t1_hhanvig",
+            "ans": "Agreed, I wouldn\u2019t be turned off by a JD that says \u201cYou\u2019d be a great fit if you\u2019re experienced in some of the following technologies: \u2026\u201d but that wasn\u2019t the case here.",
+            "score": 14,
+            "que": "Typically it isn't that you must know every one of these, but here's the range of skills that would be nice, so that even if you don't know C/C++ but you know Python, it would be good to apply."
+        },
+        {
+            "id": "hhcdq1a",
+            "parent": "t1_hhc7sxa",
+            "ans": "There is always someone else on the planet who is willing to slave and lick boots for dimes, though, who will do their best to fulfill those criteria (which describe an entire floor of people, not an individual).",
+            "score": 1,
+            "que": "I expect to earn 5mil plus commission."
+        },
+        {
+            "id": "hhe8n0u",
+            "parent": "t1_hhe6acn",
+            "ans": "Any one person who is responsible for all of these services will have no time for model development",
+            "score": 3,
+            "que": "Wow, one project that's running all that is going to be a nightmare to maintain."
+        },
+        {
+            "id": "hhetxuo",
+            "parent": "t1_hhes91a",
+            "ans": "Figured that was the case. Best of luck, I hope the extra visibility helps you fill the role!",
+            "score": 1,
+            "que": "I'm one of the managers in the Machine Learning Engineering group at Smarsh that posted this job posting. The superset of the tools that we use somehow got added to the job posting and went live before the hiring manager reviewed it. We're fixing this now.\n\nWhile we're here, if anyone is curious about the role at all, I'd be happy to answer any questions.\n\nEdit: it's fixed: [https://www.smarsh.com/careers/us-emea-openings?p=job%2FoLS4gfwH](https://www.smarsh.com/careers/us-emea-openings?p=job%2FoLS4gfwH)Also even in the new posting, we're looking for candidates with *some* of the skills"
+        },
+        {
+            "id": "hhbgb7o",
+            "parent": "t1_hhaq31b",
+            "ans": "It's not a crazy or impossible list. I'd say there is a small but decent portion of data scientists out there who have at least a light touch experience in most of these things. It is a demanding and unfocused list nonetheless.\n\nThey could have written\n\n\"Experience or training in three or more of: data engineering, machine learning, full stack web development, and cloud devops\"\n\nwhich would be appropriate for a senior position.",
+            "score": -2,
+            "que": "What, I don\u2019t see the problem here. I\u2019m not sure how anybody could do data science appropriately if they\u2019re missing even one of these skills."
+        },
+        {
+            "id": "hhcto25",
+            "parent": "t1_hharr0j",
+            "ans": "Pretty sure a bot wrote this job description",
+            "score": 2,
+            "que": "[removed]"
+        },
+        {
+            "id": "hhd82d7",
+            "parent": "t1_hhcvsqe",
+            "ans": "Company is listed at the top of the image, found it on LinkedIn",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhelflw",
+            "parent": "t1_hhd5isp",
+            "ans": "We're actively moving to Concourse, if that makes it any better...",
+            "score": 1,
+            "que": "Bamboo?! Hahaha"
+        },
+        {
+            "id": "hhb3rqy",
+            "parent": "t1_hhay6k1",
+            "ans": "Meh, a list that was clearly put together by someone that has no idea what they are doing doesn't tell me much",
+            "score": 93,
+            "que": "No, it's telling that a list so exhaustive and repetitive excludes it ;-)"
+        },
+        {
+            "id": "hhbc513",
+            "parent": "t1_hhay6k1",
+            "ans": "buRn!",
+            "score": 7,
+            "que": "No, it's telling that a list so exhaustive and repetitive excludes it ;-)"
+        },
+        {
+            "id": "hhd7jwa",
+            "parent": "t1_hhck3m3",
+            "ans": "Tough crowd. I liked the joke",
+            "score": 8,
+            "que": "Ummm our technical architects have put a lot of thought into this technical landscape. We don't use R here."
+        },
+        {
+            "id": "hhbaytd",
+            "parent": "t1_hhb6f6v",
+            "ans": "[deleted]",
+            "score": 49,
+            "que": "[removed]"
+        },
+        {
+            "id": "hhcheq7",
+            "parent": "t1_hhbc317",
+            "ans": "Technical Requirements:\n\n* Know all the things",
+            "score": 13,
+            "que": "Technical Requirements:\n- Yes"
+        },
+        {
+            "id": "hheipns",
+            "parent": "t1_hhbc317",
+            "ans": "Yes to all.",
+            "score": 1,
+            "que": "Technical Requirements:\n- Yes"
+        },
+        {
+            "id": "hhd4e2g",
+            "parent": "t1_hhckc74",
+            "ans": "Where in Europe? cause depending on the country it's not crazy.\n\n*Cries in Spanish",
+            "score": 24,
+            "que": "He reminds me, I applied for DS role the other day that requires a masters but pays 50,000 euro. If they get back to me about my lack of a masters intend to say based on the pay grade I didn't think they were being serious about the masters part.\n\nI don't expect to get this job either way so I am not to bothered about losing this one."
+        },
+        {
+            "id": "hhej2i7",
+            "parent": "t1_hhckc74",
+            "ans": "Technical interview better be: \n\n\"Can you please breath onto this mirror.\"",
+            "score": 5,
+            "que": "He reminds me, I applied for DS role the other day that requires a masters but pays 50,000 euro. If they get back to me about my lack of a masters intend to say based on the pay grade I didn't think they were being serious about the masters part.\n\nI don't expect to get this job either way so I am not to bothered about losing this one."
+        },
+        {
+            "id": "hhemb27",
+            "parent": "t1_hhckc74",
+            "ans": "In Norway I started at 50k eur as a junior backend dev. No master's.",
+            "score": 3,
+            "que": "He reminds me, I applied for DS role the other day that requires a masters but pays 50,000 euro. If they get back to me about my lack of a masters intend to say based on the pay grade I didn't think they were being serious about the masters part.\n\nI don't expect to get this job either way so I am not to bothered about losing this one."
+        },
+        {
+            "id": "hhf65nj",
+            "parent": "t1_hhckc74",
+            "ans": "Dont expect USA levels of pay on ireland dude",
+            "score": -1,
+            "que": "He reminds me, I applied for DS role the other day that requires a masters but pays 50,000 euro. If they get back to me about my lack of a masters intend to say based on the pay grade I didn't think they were being serious about the masters part.\n\nI don't expect to get this job either way so I am not to bothered about losing this one."
+        },
+        {
+            "id": "hhchce6",
+            "parent": "t1_hhbzrza",
+            "ans": "I have a hunch that this was put together by people who want sites like indeed to pre filter candidates based off keyword matching, then if you pass that hurdle, you may get offered the bottom 20% of the pay range.",
+            "score": 14,
+            "que": "The list seems also unordered, except for some terms that are clustered in groups of 2 or 3. Almost as if someone just asked around for requirements and appended missing ones to the list."
+        },
+        {
+            "id": "hhejz77",
+            "parent": "t1_hhbzrza",
+            "ans": "It's like this because it was sent to HR around review time for what our current teams (no single individual) use, and never meant to make it into a job listing.",
+            "score": 1,
+            "que": "The list seems also unordered, except for some terms that are clustered in groups of 2 or 3. Almost as if someone just asked around for requirements and appended missing ones to the list."
+        },
+        {
+            "id": "hi7gzee",
+            "parent": "t1_hhela8m",
+            "ans": "Looking through the rest, I'm like yeah its probably just every single app, language, and system they use and the hiring manager doesn't know shit. Then I got to speach. I am speachless.",
+            "score": 1,
+            "que": "So, see, I can explain the rest of it. This is the one that hurts."
+        },
+        {
+            "id": "hhce6jw",
+            "parent": "t1_hhavl3i",
+            "ans": "[deleted]",
+            "score": 12,
+            "que": "Add to that super duper low level backend engineer too. Ha it's only missing COBOL."
+        },
+        {
+            "id": "hhc9j8u",
+            "parent": "t1_hhaziau",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhc0vpi",
+            "parent": "t1_hhbbf4l",
+            "ans": "Good for them. \n\nStill a systemic issue for almost everyone else.",
+            "score": 5,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhdz0mi",
+            "parent": "t1_hhctdiq",
+            "ans": "I feel like this could be copypasta",
+            "score": 5,
+            "que": "I had a recruiter ask if I have experience with big data. \n\nI had to stifle a chuckle. I paused to figure out what she was really asking. Realized she was just reading a script. So I just replied \u201c\u2026 yes.\u201d"
+        },
+        {
+            "id": "hhbv9un",
+            "parent": "t1_hhbtdkz",
+            "ans": "Of course it does.",
+            "score": 10,
+            "que": "Looking up the position on LinkedIn, it does say Entry Level on the seniority level and asks for 4 years of experience + BS/Masters in CS."
+        },
+        {
+            "id": "hhel62b",
+            "parent": "t1_hhekmhd",
+            "ans": "Nah I don\u2019t use it, though that list was already pretty exhaustive. May as well throw in SAS bc they have an NLP package\u2026",
+            "score": 1,
+            "que": "Oh we have a researcher that keeps trying to add Julia to the list. We've held off for now though..."
+        },
+        {
+            "id": "hhekrdy",
+            "parent": "t1_hhburcw",
+            "ans": "Bingo, this exactly it. Enterprise SaaS for finance, going through a merger of 2 tech stacks.",
+            "score": 1,
+            "que": "A lot of enterprise data tools. We use a lot of tools on this list.\n\nFor example, to serve an API I might make the model in python, provide swagger documentation for the API, check the code into git, build the docker image as part of a bamboo pipeline, load that image to artifactory, define the deployment with a helm chart, deploy to kubernetes with argo CD, and monitor my app with Prometheus and bam you just check off like 10 technologies off the list.\n\nThe list is over the top, but I think most people on the deployment side of the enterprise data world have at least touched a fair number of these tools. The list is not for a pure DS (lack of statistics and ML tools and libraries, I only see pytorch)"
+        },
+        {
+            "id": "hhfw8qj",
+            "parent": "t1_hhdffuu",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "I used about 75% of those at my last job, which was a devops engineer, and have used almost all the rest in my own tinkering.  That said, you should never hire me for ML, since that's not my area of expertise."
+        },
+        {
+            "id": "hhdhr7j",
+            "parent": "t1_hhbrsj5",
+            "ans": "Cursory means you know enough to get stuff done but aren\u2019t some master. It would be like knowing enough French to communicate but not knowing French well enough to not sound like a foreigner",
+            "score": 1,
+            "que": "Nah I definately disagree. Many of us might work in big corps, then you are not even getting cursory experience with 70% of this list.\n\nAlso, what does cursory mean? If I am going to a restaurant, and I hear someone speak French, that does not mean I have learned speaking French."
+        },
+        {
+            "id": "hjer9at",
+            "parent": "t1_hhbkx6z",
+            "ans": "And TikTok?",
+            "score": 1,
+            "que": "Also Excel"
+        },
+        {
+            "id": "hhd3ew1",
+            "parent": "t1_hhazrj3",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Seriously, if someone is actually *proficient* in all of these tools then they\u2019re easily worth the combined market rate of 3 devs"
+        },
+        {
+            "id": "hhb1asv",
+            "parent": "t1_hhas7t2",
+            "ans": "Well I'd tell them to kindly fuck right off.",
+            "score": 5,
+            "que": "$16.50/hour. \n\n24/7 on call for the production website. Overtime pay is 1.1x the hourly wage, paid out quarterly."
+        },
+        {
+            "id": "hheugz8",
+            "parent": "t1_hhetxuo",
+            "ans": "Thanks. I hope so!",
+            "score": 1,
+            "que": "Figured that was the case. Best of luck, I hope the extra visibility helps you fill the role!"
+        },
+        {
+            "id": "hhdqdb1",
+            "parent": "t1_hhd82d7",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Company is listed at the top of the image, found it on LinkedIn"
+        },
+        {
+            "id": "hhb5wxk",
+            "parent": "t1_hhb3rqy",
+            "ans": "That's the real answer. Just couldn't pass up an opportunity to tRoll",
+            "score": 53,
+            "que": "Meh, a list that was clearly put together by someone that has no idea what they are doing doesn't tell me much"
+        },
+        {
+            "id": "hhdm7ew",
+            "parent": "t1_hhb3rqy",
+            "ans": "It does seem like they just barfed up a bunch of names they'd heard",
+            "score": 6,
+            "que": "Meh, a list that was clearly put together by someone that has no idea what they are doing doesn't tell me much"
+        },
+        {
+            "id": "hhbjura",
+            "parent": "t1_hhbaytd",
+            "ans": "No job needs this. Unless maybe you're in an extremely small startup or something, but I've literally never met anyone with more than two thirds of this list. Almost seems like high level ML is orthogonal to things like kubernetes as far as expected skillset goes. Docker Maybe, but not kubernetes. Angular seems like a strange one too... Front end and hardcore ML back end also tend to be very rare to find together.",
+            "score": 50,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhc6wy5",
+            "parent": "t1_hhbaytd",
+            "ans": "No sane person in FAANG would want to put all theirs eggs in one such basket for the sanity of both the company and employee. That would mean a bus factor of 5 for an individual of 1.",
+            "score": 12,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhd2rk6",
+            "parent": "t1_hhbaytd",
+            "ans": ">This is either a job that starts at $300k\n\nHiring manager: Yeah, so the best we can do is about 90k",
+            "score": 7,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhel7xn",
+            "parent": "t1_hhbaytd",
+            "ans": "Skillset list from reviews across a department got turned into a single job post. If you have like 1/4 of it, you'd probably get a callback.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhd9if5",
+            "parent": "t1_hhd4e2g",
+            "ans": "Ireland. Stupid high cost of living here.",
+            "score": 8,
+            "que": "Where in Europe? cause depending on the country it's not crazy.\n\n*Cries in Spanish"
+        },
+        {
+            "id": "hhfdokc",
+            "parent": "t1_hhf65nj",
+            "ans": "I'm not, IT jobs beyond junior roles pay more than 50K euros a year here, and don't require a masters.",
+            "score": 1,
+            "que": "Dont expect USA levels of pay on ireland dude"
+        },
+        {
+            "id": "hhcjkd0",
+            "parent": "t1_hhchce6",
+            "ans": "Nah, it's definitely like this because it was constructed by a recruiter with minimal hiring manager input. I'd guess it's someone that's contracted for internal recruiting -- which means they're the same as an external recruiter in all practical terms.\n\nThe way they usually work is they have the hiring manager hop on a call where they describe the role and needed skills. They usually take that and create a requirements soup that gets posted like this.\n\nSource: somebody that got burned the first few times they were made to use a recruiting firm",
+            "score": 7,
+            "que": "I have a hunch that this was put together by people who want sites like indeed to pre filter candidates based off keyword matching, then if you pass that hurdle, you may get offered the bottom 20% of the pay range."
+        },
+        {
+            "id": "hhcpxr5",
+            "parent": "t1_hhce6jw",
+            "ans": "For COBOL or for the seven languages and twenty-plus libraries and platforms they listed? \ud83d\ude31",
+            "score": 4,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhelnoz",
+            "parent": "t1_hhel62b",
+            "ans": "No, i mean literally. I helped write the list that (unfortunately) made it into that job posting.",
+            "score": 2,
+            "que": "Nah I don\u2019t use it, though that list was already pretty exhaustive. May as well throw in SAS bc they have an NLP package\u2026"
+        },
+        {
+            "id": "hhg0zhk",
+            "parent": "t1_hhfw8qj",
+            "ans": "Eh, it seems to me that they're just putting up their whole tech stack so you know what you're getting into.  Requirements probably just means nice to have, since they wouldn't have to train you in it.  If you didn't know 50% or more of their tools, that's a lot of man hours to learn it all.  Although I agree that some things like artifactory are really not worth listing...",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhd7vcm",
+            "parent": "t1_hhd3ew1",
+            "ans": "You don\u2019t, because they can\u2019t afford you",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhdrxgx",
+            "parent": "t1_hhdqdb1",
+            "ans": "Haha it does kinda sound like a quaint farm town in Oklahoma or something",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhcpd6h",
+            "parent": "t1_hhb5wxk",
+            "ans": "`Me <- \u201churt\u201d`",
+            "score": 41,
+            "que": "That's the real answer. Just couldn't pass up an opportunity to tRoll"
+        },
+        {
+            "id": "hhdxvrz",
+            "parent": "t1_hhdm7ew",
+            "ans": "Exactly, can't bear to sit through another R tutorial, just hope everything in R eventually gets eaten by Python",
+            "score": -1,
+            "que": "It does seem like they just barfed up a bunch of names they'd heard"
+        },
+        {
+            "id": "hhcjt42",
+            "parent": "t1_hhbjura",
+            "ans": "Yeah, the only companies that should be trying to hire a data engineer, data scientist, MLOps engineer and software engineer all in one should be a pre-seed startup that's looking for a CTO / technical co-founder.\n\nSomebody in a role like that isn't going to be able to do much beyond create a POC that hopefully helps you raise more money to get a real team.",
+            "score": 17,
+            "que": "No job needs this. Unless maybe you're in an extremely small startup or something, but I've literally never met anyone with more than two thirds of this list. Almost seems like high level ML is orthogonal to things like kubernetes as far as expected skillset goes. Docker Maybe, but not kubernetes. Angular seems like a strange one too... Front end and hardcore ML back end also tend to be very rare to find together."
+        },
+        {
+            "id": "hhdh4zm",
+            "parent": "t1_hhd9if5",
+            "ans": "Oh yeah I've heard it's expensive over there.",
+            "score": 2,
+            "que": "Ireland. Stupid high cost of living here."
+        },
+        {
+            "id": "hhcnewd",
+            "parent": "t1_hhcjkd0",
+            "ans": ">\tI'd guess it's someone that's contracted for internal recruiting -- which means they're the same as an external recruiter in all practical terms.\n\nTypically someone who\u2019s contracted for internal recruiting IS an internal recruiter, they\u2019re just generally newer to the firm and the teams they\u2019re working with. \n\n\u2026which is still practically very similar to an external recruiter. So I\u2019m not saying you\u2019re wrong, just providing a little more context. \n\nSource: my fianc\u00e9 is an internal recruiter who was originally contracted for her current firm.",
+            "score": 3,
+            "que": "Nah, it's definitely like this because it was constructed by a recruiter with minimal hiring manager input. I'd guess it's someone that's contracted for internal recruiting -- which means they're the same as an external recruiter in all practical terms.\n\nThe way they usually work is they have the hiring manager hop on a call where they describe the role and needed skills. They usually take that and create a requirements soup that gets posted like this.\n\nSource: somebody that got burned the first few times they were made to use a recruiting firm"
+        },
+        {
+            "id": "hhelwkx",
+            "parent": "t1_hhelnoz",
+            "ans": "That\u2019s an extensive list! How\u2019d that filter its way through to HRs posting?",
+            "score": 1,
+            "que": "No, i mean literally. I helped write the list that (unfortunately) made it into that job posting."
+        },
+        {
+            "id": "hhg2jrd",
+            "parent": "t1_hhg0zhk",
+            "ans": "[deleted]",
+            "score": 1,
+            "que": "Eh, it seems to me that they're just putting up their whole tech stack so you know what you're getting into.  Requirements probably just means nice to have, since they wouldn't have to train you in it.  If you didn't know 50% or more of their tools, that's a lot of man hours to learn it all.  Although I agree that some things like artifactory are really not worth listing..."
+        },
+        {
+            "id": "hhcv0xc",
+            "parent": "t1_hhcpd6h",
+            "ans": "oof I forgot how weird R was. thanks. \n\nSincerely,  \na Python guy.",
+            "score": 22,
+            "que": "`Me <- \u201churt\u201d`"
+        },
+        {
+            "id": "hhdmi90",
+            "parent": "t1_hhcpd6h",
+            "ans": "`Me.df <- as.data.frame(Me)`",
+            "score": 4,
+            "que": "`Me <- \u201churt\u201d`"
+        },
+        {
+            "id": "hhel2jj",
+            "parent": "t1_hhcjt42",
+            "ans": "was just getting ready to say this. If that's not a startup looking for a CTO out of Google etc. they're nuts.",
+            "score": 5,
+            "que": "Yeah, the only companies that should be trying to hire a data engineer, data scientist, MLOps engineer and software engineer all in one should be a pre-seed startup that's looking for a CTO / technical co-founder.\n\nSomebody in a role like that isn't going to be able to do much beyond create a POC that hopefully helps you raise more money to get a real team."
+        },
+        {
+            "id": "hhcq804",
+            "parent": "t1_hhcnewd",
+            "ans": "It varies. There's C2C/contract-to-FT internal recruiters like you're describing, but startups are increasingly using external firms/freelancers that will be given a role or two in which to recruit ad hoc in a pseudo-internal capacity. A recruiter I just worked with was in exactly this capacity; she was working with 4 different companies simultaneously, and she had an internal company mailbox for each of them.\n\nSo, it's an external recruiter with the facade of being full-time internal. Presumably, this has started to become a thing because (a) it's more affordable/convenient for an org that doesn't need 40 hrs/wk of recruiting and (b) external recruiters are looked at -- not without reason -- with such disdain by tech workers.",
+            "score": 3,
+            "que": ">\tI'd guess it's someone that's contracted for internal recruiting -- which means they're the same as an external recruiter in all practical terms.\n\nTypically someone who\u2019s contracted for internal recruiting IS an internal recruiter, they\u2019re just generally newer to the firm and the teams they\u2019re working with. \n\n\u2026which is still practically very similar to an external recruiter. So I\u2019m not saying you\u2019re wrong, just providing a little more context. \n\nSource: my fianc\u00e9 is an internal recruiter who was originally contracted for her current firm."
+        },
+        {
+            "id": "hhg9hd6",
+            "parent": "t1_hhg2jrd",
+            "ans": "Oh, I totally agree that your approach is better.  From what I've seen, for many companies, requirements are just requirements for the perfect candidate... which they won't get.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "hhcv3v4",
+            "parent": "t1_hhcv0xc",
+            "ans": "Yeah, I know Python is >> R\n\nEdit: oof I seemed to have hurt some people's feelings. I'm obviously over generalizing here. Of course R is extremely useful. I just like Python better, sorry.",
+            "score": 10,
+            "que": "oof I forgot how weird R was. thanks. \n\nSincerely,  \na Python guy."
+        },
+        {
+            "id": "hhcwqvn",
+            "parent": "t1_hhcq804",
+            "ans": "Yeah, she was contracted to FT. Interesting to know about the freelancers/agencies getting internal mailboxes, I was unaware of that before and that\u2019s good to know.",
+            "score": 2,
+            "que": "It varies. There's C2C/contract-to-FT internal recruiters like you're describing, but startups are increasingly using external firms/freelancers that will be given a role or two in which to recruit ad hoc in a pseudo-internal capacity. A recruiter I just worked with was in exactly this capacity; she was working with 4 different companies simultaneously, and she had an internal company mailbox for each of them.\n\nSo, it's an external recruiter with the facade of being full-time internal. Presumably, this has started to become a thing because (a) it's more affordable/convenient for an org that doesn't need 40 hrs/wk of recruiting and (b) external recruiters are looked at -- not without reason -- with such disdain by tech workers."
+        },
+        {
+            "id": "hhdqujg",
+            "parent": "t1_hhcv3v4",
+            "ans": "Not from a perspective of statistical robustness and generally quality statistical tools.",
+            "score": 10,
+            "que": "Yeah, I know Python is >> R\n\nEdit: oof I seemed to have hurt some people's feelings. I'm obviously over generalizing here. Of course R is extremely useful. I just like Python better, sorry."
+        },
+        {
+            "id": "hhdyqdp",
+            "parent": "t1_hhdqujg",
+            "ans": "Fair enough!",
+            "score": 2,
+            "que": "Not from a perspective of statistical robustness and generally quality statistical tools."
+        }
+    ]
+}

@@ -1,0 +1,1394 @@
+{
+    "title": "When you get an Excel Sheet of 1000x5 and your clients ask you to do \"Data Science\" on this with \"AI\"",
+    "id": "e9cdf3",
+    "create_at": 1576094988.0,
+    "score": 1676,
+    "comments": [
+        {
+            "id": "faishyh",
+            "parent": "t1_fai9zw7",
+            "ans": "Lmao I\u2019m picturing the tech entrepreneur as Jin-Yang from Silicon Valley.",
+            "score": 114,
+            "que": "A statistician (through tears): \"Please, you can't just call everything AI.\"\n\nTech Entrepreneur (pointing at Excel Pivot Table) : \n\"AI\""
+        },
+        {
+            "id": "faikfga",
+            "parent": "t1_fai9zw7",
+            "ans": "Eigenvector decomposition using complicated Dilbert office-spaces",
+            "score": 221,
+            "que": "A statistician (through tears): \"Please, you can't just call everything AI.\"\n\nTech Entrepreneur (pointing at Excel Pivot Table) : \n\"AI\""
+        },
+        {
+            "id": "faj3dz1",
+            "parent": "t1_fai9zw7",
+            "ans": "Sounds like Siraj. Immediately followed by pieces together clips of other people\u2019s pivot tables and a montage of his fucking hair.",
+            "score": 21,
+            "que": "A statistician (through tears): \"Please, you can't just call everything AI.\"\n\nTech Entrepreneur (pointing at Excel Pivot Table) : \n\"AI\""
+        },
+        {
+            "id": "faj0va3",
+            "parent": "t1_fai9zw7",
+            "ans": "[The always appropriate XKCD](https://xkcd.com/670/)",
+            "score": 25,
+            "que": "A statistician (through tears): \"Please, you can't just call everything AI.\"\n\nTech Entrepreneur (pointing at Excel Pivot Table) : \n\"AI\""
+        },
+        {
+            "id": "fajosaf",
+            "parent": "t1_fai9zw7",
+            "ans": "\"... machine learning?\"",
+            "score": 1,
+            "que": "A statistician (through tears): \"Please, you can't just call everything AI.\"\n\nTech Entrepreneur (pointing at Excel Pivot Table) : \n\"AI\""
+        },
+        {
+            "id": "fai7e26",
+            "parent": "t1_fai3cq6",
+            "ans": "[deleted]",
+            "score": 193,
+            "que": "It can be worse. \n\nMy former boss asked me to do \"AI\" on a Tableau dashboard once to \"increase the value-add of the analysis\"."
+        },
+        {
+            "id": "faiw2f4",
+            "parent": "t1_fai3cq6",
+            "ans": "[deleted]",
+            "score": 52,
+            "que": "It can be worse. \n\nMy former boss asked me to do \"AI\" on a Tableau dashboard once to \"increase the value-add of the analysis\"."
+        },
+        {
+            "id": "faj274m",
+            "parent": "t1_fai3cq6",
+            "ans": "You gotta love those DS job descriptions: \u201cMS or PhD in hIgHlY QuAnTiTaTiVe FiElD desired. Must know excel and tableau\u201d",
+            "score": 40,
+            "que": "It can be worse. \n\nMy former boss asked me to do \"AI\" on a Tableau dashboard once to \"increase the value-add of the analysis\"."
+        },
+        {
+            "id": "faik343",
+            "parent": "t1_fai3cq6",
+            "ans": "We don't even have a data warehouse or any sort of enterprise etl systems and they want AI. I work for a fortune 100 company.",
+            "score": 40,
+            "que": "It can be worse. \n\nMy former boss asked me to do \"AI\" on a Tableau dashboard once to \"increase the value-add of the analysis\"."
+        },
+        {
+            "id": "fait7z1",
+            "parent": "t1_fai3cq6",
+            "ans": "Click around for like a day then say you're done. \n\nJust change some filter colors.",
+            "score": 13,
+            "que": "It can be worse. \n\nMy former boss asked me to do \"AI\" on a Tableau dashboard once to \"increase the value-add of the analysis\"."
+        },
+        {
+            "id": "faiarf5",
+            "parent": "t1_fahx120",
+            "ans": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month.",
+            "score": 412,
+            "que": "I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works."
+        },
+        {
+            "id": "fahyqad",
+            "parent": "t1_fahx120",
+            "ans": "[deleted]",
+            "score": 89,
+            "que": "I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works."
+        },
+        {
+            "id": "fahz9i7",
+            "parent": "t1_fahx120",
+            "ans": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol.",
+            "score": 71,
+            "que": "I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works."
+        },
+        {
+            "id": "fahywr2",
+            "parent": "t1_fahx120",
+            "ans": "Trim & proper \ud83e\udd37\u200d\u2642\ufe0f but take two hours to do it because ai",
+            "score": 4,
+            "que": "I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works."
+        },
+        {
+            "id": "fai1k7h",
+            "parent": "t1_fahx120",
+            "ans": "I LOL'd at this hahahaha.",
+            "score": 1,
+            "que": "I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works."
+        },
+        {
+            "id": "faif5qs",
+            "parent": "t1_fahx120",
+            "ans": "Are you sure though? I bet you could just write some code really quick and itll do all those fancy model thingys for itself. I dont see the problem here, totally understandable expectation on his part with his understanding. \n\n\\#triggered ?",
+            "score": 1,
+            "que": "I had this the other day. It was a simple upload into a SQL table that needs to be cleaned. The guy was like each time it will machine learn how to do it? Uhhh no that's not how any of this works."
+        },
+        {
+            "id": "faiq01w",
+            "parent": "t1_fai31dt",
+            "ans": "Let's have some Tethics please\n\nEdit: technology ethics",
+            "score": 42,
+            "que": "Add filters, produce a graph, tell them you applied a Pikachu to it and charge them \u00a3500 for the day."
+        },
+        {
+            "id": "fajpolv",
+            "parent": "t1_fai31dt",
+            "ans": "  \u00a3500  is too cheap. Charge them   \u00a31500 and eat steak.",
+            "score": 4,
+            "que": "Add filters, produce a graph, tell them you applied a Pikachu to it and charge them \u00a3500 for the day."
+        },
+        {
+            "id": "faid1fz",
+            "parent": "t1_faicumi",
+            "ans": "\"Gonna train some Neural Networks too and deploy them on a blockchain. It's a 2 month project\"",
+            "score": 43,
+            "que": "Or just say \"sure\" and charge them in the AI-bracket hourly.\n\nCustomer: \"That's gotta be some pretty expensive stuff, right?\"\n\nMe: \"Yup, sure is. This many threads, not to mention buffering the whole thing through NLP!\"\n\n/s"
+        },
+        {
+            "id": "fai2j94",
+            "parent": "t1_fai1avy",
+            "ans": "\"Andrew says no.\"",
+            "score": 19,
+            "que": "\"Computer says no.\""
+        },
+        {
+            "id": "fajb2n0",
+            "parent": "t1_faj0abn",
+            "ans": "LMAOOOO I spit out my drink man at \"build a neural net\"",
+            "score": 7,
+            "que": "Them: here is a 5k row dataset with 20 columns.\n\nMe: cool, lemme see if I ca....\n\nThem: we want to to subset column a, b and c on the following values.\n\nMe: cool, let me ge.....\n\nThem: then subset those on the basis of the following timeframe.\n\nMe: mk, liste....\n\nThem: now build a neural net\n\nMe: *drinks bleach*"
+        },
+        {
+            "id": "fai87e3",
+            "parent": "t1_fai73lj",
+            "ans": "First Name, Last Name, Email, Phone Number are the first 4 :D\n\n\"I guess I could make a frequency table and plot the one quantify-able column ? \" My degree is wasted lol.",
+            "score": 48,
+            "que": "Better start setting up some blockchains.\n\nEdit: On a somewhat serious note, depending on what the columns are, it might be worthwhile to build a regression/classifier model for one of the variables in terms of the other four. \u00af\\\\\\_(\u30c4)\\_/\u00af"
+        },
+        {
+            "id": "faj3sr0",
+            "parent": "t1_fai73lj",
+            "ans": "Invest in BlockChain-based Neural Networks while you can.",
+            "score": 6,
+            "que": "Better start setting up some blockchains.\n\nEdit: On a somewhat serious note, depending on what the columns are, it might be worthwhile to build a regression/classifier model for one of the variables in terms of the other four. \u00af\\\\\\_(\u30c4)\\_/\u00af"
+        },
+        {
+            "id": "faj87js",
+            "parent": "t1_faixcwb",
+            "ans": "I actually laughed out loud",
+            "score": 3,
+            "que": "Project manager: Hey did you run predictive analytics on our expense reports? \n\nMe: dude, that's not how budgeting works"
+        },
+        {
+            "id": "fajlbcf",
+            "parent": "t1_faixcwb",
+            "ans": "Amen",
+            "score": 2,
+            "que": "Project manager: Hey did you run predictive analytics on our expense reports? \n\nMe: dude, that's not how budgeting works"
+        },
+        {
+            "id": "fajpd63",
+            "parent": "t1_faixcwb",
+            "ans": "sorry I am really a beginner in this..can you help me to understand this",
+            "score": 2,
+            "que": "Project manager: Hey did you run predictive analytics on our expense reports? \n\nMe: dude, that's not how budgeting works"
+        },
+        {
+            "id": "fajptnw",
+            "parent": "t1_faiojjl",
+            "ans": "My dream is to become a consultant. lol",
+            "score": 5,
+            "que": "If I was a crooked Data Scientist wanting to squeeze money from you I\u2019d tell you I can AI this with 6 months of work at 2000 dollars a day but I\u2019ll be honest and give you the same for only 2 months and 1000 dollars a day. Cause I\u2019m nice."
+        },
+        {
+            "id": "fai77k1",
+            "parent": "t1_fai6fui",
+            "ans": "\"In this video, we'll be learning about\"",
+            "score": 24,
+            "que": "My God I can hear the mellow voice in my head, at 1.25x speed"
+        },
+        {
+            "id": "fal5fc1",
+            "parent": "t1_fai6fui",
+            "ans": "> at 1.25x speed\n\nThat one hit home.",
+            "score": 5,
+            "que": "My God I can hear the mellow voice in my head, at 1.25x speed"
+        },
+        {
+            "id": "fajgdwk",
+            "parent": "t1_faihhgh",
+            "ans": "Or you can do it using excel in 30 seconds.",
+            "score": 5,
+            "que": "I mean, technically you could fit a gradient descent \u201clearned\u201d linear regression to the data and tell them you were doing machine learning and it wouldn\u2019t be a lie \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f"
+        },
+        {
+            "id": "faj0no6",
+            "parent": "t1_faib3e2",
+            "ans": "Is this why you have the user name?",
+            "score": 10,
+            "que": "Yeah I had a client contact mea bout setting up a Hadoop cluster for their \"big data\" a few years ago. It consisted of like 1000 Excel spreadsheets that were like 500kb each.  It was a fairly \"big\" project because, naturally, all of the files were made by hand."
+        },
+        {
+            "id": "fajpv26",
+            "parent": "t1_faj2k2x",
+            "ans": "so pretty much like a mechanical turk playing chess with monkeys in the box.",
+            "score": 9,
+            "que": "I have experienced the other side of this coin. Working for a quant fund, vendor came in promising a dataset of factors that used an AI to replicate how a traditional fundamental analyst would value a stock. \n\nTurns out his \u201cAI\u201d was a bunch of fresh undergrads reading reports and checking boxes in excel. Crazy thing was he had some respectable funds as clients."
+        },
+        {
+            "id": "fajb78p",
+            "parent": "t1_faj2k2x",
+            "ans": "If respectable fund implies bigger funds, bigger entities have less responsibility on all sub-divisions so I could see that happening.",
+            "score": 3,
+            "que": "I have experienced the other side of this coin. Working for a quant fund, vendor came in promising a dataset of factors that used an AI to replicate how a traditional fundamental analyst would value a stock. \n\nTurns out his \u201cAI\u201d was a bunch of fresh undergrads reading reports and checking boxes in excel. Crazy thing was he had some respectable funds as clients."
+        },
+        {
+            "id": "fajgiu8",
+            "parent": "t1_fairi8r",
+            "ans": "Just a question, how bad it would be converting the dependent variable to log odds and running a linear regression using excel?\n\nI know the assumptions are different and all but how bad the model will be?",
+            "score": 6,
+            "que": "Coworker once asked me why couldn't I use Excel Data Analysis Toolpak's Regression method to run a logistic regression. She was like \"Why do you have to make things complicated? Can't you just do y  = mx + b?\"\n\nThis was in response to predicting the probability of something and the Toolpak Regression method only does linear regression. It was a struggle explaining the difference between logistic and linear regression to this person."
+        },
+        {
+            "id": "faieqo8",
+            "parent": "t1_fai2rhg",
+            "ans": "Yeah but it blows up into a billion nmers pretty quick, gene expressions are way more info dense than your average \u201cname address and sale amount\u201d excel doc",
+            "score": 11,
+            "que": "So have you guys ever done ML on gene expressions?\n\nGranted n=5 is too small for pretty much anything. But n=1000 and m=50'000 something you could reasonably encounter and work with."
+        },
+        {
+            "id": "faj3t8t",
+            "parent": "t1_fai2rhg",
+            "ans": "That's actually what one of my work projects is focused around.",
+            "score": 4,
+            "que": "So have you guys ever done ML on gene expressions?\n\nGranted n=5 is too small for pretty much anything. But n=1000 and m=50'000 something you could reasonably encounter and work with."
+        },
+        {
+            "id": "fajncl3",
+            "parent": "t1_fajncg1",
+            "ans": "[Image with added title](https://i.imgur.com/CjMMYsP.png) \n\n\n\n\n\n\n\n\n---\n\n\n^Summon ^me ^with ^/u/title2imagebot ^or ^by ^PMing ^me ^a ^post ^with ^\"parse\" ^as ^the ^subject. ^| \n[^Help ^me ^keep ^this ^bot ^online](https://www.patreon.com/calicocatalyst) ^| \n[^feedback](https://reddit.com/message/compose/?to=CalicoCatalyst&subject=feedback%20e9cdf3) ^| \n[^source](https://github.com/calicocatalyst/titletoimagebot) ^| \n^Fork ^of ^TitleToImageBot",
+            "score": 1,
+            "que": "/u/title2imagebot"
+        },
+        {
+            "id": "faidekw",
+            "parent": "t1_fai5cxk",
+            "ans": "Its an incredibly small data set. Far too small to do anything meaningful with",
+            "score": 6,
+            "que": "Could not understand \nNew to this"
+        },
+        {
+            "id": "faj8ow6",
+            "parent": "t1_fai5cxk",
+            "ans": "Why is this guy being downvoted? They\u2019re asking a legitimate question",
+            "score": 2,
+            "que": "Could not understand \nNew to this"
+        },
+        {
+            "id": "fan09sp",
+            "parent": "t1_fakat6k",
+            "ans": "Haha yes that's Andrew",
+            "score": 2,
+            "que": "Is that Andrew NJ?"
+        },
+        {
+            "id": "fan0c1a",
+            "parent": "t1_fak9xnf",
+            "ans": "Just because you can doesn't mean you should :)",
+            "score": 1,
+            "que": "yes you can : >>> SVM <<<"
+        },
+        {
+            "id": "faj3tg1",
+            "parent": "t1_faishyh",
+            "ans": "Not hot dog.",
+            "score": 57,
+            "que": "Lmao I\u2019m picturing the tech entrepreneur as Jin-Yang from Silicon Valley."
+        },
+        {
+            "id": "fp8bd1x",
+            "parent": "t1_faishyh",
+            "ans": "Did you misspell his name on the fridge?",
+            "score": 4,
+            "que": "Lmao I\u2019m picturing the tech entrepreneur as Jin-Yang from Silicon Valley."
+        },
+        {
+            "id": "fajg2ov",
+            "parent": "t1_faikfga",
+            "ans": "and its applications using Quantum Doors",
+            "score": 31,
+            "que": "Eigenvector decomposition using complicated Dilbert office-spaces"
+        },
+        {
+            "id": "fajbc2n",
+            "parent": "t1_faikfga",
+            "ans": "My brain just exploded",
+            "score": 6,
+            "que": "Eigenvector decomposition using complicated Dilbert office-spaces"
+        },
+        {
+            "id": "faid9si",
+            "parent": "t1_fai7e26",
+            "ans": "Dilbert is a documentary.",
+            "score": 80,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fal8ct4",
+            "parent": "t1_fai7e26",
+            "ans": "I mean I'm a sales rep and a DS student, I make proposals for my boss to approve on projects. He's a smart guy, so I'm for the first time seeing the look of utter confusion from him. I'm sticking with simple methods (trees, logistic regression, linear regression, etc.) If I use an artificial network, I'm going to create confusion beyond belief. \n\n\"Well here's what it says to do\"\n\n\"Why?\"\n\n\"Because...the test data scored high on accuracy?\"\n\n\"I don't know what that means, show me a chart or a graph to help me visualize this\"\n\n\"I can't it's a black box, I have almost no idea what it's doing to come to these conclusions, only that it's correct 88% of the time on this test data\"\n\n\"And you have no idea why....\"\n\n\"Nope\"\n\n\"Get out of my office, and don't come back till open the box.\"",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fajoupy",
+            "parent": "t1_faiw2f4",
+            "ans": "Maybe the technical people should manage the technical people, and the non-technical people can go away.",
+            "score": 13,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fak0vxf",
+            "parent": "t1_faiw2f4",
+            "ans": "As much as this kind of thing pains me, designers and programmers have been dealing with this for decades and it was only a matter of time before it happened to us.",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fajhjgo",
+            "parent": "t1_faj274m",
+            "ans": "A recent one I saw was asking for 15+ years experience in data science in a business setting.",
+            "score": 12,
+            "que": "You gotta love those DS job descriptions: \u201cMS or PhD in hIgHlY QuAnTiTaTiVe FiElD desired. Must know excel and tableau\u201d"
+        },
+        {
+            "id": "fain5pq",
+            "parent": "t1_faik343",
+            "ans": "What? Like a shed for all the computers?",
+            "score": 20,
+            "que": "We don't even have a data warehouse or any sort of enterprise etl systems and they want AI. I work for a fortune 100 company."
+        },
+        {
+            "id": "faj7n4c",
+            "parent": "t1_fait7z1",
+            "ans": "Add slicers. They love slicers.",
+            "score": 12,
+            "que": "Click around for like a day then say you're done. \n\nJust change some filter colors."
+        },
+        {
+            "id": "fainy02",
+            "parent": "t1_faiarf5",
+            "ans": "This guy consults.",
+            "score": 191,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fakktqm",
+            "parent": "t1_faiarf5",
+            "ans": "reminds me of the consultant who built a \"model\" using hundreds of sheets in across 12 Excel workbooks. The thing has a 90 page manual and training videos to explain how to update it. He's been working on it for 6 years now. \n\nHe's not happy that I spent an afternoon \"automating\" it with an R script.",
+            "score": 20,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fajd4w9",
+            "parent": "t1_faiarf5",
+            "ans": "This is too real..",
+            "score": 9,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fajpksh",
+            "parent": "t1_faiarf5",
+            "ans": "You say \"A.I\" Consultant me thinks thats another $200 an hour to that bill.",
+            "score": 7,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fajhxnj",
+            "parent": "t1_faiarf5",
+            "ans": "Boy this hits close to home. What terrifies me is that my coworkers use python/pandas through jupyter notebooks with datatables and I can tell I\u2019m being drawn away from my perl/regex roots.\n\nI\u2019m told text operations in python are better than using the .re package. I guess it\u2019s worth a try but you\u2019ll have to pry perl from my cold dead hands.",
+            "score": 5,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fajgjwx",
+            "parent": "t1_faiarf5",
+            "ans": "You're my hero",
+            "score": 2,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fajgvel",
+            "parent": "t1_faiarf5",
+            "ans": "You're telling me I can get away with this?",
+            "score": 1,
+            "que": "You clearly aren't a consultant charging out. The correct answer is: \"I'll need to use a python/pandas framework running in Jupyter in order to parse this spreadsheet and perform ETL operations. This may take some time, but I'm confident we'll develop an algorithm that will meet your needs.\"\n\nThen write a bit of regex and take a week off. Deliver it just before Christmas. Bill for the month."
+        },
+        {
+            "id": "fai2ky9",
+            "parent": "t1_fahz9i7",
+            "ans": "I see on your CV you implemented \"Rule-based AI\".",
+            "score": 110,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "fai2buq",
+            "parent": "t1_fahz9i7",
+            "ans": "Well it sounds like you just wrote a transform script? That's not really AI",
+            "score": 22,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "fai9jik",
+            "parent": "t1_fahz9i7",
+            "ans": "[deleted]",
+            "score": 7,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "fai0g4h",
+            "parent": "t1_fahz9i7",
+            "ans": "Haha I know its not impossible but I would have to code a bot and train it and maintain it. But he just thought the computer would just know how to do it the next time.",
+            "score": 3,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "fai02n5",
+            "parent": "t1_fahz9i7",
+            "ans": "What program is this?",
+            "score": 4,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "fai0zc7",
+            "parent": "t1_fahz9i7",
+            "ans": "Also, tell me more about this bot. What language is it in? How are you cleaning the data?",
+            "score": 1,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "fai70gw",
+            "parent": "t1_fahz9i7",
+            "ans": "Ah the wonders of life",
+            "score": 1,
+            "que": "You said that like that\u2019s impossible. I have a program that does exactly this for me. I got sent a file initially of messy records, cleaned them up, and then the second time it happened I made a program to do it just in case I got sent the file again. Then I started getting other files and adding in support for those each time I got a new one. Now the bot knows how to clean LOTS of different files and \u201clearns\u201d how to do a new one every so often. \n\nSo in a sense, that is how it works. It\u2019s just like people think you write 2 lines of code and suddenly the bot becomes self aware and starts working lol."
+        },
+        {
+            "id": "falmgct",
+            "parent": "t1_faif5qs",
+            "ans": "I need a safe space!",
+            "score": 1,
+            "que": "Are you sure though? I bet you could just write some code really quick and itll do all those fancy model thingys for itself. I dont see the problem here, totally understandable expectation on his part with his understanding. \n\n\\#triggered ?"
+        },
+        {
+            "id": "faiqe5m",
+            "parent": "t1_faiq01w",
+            "ans": "_Belson Institute of Tethics approves this_",
+            "score": 16,
+            "que": "Let's have some Tethics please\n\nEdit: technology ethics"
+        },
+        {
+            "id": "fajjxl6",
+            "parent": "t1_faiq01w",
+            "ans": "E-thics sound more cool",
+            "score": 4,
+            "que": "Let's have some Tethics please\n\nEdit: technology ethics"
+        },
+        {
+            "id": "faj9gsj",
+            "parent": "t1_faid1fz",
+            "ans": "Don't forget to mention you had to \"go deeper\" and add some more layers in the network so you'll have to adjust the billables according.",
+            "score": 9,
+            "que": "\"Gonna train some Neural Networks too and deploy them on a blockchain. It's a 2 month project\""
+        },
+        {
+            "id": "faihv9a",
+            "parent": "t1_fai87e3",
+            "ans": "You could map first name to a gender probability. And cluster phone numbers into regions based on area code. Now you have two features and a quantifiable variable. Try a few different machine learning algorithms and see what happens.",
+            "score": 36,
+            "que": "First Name, Last Name, Email, Phone Number are the first 4 :D\n\n\"I guess I could make a frequency table and plot the one quantify-able column ? \" My degree is wasted lol."
+        },
+        {
+            "id": "faiau22",
+            "parent": "t1_fai87e3",
+            "ans": "Oh dear...ummm....yeah, I've got nothin'.",
+            "score": 10,
+            "que": "First Name, Last Name, Email, Phone Number are the first 4 :D\n\n\"I guess I could make a frequency table and plot the one quantify-able column ? \" My degree is wasted lol."
+        },
+        {
+            "id": "fak51os",
+            "parent": "t1_fajpd63",
+            "ans": "A budget should be your planned spending in order to reach an end goal, typically growth or profit.\n\nIf you predict the budget you are approaching the problem from the wrong direction. You are trying to make a budget that covers your expenses.",
+            "score": 10,
+            "que": "sorry I am really a beginner in this..can you help me to understand this"
+        },
+        {
+            "id": "fajjmnh",
+            "parent": "t1_fajgdwk",
+            "ans": "But if they don't see the scrolling stdout it's not data science \u00af\\\\\\_(\u30c4)_/\u00af\n\nedit: old shruggie lost his shoulders \u00af\\\\_(\u30c4)_/\u00af",
+            "score": 11,
+            "que": "Or you can do it using excel in 30 seconds."
+        },
+        {
+            "id": "fakej2a",
+            "parent": "t1_faj0no6",
+            "ans": "Not a perfect representation but someone already had the username forest_whitaker_eye",
+            "score": 7,
+            "que": "Is this why you have the user name?"
+        },
+        {
+            "id": "fakmoxk",
+            "parent": "t1_fajgiu8",
+            "ans": "This might be one of those situations where the line of best fit would be okay, but resulting inferences or confidence intervals would be invalid.",
+            "score": 2,
+            "que": "Just a question, how bad it would be converting the dependent variable to log odds and running a linear regression using excel?\n\nI know the assumptions are different and all but how bad the model will be?"
+        },
+        {
+            "id": "fajdjwa",
+            "parent": "t1_faidekw",
+            "ans": "I am in learning phase right now, I use iris dataset few times for regression. But iris dataset is smaller than 1000X5",
+            "score": 2,
+            "que": "Its an incredibly small data set. Far too small to do anything meaningful with"
+        },
+        {
+            "id": "faiggis",
+            "parent": "t1_faidekw",
+            "ans": "I really must be an undergrad because that\u2019s a typical homework problem sized dataset to me \ud83e\udd23",
+            "score": 2,
+            "que": "Its an incredibly small data set. Far too small to do anything meaningful with"
+        },
+        {
+            "id": "fan2hce",
+            "parent": "t1_fan09sp",
+            "ans": "Took his course on coursera on ML, really nice course.",
+            "score": 2,
+            "que": "Haha yes that's Andrew"
+        },
+        {
+            "id": "fp8ds6u",
+            "parent": "t1_fp8bd1x",
+            "ans": "I love Reddit... half a year later I\u2019m reminded I spelled a characters name wrong lmao",
+            "score": 3,
+            "que": "Did you misspell his name on the fridge?"
+        },
+        {
+            "id": "fal3mih",
+            "parent": "t1_fajg2ov",
+            "ans": "Ah yes, those very complicated, brain busting quantum doors. Maybe I'll get invited to talk at ESA too if I wrap my head around how they work.",
+            "score": 4,
+            "que": "and its applications using Quantum Doors"
+        },
+        {
+            "id": "fairojv",
+            "parent": "t1_faid9si",
+            "ans": "I often use Dilbert comics to recap meetings I have at work. Turns out most of these discussions have already been documented by Scott Adams.",
+            "score": 40,
+            "que": "Dilbert is a documentary."
+        },
+        {
+            "id": "faiqa1z",
+            "parent": "t1_faid9si",
+            "ans": "It's a pity Scott Adams turned out to be insane.",
+            "score": 25,
+            "que": "Dilbert is a documentary."
+        },
+        {
+            "id": "falk1oi",
+            "parent": "t1_fal8ct4",
+            "ans": "You can visualize what it\u2019s doing actually. Try libs like SHAP for heat maps for example. I always use this for papers.",
+            "score": 2,
+            "que": "I mean I'm a sales rep and a DS student, I make proposals for my boss to approve on projects. He's a smart guy, so I'm for the first time seeing the look of utter confusion from him. I'm sticking with simple methods (trees, logistic regression, linear regression, etc.) If I use an artificial network, I'm going to create confusion beyond belief. \n\n\"Well here's what it says to do\"\n\n\"Why?\"\n\n\"Because...the test data scored high on accuracy?\"\n\n\"I don't know what that means, show me a chart or a graph to help me visualize this\"\n\n\"I can't it's a black box, I have almost no idea what it's doing to come to these conclusions, only that it's correct 88% of the time on this test data\"\n\n\"And you have no idea why....\"\n\n\"Nope\"\n\n\"Get out of my office, and don't come back till open the box.\""
+        },
+        {
+            "id": "fajpjdz",
+            "parent": "t1_fajoupy",
+            "ans": "You would think thats the logical way but the non-technical people should be working at Ihop than an tech office.",
+            "score": 6,
+            "que": "Maybe the technical people should manage the technical people, and the non-technical people can go away."
+        },
+        {
+            "id": "fajl7ei",
+            "parent": "t1_fajhjgo",
+            "ans": "Ive often wondered how that\u2019s possible...",
+            "score": 3,
+            "que": "A recent one I saw was asking for 15+ years experience in data science in a business setting."
+        },
+        {
+            "id": "fakixg6",
+            "parent": "t1_fajhjgo",
+            "ans": "Data Scientist is not even listed as an occupation in the Occupational Outlook Handbook.",
+            "score": 3,
+            "que": "A recent one I saw was asking for 15+ years experience in data science in a business setting."
+        },
+        {
+            "id": "faiqgsf",
+            "parent": "t1_fain5pq",
+            "ans": "\"We've got a CRM database and google analytics... Will that do?\"",
+            "score": 19,
+            "que": "What? Like a shed for all the computers?"
+        },
+        {
+            "id": "fakuzrp",
+            "parent": "t1_faj7n4c",
+            "ans": "\u201cLook, it can filter ALL of the charts at one time!\u201d\n\n*head explodes*",
+            "score": 3,
+            "que": "Add slicers. They love slicers."
+        },
+        {
+            "id": "faj7v7t",
+            "parent": "t1_fainy02",
+            "ans": "He consults, and insults at the same time.  I shed a silent tear for his client.",
+            "score": 55,
+            "que": "This guy consults."
+        },
+        {
+            "id": "faktr6a",
+            "parent": "t1_fakktqm",
+            "ans": "I worked with a client that opted to use excel spreadsheets for all accounting and management functions as opposed to any sort of software. Their cash management sheet added 5 columns each month so they could \"sum each month separately\". Each transaction out of any of their accounts creates a row. They had hundreds of transactions a month, and had been operating for more than a decade.\n\nWhen I opened the sheet for the first time, the bottom row was around 60,000, and they were currently using column JH. It only contained the last few years of information. They had moved old data to a different tab because \"it was getting too slow\". \n\nNow the fact that you could just sum-if or use a pivot table to get your monthly information was absolutely heresy. They didn't want to do that. It didn't make sense to them.\n\nBut they were happy to pay for me to essentially do that and then summarize it in a dash that will update whenever they update their spreadsheet.",
+            "score": 10,
+            "que": "reminds me of the consultant who built a \"model\" using hundreds of sheets in across 12 Excel workbooks. The thing has a 90 page manual and training videos to explain how to update it. He's been working on it for 6 years now. \n\nHe's not happy that I spent an afternoon \"automating\" it with an R script."
+        },
+        {
+            "id": "fal9e56",
+            "parent": "t1_fakktqm",
+            "ans": "This made my day!",
+            "score": 1,
+            "que": "reminds me of the consultant who built a \"model\" using hundreds of sheets in across 12 Excel workbooks. The thing has a 90 page manual and training videos to explain how to update it. He's been working on it for 6 years now. \n\nHe's not happy that I spent an afternoon \"automating\" it with an R script."
+        },
+        {
+            "id": "fakrmnd",
+            "parent": "t1_fajpksh",
+            "ans": "You need to say Data Scientist and Applied AI/ML Consultant.\n\nIf you know \"AI\", you're a smart guy. If you're about to tell them how they can apply AI to their business, you're a golden goose.\n\nNow realistically, most businesses do have some sort of data which, if properly parsed and used, could improve the business. But they don't need ML/AI. They need a dashboard that present managers with appropriate KPIs in a timely fashion. They still need a \"data scientist\", in that they need someone who can build a script that dumps information from their accounting system and assorted universe of spreadsheets into some data tables, and visualizes them in a Plotly Dash or Tableau.\n\nNow is that AI? In that the python script is smarter and more efficient than the manager, sure.",
+            "score": 4,
+            "que": "You say \"A.I\" Consultant me thinks thats another $200 an hour to that bill."
+        },
+        {
+            "id": "fajwuwa",
+            "parent": "t1_fajhxnj",
+            "ans": "If you have co-workers, you owe it to them not to use unmaintainable tools.",
+            "score": 16,
+            "que": "Boy this hits close to home. What terrifies me is that my coworkers use python/pandas through jupyter notebooks with datatables and I can tell I\u2019m being drawn away from my perl/regex roots.\n\nI\u2019m told text operations in python are better than using the .re package. I guess it\u2019s worth a try but you\u2019ll have to pry perl from my cold dead hands."
+        },
+        {
+            "id": "fak82nk",
+            "parent": "t1_fajhxnj",
+            "ans": ">worth a try but you\u2019ll have to pry perl from my cold dead hands.\n\nI know of a company that has an employee-turned-consultant who ensured that level of job security by writing all of the ETL scripts in perl and then never letting anyone else maintain them.\n\nI can tell you, they're definitely waiting to to get at his cold dead hands.",
+            "score": 9,
+            "que": "Boy this hits close to home. What terrifies me is that my coworkers use python/pandas through jupyter notebooks with datatables and I can tell I\u2019m being drawn away from my perl/regex roots.\n\nI\u2019m told text operations in python are better than using the .re package. I guess it\u2019s worth a try but you\u2019ll have to pry perl from my cold dead hands."
+        },
+        {
+            "id": "faku2by",
+            "parent": "t1_fajhxnj",
+            "ans": "I don't think you'll ever get away from regex. It's just necessary for cleaning messy data. So take solace in that I guess.",
+            "score": 2,
+            "que": "Boy this hits close to home. What terrifies me is that my coworkers use python/pandas through jupyter notebooks with datatables and I can tell I\u2019m being drawn away from my perl/regex roots.\n\nI\u2019m told text operations in python are better than using the .re package. I guess it\u2019s worth a try but you\u2019ll have to pry perl from my cold dead hands."
+        },
+        {
+            "id": "faiok8f",
+            "parent": "t1_fai2ky9",
+            "ans": "... I kinda want to put this on my resume now. I mean it's more likely HR who will select me for an interview right? HR eats that stuff up.",
+            "score": 5,
+            "que": "I see on your CV you implemented \"Rule-based AI\"."
+        },
+        {
+            "id": "fai3clt",
+            "parent": "t1_fai2ky9",
+            "ans": "Is this something I should put on my resume? It was really made out of laziness",
+            "score": 13,
+            "que": "I see on your CV you implemented \"Rule-based AI\"."
+        },
+        {
+            "id": "fai3b4q",
+            "parent": "t1_fai2buq",
+            "ans": "Nothing is really AI lol... it\u2019s all just a preprogrammed output. Even neural networks, not AI, just feeding your model more data in which it uses to generate the output. I could be wrong, though.",
+            "score": -16,
+            "que": "Well it sounds like you just wrote a transform script? That's not really AI"
+        },
+        {
+            "id": "fai9ynk",
+            "parent": "t1_fai9jik",
+            "ans": "Oh it did tho, cuz I taught it how. That\u2019s how all AI works.",
+            "score": -6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fai3kbi",
+            "parent": "t1_fai0g4h",
+            "ans": "Lmfao. Yeah trust me i know exactly what you\u2019re talking about.",
+            "score": 2,
+            "que": "Haha I know its not impossible but I would have to code a bot and train it and maintain it. But he just thought the computer would just know how to do it the next time."
+        },
+        {
+            "id": "fai0qkd",
+            "parent": "t1_fai02n5",
+            "ans": "probably something hand-scripted in whatever tool they use most often?  If you know the schema and the errors you could do it in R or Python pretty easily and make an easily run script.",
+            "score": 14,
+            "que": "What program is this?"
+        },
+        {
+            "id": "fai3ml6",
+            "parent": "t1_fai02n5",
+            "ans": "It doesn\u2019t have a name... idk what to call it. Flux capacitor data cleanser 2000 is the top choice so far.",
+            "score": 10,
+            "que": "What program is this?"
+        },
+        {
+            "id": "fai20k1",
+            "parent": "t1_fai0zc7",
+            "ans": "I mean it\u2019s called ETL and isn\u2019t exactly a revolutionary thing. It\u2019s definitely not \u201cmachine learning\u201d. You want missing and messy data to be handled in a consistent way, otherwise you end up with far more problems.",
+            "score": 7,
+            "que": "Also, tell me more about this bot. What language is it in? How are you cleaning the data?"
+        },
+        {
+            "id": "fai3hzb",
+            "parent": "t1_fai0zc7",
+            "ans": "It\u2019s in python. Second question Isn\u2019t one I can answer without you being more specific",
+            "score": 1,
+            "que": "Also, tell me more about this bot. What language is it in? How are you cleaning the data?"
+        },
+        {
+            "id": "fany6rw",
+            "parent": "t1_falmgct",
+            "ans": "[In my safe space](https://www.youtube.com/watch?v=sXQkXXBqj_U)",
+            "score": 1,
+            "que": "I need a safe space!"
+        },
+        {
+            "id": "faj5ko3",
+            "parent": "t1_faiqe5m",
+            "ans": "But Stamford doesn\u2019t. Wait Stanford.",
+            "score": 6,
+            "que": "_Belson Institute of Tethics approves this_"
+        },
+        {
+            "id": "falascy",
+            "parent": "t1_faj9gsj",
+            "ans": "\"Your RNN is now 8 layers deep meaning my billable hours are now X^8\"",
+            "score": 6,
+            "que": "Don't forget to mention you had to \"go deeper\" and add some more layers in the network so you'll have to adjust the billables according."
+        },
+        {
+            "id": "faizszw",
+            "parent": "t1_faihv9a",
+            "ans": "And dummy code the  email domain names to see what email service they use.",
+            "score": 13,
+            "que": "You could map first name to a gender probability. And cluster phone numbers into regions based on area code. Now you have two features and a quantifiable variable. Try a few different machine learning algorithms and see what happens."
+        },
+        {
+            "id": "fak2x83",
+            "parent": "t1_faihv9a",
+            "ans": "This guy feature engineers.",
+            "score": 11,
+            "que": "You could map first name to a gender probability. And cluster phone numbers into regions based on area code. Now you have two features and a quantifiable variable. Try a few different machine learning algorithms and see what happens."
+        },
+        {
+            "id": "fal9ods",
+            "parent": "t1_faihv9a",
+            "ans": "> Step aside noob, let the big boys play",
+            "score": 2,
+            "que": "You could map first name to a gender probability. And cluster phone numbers into regions based on area code. Now you have two features and a quantifiable variable. Try a few different machine learning algorithms and see what happens."
+        },
+        {
+            "id": "faj9k8p",
+            "parent": "t1_faiau22",
+            "ans": "But damn does it look pretty (shows Geo heat map thrown together in tableau)",
+            "score": 5,
+            "que": "Oh dear...ummm....yeah, I've got nothin'."
+        },
+        {
+            "id": "fb181mi",
+            "parent": "t1_fak51os",
+            "ans": "That's right. A budget is a control variable -- human decides.\n\nIf you want an *optimal* budget, you need an objective function and constraints. \n\nThis is lost on a lot of folks!",
+            "score": 3,
+            "que": "A budget should be your planned spending in order to reach an end goal, typically growth or profit.\n\nIf you predict the budget you are approaching the problem from the wrong direction. You are trying to make a budget that covers your expenses."
+        },
+        {
+            "id": "fajjmsx",
+            "parent": "t1_fajjmnh",
+            "ans": "I have retrieved these for you _ _\n *** \n^^&#32;To&#32;prevent&#32;anymore&#32;lost&#32;limbs&#32;throughout&#32;Reddit,&#32;correctly&#32;escape&#32;the&#32;arms&#32;and&#32;shoulders&#32;by&#32;typing&#32;the&#32;shrug&#32;as&#32;`\u00af\\\\\\_(\u30c4)_/\u00af`&#32;or&#32;`\u00af\\\\\\_(\u30c4)\\_/\u00af`\n\n [^^Click&#32;here&#32;to&#32;see&#32;why&#32;this&#32;is&#32;necessary](https://np.reddit.com/r/OutOfTheLoop/comments/3fbrg3/is_there_a_reason_why_the_arm_is_always_missing/ctn5gbf/)",
+            "score": 6,
+            "que": "But if they don't see the scrolling stdout it's not data science \u00af\\\\\\_(\u30c4)_/\u00af\n\nedit: old shruggie lost his shoulders \u00af\\\\_(\u30c4)_/\u00af"
+        },
+        {
+            "id": "ibkoygz",
+            "parent": "t1_fakej2a",
+            "ans": "> forest_whitaker_eye\n\nTroy\u2019s go-to move in a fight",
+            "score": 1,
+            "que": "Not a perfect representation but someone already had the username forest_whitaker_eye"
+        },
+        {
+            "id": "faisf60",
+            "parent": "t1_faiggis",
+            "ans": "Yeah, thats pretty small. Client I work with is a big retailer, they have 16,000 store locations, so just looking at a days worth of sales data for 1 items could be 16k rows. 1000 rows, not sure what you do with that.",
+            "score": 3,
+            "que": "I really must be an undergrad because that\u2019s a typical homework problem sized dataset to me \ud83e\udd23"
+        },
+        {
+            "id": "faj2hey",
+            "parent": "t1_faiggis",
+            "ans": "Lol ya, most of those hw problems in school are heavily controlled with bias to make it easier to find the answer theyre expecting. So they dont require as much data",
+            "score": 2,
+            "que": "I really must be an undergrad because that\u2019s a typical homework problem sized dataset to me \ud83e\udd23"
+        },
+        {
+            "id": "fp8gobu",
+            "parent": "t1_fp8ds6u",
+            "ans": "No. You spelled it in such a way that Gilfoyle would strongly approve of.",
+            "score": 3,
+            "que": "I love Reddit... half a year later I\u2019m reminded I spelled a characters name wrong lmao"
+        },
+        {
+            "id": "fairlr5",
+            "parent": "t1_faiqa1z",
+            "ans": "Huh? I know he had some medical issues, what brand of insane did he become?",
+            "score": 16,
+            "que": "It's a pity Scott Adams turned out to be insane."
+        },
+        {
+            "id": "faisqpu",
+            "parent": "t1_faiqa1z",
+            "ans": "While I disagree with a lot of what Scott Adams said about Trump, he was at least right that Trump's \"strategy\" (I don't know how much is conscious or intentional and how much is just overconfidence and incompetence mixing in strange ways under pressure) has been effective where it needed to be.  I can't say that his failing upwards is 4 dimensional chess like Scott Adams claims, but Scott recognized *something.*\n\nHowever, if you are referring to anything more than thinking Trump was a genius, then I missed out on the insanity.",
+            "score": 16,
+            "que": "It's a pity Scott Adams turned out to be insane."
+        },
+        {
+            "id": "fajpg1k",
+            "parent": "t1_faiqa1z",
+            "ans": "It happens to us all if we live in the cube farm too much.",
+            "score": 1,
+            "que": "It's a pity Scott Adams turned out to be insane."
+        },
+        {
+            "id": "fakjrsq",
+            "parent": "t1_fajpjdz",
+            "ans": "As someone who worked in UX before, this is how you end up with interfaces that look like they were designed in the 90s.",
+            "score": 4,
+            "que": "You would think thats the logical way but the non-technical people should be working at Ihop than an tech office."
+        },
+        {
+            "id": "fak11fb",
+            "parent": "t1_fajl7ei",
+            "ans": "It's definitely possible as long as you include things like \"statistician\" as synonyms for \"data scientist\". That said I don't think I've seen a job requiring 15 years experience in anything that wasn't a director/executive position.",
+            "score": 7,
+            "que": "Ive often wondered how that\u2019s possible..."
+        },
+        {
+            "id": "fairk4f",
+            "parent": "t1_faiqgsf",
+            "ans": "This is literally my job right now...stop...",
+            "score": 28,
+            "que": "\"We've got a CRM database and google analytics... Will that do?\""
+        },
+        {
+            "id": "fajttqn",
+            "parent": "t1_faj7v7t",
+            "ans": "It's kinda like he's conning them out of their money as he insults them",
+            "score": 12,
+            "que": "He consults, and insults at the same time.  I shed a silent tear for his client."
+        },
+        {
+            "id": "faku7sn",
+            "parent": "t1_fajwuwa",
+            "ans": "I don\u2019t use perl at work for this reason.",
+            "score": 2,
+            "que": "If you have co-workers, you owe it to them not to use unmaintainable tools."
+        },
+        {
+            "id": "fakufey",
+            "parent": "t1_faku2by",
+            "ans": "Have you heard of regexr.com? It\u2019s pretty sweet for on-the-spot work.",
+            "score": 2,
+            "que": "I don't think you'll ever get away from regex. It's just necessary for cleaning messy data. So take solace in that I guess."
+        },
+        {
+            "id": "fai4m3f",
+            "parent": "t1_fai3clt",
+            "ans": "Haha no I was just joking.",
+            "score": 27,
+            "que": "Is this something I should put on my resume? It was really made out of laziness"
+        },
+        {
+            "id": "fai6t2d",
+            "parent": "t1_fai3clt",
+            "ans": "I'd be interested if someone wrote an 'automated data cleaner'",
+            "score": 19,
+            "que": "Is this something I should put on my resume? It was really made out of laziness"
+        },
+        {
+            "id": "fai461n",
+            "parent": "t1_fai3b4q",
+            "ans": "Any written program can be considered AI, but there is definitely a difference between machine learning and AI (machine learning is a means of achieving AI). \n\nThe difference between a neural network (or any machine learning algorithm) and your transform script is that you had to manually add support for new file types (if I understood correctly), whereas once a neural network is developed and running, it will be able to change its behavior purely based on the data fed into it without having to be refactored.\n\nI think that nuance is what the poster above us wanted to point out.",
+            "score": 9,
+            "que": "Nothing is really AI lol... it\u2019s all just a preprogrammed output. Even neural networks, not AI, just feeding your model more data in which it uses to generate the output. I could be wrong, though."
+        },
+        {
+            "id": "fai4c0u",
+            "parent": "t1_fai3b4q",
+            "ans": "It kind of depends on the definition, but a lot of people will agree that reinforcement learning is a type of AI",
+            "score": 3,
+            "que": "Nothing is really AI lol... it\u2019s all just a preprogrammed output. Even neural networks, not AI, just feeding your model more data in which it uses to generate the output. I could be wrong, though."
+        },
+        {
+            "id": "fai866t",
+            "parent": "t1_fai3b4q",
+            "ans": "I'm not hearing any prediction happening so no I wouldn't consider this ML or AI",
+            "score": 3,
+            "que": "Nothing is really AI lol... it\u2019s all just a preprogrammed output. Even neural networks, not AI, just feeding your model more data in which it uses to generate the output. I could be wrong, though."
+        },
+        {
+            "id": "fak0v1n",
+            "parent": "t1_fai3b4q",
+            "ans": "You are wrong. Neural networks and other machine learning techniques are absolutely an implementation of AI.",
+            "score": 1,
+            "que": "Nothing is really AI lol... it\u2019s all just a preprogrammed output. Even neural networks, not AI, just feeding your model more data in which it uses to generate the output. I could be wrong, though."
+        },
+        {
+            "id": "faiaa2q",
+            "parent": "t1_fai9ynk",
+            "ans": "[deleted]",
+            "score": 10,
+            "que": "Oh it did tho, cuz I taught it how. That\u2019s how all AI works."
+        },
+        {
+            "id": "faikajl",
+            "parent": "t1_fai9ynk",
+            "ans": "\u201cSupervised\u201d",
+            "score": 3,
+            "que": "Oh it did tho, cuz I taught it how. That\u2019s how all AI works."
+        },
+        {
+            "id": "fai3o85",
+            "parent": "t1_fai0qkd",
+            "ans": "Yep.",
+            "score": 5,
+            "que": "probably something hand-scripted in whatever tool they use most often?  If you know the schema and the errors you could do it in R or Python pretty easily and make an easily run script."
+        },
+        {
+            "id": "faicgb1",
+            "parent": "t1_fai3ml6",
+            "ans": "Go with 2020.",
+            "score": 3,
+            "que": "It doesn\u2019t have a name... idk what to call it. Flux capacitor data cleanser 2000 is the top choice so far."
+        },
+        {
+            "id": "failzr3",
+            "parent": "t1_fai3ml6",
+            "ans": "Quantum flux cap...*",
+            "score": 2,
+            "que": "It doesn\u2019t have a name... idk what to call it. Flux capacitor data cleanser 2000 is the top choice so far."
+        },
+        {
+            "id": "fai29aa",
+            "parent": "t1_fai20k1",
+            "ans": "I am just starting to learn SSIS and doing all of this in a consistent way! So many failures for bad data types. Yay for manually maintained Access Databases.",
+            "score": 3,
+            "que": "I mean it\u2019s called ETL and isn\u2019t exactly a revolutionary thing. It\u2019s definitely not \u201cmachine learning\u201d. You want missing and messy data to be handled in a consistent way, otherwise you end up with far more problems."
+        },
+        {
+            "id": "fakfgdp",
+            "parent": "t1_fajjmsx",
+            "ans": "Wow there really is a bot for everything. Gotta love AI!",
+            "score": 2,
+            "que": "I have retrieved these for you _ _\n *** \n^^&#32;To&#32;prevent&#32;anymore&#32;lost&#32;limbs&#32;throughout&#32;Reddit,&#32;correctly&#32;escape&#32;the&#32;arms&#32;and&#32;shoulders&#32;by&#32;typing&#32;the&#32;shrug&#32;as&#32;`\u00af\\\\\\_(\u30c4)_/\u00af`&#32;or&#32;`\u00af\\\\\\_(\u30c4)\\_/\u00af`\n\n [^^Click&#32;here&#32;to&#32;see&#32;why&#32;this&#32;is&#32;necessary](https://np.reddit.com/r/OutOfTheLoop/comments/3fbrg3/is_there_a_reason_why_the_arm_is_always_missing/ctn5gbf/)"
+        },
+        {
+            "id": "faiwato",
+            "parent": "t1_faisf60",
+            "ans": "[deleted]",
+            "score": 9,
+            "que": "Yeah, thats pretty small. Client I work with is a big retailer, they have 16,000 store locations, so just looking at a days worth of sales data for 1 items could be 16k rows. 1000 rows, not sure what you do with that."
+        },
+        {
+            "id": "fp8k471",
+            "parent": "t1_fp8gobu",
+            "ans": "I don\u2019t know exactly what part of the show you\u2019re referring to - is it the smart fridge episode(s)?",
+            "score": 3,
+            "que": "No. You spelled it in such a way that Gilfoyle would strongly approve of."
+        },
+        {
+            "id": "faknxyu",
+            "parent": "t1_fairlr5",
+            "ans": "He has some serious hangups about women.",
+            "score": 1,
+            "que": "Huh? I know he had some medical issues, what brand of insane did he become?"
+        },
+        {
+            "id": "faj6vpp",
+            "parent": "t1_fairlr5",
+            "ans": "He doesn't chant \"Trump bad, Trump dumb\" constantly...",
+            "score": -26,
+            "que": "Huh? I know he had some medical issues, what brand of insane did he become?"
+        },
+        {
+            "id": "faj4c1q",
+            "parent": "t1_faisqpu",
+            "ans": "After one of the shootings, dude used the shooting to promote some app he worked on / owns, then when criticized he doubled down on it being totally normal, fine and not evil.\n\n&#x200B;\n\nHe also did a blog post defending family separation saying it was a necessary evil to combat human trafficking.  \n\n&#x200B;\n\nFuck that guy.",
+            "score": 30,
+            "que": "While I disagree with a lot of what Scott Adams said about Trump, he was at least right that Trump's \"strategy\" (I don't know how much is conscious or intentional and how much is just overconfidence and incompetence mixing in strange ways under pressure) has been effective where it needed to be.  I can't say that his failing upwards is 4 dimensional chess like Scott Adams claims, but Scott recognized *something.*\n\nHowever, if you are referring to anything more than thinking Trump was a genius, then I missed out on the insanity."
+        },
+        {
+            "id": "fajehec",
+            "parent": "t1_faisqpu",
+            "ans": "Effective in making the world and economy less stable, to the point that companies and people are hesitant about spending/investing?  \nOr in giving tax cuts that benefit people of his class drastically more than everyone else.   \nOr in rolling back policies protecting our waters, streams and environment.  \nOr in giving the Russian and Korean dictators anything they want.  In the process, destroying US reputation/reliability across the world.\n\nOnly positive thing I can possibly think of is China having to deal with him.  That's about the only effective positive thing I can think of.",
+            "score": 4,
+            "que": "While I disagree with a lot of what Scott Adams said about Trump, he was at least right that Trump's \"strategy\" (I don't know how much is conscious or intentional and how much is just overconfidence and incompetence mixing in strange ways under pressure) has been effective where it needed to be.  I can't say that his failing upwards is 4 dimensional chess like Scott Adams claims, but Scott recognized *something.*\n\nHowever, if you are referring to anything more than thinking Trump was a genius, then I missed out on the insanity."
+        },
+        {
+            "id": "falulzf",
+            "parent": "t1_faisqpu",
+            "ans": "I guess \"insane\" is a bit strong. He has spoken about mental health issues where he became functionally mute leading to divorce.\n\n But for somebody who writes incisive satire about corporate-engineering cubical farms he's an amazingly ironic example of  the \"I've read 10% of wikipedia therefor I'm a brain-genius and smarter than most experts\" Dunning-Kruger libertarian mindset.\n\nThat and he lives in house shaped like Dilbert's head.",
+            "score": 1,
+            "que": "While I disagree with a lot of what Scott Adams said about Trump, he was at least right that Trump's \"strategy\" (I don't know how much is conscious or intentional and how much is just overconfidence and incompetence mixing in strange ways under pressure) has been effective where it needed to be.  I can't say that his failing upwards is 4 dimensional chess like Scott Adams claims, but Scott recognized *something.*\n\nHowever, if you are referring to anything more than thinking Trump was a genius, then I missed out on the insanity."
+        },
+        {
+            "id": "fak6ulc",
+            "parent": "t1_faisqpu",
+            "ans": "Trump is the president of the united states. And he has been the president for 3 years now.\n\nYou do not become the god damn president by accident. CEO of a makeup company, sure. Mayor, Governor, Congressman, Senator? Sure.\n\nThe god damn president? There is no way in hell. He has done so much shit and he was supposed to be impeached during his first 100 days. And yet 3 years later here we are. He will probably serve the rest of his term and there is absolutely nothing that can be done about it. Most of the accusations don't stick because they are simply made up by the media.\n\nTrump capitalizes on the fact that he is SO SHOCKING and media will take any bait given to them and blow it out of proportion, so that when the dust settles and he is investigated and they find that he actually didn't do anything wrong. To his supporters, this looks exactly like a witch hunt because they keep accusing him and 3 years later nothing has stuck. \n\nIt is bloody genius to stir up so much shit and be squeaky clean while everything around you is sprayed in diarrhea and is on fire.\n\nMark my words and watch him win the next election because Bernie goes full socialist and puts fear into capitalist americans or something and we're up for a new round of the roller coaster.",
+            "score": -4,
+            "que": "While I disagree with a lot of what Scott Adams said about Trump, he was at least right that Trump's \"strategy\" (I don't know how much is conscious or intentional and how much is just overconfidence and incompetence mixing in strange ways under pressure) has been effective where it needed to be.  I can't say that his failing upwards is 4 dimensional chess like Scott Adams claims, but Scott recognized *something.*\n\nHowever, if you are referring to anything more than thinking Trump was a genius, then I missed out on the insanity."
+        },
+        {
+            "id": "faizkn5",
+            "parent": "t1_fairk4f",
+            "ans": "\"What if I get accounting to let you collate their database?\"",
+            "score": 10,
+            "que": "This is literally my job right now...stop..."
+        },
+        {
+            "id": "fajgtw2",
+            "parent": "t1_fairk4f",
+            "ans": "Im in the same boat. Also im the only person in the department. Please help.",
+            "score": 3,
+            "que": "This is literally my job right now...stop..."
+        },
+        {
+            "id": "fakq6gy",
+            "parent": "t1_fajttqn",
+            "ans": "Here's the thing about consulting. The amount you charge sits on a spectrum. \n\nOn one side is the amount of time it would take the client to do it themselves with their internal resources, including the learning time. If a 50 year old middle manager would need to do a crash course in data science, you could easily be looking at tens of thousands of dollars in lost productivity/costs. \n\nOn the other side is how much time it will take you, the subject matter expert, who doesn't have to do any learning and has likely solved the problem same problem dozens of times. You might even have a ready-built solution you made for another client. Even at a high charge-out rate, your actual time could be measures in the hundreds of dollars in some cases.\n\nNow as a data scientist and/or logical person, you would think that a manager would want to pay as little as possible to fix a problem. But you'd be wrong, because it reflects poorly on someone to have had to hire an external consultant to solve a problem that was fixable in an hour and cost $200. In order for them, as managers, do demonstrate the value of the project, it helps for it to have been expensive and complex.\n\nSo you, as a consultant, get to help them do their job well by continuing that narrative. And as long as the rate you charge lays somewhere below what it would cost them to ultimately just learn and do it themselves, everyone is happy.\n\nThis is a great thing to know both as a consultant and as a person who also engages consultants. As long as you know the game that's being played, you can ensure that the deal struck is the best one for your personal situation.",
+            "score": 26,
+            "que": "It's kinda like he's conning them out of their money as he insults them"
+        },
+        {
+            "id": "fakvs17",
+            "parent": "t1_fakufey",
+            "ans": "I like regex101.com myself, but same basic thing!",
+            "score": 2,
+            "que": "Have you heard of regexr.com? It\u2019s pretty sweet for on-the-spot work."
+        },
+        {
+            "id": "fai6yyo",
+            "parent": "t1_fai6t2d",
+            "ans": "You should really understand how impossible that is considering data cleaning is different for each data set. Mind reader program would be a prerequisite for this to be possible.",
+            "score": 24,
+            "que": "I'd be interested if someone wrote an 'automated data cleaner'"
+        },
+        {
+            "id": "fai9mc7",
+            "parent": "t1_fai6t2d",
+            "ans": "[deleted]",
+            "score": 5,
+            "que": "I'd be interested if someone wrote an 'automated data cleaner'"
+        },
+        {
+            "id": "fai9nci",
+            "parent": "t1_fai461n",
+            "ans": "Regular ML also changes based on the data you feed it, hence \u201cmachine learning\u201d. The breakthrough with neural nets is that they can figure out the important features in the data on their own, whereas classic ML all of that needed to be done by hand.",
+            "score": 6,
+            "que": "Any written program can be considered AI, but there is definitely a difference between machine learning and AI (machine learning is a means of achieving AI). \n\nThe difference between a neural network (or any machine learning algorithm) and your transform script is that you had to manually add support for new file types (if I understood correctly), whereas once a neural network is developed and running, it will be able to change its behavior purely based on the data fed into it without having to be refactored.\n\nI think that nuance is what the poster above us wanted to point out."
+        },
+        {
+            "id": "fai5bjb",
+            "parent": "t1_fai461n",
+            "ans": "Ahh yes. Still not AI. But fair enough. Real AI doesn\u2019t exist, yet. Just a way for a bunch of bullshit tech companies to jack up valuations and take advantage of the idiots in the financial sector in my opinion.",
+            "score": -4,
+            "que": "Any written program can be considered AI, but there is definitely a difference between machine learning and AI (machine learning is a means of achieving AI). \n\nThe difference between a neural network (or any machine learning algorithm) and your transform script is that you had to manually add support for new file types (if I understood correctly), whereas once a neural network is developed and running, it will be able to change its behavior purely based on the data fed into it without having to be refactored.\n\nI think that nuance is what the poster above us wanted to point out."
+        },
+        {
+            "id": "fai7dnx",
+            "parent": "t1_fai4c0u",
+            "ans": "Yeah I agree with this, but also some reinforcement learning is extremely basic (bandits, minmaxing, etc). \n\nI\u2019d say that generalized deep reinforcement learning is bordering on AI.",
+            "score": 3,
+            "que": "It kind of depends on the definition, but a lot of people will agree that reinforcement learning is a type of AI"
+        },
+        {
+            "id": "fai5d0d",
+            "parent": "t1_fai4c0u",
+            "ans": "Sweet, then I\u2019m very proficient in AI, can I make 500k now?",
+            "score": -1,
+            "que": "It kind of depends on the definition, but a lot of people will agree that reinforcement learning is a type of AI"
+        },
+        {
+            "id": "faia8ae",
+            "parent": "t1_fai866t",
+            "ans": "Yeah I mean... no ML or AI model is capable of teaching itself. So in my opinion it doesn\u2019t exist. Feeding more data into a predictive model is called forecasting, using a new buzz word to describe it doesn\u2019t make it AI.",
+            "score": 2,
+            "que": "I'm not hearing any prediction happening so no I wouldn't consider this ML or AI"
+        },
+        {
+            "id": "fak3pj7",
+            "parent": "t1_fak0v1n",
+            "ans": "It\u2019s not that I entirely disagree, I just think the terminology is way more of a buzz word. A neural network is very similar to a financial model. A financial model in which you can dump new data into it would therefore be \u201cML\u201d aka budgeting is AI. \n\nThe machine is doing absolutely nothing on its own, just like it didn\u2019t before. You\u2019re programming it on how to accept the data and what to do with it. Your machine didn\u2019t learn shit outside of what you told it.",
+            "score": 1,
+            "que": "You are wrong. Neural networks and other machine learning techniques are absolutely an implementation of AI."
+        },
+        {
+            "id": "faiaetz",
+            "parent": "t1_faiaa2q",
+            "ans": "I\u2019m not. But also I don\u2019t find that dumping new data into an existing model should qualify as AI, or else every accountant who ever took a previous years budget model and popped in new data is suddenly proficient in AI. Prove me wrong",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fajrz9i",
+            "parent": "t1_faikajl",
+            "ans": "\"Highly supervised.\"",
+            "score": 1,
+            "que": "\u201cSupervised\u201d"
+        },
+        {
+            "id": "faiz473",
+            "parent": "t1_failzr3",
+            "ans": "I\u2019ll be sure to credit you for this suggestion when we go public.",
+            "score": 2,
+            "que": "Quantum flux cap...*"
+        },
+        {
+            "id": "fb01r6c",
+            "parent": "t1_fakfgdp",
+            "ans": "I always remember to escape the arms but I guess my shruggie doesn't have shoulders :/",
+            "score": 1,
+            "que": "Wow there really is a bot for everything. Gotta love AI!"
+        },
+        {
+            "id": "fajka0y",
+            "parent": "t1_faiwato",
+            "ans": "I have been there as well.",
+            "score": 2,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fp8k71u",
+            "parent": "t1_fp8k471",
+            "ans": "That's the one. Gilfoyle intentionally misspells Jian-Yang's name when it displays on the fridge. \n\"SUCK IT, JIN-YANG\"",
+            "score": 3,
+            "que": "I don\u2019t know exactly what part of the show you\u2019re referring to - is it the smart fridge episode(s)?"
+        },
+        {
+            "id": "fajdqo2",
+            "parent": "t1_faj6vpp",
+            "ans": "Instead he chants,\"Deep State ... Deep State\".",
+            "score": 19,
+            "que": "He doesn't chant \"Trump bad, Trump dumb\" constantly..."
+        },
+        {
+            "id": "faj8qq1",
+            "parent": "t1_faj4c1q",
+            "ans": "Pity you\u2019re being downvoted, fuck anyone who supports family separations for political fun, but most of all, the *Christians* that support it!",
+            "score": 7,
+            "que": "After one of the shootings, dude used the shooting to promote some app he worked on / owns, then when criticized he doubled down on it being totally normal, fine and not evil.\n\n&#x200B;\n\nHe also did a blog post defending family separation saying it was a necessary evil to combat human trafficking.  \n\n&#x200B;\n\nFuck that guy."
+        },
+        {
+            "id": "faj5qev",
+            "parent": "t1_faj4c1q",
+            "ans": "Oh dear. If I read Dilbert regularly, I would stop now.",
+            "score": 1,
+            "que": "After one of the shootings, dude used the shooting to promote some app he worked on / owns, then when criticized he doubled down on it being totally normal, fine and not evil.\n\n&#x200B;\n\nHe also did a blog post defending family separation saying it was a necessary evil to combat human trafficking.  \n\n&#x200B;\n\nFuck that guy."
+        },
+        {
+            "id": "fakqge1",
+            "parent": "t1_faj4c1q",
+            "ans": "@naval is that you again?",
+            "score": 0,
+            "que": "After one of the shootings, dude used the shooting to promote some app he worked on / owns, then when criticized he doubled down on it being totally normal, fine and not evil.\n\n&#x200B;\n\nHe also did a blog post defending family separation saying it was a necessary evil to combat human trafficking.  \n\n&#x200B;\n\nFuck that guy."
+        },
+        {
+            "id": "fajfxdt",
+            "parent": "t1_fajehec",
+            "ans": "I obviously meant effective at conning people into voting for him.  He could get support from people when he espoused mutually incomparable positions.  He could get support from people when he supported obviously impossible policies.  A rich New Yorker who had a history of failure was able to project the appearance that he was successful and cared deeply about people in middle America.  \n\nAnybody with a lick of sense could tell he was full of shit.  But he was effective at wooing those without sense, as well as getting several who should have known better not to care. People bent over backwards to rationalize supporting him.  And a good number won't get back on their feet for any reason.\n\nHis presidency has been an unmitigated disaster.  But his campaigning was dangerously effective.  So much so that he may have a permanent effect on electoral politics, or at the very least change the way the republican party functions for a generation. \n\n> Only positive thing I can possibly think of is China having to deal with him. That's about the only effective positive thing I can think of.\n\nTrump has been neither effective nor positive with regard to China. \n Trump's pulling out of TPP ceded a lot of American influence in the Pacific Rim to China. There is plenty of room to argue that it would have benefited American businesses more than American consumers, but by walking away from the negotiating table, it meant that no American interests would benefit.  \n\nThe trade war hasn't netted any gains, has bankrupted a lot of small farms, caused Brazillians to burn the rain forest so they could sell China the soybeans that the US won't, driven up prices on many goods, and for what? China has too much at stake to just fold, and they aren't small enough to be pushed around.  I'm not a fan of the Chinese profiting by violating IP, workers, and the environment, but this was not the way to get them to stop. We've put them in a position where there is no way they can lose while still saving face, which means there is no way they will agree to anything that is viewed as a loss.  Like most of Trump's plans, this will not end well for anybody.",
+            "score": 4,
+            "que": "Effective in making the world and economy less stable, to the point that companies and people are hesitant about spending/investing?  \nOr in giving tax cuts that benefit people of his class drastically more than everyone else.   \nOr in rolling back policies protecting our waters, streams and environment.  \nOr in giving the Russian and Korean dictators anything they want.  In the process, destroying US reputation/reliability across the world.\n\nOnly positive thing I can possibly think of is China having to deal with him.  That's about the only effective positive thing I can think of."
+        },
+        {
+            "id": "fallk03",
+            "parent": "t1_fak6ulc",
+            "ans": "The media doesn\u2019t just make things up, and Trump isn\u2019t squeaky clean. If things don\u2019t stick, it\u2019s because there is a legitimate scandal big enough to have completely derailed Obama\u2019s presidency every week, and people can\u2019t keep track. \n\nThe republicans are also holding a united front, denying reality in unison, smearing witnesses and whistleblowers, and when the evidence becomes too overwhelming, denying that what was done was a big deal. Then the have another scandal to change the subject.\n\nIf a lie is big enough that people say \u201cI could never say that and get away with it if it weren\u2019t true,\u201d when a lie is told often enough, people who don\u2019t know any better will believe. It\u2019s a standard propaganda technique and you\u2019ve fallen prey to it. But ask yourself which is more likely: that thousands of reporters working for dozens of media companies are uncovering and corobborating crimes, corruption, malfeasance, and more and a political establishment is denying it to save their own asses, or there is a massive conspiracy by everybody in the media to make things up again and again and again in an effort to tarnish Trump? \n\nYou can be forgiven for being so wrong on this if you are only getting your news from Fox News, as they are a propoganda network conceived of by Roger Ailes back when he was working for Nixon as a way to prevent an impeachment of a future version of Nixon by making sure that there were enough people taken in by a conservative spin on the facts instead of led to the obvious conclusions by the facts themselves. You are a victim of a right wing conspiracy to deliberately misinform people so that those in power can remain so. But you can stop being a victim by increasing your news consumption to a diverse list of sources, thinking about your news critically, and then using Occam\u2019s razor when there are discrepancies. \n\nOr you can continue believing that an industry that fired Dan Rather because he ran a story on George W Bush\u2019s time in the Texas air national guard based on documents that the administration claimed were inaccurate but which nobody ever showed false would suddenly switch from destroying the careers of people who let slip stories that might not be 100% correct to working completely in unison to peddle false stories.\n\nBe honest, which is more likely?",
+            "score": 1,
+            "que": "Trump is the president of the united states. And he has been the president for 3 years now.\n\nYou do not become the god damn president by accident. CEO of a makeup company, sure. Mayor, Governor, Congressman, Senator? Sure.\n\nThe god damn president? There is no way in hell. He has done so much shit and he was supposed to be impeached during his first 100 days. And yet 3 years later here we are. He will probably serve the rest of his term and there is absolutely nothing that can be done about it. Most of the accusations don't stick because they are simply made up by the media.\n\nTrump capitalizes on the fact that he is SO SHOCKING and media will take any bait given to them and blow it out of proportion, so that when the dust settles and he is investigated and they find that he actually didn't do anything wrong. To his supporters, this looks exactly like a witch hunt because they keep accusing him and 3 years later nothing has stuck. \n\nIt is bloody genius to stir up so much shit and be squeaky clean while everything around you is sprayed in diarrhea and is on fire.\n\nMark my words and watch him win the next election because Bernie goes full socialist and puts fear into capitalist americans or something and we're up for a new round of the roller coaster."
+        },
+        {
+            "id": "fakqt0p",
+            "parent": "t1_fakq6gy",
+            "ans": "I was just doing a play on the word con-sult",
+            "score": 1,
+            "que": "Here's the thing about consulting. The amount you charge sits on a spectrum. \n\nOn one side is the amount of time it would take the client to do it themselves with their internal resources, including the learning time. If a 50 year old middle manager would need to do a crash course in data science, you could easily be looking at tens of thousands of dollars in lost productivity/costs. \n\nOn the other side is how much time it will take you, the subject matter expert, who doesn't have to do any learning and has likely solved the problem same problem dozens of times. You might even have a ready-built solution you made for another client. Even at a high charge-out rate, your actual time could be measures in the hundreds of dollars in some cases.\n\nNow as a data scientist and/or logical person, you would think that a manager would want to pay as little as possible to fix a problem. But you'd be wrong, because it reflects poorly on someone to have had to hire an external consultant to solve a problem that was fixable in an hour and cost $200. In order for them, as managers, do demonstrate the value of the project, it helps for it to have been expensive and complex.\n\nSo you, as a consultant, get to help them do their job well by continuing that narrative. And as long as the rate you charge lays somewhere below what it would cost them to ultimately just learn and do it themselves, everyone is happy.\n\nThis is a great thing to know both as a consultant and as a person who also engages consultants. As long as you know the game that's being played, you can ensure that the deal struck is the best one for your personal situation."
+        },
+        {
+            "id": "faico1b",
+            "parent": "t1_fai6yyo",
+            "ans": "It's never going to be perfect but if it could solve some common use cases that would definitely be interesting to see on a resume",
+            "score": 8,
+            "que": "You should really understand how impossible that is considering data cleaning is different for each data set. Mind reader program would be a prerequisite for this to be possible."
+        },
+        {
+            "id": "fai9a54",
+            "parent": "t1_fai6yyo",
+            "ans": "Or you could set up a meta-learner which classifies different datasets based on distributions of each feature, feature type distributions, label types, etc. and each class has corresponding parameters to go with it (for example impute columns with less than 10% data missing). Once you have enough examples of this you could try building a generator for getting rules for cleaning new dataset classes. Idk lol, I\u2019m a little stoned right now",
+            "score": 7,
+            "que": "You should really understand how impossible that is considering data cleaning is different for each data set. Mind reader program would be a prerequisite for this to be possible."
+        },
+        {
+            "id": "faiyxul",
+            "parent": "t1_fai9mc7",
+            "ans": "What exactly does it do",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "faicjyx",
+            "parent": "t1_fai9mc7",
+            "ans": "Yes",
+            "score": 0,
+            "que": "[deleted]"
+        },
+        {
+            "id": "faigb7l",
+            "parent": "t1_fai5d0d",
+            "ans": "Nope",
+            "score": 3,
+            "que": "Sweet, then I\u2019m very proficient in AI, can I make 500k now?"
+        },
+        {
+            "id": "faibt8x",
+            "parent": "t1_faiaetz",
+            "ans": "I think we are on the same side",
+            "score": 1,
+            "que": "I\u2019m not. But also I don\u2019t find that dumping new data into an existing model should qualify as AI, or else every accountant who ever took a previous years budget model and popped in new data is suddenly proficient in AI. Prove me wrong"
+        },
+        {
+            "id": "fp8k8ny",
+            "parent": "t1_fp8k71u",
+            "ans": "Damn! That worked out hahah",
+            "score": 2,
+            "que": "That's the one. Gilfoyle intentionally misspells Jian-Yang's name when it displays on the fridge. \n\"SUCK IT, JIN-YANG\""
+        },
+        {
+            "id": "falnxr9",
+            "parent": "t1_faj8qq1",
+            "ans": "What about when families are separated to protect the child from abusive parents? Learn nuance, dude.",
+            "score": 0,
+            "que": "Pity you\u2019re being downvoted, fuck anyone who supports family separations for political fun, but most of all, the *Christians* that support it!"
+        },
+        {
+            "id": "fakanho",
+            "parent": "t1_fajfxdt",
+            "ans": "Ah, effective in campaigning.  I'd say a huge portion of that was just the divisive, bitterness that has been sowed over the years by Republicans.  They were and are desperate enough to make up lies almost as large as Trump's lies to satisfy their base.  \n\nThe discontent that they sowed, is at least partially  responsible for Trump's appeal to those voters.  But yea, it'd be hard to distinguish the impact of that vs just Trump failing upwards.",
+            "score": 2,
+            "que": "I obviously meant effective at conning people into voting for him.  He could get support from people when he espoused mutually incomparable positions.  He could get support from people when he supported obviously impossible policies.  A rich New Yorker who had a history of failure was able to project the appearance that he was successful and cared deeply about people in middle America.  \n\nAnybody with a lick of sense could tell he was full of shit.  But he was effective at wooing those without sense, as well as getting several who should have known better not to care. People bent over backwards to rationalize supporting him.  And a good number won't get back on their feet for any reason.\n\nHis presidency has been an unmitigated disaster.  But his campaigning was dangerously effective.  So much so that he may have a permanent effect on electoral politics, or at the very least change the way the republican party functions for a generation. \n\n> Only positive thing I can possibly think of is China having to deal with him. That's about the only effective positive thing I can think of.\n\nTrump has been neither effective nor positive with regard to China. \n Trump's pulling out of TPP ceded a lot of American influence in the Pacific Rim to China. There is plenty of room to argue that it would have benefited American businesses more than American consumers, but by walking away from the negotiating table, it meant that no American interests would benefit.  \n\nThe trade war hasn't netted any gains, has bankrupted a lot of small farms, caused Brazillians to burn the rain forest so they could sell China the soybeans that the US won't, driven up prices on many goods, and for what? China has too much at stake to just fold, and they aren't small enough to be pushed around.  I'm not a fan of the Chinese profiting by violating IP, workers, and the environment, but this was not the way to get them to stop. We've put them in a position where there is no way they can lose while still saving face, which means there is no way they will agree to anything that is viewed as a loss.  Like most of Trump's plans, this will not end well for anybody."
+        },
+        {
+            "id": "faku7ph",
+            "parent": "t1_fakqt0p",
+            "ans": "Apparently i need more coffee today.",
+            "score": 1,
+            "que": "I was just doing a play on the word con-sult"
+        },
+        {
+            "id": "faidnu8",
+            "parent": "t1_faico1b",
+            "ans": "Jeez I\u2019m gonna start making completely impractical tools to put on my resume, you\u2019re not the first person to say something like this to me.",
+            "score": 4,
+            "que": "It's never going to be perfect but if it could solve some common use cases that would definitely be interesting to see on a resume"
+        },
+        {
+            "id": "faia133",
+            "parent": "t1_fai9a54",
+            "ans": "You\u2019d spend more time correcting this than it took to clean the data 1000x yourself manually",
+            "score": 22,
+            "que": "Or you could set up a meta-learner which classifies different datasets based on distributions of each feature, feature type distributions, label types, etc. and each class has corresponding parameters to go with it (for example impute columns with less than 10% data missing). Once you have enough examples of this you could try building a generator for getting rules for cleaning new dataset classes. Idk lol, I\u2019m a little stoned right now"
+        },
+        {
+            "id": "faidxz4",
+            "parent": "t1_fai9a54",
+            "ans": "That's my fantasy too!",
+            "score": 3,
+            "que": "Or you could set up a meta-learner which classifies different datasets based on distributions of each feature, feature type distributions, label types, etc. and each class has corresponding parameters to go with it (for example impute columns with less than 10% data missing). Once you have enough examples of this you could try building a generator for getting rules for cleaning new dataset classes. Idk lol, I\u2019m a little stoned right now"
+        },
+        {
+            "id": "faizunm",
+            "parent": "t1_faiyxul",
+            "ans": "https://www.datarobot.com/wiki/data-preparation/",
+            "score": 3,
+            "que": "What exactly does it do"
+        },
+        {
+            "id": "faicquo",
+            "parent": "t1_faicjyx",
+            "ans": "That has some automated data cleaning and you said youd be interested in it.  Sorry for responding.",
+            "score": 3,
+            "que": "Yes"
+        },
+        {
+            "id": "faighb9",
+            "parent": "t1_faigb7l",
+            "ans": "Rude",
+            "score": 4,
+            "que": "Nope"
+        },
+        {
+            "id": "faidl19",
+            "parent": "t1_faibt8x",
+            "ans": "We are",
+            "score": 2,
+            "que": "I think we are on the same side"
+        },
+        {
+            "id": "fam290k",
+            "parent": "t1_falnxr9",
+            "ans": "Token strawman.  Nice!",
+            "score": 1,
+            "que": "What about when families are separated to protect the child from abusive parents? Learn nuance, dude."
+        },
+        {
+            "id": "faib01q",
+            "parent": "t1_faia133",
+            "ans": "Yeah for sure lol",
+            "score": 5,
+            "que": "You\u2019d spend more time correcting this than it took to clean the data 1000x yourself manually"
+        },
+        {
+            "id": "fajczuf",
+            "parent": "t1_faidxz4",
+            "ans": "Dude, you know what that made me think of? I actually have ideas for cool projects all the time (not like the one above, like actually well thought out), some in research, some in applications. Some of them I\u2019ll even go in-depth and write up documents outlining everything in more detail and almost never get around to doing them. I think there\u2019s probably a lot of people on here who do the same thing, and if I could somehow get a small team organized to like do these kind of like hobby projects I think it\u2019d be really cool. Plus we could split up the work and have somebody to be accountable to. I think I\u2019ll make a post about it tomorrow, and let me know if you\u2019re interested!",
+            "score": 1,
+            "que": "That's my fantasy too!"
+        },
+        {
+            "id": "faid0wd",
+            "parent": "t1_faicquo",
+            "ans": "Sorry it sounded like you were being sarcastic. Yes I have used data robot and it is a great tool.\n\nI was just saying if a resume came across my desk that someone had written a tool like that I'd definitely be interested. There is no \"silver bullet\" though",
+            "score": 2,
+            "que": "That has some automated data cleaning and you said youd be interested in it.  Sorry for responding."
+        },
+        {
+            "id": "faidqf5",
+            "parent": "t1_faidl19",
+            "ans": "I'll see you on Judgement Day",
+            "score": 3,
+            "que": "We are"
+        },
+        {
+            "id": "fam4fyi",
+            "parent": "t1_fam290k",
+            "ans": "That's not a strawman, that's CPS. A real thing that exists. Do you even know what a strawman is?",
+            "score": 0,
+            "que": "Token strawman.  Nice!"
+        },
+        {
+            "id": "famb0y5",
+            "parent": "t1_fam4fyi",
+            "ans": "Bad faith argument, nice!\n\nI\u2019m going to win \u201cright wing apologist bingo soon!\u201d",
+            "score": 0,
+            "que": "That's not a strawman, that's CPS. A real thing that exists. Do you even know what a strawman is?"
+        },
+        {
+            "id": "famu6rj",
+            "parent": "t1_famb0y5",
+            "ans": "Do you not know what nuance is? Or do you think that in every other case of law enforcement whereby an adult is detained, they get to bring their children in with them?\n\nSeriously, why are you Americans so ignorant?",
+            "score": 1,
+            "que": "Bad faith argument, nice!\n\nI\u2019m going to win \u201cright wing apologist bingo soon!\u201d"
+        }
+    ]
+}

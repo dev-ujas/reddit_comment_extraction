@@ -1,0 +1,526 @@
+{
+    "title": "Recruiters be like",
+    "id": "ey8icu",
+    "create_at": 1580742782.0,
+    "score": 1683,
+    "comments": [
+        {
+            "id": "fggszxj",
+            "parent": "t1_fggcij2",
+            "ans": "This is gratifying to hear. I wrapped my MBA and realized that my way into the industries I want was to understand data. I jumped in took every data class I could and tried everything I could like tableau and SPSS. But I mainly Learned R and some data analytics theory. But it was enough to get me an interview, when they asked how much SQL do I know I said \u201cnone. But by my next interview I will know infinitely more.\u201d Which got me my next round.\n\nSo I dug my heels I and spent ten days on every at home class I could get on. It was enough, im fairly proud of myself.\n\nBut now it\u2019s time to learn more so that I can set right up to managing similar teams instead of being in it.",
+            "score": 49,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fgh2tuk",
+            "parent": "t1_fggcij2",
+            "ans": "This exact thing happened to me last year; I developed R and Python scripts that generate time series forecasts for the department I was in to help with staffing, which also read and write from and to SQL Server tables.\n\nI ended up leaving the team, and my manager hired my backfill, without allowing me to sit in on the interviews. The backfill has a Masters and is currently in a PhD program and stated they\u2019re \u201cstrongly proficient\u201d in R/Python/SQL/ML algorithms. \n\nFast forward to them getting hired... they didn\u2019t even know how to run a program in R or Python, didn\u2019t know how to even query SQL tables, and has next to zero experience in forecasting or any other methods/algorithms.\n\nSo, on top of my new role\u2019s responsibilities, I\u2019m spending time every week fixing things they broke to help keep that team afloat on top of having to spend 30+ hours training them. \n\nWhat kills me is the reason I left the team is because they wouldn\u2019t promote me because I don\u2019t have a Bachelor\u2019s degree (the new team didn\u2019t care about the degree, same company). But the person with the advanced degree can\u2019t apply or execute anything unless it\u2019s as simple as clicking a button and got hired at the senior level position I was going for. \n\nNot to say that all people with or without degrees behave in this manner or another, it\u2019s just beyond frustrating that significantly more emphasis is often placed on degrees rather than capabilities.",
+            "score": 39,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fggmeee",
+            "parent": "t1_fggcij2",
+            "ans": "Boo!\nHow dare you ask technical questions of someone whom selected their degree because they saw a pay scale on Indeed and a LinkedIn article saying was one of the top 5 hottest IT jobs?  \n\nHowever, they think \u201cIT\u201d was just a small typo...\n\nFore shame!\nBy chance, are you hiring?!?\n\ud83d\ude09\ud83d\ude02",
+            "score": 27,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fghjwet",
+            "parent": "t1_fggcij2",
+            "ans": "Speaking of MBAs, how worthwhile do you think they are?  I work at a smaller analytics firm and the only one here is the VP of deliverables.  I have a BS in math and MS in data science but I still have two years of free school that Uncle Sam will pay for (both the tuition and monthly cash stipend) that I would be stupid not to use.  Trying to decide if an MBA is worth it.",
+            "score": 4,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fgi2h7h",
+            "parent": "t1_fggcij2",
+            "ans": "I simply cannot fathom our finance managers ever using a query or view I created for them passing it off as their own work.",
+            "score": 3,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fgjm2ee",
+            "parent": "t1_fggcij2",
+            "ans": "Im curious. I've been hitting random on the sub and come across this. What classes as a data scientist?",
+            "score": 2,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fgi5s6d",
+            "parent": "t1_fggcij2",
+            "ans": "That's why I'm learning SQL from dataquest in the hopes that they teach me well. If I don't feel comfortable in it. then gonna go on coursera",
+            "score": 1,
+            "que": "Sometimes the recruiter just doesn't know. Candidates put \"SQL, Python, R, Tableau\" on their resume and the recruiter just says cool this person meets the check boxes. And the candidate is obviously going to tell a recruiter \"Yeah I know \\_\\_\\_\\_ pretty well.\"\n\nThen when you interview the candidate and ask them how good are they with SQL, they say \"Whoa whoa whoa there, I just wanna clarify, when I said I knew SQL, what I really meant is the data analyst I work with provides me the query and I just hit CTRL + ENTER\"\n\nThis happens a lot with MBA grads/recruits where they list all this DS knowledge on their resume, but then when you ask them about it they immediately freak out and \"clarify\" that what they really meant was they used R Studio once in their homework in their business statistics class. Why are we interviewing MBAs in the first place? Cause we're not always hiring a DS. Sometimes we're hiring a Manager of Analytics who is expected to do some data wrangling/light scripting and ad hoc analysis, but we need that person to also have some business sense and do some strategy work (aka make pretty ass decks)."
+        },
+        {
+            "id": "fggb3n4",
+            "parent": "t1_fgg92nq",
+            "ans": "It\u2019s the same people saying that excel is useless. It\u2019s not, we just prefer not to use data visualization tools bc that shit is mind numbing",
+            "score": 40,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggbo11",
+            "parent": "t1_fgg92nq",
+            "ans": "*14.6 billion",
+            "score": 8,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggw3ch",
+            "parent": "t1_fggsvm8",
+            "ans": "It's because everyday business users aren't going to bother learning R to drill into their own business, but they can pick up and learn Tableau easily. I'm not saying using R is bad or whatever, but when you create a data source and expect end business users to mine that data source for their own insights and produce their own reporting, R isn't the way to go.\n\nI may be biased because I used to work at Tableau though.",
+            "score": 40,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggua82",
+            "parent": "t1_fggsvm8",
+            "ans": "Not to say there isn\u2019t a benefit from utilizing enterprise software such as Tableau at times. \n\nWe use Power BI for a strong handful of our end reporting on our analytical efforts. A simple drag and drop GUI, manipulating some in DAX, and easy to setup refreshes reduces the time it takes me to complete a project. The cost of the software is worth it for our org as we\u2019re able to complete more work given the mentioned time reduction.",
+            "score": 11,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fghftao",
+            "parent": "t1_fggsvm8",
+            "ans": "I've used both and code regularly with SQL and occasionally Python. You can't deny that Tableau is so easy to open a file and create some basic but useful and pretty graphs in seconds. \n\nIt's been awhile but I don't remember ggplot or qplot graphs ***by default*** looking as good. But I remember having to code so many parameters to get what I wanted it to be.",
+            "score": 10,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggz4e9",
+            "parent": "t1_fggsvm8",
+            "ans": "Yes and no. \n\nJust cuz open source exists doesn\u2019t mean it\u2019s easily adaptable. If an organizations strategy is \u201cdata as a product\u201d then the first step is internal expansion of decisions made using data. (Get data in hands of as many people as possible)\n\nObviously the last statement comes with million watch outs. The management of interpretation of data is where companies fail. The more streamline you make your data processes in development while deploying easy user interface (hint hint tableau) the more success you\u2019ll have in deploying \u2018data as product\u2019.\n\nIt\u2019s good to be cognizant of how tools fit into larger strategy. It\u2019s not a tool dependent process but a process that needs a tool like tableau or house made app.",
+            "score": 6,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggufjl",
+            "parent": "t1_fggsvm8",
+            "ans": "That sums up quite a few of my interviews lol. I'm familiar with Tableau and there's nothing wrong with it, but usually I can get the exact same task done quicker using either Python or R, and saves you a couple grand as well.",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggvyal",
+            "parent": "t1_fggsvm8",
+            "ans": "Replace Tableau with Alteryx, and i relate so hard",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fgh4jbt",
+            "parent": "t1_fggsvm8",
+            "ans": "We made one just like this to discuss the FP&A org who keeps talking about how Tableau is basically analytics and data science.  https://i.imgur.com/Ow7MOUL.jpg",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fgh9lkv",
+            "parent": "t1_fggrjky",
+            "ans": "And they got more than double your karma \ud83d\ude02",
+            "score": 2,
+            "que": "[MRW](https://external-preview.redd.it/jaDLwEeYdwpihQD403VHnRoFahQy1J9P59HG_-Lr8Vs.gif?format=mp4&s=308e28b981f26fafb01bae41c1c6a5ca6ee36d33) someone reposts [my low effort meme](https://www.reddit.com/r/datascience/comments/aoap2e/we_need_more_memes_here/)."
+        },
+        {
+            "id": "fgij7x5",
+            "parent": "t1_fggrjky",
+            "ans": "Happy Cake day",
+            "score": 1,
+            "que": "[MRW](https://external-preview.redd.it/jaDLwEeYdwpihQD403VHnRoFahQy1J9P59HG_-Lr8Vs.gif?format=mp4&s=308e28b981f26fafb01bae41c1c6a5ca6ee36d33) someone reposts [my low effort meme](https://www.reddit.com/r/datascience/comments/aoap2e/we_need_more_memes_here/)."
+        },
+        {
+            "id": "fgisiel",
+            "parent": "t1_fggrlx6",
+            "ans": "inquiring minds want to know.... what's the salary difference ?",
+            "score": 1,
+            "que": "Its a catch 22. If they did know enough about the tools, they'd be working in jobs that use them for more (at least safer) money. My friends a Cloud Architecture recruiter. He knows the difference between AWS, Azure and GCP only in terms of the salary they each command. But damn that guy can sell."
+        },
+        {
+            "id": "fgheyze",
+            "parent": "t1_fggrlx6",
+            "ans": "What do you mean by safer?",
+            "score": 1,
+            "que": "Its a catch 22. If they did know enough about the tools, they'd be working in jobs that use them for more (at least safer) money. My friends a Cloud Architecture recruiter. He knows the difference between AWS, Azure and GCP only in terms of the salary they each command. But damn that guy can sell."
+        },
+        {
+            "id": "fghyr11",
+            "parent": "t1_fgh4o4b",
+            "ans": "I feel this.\n\nI don't hate Tableau. I hate how my company forces us to use tableau regardless of whether or not it's the best tool for the job. I also hate that once you put something in Tableau it's suddenly \"analytics\"\n\nI got asked to make gant charts in Tableau. We have MS project but they want the charts in Tableau...fucking kill me.",
+            "score": 4,
+            "que": "Don't worry. I have been asked to perform all the analytics with Tableau only."
+        },
+        {
+            "id": "fgish96",
+            "parent": "t1_fgigj8n",
+            "ans": "I bet you were first thinking \"wow, he works from the terminal....\"",
+            "score": 5,
+            "que": "I worked with a \u201cdata scientist\u201d like this.\n\nWe were using R and had a big ol greenfield data set. I asked him to poke around, get acquainted with the data. He opens an R terminal and then asks,\n\n> How do I get the data in here?\n\nIt was a long project."
+        },
+        {
+            "id": "i8fti2h",
+            "parent": "t1_fgigj8n",
+            "ans": "Did he say he had R experience though?",
+            "score": 1,
+            "que": "I worked with a \u201cdata scientist\u201d like this.\n\nWe were using R and had a big ol greenfield data set. I asked him to poke around, get acquainted with the data. He opens an R terminal and then asks,\n\n> How do I get the data in here?\n\nIt was a long project."
+        },
+        {
+            "id": "fgjy5yo",
+            "parent": "t1_fgh8cao",
+            "ans": "I got offered 250k to live in Arkansas to do something similar for Walmart, turned it down. This was shortly after our acquisition.",
+            "score": 3,
+            "que": "Stakeholders: \"We need a data scientist who can relocate here to the Middle of nowhere with no bonus, no relocation assistance, average benefits, and for 85k a year. Show us who you got\"\n\nMe: pulls out resumes with Tableau experience"
+        },
+        {
+            "id": "fggp7w4",
+            "parent": "t1_fggowhs",
+            "ans": "> all data science is just glorified logistic regression, but tableau actually delivers results.  \n  \nI really hope thats a joke lol.....  \n  \nThis post isn't to discredit tableau or anything though. Tableau is a good tool for certain use cases. Tableau alone though is not data science even though recruiters may think that.",
+            "score": 16,
+            "que": "I dont understand all the shit towards Tableau. They revolutionized self-service data analysis and commoditized like 95% of use cases in a typical enterpise. \n\nall data science is just glorified logistic regression, but tableau actually delivers results."
+        },
+        {
+            "id": "fggzyw3",
+            "parent": "t1_fggowhs",
+            "ans": "Downvotes are coming.\n\nAgree that tableau shouldn\u2019t get so much hate but to disrespect a quite rigorous field of  statistical modeling/data science is just ignorant. \n\nTableau tells you WHAT happened. Data science/ analytics answers WHY or HOW something happened.\n\nCompletely different thing.",
+            "score": 10,
+            "que": "I dont understand all the shit towards Tableau. They revolutionized self-service data analysis and commoditized like 95% of use cases in a typical enterpise. \n\nall data science is just glorified logistic regression, but tableau actually delivers results."
+        },
+        {
+            "id": "i8ftni3",
+            "parent": "t1_fghez9e",
+            "ans": "No. They should be actively avoided if anything.",
+            "score": 1,
+            "que": "Are tools like Tableau and Power BI necessary to become a data scientist?"
+        },
+        {
+            "id": "fillrpe",
+            "parent": "t1_fgirhi3",
+            "ans": "[deleted]",
+            "score": 2,
+            "que": "Guys, I have a Github portfolio with a bunch of Python and SQL stuff on it, but I don't flaunt that I know Tableau because its essentially drag-and-drop. Given that I am one of the many career-hopping noobs, would it actually be more attractive to know-nothing gatekeeper recruiters for me to lead with Tableau and then once I have an interview with people who know their shit, impress with my actual coding and database knowledge?"
+        },
+        {
+            "id": "fgh4x0z",
+            "parent": "t1_fgh2tuk",
+            "ans": "Sharing in your frustration! On the one hand, why\u2019d you continue to help out? I assume it was for pay, I hope. Secondly who was the idiot who hired the graduate dude? Surely they\u2019d have fired him after he turned out so incompetent.",
+            "score": 12,
+            "que": "This exact thing happened to me last year; I developed R and Python scripts that generate time series forecasts for the department I was in to help with staffing, which also read and write from and to SQL Server tables.\n\nI ended up leaving the team, and my manager hired my backfill, without allowing me to sit in on the interviews. The backfill has a Masters and is currently in a PhD program and stated they\u2019re \u201cstrongly proficient\u201d in R/Python/SQL/ML algorithms. \n\nFast forward to them getting hired... they didn\u2019t even know how to run a program in R or Python, didn\u2019t know how to even query SQL tables, and has next to zero experience in forecasting or any other methods/algorithms.\n\nSo, on top of my new role\u2019s responsibilities, I\u2019m spending time every week fixing things they broke to help keep that team afloat on top of having to spend 30+ hours training them. \n\nWhat kills me is the reason I left the team is because they wouldn\u2019t promote me because I don\u2019t have a Bachelor\u2019s degree (the new team didn\u2019t care about the degree, same company). But the person with the advanced degree can\u2019t apply or execute anything unless it\u2019s as simple as clicking a button and got hired at the senior level position I was going for. \n\nNot to say that all people with or without degrees behave in this manner or another, it\u2019s just beyond frustrating that significantly more emphasis is often placed on degrees rather than capabilities."
+        },
+        {
+            "id": "fghy7vi",
+            "parent": "t1_fgh2tuk",
+            "ans": "I'm getting my masters in stats/data mining in may. Where do find these desperate companies though??",
+            "score": 6,
+            "que": "This exact thing happened to me last year; I developed R and Python scripts that generate time series forecasts for the department I was in to help with staffing, which also read and write from and to SQL Server tables.\n\nI ended up leaving the team, and my manager hired my backfill, without allowing me to sit in on the interviews. The backfill has a Masters and is currently in a PhD program and stated they\u2019re \u201cstrongly proficient\u201d in R/Python/SQL/ML algorithms. \n\nFast forward to them getting hired... they didn\u2019t even know how to run a program in R or Python, didn\u2019t know how to even query SQL tables, and has next to zero experience in forecasting or any other methods/algorithms.\n\nSo, on top of my new role\u2019s responsibilities, I\u2019m spending time every week fixing things they broke to help keep that team afloat on top of having to spend 30+ hours training them. \n\nWhat kills me is the reason I left the team is because they wouldn\u2019t promote me because I don\u2019t have a Bachelor\u2019s degree (the new team didn\u2019t care about the degree, same company). But the person with the advanced degree can\u2019t apply or execute anything unless it\u2019s as simple as clicking a button and got hired at the senior level position I was going for. \n\nNot to say that all people with or without degrees behave in this manner or another, it\u2019s just beyond frustrating that significantly more emphasis is often placed on degrees rather than capabilities."
+        },
+        {
+            "id": "fghlhbw",
+            "parent": "t1_fghjwet",
+            "ans": "Oof, MBAs are one of those \u201cit depends\u201d degrees. For me the only time it\u2019s worth it to get an MBA is:\n\n1. It\u2019s free or low cost (scholarship)\n2. It\u2019s from an elite school or top regional school (e.g., UT Austin, UCLA, USC)\n3. You\u2019re doing it full time\n4. You want to break into a specific industry (tech, entertainment, etc) and use the school network for recruiting and alumni outreach\n5. You want to get one of the following jobs: Investment Banker/Analyst, Private Equity Associate/Analyst, Strategy Consultant, Product Manager, Marketing Manager/Product Marketing Manager\n6. Your job wasn\u2019t any of the above before\n\nThat\u2019s it. If you don\u2019t meet at least 2 of those reasons, you won\u2019t get the most out of your MBA.",
+            "score": 9,
+            "que": "Speaking of MBAs, how worthwhile do you think they are?  I work at a smaller analytics firm and the only one here is the VP of deliverables.  I have a BS in math and MS in data science but I still have two years of free school that Uncle Sam will pay for (both the tuition and monthly cash stipend) that I would be stupid not to use.  Trying to decide if an MBA is worth it."
+        },
+        {
+            "id": "fghkpd3",
+            "parent": "t1_fghjwet",
+            "ans": "I think worth it! I was a BI Eng before bschool and couldn't be happier with where I'm going after graduation. Was literally just talking about that today with one of my mates, feel free to DM for more infos!",
+            "score": 0,
+            "que": "Speaking of MBAs, how worthwhile do you think they are?  I work at a smaller analytics firm and the only one here is the VP of deliverables.  I have a BS in math and MS in data science but I still have two years of free school that Uncle Sam will pay for (both the tuition and monthly cash stipend) that I would be stupid not to use.  Trying to decide if an MBA is worth it."
+        },
+        {
+            "id": "fgjndko",
+            "parent": "t1_fgjm2ee",
+            "ans": "Theres no real standard definition, but this sub seems to believe a DS is a strong data engineer with stats knowledge. So a DS can do everything a DE does, but not vice versa.",
+            "score": 2,
+            "que": "Im curious. I've been hitting random on the sub and come across this. What classes as a data scientist?"
+        },
+        {
+            "id": "fgh6ae5",
+            "parent": "t1_fggb3n4",
+            "ans": "Excel is good for soft and/or quick analysis and front end applications. \n\nExcel is not good for heavier analysis because it was simply not built for it.\n\nPython has the capacity to perform heavy analysis quickly. And it can be leverage to quickly deploy a good stable production environment. \n\nR has great Statistical tools for some very heavy analysis and it's fast. \n\nPython/R/Excel have great data visualization however Excel is often the quickest one of the 3. \n\nJulia is great for merging together R and Python, filling the gap between C and Python, and has the ability to perform proper multi-processing. \n\nThese are some of the main reasons why people pick one or   the other for various tasks.",
+            "score": 27,
+            "que": "It\u2019s the same people saying that excel is useless. It\u2019s not, we just prefer not to use data visualization tools bc that shit is mind numbing"
+        },
+        {
+            "id": "fggkdck",
+            "parent": "t1_fggb3n4",
+            "ans": "[deleted]",
+            "score": 21,
+            "que": "It\u2019s the same people saying that excel is useless. It\u2019s not, we just prefer not to use data visualization tools bc that shit is mind numbing"
+        },
+        {
+            "id": "fggzjr9",
+            "parent": "t1_fggb3n4",
+            "ans": "Lol hate tableau too. The debate between tools is so irrelevant on a personal project base. \n\nWhy does anyone care what I used to write my code/script/whatever ? At the end of the day, a good analyst is not defined by the amount of tools in their arsenal but more on the ability to ask the right questions from the data.\n\nIt\u2019s like management doesn\u2019t realize that to solve/answer any question, a logic tree is a requirement... not the tool I use to write my logic",
+            "score": 8,
+            "que": "It\u2019s the same people saying that excel is useless. It\u2019s not, we just prefer not to use data visualization tools bc that shit is mind numbing"
+        },
+        {
+            "id": "fghxs9z",
+            "parent": "t1_fggb3n4",
+            "ans": "Can you explain why? I know that excel dies when we use big data but for limited data and  creating simple visualizations is it not good as Tableau or pythons mathplotlib, seaborn?",
+            "score": 3,
+            "que": "It\u2019s the same people saying that excel is useless. It\u2019s not, we just prefer not to use data visualization tools bc that shit is mind numbing"
+        },
+        {
+            "id": "fggmrdf",
+            "parent": "t1_fggb3n4",
+            "ans": "Hey! Why do you say is mind numbing? I no longer like what In studying and I\u2019m trying to become a ds, i took some math and statistics courses and now I\u2019m learning tableau. What would you recommend instead as a next step? Or isntead? Thanks!!",
+            "score": 1,
+            "que": "It\u2019s the same people saying that excel is useless. It\u2019s not, we just prefer not to use data visualization tools bc that shit is mind numbing"
+        },
+        {
+            "id": "fggcw5r",
+            "parent": "t1_fggbo11",
+            "ans": "Oh wow, I must have been thinking of another company.",
+            "score": 1,
+            "que": "*14.6 billion"
+        },
+        {
+            "id": "fghb3gs",
+            "parent": "t1_fggw3ch",
+            "ans": "Yep. Tableau is easy to learn and if the enterprise has Server, that\u2019s even easier to scale to hundreds or thousands of users. Does it offer all the features of a dash/shiny style web app? Nah. But it\u2019s pretty damn easy to create a usable result for your users that\u2019s relatively well adopted. More and more I am finding the combo of Spark -> Postgres -> Tabby very sufficient for most of the data engineering/analysis use cases I come across. I\u2019m certainly not building leet neural nets, but it works for me.",
+            "score": 24,
+            "que": "It's because everyday business users aren't going to bother learning R to drill into their own business, but they can pick up and learn Tableau easily. I'm not saying using R is bad or whatever, but when you create a data source and expect end business users to mine that data source for their own insights and produce their own reporting, R isn't the way to go.\n\nI may be biased because I used to work at Tableau though."
+        },
+        {
+            "id": "fghgfch",
+            "parent": "t1_fggw3ch",
+            "ans": "Yeah, Tableau nailed the user-interface much better than other tools. I'm not saying it's perfect (it's not). But it's easier to use than the competition and that's all that matters.",
+            "score": 8,
+            "que": "It's because everyday business users aren't going to bother learning R to drill into their own business, but they can pick up and learn Tableau easily. I'm not saying using R is bad or whatever, but when you create a data source and expect end business users to mine that data source for their own insights and produce their own reporting, R isn't the way to go.\n\nI may be biased because I used to work at Tableau though."
+        },
+        {
+            "id": "fgiv5j3",
+            "parent": "t1_fggua82",
+            "ans": "PowerBI and any other tool worth its salt has a proper programming interface to an open-source scripting language. Python is the best choice, for production conversion and integration, but the requirement for a scripting language is absolute. If biz majors can't handle more than drag-and-drop and Excel formulas, they need to put on their grown-up pants and start learning.",
+            "score": 1,
+            "que": "Not to say there isn\u2019t a benefit from utilizing enterprise software such as Tableau at times. \n\nWe use Power BI for a strong handful of our end reporting on our analytical efforts. A simple drag and drop GUI, manipulating some in DAX, and easy to setup refreshes reduces the time it takes me to complete a project. The cost of the software is worth it for our org as we\u2019re able to complete more work given the mentioned time reduction."
+        },
+        {
+            "id": "fgivcs1",
+            "parent": "t1_fggufjl",
+            "ans": "AND lets you version the code, and reuse it like a library, instead of having to re-build the graph time and time again from scratch. DRY and SOLID would also like a word.",
+            "score": 3,
+            "que": "That sums up quite a few of my interviews lol. I'm familiar with Tableau and there's nothing wrong with it, but usually I can get the exact same task done quicker using either Python or R, and saves you a couple grand as well."
+        },
+        {
+            "id": "fh76j08",
+            "parent": "t1_fgh9lkv",
+            "ans": "/r/Karmacourt",
+            "score": 1,
+            "que": "And they got more than double your karma \ud83d\ude02"
+        },
+        {
+            "id": "fgit3ux",
+            "parent": "t1_fgisiel",
+            "ans": "In London at least, its AWS comfortably above the others. Couldnt say between Azure/GCP",
+            "score": 3,
+            "que": "inquiring minds want to know.... what's the salary difference ?"
+        },
+        {
+            "id": "fghuhbl",
+            "parent": "t1_fgheyze",
+            "ans": "Probably as in not commission based / sales target dependant",
+            "score": 3,
+            "que": "What do you mean by safer?"
+        },
+        {
+            "id": "fgjr62r",
+            "parent": "t1_fgish96",
+            "ans": "Was thinking wow, what a pro lol",
+            "score": 3,
+            "que": "I bet you were first thinking \"wow, he works from the terminal....\""
+        },
+        {
+            "id": "i8g6mjf",
+            "parent": "t1_i8fti2h",
+            "ans": "He didn\u2019t. Hiring managers were incompetent.\n\nMore importantly though, how and why are you responding to a two year old thread? I thought they locked comments after a certain time",
+            "score": 1,
+            "que": "Did he say he had R experience though?"
+        },
+        {
+            "id": "fggq8ke",
+            "parent": "t1_fggp7w4",
+            "ans": "No, you need Power BI as well to call it data science.",
+            "score": 5,
+            "que": "> all data science is just glorified logistic regression, but tableau actually delivers results.  \n  \nI really hope thats a joke lol.....  \n  \nThis post isn't to discredit tableau or anything though. Tableau is a good tool for certain use cases. Tableau alone though is not data science even though recruiters may think that."
+        },
+        {
+            "id": "fghjo31",
+            "parent": "t1_fggp7w4",
+            "ans": "not 100%, but more like 90%. What tableau does it empowers end users from business to use data and not be restricted by lack of data engineering, data science and etc. support.\n\nfor the remaining 10% most corporations will be better off buying commercial off the shelf software with tailored ML functions, rather than keeping expensive \"data scientists\"\n\nand replace data scientists with just general data warehouse specialists and its much better deal",
+            "score": 1,
+            "que": "> all data science is just glorified logistic regression, but tableau actually delivers results.  \n  \nI really hope thats a joke lol.....  \n  \nThis post isn't to discredit tableau or anything though. Tableau is a good tool for certain use cases. Tableau alone though is not data science even though recruiters may think that."
+        },
+        {
+            "id": "fghj90n",
+            "parent": "t1_fggzyw3",
+            "ans": "if you look at 99% of \"data science\" courses and guides online in Python and R - they are like all about pandas dataframes, data tables, group by, ggplot, seaborn, R shiny interactive charts and stuff like that - that is slam dunk for tableau done in 2 clicks. And thats what I meant by commoditizing 95% of use cases.\n\nLet me correct you, a typical ML model will never be able to tell why and how, because that is achieved by causal modeling experiments done through randomized controlled trials. That is the proper way. Throwing linear reg or xgboost and trying to explain coefficients is the first rookie mistake and it just tells how few people actually understand statistics.\n\nAnother thing is that ML applicability is limited, sometimes you just need to empower end user and let them use data to creatively discover everything. and that is infinetely broader use case than ML.",
+            "score": 4,
+            "que": "Downvotes are coming.\n\nAgree that tableau shouldn\u2019t get so much hate but to disrespect a quite rigorous field of  statistical modeling/data science is just ignorant. \n\nTableau tells you WHAT happened. Data science/ analytics answers WHY or HOW something happened.\n\nCompletely different thing."
+        },
+        {
+            "id": "film0lp",
+            "parent": "t1_fillrpe",
+            "ans": "Wow thank you! I have been working up to doing some projects that show different skills. My coding is really getting there so now I need to start uploading polished reports and hopefully get that wow factor. It's tough with just an econ degree to break into DS or even basic data analytics!",
+            "score": 1,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fgh5p9o",
+            "parent": "t1_fgh4x0z",
+            "ans": "I didn\u2019t want other members of that team to be negatively impacted since they rely on the various forecasts; the person who hired my backfill was my previous manager! And they\u2019re both still there...",
+            "score": 4,
+            "que": "Sharing in your frustration! On the one hand, why\u2019d you continue to help out? I assume it was for pay, I hope. Secondly who was the idiot who hired the graduate dude? Surely they\u2019d have fired him after he turned out so incompetent."
+        },
+        {
+            "id": "fgiwtwz",
+            "parent": "t1_fgh6ae5",
+            "ans": "I disagree on Excel being a faster visualization tool than R. Or python even. I get that the user interface for charts and plots is convenient and that you could have set up templates before hand, but that's no different than having plotting script in R/python at the ready. The plots will also be of a higher polish if using ggplot/seaborn, can be customized for resolution and exported.",
+            "score": 2,
+            "que": "Excel is good for soft and/or quick analysis and front end applications. \n\nExcel is not good for heavier analysis because it was simply not built for it.\n\nPython has the capacity to perform heavy analysis quickly. And it can be leverage to quickly deploy a good stable production environment. \n\nR has great Statistical tools for some very heavy analysis and it's fast. \n\nPython/R/Excel have great data visualization however Excel is often the quickest one of the 3. \n\nJulia is great for merging together R and Python, filling the gap between C and Python, and has the ability to perform proper multi-processing. \n\nThese are some of the main reasons why people pick one or   the other for various tasks."
+        },
+        {
+            "id": "fggmb1c",
+            "parent": "t1_fggkdck",
+            "ans": "Sorry if my comment gave off the \u201cexcel is for scrubs\u201d vibe. Just really didn\u2019t enjoy my time using excel as a primary tool. Just like how I don\u2019t think I\u2019d enjoy being a dev coding for a lot of the day.",
+            "score": 8,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggwq9z",
+            "parent": "t1_fggkdck",
+            "ans": "To be fair, excel is infinitely better as a DS tool than Tableau",
+            "score": -3,
+            "que": "[deleted]"
+        },
+        {
+            "id": "fggwr5g",
+            "parent": "t1_fggmrdf",
+            "ans": "Python",
+            "score": 3,
+            "que": "Hey! Why do you say is mind numbing? I no longer like what In studying and I\u2019m trying to become a ds, i took some math and statistics courses and now I\u2019m learning tableau. What would you recommend instead as a next step? Or isntead? Thanks!!"
+        },
+        {
+            "id": "fggns24",
+            "parent": "t1_fggmrdf",
+            "ans": "I\u2019m not a data scientist, data analyst. I want to get a statistician job ultimately so I\u2019m not sure what to tell you unfortunately. Employers like tableau from what I can tell and unlike a programming language or a math concept, it\u2019s easy to grasp so go ahead. I didn\u2019t enjoy using excel because I liked making convoluted if functions and rarely found myself doing that kind of problem solving. So I learned stats for data analysis. \n\nThe only thing I can recommend is reach out to people with similar connections/past education, it\u2019s the best way to get a job anywhere.",
+            "score": 2,
+            "que": "Hey! Why do you say is mind numbing? I no longer like what In studying and I\u2019m trying to become a ds, i took some math and statistics courses and now I\u2019m learning tableau. What would you recommend instead as a next step? Or isntead? Thanks!!"
+        },
+        {
+            "id": "fggg159",
+            "parent": "t1_fggcw5r",
+            "ans": "Probably github",
+            "score": 1,
+            "que": "Oh wow, I must have been thinking of another company."
+        },
+        {
+            "id": "fgly1qr",
+            "parent": "t1_fgjr62r",
+            "ans": "seriously impressive, lol.",
+            "score": 2,
+            "que": "Was thinking wow, what a pro lol"
+        },
+        {
+            "id": "i8g6tqd",
+            "parent": "t1_i8g6mjf",
+            "ans": "Was scrolling by top of all time and didn't pay attention. Sorry! \ud83d\ude4f\ud83d\ude14\ud83d\ude4f",
+            "score": 2,
+            "que": "He didn\u2019t. Hiring managers were incompetent.\n\nMore importantly though, how and why are you responding to a two year old thread? I thought they locked comments after a certain time"
+        },
+        {
+            "id": "fgi8rrt",
+            "parent": "t1_fghj90n",
+            "ans": "I somewhat agree, but IMO Looker is infinitely better at that than Tableau.",
+            "score": 1,
+            "que": "if you look at 99% of \"data science\" courses and guides online in Python and R - they are like all about pandas dataframes, data tables, group by, ggplot, seaborn, R shiny interactive charts and stuff like that - that is slam dunk for tableau done in 2 clicks. And thats what I meant by commoditizing 95% of use cases.\n\nLet me correct you, a typical ML model will never be able to tell why and how, because that is achieved by causal modeling experiments done through randomized controlled trials. That is the proper way. Throwing linear reg or xgboost and trying to explain coefficients is the first rookie mistake and it just tells how few people actually understand statistics.\n\nAnother thing is that ML applicability is limited, sometimes you just need to empower end user and let them use data to creatively discover everything. and that is infinetely broader use case than ML."
+        },
+        {
+            "id": "fgi0nev",
+            "parent": "t1_fgh5p9o",
+            "ans": "Not your circus, not your monkeys. Either ask your company for a consultation rate on top of your current team\u2019s compensation or stop helping. You\u2019ll stretch yourself thin and it\u2019ll hinder your actual job.",
+            "score": 16,
+            "que": "I didn\u2019t want other members of that team to be negatively impacted since they rely on the various forecasts; the person who hired my backfill was my previous manager! And they\u2019re both still there..."
+        },
+        {
+            "id": "fgj2oi0",
+            "parent": "t1_fgiwtwz",
+            "ans": "Meant more along the lines of quicker to visualization rather than it's generation.",
+            "score": 3,
+            "que": "I disagree on Excel being a faster visualization tool than R. Or python even. I get that the user interface for charts and plots is convenient and that you could have set up templates before hand, but that's no different than having plotting script in R/python at the ready. The plots will also be of a higher polish if using ggplot/seaborn, can be customized for resolution and exported."
+        },
+        {
+            "id": "fgh5y7x",
+            "parent": "t1_fggwq9z",
+            "ans": "Meeeeeeh... na.\nFrom size limitations to manual formatting and presentation, Excel is inferior to Tableau in many ways... but that\u2019s because they\u2019re different tools for different reasons.\nThat\u2019s like saying Power BI is a waste of time b/c Excel vanilla is good enough. They\u2019re different tools for different scales and, usually, different end-audiences.\n\nI\u2019m an excel & google sheets power user and typically prefer these tools, but I jump to Tableau frequently to view, play with, or wrangle data.\n\nHonestly, and I know this sounds weird, I prefer Gsheets to Excel for DS b/c of the ease of cleaning data and the Google-esque SQL queries that can be done in-cell as a function (=query(stuff) is amazing).\nObviously Excel does other stuff better in other areas though.\n\nEdit: typo",
+            "score": 11,
+            "que": "To be fair, excel is infinitely better as a DS tool than Tableau"
+        },
+        {
+            "id": "i8g81ed",
+            "parent": "t1_i8g6tqd",
+            "ans": "No worries. Just curious",
+            "score": 1,
+            "que": "Was scrolling by top of all time and didn't pay attention. Sorry! \ud83d\ude4f\ud83d\ude14\ud83d\ude4f"
+        },
+        {
+            "id": "fghc3kl",
+            "parent": "t1_fgh5y7x",
+            "ans": "I can agree with that. Often at work it\u2019s about getting to the right answer efficiently (I\u2019m an analyst), so scaling the tool to the task can help. In many (not all) situations sometimes it doesn\u2019t matter what tool, you used, as long as you can get to the right answer efficiently and verifiably. For some people that may be excel and others it may be tableau or R or Python - comfort and consistency can yield efficiency if it means you don\u2019t have to go back and triple check your work.",
+            "score": 3,
+            "que": "Meeeeeeh... na.\nFrom size limitations to manual formatting and presentation, Excel is inferior to Tableau in many ways... but that\u2019s because they\u2019re different tools for different reasons.\nThat\u2019s like saying Power BI is a waste of time b/c Excel vanilla is good enough. They\u2019re different tools for different scales and, usually, different end-audiences.\n\nI\u2019m an excel & google sheets power user and typically prefer these tools, but I jump to Tableau frequently to view, play with, or wrangle data.\n\nHonestly, and I know this sounds weird, I prefer Gsheets to Excel for DS b/c of the ease of cleaning data and the Google-esque SQL queries that can be done in-cell as a function (=query(stuff) is amazing).\nObviously Excel does other stuff better in other areas though.\n\nEdit: typo"
+        },
+        {
+            "id": "fghjsf4",
+            "parent": "t1_fgh5y7x",
+            "ans": "Will Python write to Tableau as an endpoint? Pandas.to_.... has this down pretty well.",
+            "score": 3,
+            "que": "Meeeeeeh... na.\nFrom size limitations to manual formatting and presentation, Excel is inferior to Tableau in many ways... but that\u2019s because they\u2019re different tools for different reasons.\nThat\u2019s like saying Power BI is a waste of time b/c Excel vanilla is good enough. They\u2019re different tools for different scales and, usually, different end-audiences.\n\nI\u2019m an excel & google sheets power user and typically prefer these tools, but I jump to Tableau frequently to view, play with, or wrangle data.\n\nHonestly, and I know this sounds weird, I prefer Gsheets to Excel for DS b/c of the ease of cleaning data and the Google-esque SQL queries that can be done in-cell as a function (=query(stuff) is amazing).\nObviously Excel does other stuff better in other areas though.\n\nEdit: typo"
+        },
+        {
+            "id": "fgi2314",
+            "parent": "t1_fgh5y7x",
+            "ans": "Fair enough, as a data scientist who has access to tableau I just find I rarely ever need it. Python for complex stuff, Excel for a quick look and simple analysis and I'm super efficient.",
+            "score": 3,
+            "que": "Meeeeeeh... na.\nFrom size limitations to manual formatting and presentation, Excel is inferior to Tableau in many ways... but that\u2019s because they\u2019re different tools for different reasons.\nThat\u2019s like saying Power BI is a waste of time b/c Excel vanilla is good enough. They\u2019re different tools for different scales and, usually, different end-audiences.\n\nI\u2019m an excel & google sheets power user and typically prefer these tools, but I jump to Tableau frequently to view, play with, or wrangle data.\n\nHonestly, and I know this sounds weird, I prefer Gsheets to Excel for DS b/c of the ease of cleaning data and the Google-esque SQL queries that can be done in-cell as a function (=query(stuff) is amazing).\nObviously Excel does other stuff better in other areas though.\n\nEdit: typo"
+        },
+        {
+            "id": "fgh9qv1",
+            "parent": "t1_fgh5y7x",
+            "ans": "Well put!",
+            "score": 1,
+            "que": "Meeeeeeh... na.\nFrom size limitations to manual formatting and presentation, Excel is inferior to Tableau in many ways... but that\u2019s because they\u2019re different tools for different reasons.\nThat\u2019s like saying Power BI is a waste of time b/c Excel vanilla is good enough. They\u2019re different tools for different scales and, usually, different end-audiences.\n\nI\u2019m an excel & google sheets power user and typically prefer these tools, but I jump to Tableau frequently to view, play with, or wrangle data.\n\nHonestly, and I know this sounds weird, I prefer Gsheets to Excel for DS b/c of the ease of cleaning data and the Google-esque SQL queries that can be done in-cell as a function (=query(stuff) is amazing).\nObviously Excel does other stuff better in other areas though.\n\nEdit: typo"
+        },
+        {
+            "id": "fgi6q8g",
+            "parent": "t1_fghjsf4",
+            "ans": "Pandas writes to standard formats (csv, SQL table, Markdown).\n\nTableau is not a standard format. Best way would probably write to SQl, read from SQL in Tableau (but Tableau has a quite limited SQL conmector list).",
+            "score": 2,
+            "que": "Will Python write to Tableau as an endpoint? Pandas.to_.... has this down pretty well."
+        },
+        {
+            "id": "fgib7sn",
+            "parent": "t1_fghjsf4",
+            "ans": "Look in to Pandleau. After wrangling, I write my data frame to a 12mb hyper file, rather than a 100mb+ csv file. Twbx files created with this datasource come in at 7mb. \n\nMakes sharing the data/viz with other Tableau users much easier.",
+            "score": 2,
+            "que": "Will Python write to Tableau as an endpoint? Pandas.to_.... has this down pretty well."
+        },
+        {
+            "id": "fglwo07",
+            "parent": "t1_fghjsf4",
+            "ans": ">Look at the Pantab library. It will write to .hyper files which are the underlying data sources for Tableau",
+            "score": 2,
+            "que": "Will Python write to Tableau as an endpoint? Pandas.to_.... has this down pretty well."
+        },
+        {
+            "id": "fgrb7rk",
+            "parent": "t1_fgi6q8g",
+            "ans": "I've only used power bi but if you did pandas to csv then Tableau/power bi should work from there.",
+            "score": 1,
+            "que": "Pandas writes to standard formats (csv, SQL table, Markdown).\n\nTableau is not a standard format. Best way would probably write to SQl, read from SQL in Tableau (but Tableau has a quite limited SQL conmector list)."
+        }
+    ]
+}
